@@ -1,4 +1,4 @@
-flat-twitter-profile
+EMC Marketing Wrapper
 ====================
 
-A demo to how to create a flat display Twitter profile using the new Twitter API v1.1.
+EMC Marketing Wrapper - built with HTML, CSS, Javascript, jQuery, and PHP.
