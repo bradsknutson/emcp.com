@@ -1,0 +1,85 @@
+RewriteEngine On
+RewriteRule ^inventory(.*)      http://www.emcp.com/product_catalog/index.php?GroupID=1035$1 [R]
+RewriteRule ^emcponline(.*)     http://www.emcp.com/product_catalog/index.php?GroupID=102$1 [R]
+RewriteRule ^paradigmtestimonials(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=677$1 [R]
+
+RewriteRule ^litLink(.*)   http://www.emcp.com/litlink$1 [R]
+RewriteRule ^litLINK(.*)   http://www.emcp.com/litlink$1 [R]
+RewriteRule ^LitLink(.*)   http://www.emcp.com/litlink$1 [R]
+RewriteRule ^LITLINK(.*)   http://www.emcp.com/litlink$1 [R]
+
+## RewriteRule ^product_catalog/school/news_ticker/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+## RewriteRule ^product_catalog/school/hit_ticker/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+## RewriteRule ^product_catalog/school/iCatcher/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+
+RewriteRule ^news_ticker(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+RewriteRule ^hit_ticker(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+RewriteRule iCatcher(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+
+
+RewriteRule ^ell(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1423$1 [R]
+RewriteRule ^ELL(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1423$1 [R]
+RewriteRule ^mso2007(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1420$1 [R]
+
+RewriteRule ^oregon(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1457$1 [R]
+RewriteRule ^Oregon(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1457$1 [R]
+
+RewriteRule ^APSpanish(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1411$1 [R]
+RewriteRule ^apspanish(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1411$1 [R]
+RewriteRule ^APspanish(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1411$1 [R]
+RewriteRule ^apSpanish(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1411$1 [R]
+
+RewriteRule ^snap2007(.*)	http://www.emcp.com/product_catalog/listonline.php?GroupID=1926$1 [R]
+RewriteRule ^snap07(.*)		http://www.emcp.com/product_catalog/listonline.php?GroupID=1926$1 [R]
+
+RewriteRule ^microsoft-certified-courseware(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=2077$1 [R]
+RewriteRule ^MBCP(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=2077$1 [R]
+RewriteRule ^mbcp(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=2077$1 [R]
+
+RewriteRule ^NECTFL07(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=2084$1 [R]
+RewriteRule ^nectfl07(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=2084$1 [R]
+
+RewriteRule ^cprbinder(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=2011$1 [R]
+
+RewriteRule ^exploring(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=512$1 [R]
+RewriteRule ^aventura/$		http://www.emcp.com/product_catalog/index.php?GroupID=2145$1 [R]
+RewriteRule ^aventura$		http://www.emcp.com/product_catalog/index.php?GroupID=2145$1 [R]
+
+RewriteRule ^amgovt/$	http://www.emcp.com/product_catalog/index.php?GroupID=2524$1 [R]
+RewriteRule ^amgovt$	http://www.emcp.com/product_catalog/index.php?GroupID=2524$1 [R]
+RewriteRule ^AmGovt/$	http://www.emcp.com/product_catalog/index.php?GroupID=2524$1 [R]
+RewriteRule ^AmGovt$	http://www.emcp.com/product_catalog/index.php?GroupID=2524$1 [R]
+RewriteRule ^amgovt-va$	http://www.emcp.com/product_catalog/index.php?GroupID=2674$1 [R]
+RewriteRule ^amgovt-va/$	http://www.emcp.com/product_catalog/index.php?GroupID=2674$1 [R]
+RewriteRule ^amgovtCDsampler(.*)	http://www.emcp.com/amgovtcdsampler$1 [R]
+#RewriteRule ^deutschaktuell(.*)		http://www.emcp.com/electronic_resource_centers/index.php?GroupID=1044$1 [R]
+RewriteRule ^deutschaktuell(.*)		http://irc.emcp.com/ircfiles/DeutschAktuell6e/ [R]
+
+RewriteRule ^biotechnology(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=684$1 [R]
+RewriteRule ^deutschaktuel(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1044 [R]
+
+# RewriteCond %{HTTP_REFERER} ^http://www.emcponline.com/.*$ [OR,NC]
+# RewriteRule    ^(.*)$		http://www.emcp.com/product_catalog/index.php?GroupID=102/    [R=301,L]
+
+RewriteRule ^MedTransDemo(.*)	http://medtrans3e.emcp.com/ [R]
+RewriteRule ^IL(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=2415 [R]
+
+#RewriteRule ^product_catalog http://www.emcp.com/swf/main.html#
+
+RewriteRule ^cestatoi/$	http://irc.emcp.com/ircfiles/French2e/ [R]
+
+RewriteRule ^specialaccounts    http://response.emcp.com/mw/form.php [R]
+#RewriteRule ^eresources$	http://montreal.emcp.com/ebooks/login.php$1 [R]
+#RewriteRule ^eResources$	http://montreal.emcp.com/ebooks/login.php$1 [R]
+
+#RewriteRule ^biotech	http://www.emcp.com/product_catalog/index.php?GroupID=2976 [R]
+
+RewriteRule ^mwdigitalsamplersOR	 http://www.emcp.com/mwdigitalsamplers/?source=OR [R]
+RewriteRule ^mwdigitalsamplersor	 http://www.emcp.com/mwdigitalsamplers/?source=OR [R]
+RewriteRule ^mwdigitalsamplersGA	 http://www.emcp.com/mwdigitalsamplers/?source=GA [R]
+RewriteRule ^mwdigitalsamplersga	 http://www.emcp.com/mwdigitalsamplers/?source=GA [R]
+RewriteRule ^mwdigitalsamplersSC	 http://www.emcp.com/mwdigitalsamplers/?source=SC [R]
+RewriteRule ^mwdigitalsamplerssc	 http://www.emcp.com/mwdigitalsamplers/?source=SC [R]
+
+RewriteRule ^QC	 http://www.emcp.com/quechevere [R]
+RewriteRule ^qc	 http://www.emcp.com/quechevere [R]

@@ -1,0 +1,117 @@
+/*** ESSENTIAL STYLES ***/
+
+#sf {
+	display: inline-block;
+	text-align: left;
+}
+
+.sf-menu, .sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.sf-menu li {
+	position: relative;
+}
+
+.sf-menu > li {
+	padding-bottom: 10px;
+}
+
+.sf-menu ul {
+	position: absolute;
+	display: none;
+	top: 51px;
+	left: 0;
+	z-index: 99;
+}
+
+.sf-menu ul li {
+	border-bottom: 1px solid #666;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.sf-menu ul li:hover {
+	border-bottom: 1px solid #999;
+}
+
+.sf-menu ul li:last-child {
+	border: none;
+}
+
+.sf-menu > li {
+	float: left;
+}
+.sf-menu li:hover > ul,
+.sf-menu li.sfHover > ul {
+	display: block;
+}
+
+.sf-menu a {
+	display: block;
+	position: relative;
+}
+.sf-menu ul ul {
+	top: 0;
+	left: 100%;
+}
+
+/*** DEMO SKIN ***/
+.sf-menu {
+	margin-bottom: 1em;
+}
+.sf-menu ul {
+	min-width: 12em; /* allow long menu items to determine submenu width */
+	*width: 12em; /* no auto sub width for IE7, see white-space comment below */
+	display: none;
+}
+.sf-menu a {
+	padding: .75em .1em;
+	text-decoration: none;
+	zoom: 1; /* IE7 */
+}
+
+.sf-menu a:first-of-type {
+	padding-left: 0;
+}
+.sf-menu a {
+	color: #333;
+}
+.sf-menu li {
+	white-space: nowrap; /* no need for Supersubs plugin */
+	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
+}
+.sf-menu ul li {
+	padding-left: 15px;
+	background: #1c1817;
+	background: rgba(51, 51, 51, .95);
+	-moz-box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+	-webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+	box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+}
+
+.sf-menu ul li:hover {
+	background: #c10006;
+	/*background: rgba(102, 153, 166, .9);*/
+}
+
+.sf-menu ul li a {
+	border-bottom: none;
+}
+
+.sf-menu ul li a:hover {
+	color: #fff;
+	border-bottom: none;
+}
+
+.sf-menu ul ul li {}
+.sf-menu li a:hover,
+.sf-menu li.sfHover {
+	/* only transition out, not in */
+	-webkit-transition: none;
+	transition: none;
+}
