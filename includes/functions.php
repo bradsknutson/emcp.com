@@ -1,8 +1,7 @@
 <?php
 	$wlroot = FALSE;
-	$dir = explode('/', getcwd());
-	$current = $dir[count($dir)-1];	
-	
+	$current = basename(getcwd());
+
 	function get_current( $nav, $current ) {
 		if( $nav == $current ) {
 			return ' class="current"';
@@ -13,7 +12,7 @@
 		$currentwl =  $current;
 		$wlroot = TRUE;
 	} else {
-		$currentwl = $dir[count($dir)-2];	
+		$currentwl = basename(dirname(getcwd())); 
 		$wlroot = FALSE;
 	}
 ?>
