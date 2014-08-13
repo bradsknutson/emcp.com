@@ -3,6 +3,7 @@
 	include '../includes/header.php';
 ?>
 	<div id="container">
+		<div class="vimeo-modal"></div>
 		<div class="header-background-image conectate-bg">
 			<div id="topImg">
 			</div>
@@ -22,7 +23,11 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-		<div class="emc-technology-bg passport-tech-bg" style="margin-top:0px;"></div>		
+        <div class="qc-passport-pre">
+            <h2>&iexcl;Qu&eacute; ch&eacute;vere! is coming to</h2>
+            <img src="<?php echo $server; ?>lib/images/passport-logo-600.png" alt="Passport" />
+        </div>
+		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-40px;"></div>		
 		<div class="emc-languages">
 			<div class="ninehundred no-top">
 				<div class="emc-languages-learn">
@@ -49,7 +54,22 @@
 				
 				<p>Through our partnership with the University of Minnesota LT Media Lab, we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
 			</div>
-			<div class="redefining-bg"></div>
+			<div class="redefining-bg">
+				<div class="vimeo-modals-container">
+					<div class="avenue-play-button">
+						<div class="play-button">
+							<div class="icon-play"></div>
+						</div>
+					</div>
+					<div class="avenue-play-button-hover-background"></div>
+					<div class="flipgrid-play-button">
+						<div class="play-button">
+							<div class="icon-play"></div>
+						</div>
+					</div>
+					<div class="flipgrid-play-button-hover-background"></div>
+				</div>            
+            </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid">
 					<div class="one-half first">
@@ -69,30 +89,21 @@
 		<div class="conectate-iculture">
 			<div class="ninesixty">
 				<div class="conectate-iculture-first">
-					<div class="iCultSlide">
-						<div class="royalSlider5 rsDefaultInv">
-							<div>
-								<img class="rsImg" src="<?php echo $server; ?>lib/images/iCulture_slider_home.jpg" />
-							</div>
-							<div>
-								<img class="rsImg" src="<?php echo $server; ?>lib/images/iCulture_slider_news.jpg" />
-							</div>
-							<div>
-								<img class="rsImg" src="<?php echo $server; ?>lib/images/iCulture_slider_passport.jpg" />
-							</div>
-							<div>
-								<img class="rsImg" src="<?php echo $server; ?>lib/images/iCulture_slider_songs.jpg" />
-							</div>
-							<div>
-								<img class="rsImg" src="<?php echo $server; ?>lib/images/iCulture_slider_video.jpg" />
-							</div>
-						</div>
-					</div> 
+                    <div class="vimeo-modals-container">
+                        <div class="iculture-play-button">
+                            <div class="play-button">
+                                <div class="icon-play"></div>
+                            </div>
+                        </div>
+                        <div class="iculture-play-button-hover-background"></div>
+                    </div> 					
+                    <img src="<?php echo $server; ?>lib/images/iculture-laptop.png" alt="i-Culture" />
 				</div>
 				<div class="conectate-iculture-second">
+                    <h3 class="conectate">i-Culture</h3>
 					<p>Watch authentic culture come alive for your students as they immerse themselves in engaging and varied media: videos, news articles, and songs. i-Passport, i-Videos, and i-Songs bring cultural experiences into the classroom and into your students'  lives.</p>
 
-					<p><a href="http://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
+					<p class="no-bottom"><a href="http://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
