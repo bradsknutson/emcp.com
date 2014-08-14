@@ -26,7 +26,7 @@
 		<div class="spanish-tech">
 			<div class="ninesixty onesix fonteighteen">
 				<h3 class="adonde">Multiplatform eBooks</h3>
-				<p>Our eBooks connect students with teh language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
+				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
 				
 				<p>Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad&reg;. The best part is that you can have our multiplatform eBook for one low price!</p>
 			</div>

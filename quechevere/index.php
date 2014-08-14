@@ -101,7 +101,7 @@
 				</div>
 				<div class="conectate-iculture-second">
                     <h3 class="conectate">i-Culture</h3>
-					<p>Watch authentic culture come alive for your students as they immerse themselves in engaging and varied media: videos, news articles, and songs. i-Passport, i-Videos, and i-Songs bring cultural experiences into the classroom and into your students'  lives.</p>
+					<p class="no-top">Watch authentic culture come alive for your students as they immerse themselves in engaging and varied media: videos, news articles, and songs. i-Passport, i-Videos, and i-Songs bring cultural experiences into the classroom and into your students'  lives.</p>
 
 					<p class="no-bottom"><a href="http://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
 				</div>
@@ -123,16 +123,24 @@
 						<a href="http://vimeo.com/81516421" class="learn-more-link elm-video fancybox-media">Watch an episode</a>
 					</div>
 					<div class="one-half last">
-						<h3 class="conectate">Multiplatform eBooks</h3>
+						<h3 class="conectate">ELPAC</h3>
 						
-						<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all the video resources at their fingertips.</p>
-						
-						<p style="margin-top:15px;">Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad&reg;. The best part is that you can have our multiplatform eBook for one low price!</p>
+						<p>Use EMC Language Proficiency Assessments by CARLA* (ELPAC) (performance-based, standardized assessments) to measure your students’ Spanish, French, or German language proficiency. Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery. Developed with input from language teachers and school administrators, ELPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
 		</div>		
+        <div class="qc-tech">
+			<div class="ninesixty onesix fonteighteen">
+				<h3 class="adonde">Multiplatform eBooks</h3>
+				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
+				
+				<p>Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad®. The best part is that you can have our multiplatform eBook for one low price!</p>
+                
+                <p class="no-bottom"><a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">Learn more about eBooks</a></p>
+			</div>
+		</div>        
 
 	
 <?php include '../includes/footer.php'; ?>
