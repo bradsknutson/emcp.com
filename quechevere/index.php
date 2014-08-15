@@ -2,10 +2,14 @@
 	$custom_title = '&iexcl;Qu&eacute; ch&eacute;vere! | ';
 	include '../includes/header.php';
 ?>
-	<div id="container">
+	<div id="container" class="quechevere">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image conectate-bg">
 			<div id="topImg">
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
+				<div class="header-hero-hover"></div>                
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
@@ -24,8 +28,10 @@
 			</div>
 		</div>
         <div class="qc-passport-pre">
-            <h2>&iexcl;Qu&eacute; ch&eacute;vere! is coming to</h2>
-            <img src="<?php echo $server; ?>lib/images/passport-logo-600.png" alt="Passport" />
+            <div class="ninesixty marginbottom40">
+                <h2>Available on&nbsp;</h2>
+                <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />            
+            </div>
         </div>
 		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-40px;"></div>		
 		<div class="emc-languages">
@@ -40,7 +46,7 @@
 						</div>
 					</div>
 					<div class="ell-right">
-						<p>Through a longterm collaborative partnership with the LT Media Lab at the University of Minnesota, we are building, integrating, and researching the future of fluency. <span class="bold">Passport&trade;</span> (available worldwide in early 2014) builds upon and extends research-based language learning platforms created by the LT Media Lab by leveraging EMC Publishing's world language instructional content in an easy-to-use environment designed to drive educator effectiveness and student fluency. Students will discover languages and cultures, expand their knowledge beyond the textbook and written test, and perform what they've learned within a portfolio-style environment to achieve lasting proficiency. </p>
+						<p>Through a longterm collaborative partnership with the LT Media Lab at the University of Minnesota, we are building, integrating, and researching the future of fluency. <span class="bold">Passport&trade;</span> builds upon and extends research-based language learning platforms created by the LT Media Lab by leveraging EMC Publishing's world language instructional content in an easy-to-use environment designed to drive educator effectiveness and student fluency. Students will discover languages and cultures, expand their knowledge beyond the textbook and written test, and perform what they've learned within a portfolio-style environment to achieve lasting proficiency. </p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -109,7 +115,18 @@
 			</div>
 		</div>
 		<div class="redefining">
-			<div class="redefining-bg-2"></div>
+			<div class="redefining-bg-2">
+				<div class="vimeo-modals-container">
+					<div class="dvd-play-button">
+						<a href="http://vimeo.com/81516421" class="elm-video fancybox-media">
+                            <div class="play-button">
+                                <div class="icon-play"></div>
+                            </div>
+                        </a>
+					</div>
+					<div class="dvd-play-button-hover-background"></div>
+				</div>                    
+            </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid conectate">
 					<div class="one-half first">
@@ -119,8 +136,6 @@
 						&bull; What secret is don Pedro hiding?<br />
 						&bull; Will Jos&eacute; and Conchita ever express their mutual love?<br />
 						Discover the intriguing truths in the original <span class="italic">&iexcl;Con&eacute;ctate!</span> series, El cuarto misterioso. Filmed in Mexico, the internationally-acclaimed video series, presents a continuous story line and reinforces chapter grammar and vocabulary content. The more episodes that your students watch, the more enraptured they will become with the characters, the mystery and ultimately, learning the Spanish language. (Levels 1-3)</p>
-						
-						<a href="http://vimeo.com/81516421" class="learn-more-link elm-video fancybox-media">Watch an episode</a>
 					</div>
 					<div class="one-half last">
 						<h3 class="conectate">ELPAC</h3>

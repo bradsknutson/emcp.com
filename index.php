@@ -1,5 +1,5 @@
 <?php include 'includes/header.php'; ?>
-	<div id="container">
+	<div id="container" class="main">
 		<div class="header-background-image">
 			<div id="topImg" style="background: #393939 url('<?php echo $server; ?>lib/images/passport-hero.png') no-repeat 50% 50%;">
 				<div class="play-button">

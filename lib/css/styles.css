@@ -337,7 +337,7 @@ h2, h3 {
 .flipgrid-play-button {
 	left: 700px;
 }
-.avenue-play-button-hover-background, .flipgrid-play-button-hover-background, .iculture-play-button-hover-background {
+.avenue-play-button-hover-background, .flipgrid-play-button-hover-background, .iculture-play-button-hover-background, .dvd-play-button-hover-background {
 	height: 442px;
 	width: 442px;
 	position: absolute;
@@ -1188,18 +1188,31 @@ p.chatbox-quote{
     width: 100%;
 }
 .qc-passport-pre h2 {
+    display: inline;
     text-align: center;
-    font-size: 44px;
+    font-size: 55px;
+    margin-left: 163px;
 }
 .qc-passport-pre img {
-    display: block;
-    margin: auto;
+    display: inline-block;
+    padding: 40px 0;
+    margin-bottom: -80px;
 }
 .conectate-iculture .vimeo-modals-container {
     width: auto;   
 }
 .iculture-play-button .play-button {
     top: 325px;   
+}
+.dvd-play-button {
+    position: relative;   
+    height: 100%;
+    width: 100%;
+}
+.dvd-play-button .play-button {
+    margin: 0;
+    top: 167px;
+    left: 197px;
 }
 .conectate-iculture h3 {
     font-size: 36px;
@@ -1415,7 +1428,9 @@ h3.adonde {
 	-ms-transition: all 0.3s;
 	transition: all 0.3s;
 }
-
+.marginbottom40 {
+    margin-bottom: 40px;   
+}
 
 /* -------- Start Media Queries ---------------- */
 @media screen and (min-width: 1201px) {
