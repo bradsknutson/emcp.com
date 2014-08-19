@@ -60,7 +60,7 @@
         $("#digits").countdown({
 		  image: "lib/images/digits_small.png",
 		  format: "dd:hh:mm:ss",
-		  endTime: new Date(2014, 9, 28)
+		  endTime: new Date(2014, 10, 10)
         });
       });
     </script>
