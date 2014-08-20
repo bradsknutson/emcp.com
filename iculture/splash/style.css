@@ -1,0 +1,67 @@
+html, body {
+    background-color: #DDD;
+    margin: 0;
+    font-family: "myriad-pro", sans-serif;
+}
+.page-container {
+    width: 960px;
+    margin: auto;
+    -moz-box-shadow: 0 7px 9px #777;
+    -webkit-box-shadow: 0 7px 9px #777;
+    box-shadow: 0 7px 9px #777;
+    background: #FFF;
+}
+a, a:link, a:hover, a:visited {
+    color: #FFF;
+    text-decoration: none;
+}
+.content, .footer {
+    padding: 50px 75px; 
+}
+.content {
+    background-color: #FFF;
+}
+h2, p, .button {
+    font-weight: 100;   
+}
+h2 {
+    margin-top: 0;
+    font-size: 42px;
+}
+.content p {
+    font-size: 32px;   
+}
+.button {
+    background-color: #1A355E;
+    padding: 50px 85px;
+    font-size: 60px;
+    text-align: center;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: auto;
+    width: 393px;
+    display: block;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	transition: all 0.3s;
+}
+.button:hover {
+    background-color: #122542;   
+}
+.footer {
+    background-color: #372F2D; 
+    color: #FFF;
+}
+.footer-content {
+    width: 810px;
+    margin: auto;
+    border-top: 1px solid #777270;
+}
+.footer-inner {
+    border-top: 1px solid #57504F;   
+}
+.footer p {
+    font-size: 20px;   
+}
