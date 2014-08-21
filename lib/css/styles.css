@@ -1494,3 +1494,9 @@ h3.adonde {
 		-ms-transition: none;
 		transition: none;
 	}
+}
+.paradigm-link {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}

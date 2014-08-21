@@ -81,5 +81,7 @@ RewriteRule ^mwdigitalsamplersga	 http://www.emcp.com/mwdigitalsamplers/?source=
 RewriteRule ^mwdigitalsamplersSC	 http://www.emcp.com/mwdigitalsamplers/?source=SC [R]
 RewriteRule ^mwdigitalsamplerssc	 http://www.emcp.com/mwdigitalsamplers/?source=SC [R]
 
-RewriteRule ^QC	 http://www.emcp.com/quechevere [R]
-RewriteRule ^qc	 http://www.emcp.com/quechevere [R]
+RewriteRule ^QC	 http://www.emcp.com/quechevere [R=301,L]
+RewriteRule ^qc	 http://www.emcp.com/quechevere [R=301,L]
+
+RewriteRule ^returns  http://store.emcp.com/policies-and-order-information/ [R=301,L]
