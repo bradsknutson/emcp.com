@@ -92,6 +92,16 @@
 				</div>
 			</div>
 		</div>
+        <div class="qc-tech">
+			<div class="ninesixty onesix fonteighteen">
+				<h3 class="adonde">Multiplatform eBooks</h3>
+				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
+				
+				<p>Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad®. The best part is that you can have our multiplatform eBook for one low price!</p>
+                
+                <p><a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">Learn more about eBooks</a></p>
+			</div>
+		</div>                
 		<div class="conectate-iculture">
 			<div class="ninesixty">
 				<div class="conectate-iculture-first">
@@ -146,16 +156,6 @@
 				</div>
 			</div>
 		</div>		
-        <div class="qc-tech">
-			<div class="ninesixty onesix fonteighteen">
-				<h3 class="adonde">Multiplatform eBooks</h3>
-				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
-				
-				<p>Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad®. The best part is that you can have our multiplatform eBook for one low price!</p>
-                
-                <p class="no-bottom"><a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">Learn more about eBooks</a></p>
-			</div>
-		</div>        
 
 	
 <?php include '../includes/footer.php'; ?>
