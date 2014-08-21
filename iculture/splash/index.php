@@ -6,6 +6,7 @@
 <head>
     <title>Welcome to the new and improved i-Culture!</title>
     <link href="style.css" media="all" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="http://www.emcp.com/lib/images/favicon.ico" type="image/x-icon" >
     
     <!-- Typekit -->
 	<script type="text/javascript" src="//use.typekit.net/tvi6hef.js"></script>
@@ -14,9 +15,9 @@
 </head>
 <body>
     <div class="page-container">
-        <img src="iculture_header.jpg" alt="Welcome to the new and improve i-Culture!" />
+        <img src="iculture_header.jpg" alt="Welcome to the new and improved i-Culture!" />
         <div class="content">
-            <h2>Welcome to the new and improve i-Culture!</h2>
+            <h2>Welcome to the new and improved i-Culture!</h2>
             
             <p>We have been hard at work to enhance your i-Culture experience and are proud to announce a brand new interface.  All of the same great content you have come to know and love is still here.  The current issues of i-Passport, i-Videos, i-News, and i-Songs can now be found right alongside our rich archives, organized by school year and month.</p>
             
@@ -34,9 +35,9 @@
             <img src="footer-logo.jpg" alt="EMc Publishing, LLC" />
             <div class="footer-content">
                 <div class="footer-inner">
-                    <p>Toll Free: (800) 328-1452 (Press 1 for Customer SErvice, Press 2 for Technical Support)<br />
+                    <p>Toll Free: (800) 328-1452 (Press 1 for Customer Service, Press 2 for Technical Support)<br />
                         Customer Service: <a href="mailto:educate@emcp.com">educate@emcp.com</a><br />
-                        Technical Support: <a href="mailto:support@emcl.com">support@emcl.com</a><br />
+                        Technical Support: <a href="mailto:support@emcp.com">support@emcp.com</a><br />
                         Website: <a href="http://www.emcp.com">www.emcp.com</a></p>
                 </div>            
             </div>
