@@ -85,3 +85,5 @@ RewriteRule ^QC	 http://www.emcp.com/quechevere [R=301,L]
 RewriteRule ^qc	 http://www.emcp.com/quechevere [R=301,L]
 
 RewriteRule ^returns  http://store.emcp.com/policies-and-order-information/ [R=301,L]
+
+RewriteRule ^product_catalog/resourcefile.php?ID=1438	http://paradigm.emcp.com/about-us/policies-and-order-information/ [R=301,L]
