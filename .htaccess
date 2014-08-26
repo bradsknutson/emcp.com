@@ -53,8 +53,9 @@ RewriteRule ^AmGovt$	http://www.emcp.com/product_catalog/index.php?GroupID=2524$
 RewriteRule ^amgovt-va$	http://www.emcp.com/product_catalog/index.php?GroupID=2674$1 [R]
 RewriteRule ^amgovt-va/$	http://www.emcp.com/product_catalog/index.php?GroupID=2674$1 [R]
 RewriteRule ^amgovtCDsampler(.*)	http://www.emcp.com/amgovtcdsampler$1 [R]
-#RewriteRule ^deutschaktuell(.*)		http://www.emcp.com/electronic_resource_centers/index.php?GroupID=1044$1 [R]
-RewriteRule ^deutschaktuell(.*)		http://irc.emcp.com/ircfiles/DeutschAktuell6e/ [R]
+
+RewriteRule ^deutschaktuell(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
+RewriteRule ^da(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
 
 RewriteRule ^biotechnology(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=684$1 [R]
 RewriteRule ^deutschaktuel(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1044 [R]
