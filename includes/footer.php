@@ -74,7 +74,7 @@
 <script src="<?php echo $server; ?>lib/js/jqueryDocReady.js"></script>
 <script src="<?php echo $server; ?>lib/js/retina.js" type="text/javascript"></script>
 <script src="<?php echo $server; ?>lib/js/sly.min.js"></script>
-<script src="<?php echo $server; ?>lib/js/custom.js?v=1.2.0"></script>
+<script src="<?php echo $server; ?>lib/js/custom.js?v=<?php echo $version; ?>"></script>
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
