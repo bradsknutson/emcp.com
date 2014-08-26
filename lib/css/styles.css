@@ -1223,6 +1223,33 @@ p.chatbox-quote{
 }
 /* -------- End Que Chevere Page Updates -------------- */
 
+/* -------- Start T'es Branche Page Styles -------------- */
+
+
+.teb-bg, .teb-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.teb-bg #topImg{
+	background: url('../images/teb-header.jpg') no-repeat 50% 100%;
+}
+.tes-branche .secondary-first h2 {
+	font-size: 39px;
+	margin: 0px;
+}
+.tes-branche .passport-tech-bg {
+	background: url('../images/passport-french.png') no-repeat 50% 100%;
+}
+.tes-branche .redefining-bg-2 {
+	background: url('../images/french-dvd-elpac.jpg') no-repeat 50% 100%;
+	height: 498px;
+}
+.teb-tech {
+    background: url('../images/teb-ebooks.jpg') no-repeat 50% 8%;   
+}
+
+/* -------- End T'es Branche Page Styles -------------- */
+
 /* -------- Footer -------------- */
 
 .footer {
@@ -1430,6 +1457,9 @@ h3.adonde {
 	-o-transition: all 0.3s;
 	-ms-transition: all 0.3s;
 	transition: all 0.3s;
+}
+.margintop40 {
+    margin-top: 40px;   
 }
 .marginbottom40 {
     margin-bottom: 40px;   
