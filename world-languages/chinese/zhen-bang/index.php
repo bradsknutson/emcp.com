@@ -1,10 +1,10 @@
  <?php 
-	$custom_title = 'Deutsch Aktuell | ';
+	$custom_title = 'Zh&#275;n B&agrave;ng! | ';
 	include '../../../includes/header.php';
 ?>
-	<div id="container" class="deutsch-aktuell">
+	<div id="container" class="zhen-bang">
 		<div class="vimeo-modal"></div>
-		<div class="header-background-image da-bg">
+		<div class="header-background-image zb-bg">
 			<div id="topImg">            
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
@@ -14,11 +14,14 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
-				<div class="conectate-left">
-					<span class="bold"><span class="italic">Deutsch Aktuell</span></span> will engage your students and launch them on a path to life-long fluency.  This 3-level German program focuses on experiences and activities involving German, Austrian, and Swiss teenagers and adults. We created <span class="italic">Deutsch Aktuell</span> with the most up-to-date research in teaching and learning German, and our program is intended for students with varying abilities, backgrounds, interests, and learning styles. Multiplatform eBooks that work on any device, video-based teaching tools, authentic cultural videos, ACTFL-aligned proficiency assessments, and much more—it’s all here waiting to be discovered!
+                <div class="aligncenter">
+					<h2>Developed for the American high school student</h2>
+				</div>
+				<div class="conectate-left margintop40">
+					<span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> welcomes students to the world of Chinese language and culture with a design that is colorful, inviting, and engaging. Students will enjoy talking about their lives, family, friends, school, home, eating, shopping, and more in paired and group communicative activities that incorporate 21<sup>st</sup> century skills whenever possible. Aligned to national standards, <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng</span></span> is the best choice for your Chinese classroom.
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/da-cover.jpg" alt="Deutsch Aktuell German Program" />
+					<img src="<?php echo $server; ?>lib/images/zb-cover.jpg" alt="Zh&#275;n B&agrave;ng Chinese Program" />
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -88,7 +91,7 @@
 				</div>
 			</div>
 		</div>
-        <div class="qc-tech da-tech">
+        <div class="qc-tech zb-tech">
 			<div class="ninesixty onesix fonteighteen">
 				<h3 class="adonde">Multiplatform eBooks</h3>
 				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
@@ -97,64 +100,6 @@
                 
                 <p><a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">Learn more about eBooks</a></p>
 			</div>
-		</div>                
-		<div class="conectate-iculture">
-			<div class="ninesixty">
-				<div class="conectate-iculture-first">
-                    <div class="vimeo-modals-container">
-                        <div class="iculture-play-button">
-                            <div class="play-button">
-                                <div class="icon-play"></div>
-                            </div>
-                        </div>
-                        <div class="iculture-play-button-hover-background"></div>
-                    </div> 					
-                    <img src="<?php echo $server; ?>lib/images/iculture-laptop.png" alt="i-Culture" />
-				</div>
-				<div class="conectate-iculture-second">
-                    <h3 class="conectate">i-Culture</h3>
-					<p class="no-top">Watch authentic culture come alive for your students as they immerse themselves in engaging and varied media: videos, news articles, and songs. i-Passport, i-Videos, and i-Songs bring cultural experiences into the classroom and into your students'  lives.</p>
+		</div>      
 
-					<p class="no-bottom"><a href="http://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-		<div class="redefining">
-			<div class="redefining-bg-2">
-				<div class="vimeo-modals-container">
-					<div class="dvd-play-button">
-						<a href="https://vimeo.com/103283691" class="elm-video fancybox-media">
-                            <div class="play-button">
-                                <div class="icon-play"></div>
-                            </div>
-                        </a>
-					</div>
-					<div class="dvd-play-button-hover-background"></div>
-				</div>                    
-            </div>
-			<div class="ninesixty">
-				<div class="avenue-flipgrid conectate">
-					<div class="one-half first">
-						<h3 class="conectate">DVD Program: <span class="italic">Treffpunkt Berlin</span></h3>
-						
-						<p>Filmed on location in Berlin with professional actors and actresses, <span class="italic">Treffpunkt Berlin</span> features a continuous, intriguing story line woven throughout the three-level video series. Your students will cling to the edge of their seats as each episode of this unique video series unfolds! Can love blossom at the hottest café in Berlin? Stay tuned…</p>
-                        
-                        <h3 class="conectate">DVD Program: <span class="itelic">Freunde in Deutschland</span></h3>
-                        
-                        <p>The series of ten episodes (Folgen) feature various locations within the capital city of Berlin with professional actors. In each five- to six-minute episode, students follow the everyday lives of four German teens.</p>
-                        
-                        <a class="learn-more-link elm-video fancybox-media" href="http://vimeo.com/103283692">Watch an episode</a>
-					</div>
-					<div class="one-half last">
-						<h3 class="conectate">ELPAC</h3>
-						
-						<p>Use EMC Language Proficiency Assessments by CARLA* (ELPAC) (performance-based, standardized assessments) to measure your students’ Spanish, French, or German language proficiency. Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery. Developed with input from language teachers and school administrators, ELPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>		
-
-	
 <?php include '../../../includes/footer.php'; ?>

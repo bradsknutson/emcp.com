@@ -54,11 +54,14 @@ RewriteRule ^amgovt-va$	http://www.emcp.com/product_catalog/index.php?GroupID=26
 RewriteRule ^amgovt-va/$	http://www.emcp.com/product_catalog/index.php?GroupID=2674$1 [R]
 RewriteRule ^amgovtCDsampler(.*)	http://www.emcp.com/amgovtcdsampler$1 [R]
 
-RewriteRule ^deutschaktuell(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
-RewriteRule ^da(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
-
 RewriteRule ^biotechnology(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=684$1 [R]
-RewriteRule ^deutschaktuel(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1044 [R]
+
+RewriteRule ^zhenbang(.*)		http://www.emcp.com/world-languages/chinese/zhen-bang/ [R=301,L]
+RewriteRule ^zb(.*)		http://www.emcp.com/world-languages/chinese/zhen-bang/ [R=301,L]
+
+RewriteRule ^deutschaktuell(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
+RewriteRule ^deutschaktuel(.*)	http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
+RewriteRule ^da(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
 
 # RewriteCond %{HTTP_REFERER} ^http://www.emcponline.com/.*$ [OR,NC]
 # RewriteRule    ^(.*)$		http://www.emcp.com/product_catalog/index.php?GroupID=102/    [R=301,L]

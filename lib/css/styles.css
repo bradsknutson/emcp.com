@@ -1273,6 +1273,30 @@ p.chatbox-quote{
 
 /* -------- End Deutsch Aktuell Page Styles -------------- */
 
+
+/* -------- Start Zhen Bang Page Styles -------------- */
+
+
+.zb-bg, .zb-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.zb-bg #topImg{
+	background: url('../images/zb-header.jpg') no-repeat 50% 100%;
+}
+.zhen-bang .secondary-first h2 {
+	font-size: 39px;
+	margin: 0px;
+}
+.zhen-bang .passport-tech-bg {
+	background: url('../images/passport-chinese.jpg') no-repeat 50% 100%;
+}
+.zb-tech {
+    background: url('../images/zb-ebooks.jpg') no-repeat 50% 8%;   
+}
+
+/* -------- End Zhen Bang Page Styles -------------- */
+
 /* -------- Footer -------------- */
 
 .footer {
