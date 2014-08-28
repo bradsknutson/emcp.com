@@ -886,14 +886,59 @@ p.chatbox-quote{
 
 }
 .featured-spanish {
-	background: url('../images/aventura_collage.png') no-repeat 50% 50%;
+    box-sizing: border-box;  
+    height: 355px;
+}
+.featured-spanish {
+	background: rgb(39,37,131) url('../images/qc-collage.png') no-repeat 50% 50%;
+    color: #FFF;
+}
+.featured-spanish h2 {
+    color: #FFF;
+    font-size: 36px;
+    margin: 10px 0;
+}
+.featured-spanish .learn-more-link {
+    color: #FFF;
+    border-bottom: 1px solid #FFF;
+    margin-top: 15px;
 }
 .featured-spanish .ninehundred div {
 	width: 465px;
 }
 .featured-spanish p {
 	font-size: 17px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
+}
+.spanish-lp-links {
+    background-color: #FFC103;  
+}
+.link-blocks {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    cursor: pointer;
+    height: 190px;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	transition: all 0.3s;
+}
+.link-blocks:hover {
+    background-color: #CC9A04;   
+    color: #000;
+}
+.link-blocks img {
+    float: left;
+    margin-right: 15px;
+}
+.link-blocks h3 {
+    font-size: 36px;
+    margin-top: 10px;
 }
 .author-padding {
 	padding-top: 40px;
