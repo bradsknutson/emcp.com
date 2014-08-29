@@ -139,4 +139,22 @@
 				</div>
 			</div>
 		</div>
+        <div id="sniplyBar" class="animated social bottom desktop">
+            <span id="socialbar" class="social bottom desktop">
+                <a href="http://paradigm.emcp.com" target="_blank">
+                    <img id="profilePhoto" class="sized social bottom desktop" src="<?php echo $server; ?>lib/images/pes-logo.jpg" alt="Paradigm Education Solutions" />
+                </a>
+            </span>
+            <span class="messageContainer sized social bottom desktop" id="contentMessageContainer">
+                <p id="minimizeToggle" pclass="social bottom desktop">x</p>
+                <a id="profileName" href="http://paradigm.emcp.com" target="_blank" class="social bottom desktop">Paradigm Education Solutions</a>
+                <span id="message" onclick="window.open('http://paradigm.emcp.com', '_blank'); " class="social bottom desktop">
+                    <span id="messageText" class="social bottom desktop">Looking for Paradigm Education Solutions?</span>
+                    <a href="http://paradigm.emcp.com.com" target="_blank" class="button buttonAction sized social bottom desktop">Click Here!</a>
+                </span>
+            </span>
+            <span class="messageContainer social bottom desktop" id="dropshadowMessageContainer">
+                <span id="speechArrow" class="social bottom desktop"></span>
+            </span>
+        </div>        
 <?php include 'includes/footer.php' ?>
