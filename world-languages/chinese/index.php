@@ -33,7 +33,7 @@
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-chinese.jpg" alt="Exploring French" />
-				<h3>Exploring French</h3>
+				<h3>Exploring Chinese</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
 				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-chinese-5116.html">Buy It Now!</a></p>

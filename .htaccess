@@ -110,3 +110,8 @@ RewriteRule ^world-languages/chinese/activity-books/   http://store.emcp.com/wor
 RewriteRule ^world-languages/chinese/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=364 [R=301,L]
+
+RewriteRule ^world-languages/italian/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=360 [R=301,L]
+RewriteRule ^world-languages/italian/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=360 [R=301,L]
+RewriteRule ^world-languages/italian/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=360 [R=301,L]
+RewriteRule ^world-languages/italian/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=360 [R=301,L]
