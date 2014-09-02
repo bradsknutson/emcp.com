@@ -1380,7 +1380,7 @@ p.chatbox-quote{
 
 /* -------- World Language Landing Page Styles -------------- */
 
-.featured-spanish, .featured-german, .featured-french {
+.featured-spanish, .featured-german, .featured-french, .featured-chinese {
     box-sizing: border-box;  
     height: 355px;
 }
@@ -1396,20 +1396,27 @@ p.chatbox-quote{
 	background: rgb(55, 98, 140) url('../images/teb-collage.png') no-repeat 50% 50%;
     color: #FFF;
 }
-.featured-spanish h2, .featured-german h2, .featured-french h2 {
+.featured-chinese {
+	background: rgb(228, 58, 52) url('../images/zb-collage.png') no-repeat 50% 50%;
+    color: #FFF;
+}
+.featured-spanish h2, .featured-german h2, .featured-french h2, .featured-chinese h2 {
     color: #FFF;
     font-size: 36px;
     margin: 10px 0;
 }
-.featured-spanish .learn-more-link, .featured-german .learn-more-link, .featured-french .learn-more-link {
+.featured-chinese h2 .bold, .featured-chinese p .bold {
+    color: #FFF;
+}
+.featured-spanish .learn-more-link, .featured-german .learn-more-link, .featured-french .learn-more-link, .featured-chinese .learn-more-link {
     color: #FFF;
     border-bottom: 1px solid #FFF;
     margin-top: 15px;
 }
-.featured-spanish .ninehundred div, .featured-german .ninehundred div, .featured-french .ninehundred div {
+.featured-spanish .ninehundred div, .featured-german .ninehundred div, .featured-french .ninehundred div, .featured-chinese .ninehundred div {
 	width: 465px;
 }
-.featured-spanish p, .featured-german p, .featured-french p {
+.featured-spanish p, .featured-german p, .featured-french p, .featured-chinese p {
 	font-size: 17px;
 	margin-bottom: 20px;
 }
