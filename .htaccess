@@ -90,3 +90,18 @@ RewriteRule ^QC	 http://www.emcp.com/quechevere [R=301,L]
 RewriteRule ^qc	 http://www.emcp.com/quechevere [R=301,L]
 
 RewriteRule ^returns  http://store.emcp.com/policies-and-order-information/ [R=301,L]
+
+RewriteRule ^world-languages/spanish/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=357 [R=301,L]
+RewriteRule ^world-languages/spanish/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=357 [R=301,L]
+RewriteRule ^world-languages/spanish/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=357 [R=301,L]
+RewriteRule ^world-languages/spanish/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=357 [R=301,L]
+
+RewriteRule ^world-languages/german/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=361 [R=301,L]
+RewriteRule ^world-languages/german/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=361 [R=301,L]
+RewriteRule ^world-languages/german/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=361 [R=301,L]
+RewriteRule ^world-languages/german/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=361 [R=301,L]
+
+RewriteRule ^world-languages/french/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=362 [R=301,L]
+RewriteRule ^world-languages/french/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=362 [R=301,L]
+RewriteRule ^world-languages/french/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=362 [R=301,L]
+RewriteRule ^world-languages/french/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=362 [R=301,L]

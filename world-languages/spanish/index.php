@@ -1,4 +1,5 @@
 <?php 
+	$custom_title = 'Spanish Language Programs | ';
 	include '../../includes/header.php';
 ?>
 	<div id="container">
@@ -45,41 +46,17 @@
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/beginning-spanish-level-1.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=357&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-spanish.jpg" alt="Exploring Spanish" />
 				<h3>Exploring Spanish</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/vale-volume-1.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-spanish-3rd-edtion.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
-        <div class="spanish-lp-links">
-            <div class="ninesixty">
-                <div class="link-blocks" onclick="location.href='http://store.emcp.com/world-languages.html?emc_product_type=366&language=357'">
-                    <img src="<?php echo $server; ?>lib/images/links-games.png" alt="Games" />
-                    <h3>Games</h3>
-                    <p>Practice the skills your students are learning in class through fun and engaging games.</p>
-                </div>
-                <div class="link-blocks" onclick="location.href='http://store.emcp.com/world-languages.html?emc_product_type=367&language=357'">
-                    <img src="<?php echo $server; ?>lib/images/links-readers.png" alt="Readers" />
-                    <h3>Readers</h3>
-                    <p>Develop your learner's grammar and vocabulary while building their ability to comprehend increasingly difficult pieces of literature.</p>
-                </div>
-                <div class="link-blocks" onclick="location.href='http://www.emcp.com/world-languages/spanish/activity-books/'">
-                    <img src="<?php echo $server; ?>lib/images/links-activity-books.png" alt="Activity Books" />
-                    <h3>Activity Books</h3>
-                    <p>Improve your learner's reading, writing, speaking, or listening skills with fun and engaging activity books.</p>
-                </div>
-                <div class="link-blocks" onclick="location.href='http://store.emcp.com/world-languages.html?emc_product_type=369&language=357'">
-                    <img src="<?php echo $server; ?>lib/images/links-classroom-fun.png" alt="Classroom Fun" />
-                    <h3>Classroom Fun</h3>
-                    <p>Bring more variety into your daily routine with DVD programs, maps, posters, flashcards, and more!</p>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+        <?php include '../../includes/wl-footer-links.php'; ?>
 		
 <?php include '../../includes/footer.php'; ?>		

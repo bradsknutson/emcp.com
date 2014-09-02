@@ -67,11 +67,6 @@ img {
 .header-top-dark {
 	background-color: #1c1817;
 	background-color: rgba(28, 24, 23, .975);
-	/* Remove padding for EMCL changes Brian 7/15/14 */
-	/*
-	padding-top: 23px;
-	padding-bottom: 15px;
-	*/
 	position: fixed;
 	z-index: 1000;
 	width: 100%;
@@ -137,10 +132,9 @@ img {
 	font-size: 14px;
 	font-weight: 400;
 	text-align: right;
-	/*text-transform: uppercase;*/
 	height: 100%;
 	position: relative;
-	margin-top: -60px;
+	margin-top: -65px;
 	margin-bottom: 25px;
 	z-index: 9999;
 }
@@ -160,8 +154,10 @@ img {
 	border-bottom: 1px solid #929292;
   	color: #fff;
   	margin-right: 20px;
+    font-weight: 100;
+    font-size: 17px;
+    padding: 13px 2px;
 }
-
 .main-navigation ul > li a:hover {
 	border-bottom: 2px solid;
   	color: #FFF;
@@ -874,32 +870,7 @@ p.chatbox-quote{
 .wl-featured-first {
 
 }
-.featured-spanish {
-    box-sizing: border-box;  
-    height: 355px;
-}
-.featured-spanish {
-	background: rgb(39,37,131) url('../images/qc-collage.png') no-repeat 50% 50%;
-    color: #FFF;
-}
-.featured-spanish h2 {
-    color: #FFF;
-    font-size: 36px;
-    margin: 10px 0;
-}
-.featured-spanish .learn-more-link {
-    color: #FFF;
-    border-bottom: 1px solid #FFF;
-    margin-top: 15px;
-}
-.featured-spanish .ninehundred div {
-	width: 465px;
-}
-.featured-spanish p {
-	font-size: 17px;
-	margin-bottom: 20px;
-}
-.spanish-lp-links {
+.lp-links {
     background-color: #FFC103;  
 }
 .link-blocks {
@@ -1407,6 +1378,44 @@ p.chatbox-quote{
 
 /* -------- End Bookshelf Page Styles -------------- */
 
+/* -------- World Language Landing Page Styles -------------- */
+
+.featured-spanish, .featured-german, .featured-french {
+    box-sizing: border-box;  
+    height: 355px;
+}
+.featured-spanish {
+	background: rgb(39,37,131) url('../images/qc-collage.png') no-repeat 50% 50%;
+    color: #FFF;
+}
+.featured-german {
+	background: rgb(71, 75, 155) url('../images/da-collage.png') no-repeat 50% 50%;
+    color: #FFF;
+}
+.featured-french {
+	background: rgb(55, 98, 140) url('../images/teb-collage.png') no-repeat 50% 50%;
+    color: #FFF;
+}
+.featured-spanish h2, .featured-german h2, .featured-french h2 {
+    color: #FFF;
+    font-size: 36px;
+    margin: 10px 0;
+}
+.featured-spanish .learn-more-link, .featured-german .learn-more-link, .featured-french .learn-more-link {
+    color: #FFF;
+    border-bottom: 1px solid #FFF;
+    margin-top: 15px;
+}
+.featured-spanish .ninehundred div, .featured-german .ninehundred div, .featured-french .ninehundred div {
+	width: 465px;
+}
+.featured-spanish p, .featured-german p, .featured-french p {
+	font-size: 17px;
+	margin-bottom: 20px;
+}
+
+/* -------- End World Language Landing Page Styles -------------- */
+
 /* -------- Footer -------------- */
 
 .footer {
@@ -1435,7 +1444,7 @@ p.chatbox-quote{
 	border-bottom: 1px solid #FFF;
 	color: #FFF;
 	font-size: 20px;
-	font-weight: 400;
+	font-weight: 100;
 }
 .footer-nav ul li a:hover {
 	border-bottom: 2px solid #FFF;

@@ -1,4 +1,9 @@
-	<div class="container">
+<?php 
+    // $server is defined in server.php 
+    // get_current() is defined in functions.php 
+    // $current is defined in functions.php 
+?>			
+    <div class="container">
 	
 		<a href="<?php echo $server; ?>"><img src="<?php echo $server; ?>lib/images/logo.png" width="230" height="78" alt="EMC" /></a>
 		
@@ -25,7 +30,6 @@
 						<li><a href="http://store.emcp.com/about-emcp/career-opportunities">Career Opportunities</a></li>
 					</ul>
 				</li>
-				<li><a href="http://store.emcp.com/about-emcp/news-and-events/">News</a></li>
 				<li<?php echo get_current('contact',$current); ?>><a href="<?php echo $server; ?>contact/" class="last">Contact</a></li>
 
 			</ul><!-- end #sf -->
