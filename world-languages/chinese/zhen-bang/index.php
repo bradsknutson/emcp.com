@@ -18,7 +18,9 @@
 					<h2>Developed for the American high school student</h2>
 				</div>
 				<div class="conectate-left margintop40">
-					<span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> welcomes students to the world of Chinese language and culture with a design that is colorful, inviting, and engaging. Students will enjoy talking about their lives, family, friends, school, home, eating, shopping, and more in paired and group communicative activities that incorporate 21<sup>st</sup> century skills whenever possible. Aligned to national standards, <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng</span></span> is the best choice for your Chinese classroom.
+					<p class="no-top"><span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> welcomes students to the world of Chinese language and culture with a design that is colorful, inviting, and engaging. Students will enjoy talking about their lives, family, friends, school, home, eating, shopping, and more in paired and group communicative activities that incorporate 21<sup>st</sup> century skills whenever possible. Aligned to national standards, <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng</span></span> is the best choice for your Chinese classroom.</p>
+                    
+                    <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=399&language=364">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/zb-cover.jpg" alt="Zh&#275;n B&agrave;ng Chinese Program" />

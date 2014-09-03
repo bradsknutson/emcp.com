@@ -15,7 +15,9 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="conectate-left">
-					<span class="bold"><span class="italic">Deutsch Aktuell</span></span> will engage your students and launch them on a path to life-long fluency.  This 3-level German program focuses on experiences and activities involving German, Austrian, and Swiss teenagers and adults. We created <span class="italic">Deutsch Aktuell</span> with the most up-to-date research in teaching and learning German, and our program is intended for students with varying abilities, backgrounds, interests, and learning styles. Multiplatform eBooks that work on any device, video-based teaching tools, authentic cultural videos, ACTFL-aligned proficiency assessments, and much more—it’s all here waiting to be discovered!
+					<p class="no-top"><span class="bold"><span class="italic">Deutsch Aktuell</span></span> will engage your students and launch them on a path to life-long fluency.  This 3-level German program focuses on experiences and activities involving German, Austrian, and Swiss teenagers and adults. We created <span class="italic">Deutsch Aktuell</span> with the most up-to-date research in teaching and learning German, and our program is intended for students with varying abilities, backgrounds, interests, and learning styles. Multiplatform eBooks that work on any device, video-based teaching tools, authentic cultural videos, ACTFL-aligned proficiency assessments, and much more—it’s all here waiting to be discovered!</p>
+                    
+                    <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=388&language=361">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/da-cover.jpg" alt="Deutsch Aktuell German Program" />

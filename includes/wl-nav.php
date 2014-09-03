@@ -13,7 +13,7 @@
 				</div>
 				<div class="wl-nav">
 					<ul>
-						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/" class="current">Programs</a></li>
+						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/programs/">Programs</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/activity-books/">Activity Books</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/readers/">Readers</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/games/">Games</a></li>
