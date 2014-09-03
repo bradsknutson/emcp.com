@@ -23,7 +23,7 @@
 						<li><a href="<?php echo $server; ?>world-languages/arabic/">Arabic</a></li>
 					</ul>
 				</li>
-				<li<?php echo get_current('applied-learning',$current); ?>><a href="http://www.emcp.com/applied-learning/">Applied Learning</a></li>
+				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a></li>
 				<li<?php echo get_current('language-arts',$current); ?>><a href="http://store.emcp.com/english-language-arts.html">Language Arts</a></li>
 				<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>about/">About</a>
 					<ul>

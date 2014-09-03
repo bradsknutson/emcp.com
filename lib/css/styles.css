@@ -1372,11 +1372,134 @@ p.chatbox-quote{
 .bookshelf .right-block ul {
     margin-top: 66px;   
 }
-.bookshelf ul li {
+.bookshelf .left-block ul li, .bookshelf .right-block ul li {
     line-height: 1.8;   
 }
 
 /* -------- End Bookshelf Page Styles -------------- */
+
+/* -------- Start ELPAC Page Styles -------------- */
+.elpac {
+    
+}
+.elpac-bg {
+    height: 600px;
+    background-color: #FFF;
+}
+.elpac-bg #topImg {
+    background: url('../images/elpac-header.jpg') no-repeat 50% 100%;
+    height: 100%;
+}
+.elpac-demo:hover, .elpac-login:hover {
+    background: #EF4b25;
+}
+.elpac-login {
+    left: 440px;  
+}
+.elpac .secondary-first {
+    margin-top: 480px;
+    background: #FFF;
+}
+.elpac .secondary-first .ninesixty {
+    padding: 20px 0;   
+}
+.elpac .featured-left {
+    width: 620px;
+}
+.elpac-lp-img {
+    position: absolute;
+    right: 0;
+    bottom: -110px;
+}
+.elpac-button, .elpac-button:link, .elpac-button:visited {
+    background: #EF4b25;
+    color: #FFF;
+    border-radius: 5px;
+    width: 300px;
+    position: absolute;
+    right: 0;
+    font-size: 13px;
+    text-align: left;
+    padding: 10px 0 10px 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    text-decoration: none;
+    font-weight: 400;
+}
+.elpac-button:hover {
+    background: #C43D1e; 
+}
+.eb1 { bottom: -160px; }
+.eb2 { bottom: -200px; }
+.eb3 { bottom: -240px; }
+.eb4 { bottom: -280px; }
+.eb5 { bottom: -320px; }
+
+.elpac-third {
+    float: left;
+    width: 33%;
+    padding: 0 5px;
+    padding-top: 90px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.elpac-third:nth-child(1) {
+    background: url('../images/elpac-flexible.png') no-repeat 5% 0%;   
+}
+.elpac-third:nth-child(2) {
+    background: url('../images/elpac-easy.png') no-repeat 5% 0%;   
+}
+.elpac-third:nth-child(3) {
+    background: url('../images/elpac-reliable.png') no-repeat 5% 0%;   
+}
+.elpac .elpac-third ul {
+    padding-left: 20px;   
+}
+.elpac .elpac-third ul li {
+    line-height: 1.4;
+    padding: 5px 0;
+}
+.elpac .elpac-third p {
+    line-height: 1.6;   
+}
+
+/* -------- End ELPAC Page Styles -------------- */
+
+/* -------- Start i-Culture Page Styles -------------- */
+.iculture {
+    
+}
+.iculture-bg {
+    height: 480px;
+    background-color: #FFF;
+}
+.iculture-bg #topImg {
+    background: url('../images/iculture-header.jpg') no-repeat 50% 100%;
+    height: 100%;
+}
+.iculture-demo:hover, .iculture-login:hover {
+    background: #018ABE;
+}
+.iculture-demo {
+    left: 316px;
+}
+.iculture-login {
+    left: 436px;  
+}
+.iculture-slices-img {
+    position: absolute;
+    left: 0;
+    margin-top: 385px;
+}
+.iculture .secondary-first {
+    margin-top: 360px;
+    background: #FFF;
+}
+
+/* -------- End i-Culture Page Styles -------------- */
+
 
 /* -------- World Language Landing Page Styles -------------- */
 

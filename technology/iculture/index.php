@@ -1,13 +1,14 @@
 <?php 
-	$custom_title = 'Bookshelf | Multiplatform eBooks | ';
+	$custom_title = 'i-Culture | ';
 	include '../../includes/header.php';
 ?>
-	<div id="container" class="bookshelf">
-		<div class="header-background-image bookshelf-bg">
+	<div id="container" class="iculture">
+		<div class="header-background-image iculture-bg">
 			<div id="topImg">
                 <div class="tech-button-container">
-                    <a class="technology-buttons bookshelf-demo transition" href="http://emc.bookshelf.emcp.com" target="_blank">Demo</a>
-                    <a class="technology-buttons bookshelf-login transition" href="http://emc.bookshelf.emcp.com" target="_blank">Login</a>
+                    <a class="technology-buttons iculture-demo transition" href="" target="_blank">Demo</a>
+                    <a class="technology-buttons iculture-login transition" href="http://www.emcp.com/iculture/" target="_blank">Login</a>
+                    <img src="<?php echo $server; ?>lib/images/iculture-slices.png" alt="i-Culture" class="iculture-slices-img" />
                 </div>
             </div>
 		</div>
@@ -18,7 +19,7 @@
 			<div class="ninesixty">
                 <div class="featured-left">
                     <h2>Multiplatform eBooks take learning, well, anywhere</h2>
-                    <p>EMC's multi-platform eBooks connect students to language program resources in and out of the classroom. One-touch navigation allows them to connect to every page of their textbook and workbooks as well as all audio content. Multi-platform eBooks work on all laptops, desktops, and mobile devices including the iPad&copy;.</p>
+                    <p>EMC's multi-platform eBooks connect students to language program resources in and out of the classroom. One-touch navigation allows them to connect to every page of their textbook and workbooks as well as all audio content. Multi-platform eBooks work on all laptops, desktops, and mobile devices including the iPad&copy;</p>
                 </div>
 			</div>
 		</div>
