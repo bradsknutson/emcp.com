@@ -1472,7 +1472,7 @@ p.chatbox-quote{
     
 }
 .iculture-bg {
-    height: 480px;
+    height: 600px;
     background-color: #FFF;
 }
 .iculture-bg #topImg {
@@ -1491,11 +1491,68 @@ p.chatbox-quote{
 .iculture-slices-img {
     position: absolute;
     left: 0;
-    margin-top: 385px;
+    margin-top: 505px;
 }
 .iculture .secondary-first {
-    margin-top: 360px;
+    margin-top: 480px;
     background: #FFF;
+}
+.iculture .secondary-first .ninesixty {
+    padding-top: 40px;
+}
+.iculture .secondary-first .featured-left {
+    margin-left: 315px;
+    width: auto;
+}
+.iculture-slice-odd, .iculture-slice-even {
+    height: 300px;
+}
+.iculture-slice-even {
+    background: -moz-linear-gradient(left,  rgba(219,219,219,1) 0%, rgba(108,108,108,0) 66%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(219,219,219,1)), color-stop(50%,rgba(108,108,108,0)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left,  rgba(219,219,219,1) 0%,rgba(108,108,108,0) 66%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left,  rgba(219,219,219,1) 0%,rgba(108,108,108,0) 66%,rgba(0,0,0,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(left,  rgba(219,219,219,1) 0%,rgba(108,108,108,0) 66%,rgba(0,0,0,0) 100%); /* IE10+ */
+    background: linear-gradient(to right,  rgba(219,219,219,1) 0%,rgba(108,108,108,0) 66%,rgba(0,0,0,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbdbdb', endColorstr='#00000000',GradientType=1 ); /* IE6-9 */
+}
+.iculture-slice-odd {
+    background: -moz-linear-gradient(left,  rgba(0,0,0,0) 1%, rgba(108,108,108,0) 33%, rgba(219,219,219,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(1%,rgba(0,0,0,0)), color-stop(33%,rgba(108,108,108,0)), color-stop(100%,rgba(219,219,219,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left,  rgba(0,0,0,0) 1%,rgba(108,108,108,0) 33%,rgba(219,219,219,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left,  rgba(0,0,0,0) 1%,rgba(108,108,108,0) 33%,rgba(219,219,219,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(left,  rgba(0,0,0,0) 1%,rgba(108,108,108,0) 33%,rgba(219,219,219,1) 100%); /* IE10+ */
+    background: linear-gradient(to right,  rgba(0,0,0,0) 1%,rgba(108,108,108,0) 33%,rgba(219,219,219,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#dbdbdb',GradientType=1 ); /* IE6-9 */
+}
+.iculture .slice-left, .iculture .slice-right {
+    float: left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.iculture .slice-left, .iculture .slice-right {
+    width: 50%;
+}
+.iculture .slice-left {
+    padding-right: 20px;
+}
+.iculture .slice-right {
+    padding-left: 20px;
+}  
+.iculture-slice-even img, .iculture-slice-odd img {
+    margin-top: 35px;   
+}
+.iculture .slice-left p, .iculture .slice-right p {
+    line-height: 1.8;
+    font-size: 16px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.iculture .slice-left h3, .iculture .slice-right h3 {
+    font-size: 26px;
+    padding: 10px 0 0;
+    margin: 0;
 }
 
 /* -------- End i-Culture Page Styles -------------- */

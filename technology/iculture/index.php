@@ -18,30 +18,55 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
                 <div class="featured-left">
-                    <h2>Multiplatform eBooks take learning, well, anywhere</h2>
-                    <p>EMC's multi-platform eBooks connect students to language program resources in and out of the classroom. One-touch navigation allows them to connect to every page of their textbook and workbooks as well as all audio content. Multi-platform eBooks work on all laptops, desktops, and mobile devices including the iPad&copy;</p>
+                    <h2>Students explore culture beyond the classroom</h2>
+                    <p>i-Culture offers immersion into <span class="bold">French</span>, <span class="bold">Spanish</span> and <span class="bold">German</span> culture through authentic news articles, documentary-style videos, and songs. i-Culture is purposefully leveled and program non-specific. Anybody can enjoy the materials and demonstrate progress through built-in comprehension activities and online enrichment.</p>
                 </div>
 			</div>
 		</div>
-        <div class="white marginbottom40">
+        <div class="iculture-slice-odd">
             <div class="ninesixty">
-                <div class="left-block">
-                    <p><span class="p-larger">With EMC’s Multi-platform eBooks students*…</span></p>
-                    <ul>
-                        <li>View digital textbook pages and complete practice activities interactively </li>
-                        <li>Receive immediate feedback</li>
-                        <li>Listen to abundant audio by native speakers that includes vocabulary presentations, dialogues, listening activities, and authentic readings</li>
-                    </ul>
-                    <p><span class="p-smaller">*Not all features are available for every title.</span></p>
+                <div class="slice-left">
+                    <h3>i-News</h3>
+                    <p>To truly understand a foreign language and its culture, learners need current, real-life connections to French, Spanish and German speaking worlds—all at a level they can understand. With three fresh, up-to-date news articles a week, your learners will now have the resources to connect their classwork with real-life culture and news. Each article is recorded by a native speaker and includes two activities for both basic and advanced skills.</p>
                 </div>
-                <div class="right-block">
-                    <ul>
-                        <li>Watch full-length continuous storyline and cultural dialogue videos, recorded by native speakers</li>
-                        <li>Print activities to use in class</li>
-                        <li>E-mail completed activities to the teacher</li>
-                        <li>Export, view and print pages as PDFs</li>
-                        <li>Access a full glossary of vocabulary to reference for each unit</li>
-                    </ul>
+                <div class="slice-right">
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-1.jpg" />
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="iculture-slice-even">
+            <div class="ninesixty">
+                <div class="slice-left">
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-2.jpg" />
+                </div>
+                <div class="slice-right">
+                    <h3>i-Songs</h3>
+                    <p>Let your students listen to music in class with i-Songs! Music has been proven to be a helpful aid for learners of a second language. A new i-Song is introduced each month, giving your students the opportunity to sing and learn about current and traditional songs and artists from Spanish, German or French-speaking cultures. Karaoke-style songs make learning engaging and fun at any level of experience. Features include a transcript of the song, biography of the artist, follow-up writing activity, and much more!</p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="iculture-slice-odd">
+            <div class="ninesixty">
+                <div class="slice-left">
+                    <h3>i-Videos</h3>
+                    <p>Engage and enlighten your students with documentary-style videos that depict the real lives of people in their native countries. New videos are released monthly and topics include daily routines, family and school life, hobbies, holidays, and daily life around town and in the city. What if the current video doesn’t relate to what you’re currently teaching in class? Don’t fret! You always have the option to choose a fitting video from our extensive archived library.</p>
+                </div>
+                <div class="slice-right">
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-3.jpg" />
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="iculture-slice-even">
+            <div class="ninesixty">
+                <div class="slice-left">
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-4.jpg" />
+                </div>
+                <div class="slice-right">
+                    <h3>i-Passport</h3>
+                    <p>What is the closest thing to scheduling an international field trip for your classroom? The answer is i-Passport. With i-Passport, you can take a break from typical routines and send your students on an immersive, virtual journey around the world! Students from Spanish, German and French-speaking countries host videos highlighting different places around the world relating to your target.</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
