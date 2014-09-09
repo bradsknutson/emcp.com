@@ -1,1 +1,0 @@
-<?phpheader("location:http://www.emcp.com/product_catalog/index.php?GroupID=1343");?>

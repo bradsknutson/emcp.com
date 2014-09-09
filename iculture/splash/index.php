@@ -27,6 +27,8 @@
             
             <p>Click 'Continue' below to open the new i-Culture.</p>
             
+            <p>We recommend updating any bookmarks to the new site.</p>
+            
             <p>-Your EMC World Languages team.</p>
             
             <a class="button" href="http://www.emcp.com/ilife/iculturenew">Continue</a>

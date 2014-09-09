@@ -9,14 +9,16 @@ RewriteRule ^litLINK(.*)   http://www.emcp.com/litlink$1 [R]
 RewriteRule ^LitLink(.*)   http://www.emcp.com/litlink$1 [R]
 RewriteRule ^LITLINK(.*)   http://www.emcp.com/litlink$1 [R]
 
-## RewriteRule ^product_catalog/school/news_ticker/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
-## RewriteRule ^product_catalog/school/hit_ticker/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
-## RewriteRule ^product_catalog/school/iCatcher/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+## RewriteRule ^product_catalog/school/news_ticker/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R=301,L]
+## RewriteRule ^product_catalog/school/hit_ticker/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R=301,L]
+## RewriteRule ^product_catalog/school/iCatcher/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R=301,L]
 
-RewriteRule ^news_ticker(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
-RewriteRule ^hit_ticker(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
-RewriteRule iCatcher(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R]
+RewriteRule ^news_ticker(.*)	http://www.emcp.com/iculture/ [R=301,L]
+RewriteRule ^hit_ticker(.*)	http://www.emcp.com/iculture/ [R=301,L]
+RewriteRule iCatcher(.*)	http://www.emcp.com/iculture/ [R=301,L]
+RewriteRule ^product_catalog/index.php?GroupID=1343(.*) http://www.emcp.com/iculture/ [R=301,L]
 
+RewriteRule ^iculture(.*)    http://www.emcp.com/iculture/splash/ [R=301,L]
 
 RewriteRule ^ell(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1423$1 [R]
 RewriteRule ^ELL(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1423$1 [R]
