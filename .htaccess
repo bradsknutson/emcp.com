@@ -17,6 +17,7 @@ RewriteRule ^news_ticker(.*)	http://www.emcp.com/iculture/ [R=301,L]
 RewriteRule ^hit_ticker(.*)	http://www.emcp.com/iculture/ [R=301,L]
 RewriteRule iCatcher(.*)	http://www.emcp.com/iculture/ [R=301,L]
 RewriteRule ^product_catalog/index.php?GroupID=1343(.*) http://www.emcp.com/iculture/ [R=301,L]
+RewriteRule ^i-culture(.*)    http://www.emcp.com/iculture/splash/ [R=301,L]
 
 RewriteRule ^iculture(.*)    http://www.emcp.com/iculture/splash/ [R=301,L]
 
