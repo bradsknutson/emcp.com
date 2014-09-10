@@ -1,13 +1,13 @@
 <?php 
 	$custom_title = 'Passport | The Future of Fluency Is Here | ';
-	include '../includes/header.php';
+	include '../../includes/header.php';
 ?>
 	<div id="container">
         <div class="vimeo-modal"></div>
         <div class="header-hero-hover-2"></div>
 		<div class="header-secondary-page"></div>
 		<div class="header-top-dark">
-			<?php include '../includes/nav.php'; ?>
+			<?php include '../../includes/nav.php'; ?>
 		</div>
         <div class="fofih">
             <div class="fofih-container">
@@ -39,4 +39,4 @@
             </div>
         </div>
 	
-<?php include '../includes/footer.php'; ?>
+<?php include '../../includes/footer.php'; ?>

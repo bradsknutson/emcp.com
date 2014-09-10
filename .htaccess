@@ -13,13 +13,12 @@ RewriteRule ^LITLINK(.*)   http://www.emcp.com/litlink$1 [R]
 ## RewriteRule ^product_catalog/school/hit_ticker/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R=301,L]
 ## RewriteRule ^product_catalog/school/iCatcher/(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=1343$1 [R=301,L]
 
-RewriteRule ^news_ticker(.*)	http://www.emcp.com/iculture/ [R=301,L]
-RewriteRule ^hit_ticker(.*)	http://www.emcp.com/iculture/ [R=301,L]
-RewriteRule iCatcher(.*)	http://www.emcp.com/iculture/ [R=301,L]
-RewriteRule /product_catalog/index.php?GroupID=1343$ http://www.emcp.com/iculture/ [R=301,L]
-RewriteRule ^i-culture(.*)    http://www.emcp.com/iculture/ [R=301,L]
+RewriteRule ^news_ticker(.*)	http://www.emcp.com/iculture/splash/ [R=301,L]
+RewriteRule ^hit_ticker(.*)	http://www.emcp.com/iculture/splash/ [R=301,L]
+RewriteRule iCatcher(.*)	http://www.emcp.com/iculture/splash/ [R=301,L]
+RewriteRule /product_catalog/index.php?GroupID=1343$ http://www.emcp.com/iculture/splash/ [R=301,L]
+RewriteRule ^i-culture(.*)    http://www.emcp.com/iculture/splash/ [R=301,L]
 RewriteRule ^iculture$    http://www.emcp.com/iculture/ [R=301,L]
-RewriteRule ^iculture/$    http://www.emcp.com/iculture/splash/ [R=301,L]
 
 RewriteRule ^ell(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1423$1 [R]
 RewriteRule ^ELL(.*)		http://www.emcp.com/product_catalog/index.php?GroupID=1423$1 [R]
@@ -89,8 +88,18 @@ RewriteRule ^mwdigitalsamplersga	 http://www.emcp.com/mwdigitalsamplers/?source=
 RewriteRule ^mwdigitalsamplersSC	 http://www.emcp.com/mwdigitalsamplers/?source=SC [R]
 RewriteRule ^mwdigitalsamplerssc	 http://www.emcp.com/mwdigitalsamplers/?source=SC [R]
 
-RewriteRule ^QC	 http://www.emcp.com/quechevere [R=301,L]
-RewriteRule ^qc	 http://www.emcp.com/quechevere [R=301,L]
+RewriteRule ^QC	 http://www.emcp.com/world-languages/spanish/quechevere/ [R=301,L]
+RewriteRule ^qc	 http://www.emcp.com/world-languages/spanish/quechevere/ [R=301,L]
+RewriteRule ^quechevere$    http://www.emcp.com/world-languages/spanish/quechevere/ [R=301,L]
+RewriteRule ^quechevere/$   http://www.emcp.com/world-languages/spanish/quechevere/ [R=301,L]
+
+RewriteRule ^tes-branche$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
+RewriteRule ^tes-branche/$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
+RewriteRule ^teb$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
+RewriteRule ^teb/comingsoon.php$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
+RewriteRule ^teb/message.php$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
+RewriteRule ^teb/movie.php$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
+RewriteRule ^teb/teb.php$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
 
 RewriteRule ^returns  http://store.emcp.com/policies-and-order-information/ [R=301,L]
 
@@ -124,4 +133,16 @@ RewriteRule ^world-languages/italian/readers/   http://store.emcp.com/world-lang
 RewriteRule ^world-languages/italian/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=360 [R=301,L]
 RewriteRule ^world-languages/italian/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=360 [R=301,L]
 
-RewriteRule ^frenchreview  http://www.emcp.com/world-languages/french/tes-branche/?utm_source=magazine&utm_medium=magazine-ad&utm_campaign=FR-AD-OCT
+RewriteRule ^frenchreview  http://www.emcp.com/world-languages/french/tes-branche/?utm_source=magazine&utm_medium=magazine-ad&utm_campaign=FR-AD-OCT [R=301,L]
+
+RewriteRule ^bookshelf$  http://www.emcp.com/technology/bookshelf/ [R=301,L]
+RewriteRule ^bookshelf/$  http://www.emcp.com/technology/bookshelf/ [R=301,L]
+RewriteRule ^iculture$  http://www.emcp.com/technology/iculture/ [R=301,L]
+RewriteRule ^iculture/$  http://www.emcp.com/technology/iculture/ [R=301,L]
+RewriteRule ^elpac$  http://www.emcp.com/technology/elpac/ [R=301,L]
+RewriteRule ^elpac/$  http://www.emcp.com/technology/elpac/ [R=301,L]
+RewriteRule ^passport$  http://www.emcp.com/technology/passport/ [R=301,L]
+RewriteRule ^passport/$  http://www.emcp.com/technology/passport/ [R=301,L]
+
+RewriteRule ^world-languages/japanese/  http://store.emcp.com/world-languages.html?language=359 [R=301,L]
+RewriteRule ^world-languages/arabic/  http://store.emcp.com/world-languages.html?language=365 [R=301,L]

@@ -4,26 +4,35 @@
 ?>				
         <div class="lp-links">
             <div class="ninesixty">
-                <div class="link-blocks" onclick="location.href='<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/games/'">
-                    <img src="<?php echo $server; ?>lib/images/links-games.png" alt="Games" />
+                <?php
+
+                $elem_4 = '<div class="link-blocks" onclick="location.href=\''. $server .'world-languages/'. $currentwl .'/games/\'">
+                    <img src="'. $server. 'lib/images/links-games.png" alt="Games" />
                     <h3>Games</h3>
                     <p>Practice the skills your students are learning in class through fun and engaging games.</p>
-                </div>
-                <div class="link-blocks" onclick="location.href='<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/readers/'">
-                    <img src="<?php echo $server; ?>lib/images/links-readers.png" alt="Readers" />
+                </div>';
+                $elem_3 = '<div class="link-blocks" onclick="location.href=\''. $server .'world-languages/'. $currentwl .'/readers/\'">
+                    <img src="'. $server. 'lib/images/links-readers.png" alt="Readers" />
                     <h3>Readers</h3>
-                    <p>Develop your learner's grammar and vocabulary while building their ability to comprehend increasingly difficult pieces of literature.</p>
-                </div>
-                <div class="link-blocks" onclick="location.href='<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/activity-books/'">
-                    <img src="<?php echo $server; ?>lib/images/links-activity-books.png" alt="Activity Books" />
+                    <p>Develop your learner\'s grammar and vocabulary while building their ability to comprehend increasingly difficult pieces of literature.</p>
+                </div>';
+                $elem_2 = '<div class="link-blocks" onclick="location.href=\''. $server .'world-languages/'. $currentwl .'/activity-books/\'">
+                    <img src="'. $server. 'lib/images/links-activity-books.png" alt="Activity Books" />
                     <h3>Activity Books</h3>
-                    <p>Improve your learner's reading, writing, speaking, or listening skills with fun and engaging activity books.</p>
-                </div>
-                <div class="link-blocks" onclick="location.href='<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/classroom-fun/'">
-                    <img src="<?php echo $server; ?>lib/images/links-classroom-fun.png" alt="Classroom Fun" />
+                    <p>Improve your learner\'s reading, writing, speaking, or listening skills with fun and engaging activity books.</p>
+                </div>';
+                $elem_5 = '<div class="link-blocks" onclick="location.href=\''. $server .'world-languages/'. $currentwl .'/classroom-fun/\'">
+                    <img src="'. $server. 'lib/images/links-classroom-fun.png" alt="Classroom Fun" />
                     <h3>Classroom Fun</h3>
                     <p>Bring more variety into your daily routine with DVD programs, maps, posters, flashcards, and more!</p>
-                </div>
+                </div>';
+
+                echo hide_sub_elem( $hide_elem_4, $elem_4 );
+                echo hide_sub_elem( $hide_elem_3, $elem_3 );
+                echo hide_sub_elem( $hide_elem_2, $elem_2 );
+                echo hide_sub_elem( $hide_elem_5, $elem_5 );
+
+                ?>
                 <div class="clearfix"></div>
             </div>
         </div>

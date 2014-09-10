@@ -1163,6 +1163,33 @@ p.chatbox-quote{
 	float: left;
 	width: 300px;
 }
+.catalog-secondary-links {
+    text-align: center;
+    list-style: none;
+    height: 50px;
+    display: table;
+    padding: 0;
+    margin: 0 auto;
+}
+.catalog-secondary-links li {
+    padding: 0px 10px;
+    float: left;
+}
+.catalog-secondary-links li a {
+    text-decoration: none !important;
+    border-bottom: 1px solid #585858;
+    padding: 5px 0px;
+    font-weight: 100 !important;
+    font-size: 20px;
+    color: #585858 !important;
+}
+.catalog-secondary-links li a:hover {
+    color: #000 !important;
+    border-bottom: 2px solid #000;
+}
+.csl-row-1 {
+    margin-top: 20px;   
+}
 
 /* -------- End Catalog 2015 Page -------------- */
 
@@ -1480,7 +1507,7 @@ p.chatbox-quote{
     height: 100%;
 }
 .iculture-demo:hover, .iculture-login:hover {
-    background: #018ABE;
+    background: #333366;
 }
 .iculture-demo {
     left: 316px;

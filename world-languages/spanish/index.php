@@ -12,6 +12,7 @@
 				<?php include '../../includes/wl-nav.php'; ?>
 				<div class="clearfix"></div>
 				<p class="onesix">EMC's robust multiplatform Spanish products provide students with innovative learning solutions and technology that prepare them to be lifelong languages learners and global citizens. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction. With EMC's Spanish educational solutions, you'll love what you teach even more.</p>
+                <p><a class="learn-more-link" href="http://www.emcp.com/world-languages/spanish/programs/">See All Spanish Products</a></p>
 			</div>
 		</div>
 		<div class="wl-featured-first featured-spanish">

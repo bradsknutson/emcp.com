@@ -37,6 +37,7 @@
 				<div class="footer-nav">
 					<ul>
 						<li><a href="http://store.emcp.com/about-emcp/news-and-events/">News</a></li>
+						<li><a href="<?php echo $server; ?>contact/">Contact</a></li>
 						<li><a href="http://store.emcp.com/contact-us/customer-service">Customer Service</a></li>
 						<li><a href="http://store.emcp.com/contact-us/local-account-manager-locator/">Sales</a></li>
 						<li><a href="http://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>

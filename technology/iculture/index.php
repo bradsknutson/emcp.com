@@ -3,8 +3,13 @@
 	include '../../includes/header.php';
 ?>
 	<div id="container" class="iculture">
+		<div class="vimeo-modal"></div>
 		<div class="header-background-image iculture-bg">
 			<div id="topImg">
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
+				<div class="header-hero-hover"></div>                    
                 <div class="tech-button-container">
                     <a class="technology-buttons iculture-demo transition" href="" target="_blank">Demo</a>
                     <a class="technology-buttons iculture-login transition" href="http://www.emcp.com/iculture/" target="_blank">Login</a>

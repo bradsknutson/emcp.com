@@ -12,4 +12,10 @@
 	} else {
 		$currentwl = basename(dirname(getcwd()));
 	}
+
+	function hide_sub_elem( $hidden, $elem ) {
+		if( $hidden != 'TRUE' ) {
+			return $elem;
+		}
+	}
 ?>

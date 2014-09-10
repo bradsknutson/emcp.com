@@ -25,12 +25,22 @@
 				</li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a></li>
 				<li<?php echo get_current('language-arts',$current); ?>><a href="http://store.emcp.com/english-language-arts.html">Language Arts</a></li>
+                <li<?php echo get_current('technology',$current); ?>><a href="<?php echo $server; ?>technology/">Technology</a>
+					<ul>
+						<li><a href="<?php echo $server; ?>technology/passport/">Passport</a></li>
+						<li><a href="<?php echo $server; ?>technology/bookshelf/">Bookshelf</a></li>
+						<li><a href="<?php echo $server; ?>technology/iculture/">i-Culture</a></li>
+						<li><a href="http://emcl.com/flipgrid">Flipgrid</a></li>
+						<li><a href="http://emcl.com/avenue">Avenue</a></li>
+						<li><a href="<?php echo $server; ?>technology/elpac/">ELPAC</a></li>
+					</ul>                
+                </li>
 				<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>about/">About</a>
 					<ul>
+						<li><a href="<?php echo $server; ?>contact/">Contact</a></li>
 						<li><a href="http://store.emcp.com/about-emcp/career-opportunities">Career Opportunities</a></li>
 					</ul>
 				</li>
-				<li<?php echo get_current('contact',$current); ?>><a href="<?php echo $server; ?>contact/" class="last">Contact</a></li>
 
 			</ul><!-- end #sf -->
 			

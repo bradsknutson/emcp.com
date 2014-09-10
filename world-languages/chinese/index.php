@@ -1,5 +1,6 @@
 <?php 
 	$custom_title = 'Chinese Language Programs | ';
+    $hide_elem_3 = 'TRUE';
 	include '../../includes/header.php';
 ?>
 	<div id="container">
@@ -12,6 +13,7 @@
 				<?php include '../../includes/wl-nav.php'; ?>
 				<div class="clearfix"></div>
 				<p class="onesix">EMC's robust multiplatform Chinese products provide students with innovative learning solutions and technology that prepare them to be lifelong languages learners and global citizens. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction. With EMC's German educational solutions, you'll love what you teach even more.</p>
+                <p><a class="learn-more-link" href="http://www.emcp.com/world-languages/chinese/programs/">See All Chinese Products</a></p>
 			</div>
 		</div>
 		<div class="wl-featured-first featured-chinese">

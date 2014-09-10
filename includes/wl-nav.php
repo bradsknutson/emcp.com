@@ -1,6 +1,6 @@
 <?php 
     // $server is defined in server.php 
-    // $currentwl is defined in functions.php 
+    // $currentwl is defined in functions.php
 ?>				
                 <div class="breadcrumbs">
 					<div class="bc-top">
@@ -13,11 +13,19 @@
 				</div>
 				<div class="wl-nav">
 					<ul>
-						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/programs/">Programs</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/activity-books/">Activity Books</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/readers/">Readers</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/games/">Games</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/<?php echo $currentwl; ?>/classroom-fun/">Classroom Fun</a></li>
+						<?php 
+                            $elem_1 = '<li><a href="'. $server .'world-languages/'. $currentwl .'/programs/">Programs</a></li>';
+                            $elem_2 = '<li><a href="'. $server .'world-languages/'. $currentwl .'/activity-books/">Activity Books</a></li>';
+                            $elem_3 = '<li><a href="'. $server .'world-languages/'. $currentwl .'/readers/">Readers</a></li>';
+                            $elem_4 = '<li><a href="'. $server .'world-languages/'. $currentwl .'/games/">Games</a></li>';
+                            $elem_5 = '<li><a href="'. $server .'world-languages/'. $currentwl .'/classroom-fun/">Classroom Fun</a></li>';
+                            
+                            echo hide_sub_elem( $hide_elem_1, $elem_1 );
+                            echo hide_sub_elem( $hide_elem_2, $elem_2 );
+                            echo hide_sub_elem( $hide_elem_3, $elem_3 );
+                            echo hide_sub_elem( $hide_elem_4, $elem_4 );
+                            echo hide_sub_elem( $hide_elem_5, $elem_5 );
+                        ?>
 					</ul>
 					<div class="clearfix"></div>
 				</div>
