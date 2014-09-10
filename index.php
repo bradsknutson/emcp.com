@@ -81,7 +81,7 @@
 					<div class="ell-right">
                         <p>Through a long-term collaborative partnership with the University of Minnesota's Institute for Design Innovation (IDI) we are building, integrating, and researching the future of fluency. <span class="bold">Passport&reg;</span> builds upon and extends research-based language learning platforms created by the IDI, leveraging EMC Publishing's world language instructional content in an easy-to-use environment designed to drive educator effectiveness and student fluency. Students will <span class="bold">discover</span> languages and cultures, <span class="bold">expand</span> their knowledge beyond the textbook and written test, and <span class="bold">perform</span> what they’ve learned within a portfolio-style environment to achieve lasting proficiency.</p>
 						
-						<a href="http://www.emcl.com/" class="learn-more-link">Learn more about EMC Languages</a>
+						<a href="<?php echo $server; ?>passport" class="learn-more-link">Learn more about Passport&reg;</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>
