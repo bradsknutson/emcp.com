@@ -44,7 +44,7 @@
 						</div>
 					</div>
 					<div class="ell-right">
-						<p>Through a longterm collaborative partnership with the LT Media Lab at the University of Minnesota, we are building, integrating, and researching the future of fluency. <span class="bold">Passport&trade;</span> builds upon and extends research-based language learning platforms created by the LT Media Lab by leveraging EMC Publishing's world language instructional content in an easy-to-use environment designed to drive educator effectiveness and student fluency. Students will discover languages and cultures, expand their knowledge beyond the textbook and written test, and perform what they've learned within a portfolio-style environment to achieve lasting proficiency. </p>
+						<p>Through a long-term collaborative partnership with the University of Minnesota's Institute for Design Innovation (IDI) we are building, integrating, and researching the future of fluency. <span class="bold">Passport&reg;</span> builds upon and extends research-based language learning platforms created by the IDI, leveraging EMC Publishing's world language instructional content in an easy-to-use environment designed to drive educator effectiveness and student fluency. Students will <span class="bold">discover</span> languages and cultures, <span class="bold">expand</span> their knowledge beyond the textbook and written test, and <span class="bold">perform</span> what they’ve learned within a portfolio-style environment to achieve lasting proficiency.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -56,7 +56,7 @@
 					<h2>Redefining seamless learning through technology.</h2>
 				</div>
 				
-				<p>Through our partnership with the University of Minnesota LT Media Lab, we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
+				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
 			</div>
 			<div class="redefining-bg">
 				<div class="vimeo-modals-container">

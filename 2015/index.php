@@ -1,5 +1,5 @@
 <?php 
-	$custom_title = 'EMC Catalog Support Center	| ';
+	$custom_title = 'EMC Catalog 2015 | ';
 	include '../includes/header.php';
 ?>
 	<div id="container">
@@ -12,10 +12,10 @@
 				<h2 class="textcenter">EMC Catalog 2015</h2>
 			</div>
             <ul class="catalog-secondary-links csl-row-1">
-				<li><a href="<?php echo $server; ?>world-languages/spanish/" class="transition">&iexcl;Qu&eacute; ch&eacute;vere!</a></li>
-				<li><a href="<?php echo $server; ?>world-languages/french/" class="transition">T'es branch&eacute;?</a></li>
-				<li><a href="<?php echo $server; ?>world-languages/german/" class="transition">Deutsch Aktuell</a></li>
-				<li><a href="<?php echo $server; ?>world-languages/chinese/" class="transition">Zh&eacute;n Bang</a></li>
+				<li><a href="<?php echo $server; ?>world-languages/spanish/quechevere/" class="transition">&iexcl;Qu&eacute; ch&eacute;vere!</a></li>
+				<li><a href="<?php echo $server; ?>world-languages/french/tes-branche/" class="transition">T'es branch&eacute;?</a></li>
+				<li><a href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/" class="transition">Deutsch Aktuell</a></li>
+				<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/" class="transition">Zh&eacute;n Bang</a></li>
 				<li><a href="<?php echo $server; ?>world-languages/italian/" class="transition">Italian</a></li>
                 <li><a href="http://store.emcp.com/world-languages.html?emc_product_series=527" class="transition">Symatlk</a></li>
                 <li><a href="http://store.emcp.com/world-languages.html?emc_product_series=401" class="transition">Exploring</a></li>

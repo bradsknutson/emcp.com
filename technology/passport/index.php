@@ -17,7 +17,8 @@
 				</div>
             </div>
             <div class="ninehundred textcenter">                
-                <p><strong>Passport&reg;</strong> is a revolutionary world language learning environment that allows teachers to assign classwork, track student progress, and easily report results to parents or school districts – all within a single application and easily accessible with one click. It seamlessly delivers EMC's leading world language content and assets in a research-based platform developed by the University of Minnesota (LT Media Lab).<br />With <strong>Passport&reg;</strong> students are immersed in their target language and culture, while teachers capture and measure progress with performance-based tasks and assessments.</p>
+                <p><strong>Passport&reg;</strong> is a revolutionary world language learning environment that allows teachers to assign classwork, track student progress, and easily report results to parents or school districts – all within a single application and easily accessible with one click. It seamlessly delivers EMC's leading world language content and assets in a research-based platform developed by the University of Minnesota’s Institute for Design Innovation (IDI).<br />
+                    With <strong>Passport&reg;</strong> students are immersed in their target language and culture, while teachers capture and measure progress with performance-based tasks and assessments.</p>
                 
                 <img src="<?php echo $server; ?>lib/images/discover.png" alt="Discover" />
                 <p><strong>Discover</strong> &mdash; Teachers and students explore award-winning curricula, accessible anytime, anywhere, and from any device.</p>
