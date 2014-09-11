@@ -24,7 +24,11 @@
 					</ul>
 				</li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a></li>
-				<li<?php echo get_current('language-arts',$current); ?>><a href="http://store.emcp.com/english-language-arts.html">Language Arts</a></li>
+				<li<?php echo get_current('language-arts',$current); ?>><a href="<?php echo $server; ?>language-arts/">Language Arts</a>
+					<ul>
+						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/">Mirrors & Windows</a></li>
+                    </ul>
+                </li>
                 <li<?php echo get_current('technology',$current); ?>><a href="<?php echo $server; ?>technology/">Technology</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>technology/passport/">Passport</a></li>

@@ -3,6 +3,7 @@
 	include '../includes/header.php';
 ?>
 	<div id="container">
+        <div class="vimeo-modal"></div>
 		<div class="header-top-dark">
 			<?php include '../includes/nav.php'; ?>
 		</div>
@@ -75,7 +76,22 @@
 				
 				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
 			</div>
-			<div class="redefining-bg"></div>
+			<div class="redefining-bg">
+				<div class="vimeo-modals-container">
+					<div class="avenue-play-button">
+						<div class="play-button">
+							<div class="icon-play"></div>
+						</div>
+					</div>
+					<div class="avenue-play-button-hover-background"></div>
+					<div class="flipgrid-play-button">
+						<div class="play-button">
+							<div class="icon-play"></div>
+						</div>
+					</div>
+					<div class="flipgrid-play-button-hover-background"></div>
+				</div>            
+            </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid">
 					<div class="one-half first">

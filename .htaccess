@@ -146,3 +146,14 @@ RewriteRule ^passport/$  http://www.emcp.com/technology/passport/ [R=301,L]
 
 RewriteRule ^world-languages/japanese/  http://store.emcp.com/world-languages.html?language=359 [R=301,L]
 RewriteRule ^world-languages/arabic/  http://store.emcp.com/world-languages.html?language=365 [R=301,L]
+
+RewriteRule ^econ$  http://www.emcp.com/applied-learning/economics/ [R=301,L]
+RewriteRule ^econ/$  http://www.emcp.com/applied-learning/economics/ [R=301,L]
+
+RewriteRule ^ela$  http://www.emcp.com/language-arts/ [R=301,L]
+RewriteRule ^ela/$  http://www.emcp.com/language-arts/ [R=301,L]
+RewriteRule ^language-arts/programs/  http://store.emcp.com/english-language-arts.html [R=301,L]
+RewriteRule ^language-arts/resources/  http://store.staging.emcp.com/english-language-arts.html?emc_product_type=580 [R=301,L]
+RewriteRule ^language-arts/readers/  http://store.emcp.com/english-language-arts.html?emc_product_type=367 [R=301,L]
+RewriteRule ^mw$  http://www.emcp.com/language-arts/mirrors-windows/ [R=301,L]
+RewriteRule ^mw/$  http://www.emcp.com/language-arts/mirrors-windows/ [R=301,L]

@@ -1329,6 +1329,205 @@ p.chatbox-quote{
 
 /* -------- End Zhen Bang Page Styles -------------- */
 
+
+/* -------- Start Economics Page Styles -------------- */
+
+
+.econ-bg, .econ-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.econ-bg #topImg{
+	background: url('../images/econ-header.jpg') no-repeat 50% 100%;
+}
+.econ .secondary-first {
+    background: #FFF;
+}
+.econ .secondary-first p {
+    line-height: 1.5;
+}
+.econ .entry-title h3 {
+    margin: 0;   
+    font-size: 26px;
+}
+.econ .entry-title h4 {
+    margin: 0;   
+    font-size: 22px;
+    font-weight: 100;
+}
+.econ .entry-title h2 {
+    margin: 0 0 40px;
+    font-size: 34px;
+    line-height: 1;
+}
+.econ .left-block, .econ .right-block {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 50%;
+    margin-top: 40px;
+}
+.econ .left-block {
+    padding-right: 10px;   
+}
+.econ .right-block {
+    padding-left: 10px;   
+}
+.econ-features ul {
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+.econ-features ul li {
+    line-height: 1.8;
+    margin: 0 0 30px;
+}
+.econ-features ul li:last-child {
+    margin: 0;
+}
+.econ .conectate-left {
+    padding-right: 85px;   
+}
+.featured-flipgrid-left, .featured-flipgrid-right {
+    float: left;
+}
+.featured-flipgrid-left {
+    width: 380px;
+}
+.featured-flipgrid-right {
+    width: 580px;
+}
+.featured-flipgrid .learn-more-link {
+    color: #585858 !important;
+    font-weight: 100;
+    border-bottom: 1px solid #585858;
+}
+.featured-flipgrid-right h3 {
+    font-size: 26px;
+    line-height: 1.6;
+}
+.featured-flipgrid-right p {
+    line-height: 1.8;
+}
+
+/* -------- End Economics Page Styles -------------- */
+
+/* -------- Start ELA Page Styles -------------- */
+
+.ela .bc-current h3 {
+    padding-left: 0px !important;
+}
+.featured-ela {
+    background: #D35C20 url('../images/mw-collage.png') no-repeat 50% 50%;
+    color: #FFF;
+    height: 355px;
+}
+.featured-ela .ninehundred div {
+    width: 465px;   
+}
+.featured-ela h2 {
+    color: #FFF;
+    font-size: 36px;
+    margin: 10px 0;
+}
+.featured-ela p {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.featured-ela .learn-more-link {
+    color: #FFF;
+    border-bottom: 1px solid #FFF;
+    margin-top: 15px; 
+}
+.ela-comp .left-block, .ela-comp .right-block {
+    float: left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.ela-comp .left-block {
+    width: 45%; 
+}
+.ela-comp .right-block {
+    width: 55%;
+}
+.ela-comp .left-block img {
+    margin: 30px 0 0 110px; 
+}
+.ela-comp h3 {
+    font-size: 36px;  
+    padding: 0;
+    margin: 0;
+}
+.ela .sub-featured {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.ela .sub-featured:nth-child(1) {
+    padding-right: 10px;
+}
+.ela .sub-featured:nth-child(2) {
+    padding-left: 10px;
+}
+.ela .sub-featured ul {
+    padding: 0 0 20px 20px;
+    margin: 0;
+}
+
+/* -------- END ELA Page Styles -------------- */
+
+/* -------- Start MW Page Styles -------------- */
+
+.mw-bg, .mw-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.mw-bg #topImg{
+	background: url('../images/mw-header.jpg') no-repeat 50% 100%;
+}
+.mw .secondary-first h3 {
+    line-height: 1.2;
+    font-size: 30px;
+    padding: 0;
+    margin: 0 0 40px 0;
+    text-align: center;
+}
+.mw .conectate-left, .mw .conectate-right {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 50%;
+}
+.mw .conectate-left {
+    padding-right: 10px;  
+}
+.mw .conectate-right {
+    padding-left: 10px; 
+}
+.mw .secondary-first ul {
+    padding: 0 0 0 20px;   
+}
+.mw .conectate-right img {
+    display: block;
+    margin: 0 auto 20px;
+}
+.mw .conectate-iculture-second {
+    width: 350px;
+    margin-left: 10px;
+}
+.mw .redefining-bg {
+    background: url('../images/avenue-flipgrid-mw-bg.png') no-repeat 50% 100%;   
+}
+.mw .conectate-iculture-second h3 {
+    font-size: 24px;   
+}
+.mw .conectate-iculture-second p {
+    line-height: 1.6;   
+}
+
+
+/* -------- END MW Page Styles -------------- */
+
 /* -------- Start Bookshelf Page Styles -------------- */
 .bookshelf {
     
@@ -2018,6 +2217,9 @@ h3.adonde {
 .marginbottom15 {
 	margin-bottom: 15px !important;
 }
+.margintop15 {
+	margin-top: 15px !important;
+}
 .textcenter {
     text-align: center;
 }
@@ -2033,6 +2235,12 @@ h3.adonde {
 }
 .marginbottom40 {
     margin-bottom: 40px;   
+}
+.paddingtop40 {
+    padding-top: 40px;   
+}
+.paddingbottom40 {
+    padding-bottom: 40px;   
 }
 .left-block, .right-block {
     float: left;   
