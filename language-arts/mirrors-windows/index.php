@@ -25,7 +25,6 @@
                         <li>100% compliant with the Common Core State Standards</li>
                         <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning Guide, Assessment Guide, and Assessment Practice Guide</li>
                     </ul>
-                    <p><a href="http://store.emcp.com/english-language-arts.html?emc_product_series=407" class="learn-more-link">Buy It Now!</a></p>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/mw-cover.png" alt="Mirrors and Windows Level 1" />
@@ -46,7 +45,7 @@
 				<div class="clearfix"></div>
 			</div>        
         </div>
-		<div class="redefining grey-slice">
+		<div class="redefining light-grey-slice">
 			<div class="ninehundred no-bottom">
 				<div class="aligncenter">
 					<h2>Redefining seamless learning through technology.</h2>

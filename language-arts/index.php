@@ -63,7 +63,7 @@ Great literature and current informational texts, multi-platform eBooks, and tec
                     <li>Close reading support ensures understanding and enjoyment.</li>
                     <li>Thought-provoking questions and activities invite students to connect their lives to those of the characters.</li>
                 </ul>
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=361&q=symtalk">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts/emc-access-editions.html">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/ela-reader.jpg" alt="Write-In Readers" />
@@ -77,7 +77,7 @@ Great literature and current informational texts, multi-platform eBooks, and tec
                     <li>Standardized test practice! Students learn how to demonstrate essential reading skills and gain confidence in testing situations.</li>
                     <li>Vocabulary builders! Student vocabulary is increased through Word Workshops and strategy instruction in deciphering difficult words.</li>                
                 </ul>
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-german-3rd-edition.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts/the-emc-write-in-reader.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>

@@ -2248,6 +2248,9 @@ h3.adonde {
 .grey-slice {
     background: #E9E9E9;   
 }
+.light-grey-slice {
+    background: #F0EFEB;   
+}
 .p-larger {
     font-size: 22px;
 }
