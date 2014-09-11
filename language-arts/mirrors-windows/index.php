@@ -74,12 +74,12 @@
 					<div class="one-half first">
 						<p><span class="bold">Avenue&trade;</span> is an innovative e-assessment platform for building custom speaking and listening tasks to capture, evaluate, archive, and visualize progress of video-based learner performances in your language arts classroom.</p>
 						
-						<a href="http://emcl.com/avenue" target="_blank" class="learn-more-link">Learn more about Avenue</a>
+						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
 					</div>
 					<div class="one-half last">
 						<p><span class="bold">Flipgrid&trade;</span> allows teachers to create grids of short discussion-style questions that students respond to through recorded videos. Use Mirrors & Windows essential questions to practice speaking and listening skills. Flipgrid boosts community and social presence in face-to-face, hybrid, and online classrooms.</p>
 						
-						<a href="http://emcl.com/flipgrid" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
+						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>

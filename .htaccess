@@ -157,3 +157,6 @@ RewriteRule ^language-arts/resources/  http://store.staging.emcp.com/english-lan
 RewriteRule ^language-arts/readers/  http://store.emcp.com/english-language-arts.html?emc_product_type=367 [R=301,L]
 RewriteRule ^mw$  http://www.emcp.com/language-arts/mirrors-windows/ [R=301,L]
 RewriteRule ^mw/$  http://www.emcp.com/language-arts/mirrors-windows/ [R=301,L]
+
+RewriteRule ^technology/flipgrid/$  http://emcl.com/flipgrid [R=301,L]
+RewriteRule ^technology/avenue/$  http://emcl.com/avenue [R=301,L]

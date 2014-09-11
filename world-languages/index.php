@@ -1,4 +1,5 @@
 <?php 
+	$custom_title = 'EMC World Languages | ';
 	include '../includes/header.php';
 ?>
 	<div id="container">

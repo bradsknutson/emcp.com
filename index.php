@@ -128,12 +128,12 @@
 					<div class="one-half first">
 						<p><span class="bold">Avenue&trade;</span> is a simple, yet powerful e-assessment platform where your students build portfolios of their spoken performances. Educators can create custom tasks or build tasks based on EMC's rich, pre-loaded library of media.</p>
 						
-						<a href="http://emcl.com/avenue" target="_blank" class="learn-more-link">Learn more about Avenue</a>
+						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
 					</div>
 					<div class="one-half last">
 						<p><span class="bold">Flipgrid&trade;</span> is a video-based discussion environment where students respond to short, teacher-created questions. Flipgrid brings the back row to the front in your classroom.</p>
 						
-						<a href="http://emcl.com/flipgrid" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
+						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>

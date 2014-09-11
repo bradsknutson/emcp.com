@@ -1528,6 +1528,45 @@ p.chatbox-quote{
 
 /* -------- END MW Page Styles -------------- */
 
+/* -------- Start Technology Page Styles -------------- */
+
+.technology .header-secondary-page {
+    height: 138px;       
+}
+.technology .world-languages-title h3 {
+    text-align: center;   
+}
+.technology .world-languages-right {
+    background-color: #E8E8E8;
+}
+.technology .world-languages-left {
+    background-color: #FFF;
+}
+.technology .world-languages-right img, .technology .world-languages-left img {
+    margin-top: 60px;   
+}
+.technology .techlp-passport {
+    background: #E8E8E8 url('../images/slice-passport.png') no-repeat 50% 0%   
+}
+.technology .techlp-bookshelf {
+    background: #FFF url('../images/slice-bookshelf.png') no-repeat 50% 0%   
+}
+.technology .techlp-iculture {
+    background: #E8E8E8 url('../images/slice-iculture.png') no-repeat 50% 0%   
+}
+.technology .techlp-flipgrid {
+    background: #FFF url('../images/slice-flipgrid.png') no-repeat 50% 0%   
+}
+.technology .techlp-avenue {
+    background: #E8E8E8 url('../images/slice-avenue.png') no-repeat 50% 0%   
+}
+.technology .techlp-elpac {
+    background: #FFF url('../images/slice-elpac.png') no-repeat 50% 0%   
+}
+
+
+/* -------- END Technology Page Styles -------------- */
+
 /* -------- Start Bookshelf Page Styles -------------- */
 .bookshelf {
     

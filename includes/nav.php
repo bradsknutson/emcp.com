@@ -34,8 +34,8 @@
 						<li><a href="<?php echo $server; ?>technology/passport/">Passport</a></li>
 						<li><a href="<?php echo $server; ?>technology/bookshelf/">Bookshelf</a></li>
 						<li><a href="<?php echo $server; ?>technology/iculture/">i-Culture</a></li>
-						<li><a href="http://emcl.com/flipgrid">Flipgrid</a></li>
-						<li><a href="http://emcl.com/avenue">Avenue</a></li>
+						<li><a href="<?php echo $server; ?>technology/flipgrid/">Flipgrid</a></li>
+						<li><a href="<?php echo $server; ?>technology/avenue/">Avenue</a></li>
 						<li><a href="<?php echo $server; ?>technology/elpac/">ELPAC</a></li>
 					</ul>                
                 </li>
