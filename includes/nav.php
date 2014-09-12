@@ -23,10 +23,22 @@
 						<li><a href="<?php echo $server; ?>world-languages/arabic/">Arabic</a></li>
 					</ul>
 				</li>
-				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a></li>
+				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a>
+					<ul>
+						<li><a href="<?php echo $server; ?>applied-learning/business-education/">Business Education &<br />Computer Skills</a></li>
+						<li><a href="<?php echo $server; ?>applied-learning/computer-apps/">Computer Applications</a></li>
+						<li><a href="<?php echo $server; ?>applied-learning/applied-science/">Applied Science</a></li>
+						<li><a href="<?php echo $server; ?>applied-learning/social-studies/">Social Studies</a></li>
+						<li><a href="<?php echo $server; ?>applied-learning/career-life-skills/">Career & Life Skills</a></li>
+					</ul>
+                
+                </li>
 				<li<?php echo get_current('language-arts',$current); ?>><a href="<?php echo $server; ?>language-arts/">Language Arts</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/">Mirrors & Windows</a></li>
+						<li><a href="<?php echo $server; ?>language-arts/expository-composition/">Expository Composition</a></li>
+						<li><a href="<?php echo $server; ?>language-arts/access-editions/">Access Editions</a></li>
+						<li><a href="<?php echo $server; ?>language-arts/write-in-readers/">Write-in Readers</a></li>
                     </ul>
                 </li>
                 <li<?php echo get_current('technology',$current); ?>><a href="<?php echo $server; ?>technology/">Technology</a>
