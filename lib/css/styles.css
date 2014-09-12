@@ -2304,19 +2304,21 @@ h3.adonde {
 /* -------- Start Media Queries ---------------- */
 @media screen and (min-width: 1201px) {
 	.catalog-container {
-		width: 100%;
+        
 	}
 	.catalog-container-1 {
-		width: 75%;
+		/* width: 75%; */
 	}
 	.catalog_container-2 {
-		width: 25%;
+		/* width: 25%; */
 	}
 	.cb33 {
 		/* width: 33.33333333333333333333333335%; */
+        width: 300px;
 	}
 	.cb66 {
 		/* width: 66.66666666666666666666666665%; */
+        width: 600px;
 	}
 	.catalog_container-2 .cb33 {
 		width: 100%;
