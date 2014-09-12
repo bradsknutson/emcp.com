@@ -15,7 +15,7 @@
 				<li><a href="<?php echo $server; ?>world-languages/spanish/quechevere/" class="transition">&iexcl;Qu&eacute; ch&eacute;vere!</a></li>
 				<li><a href="<?php echo $server; ?>world-languages/french/tes-branche/" class="transition">T'es branch&eacute;?</a></li>
 				<li><a href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/" class="transition">Deutsch Aktuell</a></li>
-				<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/" class="transition">Zh&eacute;n Bang</a></li>
+				<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/" class="transition">Zh&eacute;n B&agrave;ng!</a></li>
 				<li><a href="<?php echo $server; ?>world-languages/italian/" class="transition">Italian</a></li>
                 <li><a href="http://store.emcp.com/world-languages.html?emc_product_series=527" class="transition">Symatlk</a></li>
                 <li><a href="http://store.emcp.com/world-languages.html?emc_product_series=401" class="transition">Exploring</a></li>
@@ -162,7 +162,7 @@
 								<div class="catalog_block_overlay">
 									<div class="catalog_block_overlay_text">
 										Chinese<br />
-										&mdash; <em>Zh&eacute;n Bang</em> &mdash;
+										&mdash; <em>Zh&eacute;n B&agrave;ng!</em> &mdash;
 									</div>
 								</div>
 							</div>
