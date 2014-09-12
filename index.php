@@ -1,22 +1,13 @@
 <?php include 'includes/header.php'; ?>
 	<div id="container" class="main">
 		<div class="header-background-image">
-			<div id="topImg" style="background: #393939 url('<?php echo $server; ?>lib/images/passport-hero.png') no-repeat 50% 50%;">
+			<div id="topImg">
 				<div class="play-button">
 					<div class="icon-play"></div>
 				</div>
 				<div class="header-hero-hover"></div>
 				<div class="future-fluency">
-					<h2 style="padding-top:0px !important;">The future of fluency</h2>
-					<div class="ninehundred no-top" style="padding-bottom:0 !important;">
-						<div id="digits"></div>
-						<div id="timer">
-							<div class="clock" style="padding-left:4px;">Days</div>
-							<div class="clock">Hours</div>
-							<div class="clock">Minutes</div>
-							<div class="clock">Seconds</div>
-						</div>
-					</div>
+					<h2>The future of fluency</h2>
 				</div>				
 			</div>
 		</div>

@@ -24,13 +24,9 @@
     <!-- Add jQuery library -->
     <script src="<?php echo $server ?>lib/js/jquery.min.js" type="text/javascript"></script>
 	
-	<!-- Add jQuery countdown -->
-    <script src="<?php echo $server ?>lib/js/jquery.countdown.min.js" type="text/javascript"></script>
-	
-    <!-- Add slider JS files -->
+    <!-- Add Royalslider -->
     <link href="<?php echo $server ?>lib/royalslider/royalslider.css" rel="stylesheet">
     <link href="<?php echo $server ?>lib/royalslider/default/rs-default.css" rel="stylesheet">
-    
     <script src="<?php echo $server ?>lib/royalslider/jquery.easing-1.3.js"></script>
     <script src="<?php echo $server ?>lib/royalslider/jquery.royalslider.min.js"></script>
     
@@ -54,16 +50,5 @@
 	} ?>
 
 	<?php include 'ga.php'; ?>
-	
-	<!-- Countdown function -->
-	<script type="text/javascript" >
-      $(function(){
-        $("#digits").countdown({
-		  image: "lib/images/digits_small.png",
-		  format: "dd:hh:mm:ss",
-		  endTime: new Date(2014, 10, 10)
-        });
-      });
-    </script>
 </head>
 <body>

@@ -179,6 +179,18 @@
                                 </div>
                             </div>
                         </a>
+					</div>	
+					<div class="catalog_block cb33">	
+                        <a href="http://store.emcp.com/world-languages.html?emc_product_type=366">
+                            <div class="catalog_block_img_container cbic11">
+                                <img src="<?php echo $server; ?>lib/images/2015-games.jpg" alt="Games" />
+                                <div class="catalog_block_overlay">
+                                    <div class="catalog_block_overlay_text">
+                                        &mdash; Games &mdash;
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
 					</div>			
 				</div>
 			</div>
