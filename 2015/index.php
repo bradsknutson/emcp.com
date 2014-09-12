@@ -47,9 +47,9 @@
 							</a>	
 						</div>
 						<div class="catalog_block cb66">
-                            <a href="<?php echo $server; ?>passport">
+                            <a href="<?php echo $server; ?>technology/">
                                 <div class="catalog_block_img_container cbic2">
-                                    <img src="<?php echo $server; ?>lib/images/2015-passport.jpg" alt="Passport" />
+                                    <img src="<?php echo $server; ?>lib/images/2015-passport.jpg" alt="Technology" />
                                     <div class="catalog_block_overlay">
                                         <div class="catalog_block_overlay_text">
                                             &mdash; Technology &mdash;
