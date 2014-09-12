@@ -1055,6 +1055,9 @@ p.chatbox-quote{
 .featured-spanish-va {
 	padding: 60px 0 0 0;
 }
+
+/* -------- Start Applied Learning Page -------------- */
+
 .applied-learning-top {
 	margin-top: 150px;
 }
@@ -1077,12 +1080,24 @@ p.chatbox-quote{
 .emc-store.no-top-padding {
 	background: #F5F1EE url('../images/applied-learning-books.png') no-repeat 50% 95px;
 }
-.no-top-padding {
-	padding-top: 10px;
+.al-featured-product .left-block {
+    width: 600px;
 }
-.largest-link {
-	font-size: 30px !important;
+.al-featured-product .right-block {
+    width: 360px;
 }
+.al-featured-product .right-block img {
+    display: block;
+    margin: auto;
+    height: 300px;
+}
+.al-featured-product h3 {
+    margin: 10px 0 0;   
+    font-size: 38px;
+}
+
+/* -------- End Applied Learning Page -------------- */
+
 .no-top-padding .seveneighty .aligncenter {
 	margin-top: 300px;
 }
@@ -2299,6 +2314,12 @@ h3.adonde {
 }
 .p-smaller {
     font-size: 16px;   
+}
+.no-top-padding {
+	padding-top: 10px;
+}
+.largest-link {
+	font-size: 30px !important;
 }
 
 /* -------- Start Media Queries ---------------- */

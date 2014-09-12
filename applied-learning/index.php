@@ -54,20 +54,22 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>		
-		<div class="emc-store no-top-padding">
-			<h2 class="emc-languages-h2">Explore our award-winning library in the new EMC store.</h2>
-			<div class="seveneighty">				
-				<div class="aligncenter">
-					<a href="http://store.emcp.com" class="learn-more-link larger-link largest-link">Explore the EMC store</a>
-				</div>
-				<p>
-					Our newly designed EMC store is your hub for all of our innovative and award-winning products and supplemental materials. You'll find our World Languages, Applied Learning, and Language Arts curriculum series, in addition to our multiplatform eBooks and research-based digital learning environments Avenue™, Flipgrid™, and i-Culture™.
-				</p>
-			</div>
+		<div class="al-featured-product grey-slice">
+            <div class="ninesixty paddingtop40 paddingbottom40 onesix">
+                <div class="left-block">
+                    <h3>Featured Book</h3>
+                    <p class="no-top">Economics: New Ways of Thinking, Second Edition</p>
+
+                    <p>Grab you students’ attention with real-world examples they can relate to. From the NFL draft to concert ticket prices to NASCAR, Economics: New Ways of Thinking, Second Edition engages your students by finding economics in the most surprising places.</p>
+                    
+                    <p><a href="<?php echo $server; ?>applied-learning/economics/" class="learn-more-link">Learn More</a></p>
+                </div>
+                <div class="right-block">
+                    <img src="<?php echo $server; ?>lib/images/econ-cover.jpg" alt="Economics: New Ways of Thinking, Second Edition" />
+                </div>
+                <div class="clearfix"></div>
+            </div>
 		</div>		
-		
-		
-		
 		<div class="redefining">
 			<div class="ninehundred no-bottom">
 				<div class="aligncenter">
