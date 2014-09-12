@@ -60,7 +60,7 @@
                     <h3>Featured Book</h3>
                     <p class="no-top">Economics: New Ways of Thinking, Second Edition</p>
 
-                    <p>Grab you students’ attention with real-world examples they can relate to. From the NFL draft to concert ticket prices to NASCAR, Economics: New Ways of Thinking, Second Edition engages your students by finding economics in the most surprising places.</p>
+                    <p>Grab you students' attention with real-world examples they can relate to. From the NFL draft to concert ticket prices to NASCAR, Economics: New Ways of Thinking, Second Edition engages your students by finding economics in the most surprising places.</p>
                     
                     <p><a href="<?php echo $server; ?>applied-learning/economics/" class="learn-more-link">Learn More</a></p>
                 </div>

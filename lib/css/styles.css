@@ -1092,8 +1092,11 @@ p.chatbox-quote{
     height: 300px;
 }
 .al-featured-product h3 {
-    margin: 10px 0 0;   
+    margin: 0; 
     font-size: 38px;
+}
+.al-featured-product p.no-top {
+    font-size: 24px;
 }
 
 /* -------- End Applied Learning Page -------------- */

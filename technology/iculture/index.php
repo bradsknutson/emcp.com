@@ -35,7 +35,7 @@
                     <p>To truly understand a foreign language and its culture, learners need current, real-life connections to French, Spanish and German speaking worlds—all at a level they can understand. With three fresh, up-to-date news articles a week, your learners will now have the resources to connect their classwork with real-life culture and news. Each article is recorded by a native speaker and includes two activities for both basic and advanced skills.</p>
                 </div>
                 <div class="slice-right">
-                    <img src="<?php echo $server; ?>lib/images/iculture-slice-1.jpg" />
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-3.jpg" />
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -43,7 +43,7 @@
         <div class="iculture-slice-even">
             <div class="ninesixty">
                 <div class="slice-left">
-                    <img src="<?php echo $server; ?>lib/images/iculture-slice-2.jpg" />
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-4.jpg" />
                 </div>
                 <div class="slice-right">
                     <h3>i-Songs</h3>
@@ -59,7 +59,7 @@
                     <p>Engage and enlighten your students with documentary-style videos that depict the real lives of people in their native countries. New videos are released monthly and topics include daily routines, family and school life, hobbies, holidays, and daily life around town and in the city. What if the current video doesn’t relate to what you’re currently teaching in class? Don’t fret! You always have the option to choose a fitting video from our extensive archived library.</p>
                 </div>
                 <div class="slice-right">
-                    <img src="<?php echo $server; ?>lib/images/iculture-slice-3.jpg" />
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-2.jpg" />
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -67,7 +67,7 @@
         <div class="iculture-slice-even">
             <div class="ninesixty">
                 <div class="slice-left">
-                    <img src="<?php echo $server; ?>lib/images/iculture-slice-4.jpg" />
+                    <img src="<?php echo $server; ?>lib/images/iculture-slice-1.jpg" />
                 </div>
                 <div class="slice-right">
                     <h3>i-Passport</h3>
