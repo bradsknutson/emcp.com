@@ -4,7 +4,7 @@
 					<h3>News and Events</h3>
                     
                     <p><a href="http://store.emcp.com/news-and-events" class="learn-more-link smaller-link">
-					Congratulations!</a><br />
+					Did you know?</a><br />
                     Dr. Charles Miller presented Flipgrid on September 11th at the recent minnedemo event held at teh Reiverview Theatre in Minneapolis, Minnesota!</p>
                     <p>minne<span class="red-quotes">*</span> describes the event on their website, saying, "MinneDemo is for real, working technology products made in Minnesota. Demos are 7 minutes long and PowerPoint IS NOT ALLOWED. Some have described it as geek show and tell."</p>               
 					
