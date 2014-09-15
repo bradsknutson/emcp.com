@@ -2,15 +2,16 @@
 			<div class="ninesixty">
 				<div class="news-events">
 					<h3>News and Events</h3>
+                    
+                    <p><a href="http://store.emcp.com/news-and-events" class="learn-more-link smaller-link">
+					Congratulations!</a><br />
+                    Dr. Charles Miller presented Flipgrid on September 11th at the recent minnedemo event held at teh Reiverview Theatre in Minneapolis, Minnesota!</p>
+                    <p>minne<span class="red-quotes">*</span> describes the event on their website, saying, "MinneDemo is for real, working technology products made in Minnesota. Demos are 7 minutes long and PowerPoint IS NOT ALLOWED. Some have described it as geek show and tell."</p>               
 					
 					<p><a href="http://store.emcp.com/news-and-events" class="learn-more-link smaller-link">
 					Congratulations!</a><br />
 					EMC congratulates the entire Flipgrid team on their recognition at this year's Webby Awards! Flipgrid was an honoree in three categories—Web Education, Social Education and Discovery, and Mobile Education and Reference....</p>
-					
-					<p><a href="http://store.emcp.com/news-and-events" class="learn-more-link smaller-link">
-					"Flipgrid: The Missing Link for the Flipped Classroom."</a><br />
-					What are teachers saying about Flipgrid&trade;? "Flipgrid is the 'flipped classroom's' missing piece," says Richard Perry, an English Language Arts teacher from Long Island. Perry continues...</p>
-					
+                    
 				</div>
 				<div class="twitter-news">
 					<a href="https://twitter.com/EMCPublishing" class="twitter-handle" target="_blank">@EMCPublishing</a>
