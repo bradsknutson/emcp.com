@@ -3,14 +3,16 @@
 				<div class="news-events">
 					<h3>News and Events</h3>
                     
+                    <p><a href="http://newmountainlearning.com/wp-content/uploads/2014/09/Que-Chevere-Release.pdf" class="learn-more-link smaller-link">
+					EMC Publishing Unveils New Immersive Spanish Education Program</a></p>
+                    <p>EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student.</p>
+
+                    <p>Please <a href="http://newmountainlearning.com/wp-content/uploads/2014/09/Que-Chevere-Release.pdf" target="_blank">click here</a> to read the full press release.</p>
+                    
                     <p><a href="http://store.emcp.com/news-and-events" class="learn-more-link smaller-link">
 					Did you know?</a><br />
                     Dr. Charles Miller presented Flipgrid on September 11th at the recent minnedemo event held at the Riverview Theatre in Minneapolis, Minnesota!</p>
-                    <p>minne<span class="red-quotes">*</span> describes the event on their website, saying, "MinneDemo is for real, working technology products made in Minnesota. Demos are 7 minutes long and PowerPoint IS NOT ALLOWED. Some have described it as geek show and tell."</p>               
-					
-					<p><a href="http://store.emcp.com/news-and-events" class="learn-more-link smaller-link">
-					Congratulations!</a><br />
-					EMC congratulates the entire Flipgrid team on their recognition at this year's Webby Awards! Flipgrid was an honoree in three categories—Web Education, Social Education and Discovery, and Mobile Education and Reference....</p>
+                    <p>minne<span class="red-quotes">*</span> describes the event on their website, saying, "MinneDemo is for real, working technology products made in Minnesota. Demos are 7 minutes long and PowerPoint IS NOT ALLOWED. Some have described it as geek show and tell."</p>
                     
 				</div>
 				<div class="twitter-news">
