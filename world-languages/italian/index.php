@@ -19,8 +19,9 @@
 			<div class="ninehundred onesix">
 				<div>
 					<h2>Caff&egrave; Italia</h2>
-					<p>EThis three-level Italian program for the middle and high school market was created by an expert group of teachers and based on the latest teaching methodologies. <span class="italic">Caff&egrave; Italia</span> puts students at the center of the learning process and encourages them to discover the rules and rationales behind the Italian language.</p>
-					<!-- <a class="learn-more-link smaller-link" href="http://www.emcp.com/ci">Learn more</a> -->
+                    <p class="no-top">Middle and High School</p>
+					<p>This three-level Italian program was created by an expert group of teachers and based on the latest teaching methodologies. <span class="italic">Caff&egrave; Italia</span> puts students at the center of the learning process and encourages them to discover the rules and rationales behind the Italian language.</p>
+					<a class="learn-more-link smaller-link" href="<?php echo $server; ?>ci">Learn more</a>
 				</div>
 			</div>
 		</div>

@@ -96,7 +96,7 @@
 					<h2>Redefining seamless learning through technology.</h2>
 				</div>
 				
-				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
+				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
 			</div>
 			<div class="redefining-bg">
 				<div class="vimeo-modals-container">

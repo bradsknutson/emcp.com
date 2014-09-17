@@ -22,7 +22,7 @@
                         <li>Mix of easy, moderate, and challenging selections</li>
                         <li>Cross-curricular and text-to-text connections</li>
                         <li>In-depth workshops for skills mastery</li>
-                        <li>100% compliant with the Common Core State Standards</li>
+                        <li>A full correlation to the Common Core State Standards</li>
                         <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning Guide, Assessment Guide, and Assessment Practice Guide</li>
                     </ul>
 				</div>
@@ -40,7 +40,7 @@
 				</div>
 				<div class="conectate-iculture-second">
                     <h3 class="conectate">Multiplatform eBooks on Bookshelf</h3>
-					<p class="no-top">EMC's multiplatform eBooks connect students to literature and language arts in and out of the classroom.  With a touch of the finger, students are able to access every page of their textbooks.  Our eBooks are available for delivery on all laptops, desktops, and mobile devices, including the iPad&copy;.</p>
+                    <p class="no-top">EMC's multiplatform eBooks connect students to literature and language arts in and out of the classroom.  With a touch of the finger, students are able to access every page of their textbooks.  Our eBooks are available for delivery on all laptops, desktops, and mobile devices, including the iPad,<sup>&copy;</sup>.</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>        
@@ -51,7 +51,7 @@
 					<h2>Redefining seamless learning through technology.</h2>
 				</div>
 				
-				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
+				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
 			</div>
 			<div class="redefining-bg">
 				<div class="vimeo-modals-container">

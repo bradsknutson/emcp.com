@@ -18,8 +18,9 @@
 		<div class="wl-featured-first featured-french">
 			<div class="ninehundred onesix">
 				<div>
-					<h2>T'es branch&eacute;?</h2>
-					<p>The all-new, 4-level French program for the middle and high school market. The vast digital assets and resources of <span class="italic">T'es branch&eacute;?</span> are fully integrated into Passport, EMC’s cutting-edge digital learning environment - and at your fingertips.</p>
+					<h2 class="no-bottom">T'es branch&eacute;?</h2>
+                    <p class="no-top">Middle and High School</p>
+                    <p><span class="italic">T'es branch&eacute;?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. The vast digital resources of our new learning environment, Passport<sup>&reg;</sup>, are fully integrated into <span class="italic">T'es branch&eacute;?</span> and at your finger tips. </p>
 					<a class="learn-more-link smaller-link" href="http://www.emcp.com/teb">Learn more</a>
 				</div>
 			</div>

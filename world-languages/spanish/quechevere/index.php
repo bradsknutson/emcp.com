@@ -19,7 +19,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="conectate-left">
-					<span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span> a 5-level Spanish program for the 21st century.  Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. Students today need a multi-sensory and multi-layered learning environment that is designed to inspire creativity, synthesis, and collaboration, as well as provide opportunities to analyze, reflect, and evaluate. With <em>&iexcl;Qu&eacute; ch&eacute;vere!</em> learners will discover Spanish in a whole new way with our cutting-edge digital resources, such as video-based tools, authentic cultural videos, eBooks and much more.
+					<span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom.  Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. Students today need a multi-sensory and multi-layered learning environment that is designed to inspire creativity, synthesis, and collaboration, as well as provide opportunities to analyze, reflect, and evaluate. With <em>&iexcl;Qu&eacute; ch&eacute;vere!</em> learners will discover Spanish in a whole new way with our cutting-edge digital resources, such as video-based tools, authentic cultural videos, eBooks and much more.
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/QCcover.jpg" alt="&iexcl;Qu&eacute; che&eacute;vere! Spanish Program" />
@@ -58,7 +58,7 @@
 					<h2>Redefining seamless learning through technology.</h2>
 				</div>
 				
-				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
+				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
 			</div>
 			<div class="redefining-bg">
 				<div class="vimeo-modals-container">
@@ -84,7 +84,7 @@
 						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
 					</div>
 					<div class="one-half last">
-						<p><span class="bold">Flipgrid&trade;</span> is a video-based discussion environment where students respond to short, teacher-created questions. Flipgrid brings the back row to the front in your classroom.</p>
+						<p><span class="bold">Flipgrid&trade;</span> is a video-based discussion platform where students respond to short, teacher-created questions. Flipgrid brings the back row to the front in your classroom.</p>
 						
 						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
 					</div>

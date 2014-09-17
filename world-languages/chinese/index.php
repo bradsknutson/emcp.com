@@ -19,8 +19,9 @@
 		<div class="wl-featured-first featured-chinese">
 			<div class="ninehundred onesix">
 				<div>
-					<h2><span class="bold">Zh&#275;n B&agrave;ng!</span></h2>
-					<p>EMC’s 3-level Chinese program developed for the American middle and high school student.  The vast digital assets and resources of <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> are fully integrated into Passport, EMC’s cutting-edge digital learning environment - and at your fingertips.</p>
+					<h2 class="no-bottom"><span class="bold">Zh&#275;n B&agrave;ng!</span></h2>
+                    <p class="no-top">High School</p>
+                    <p>EMC's 3-level Chinese program, <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span>, welcomes students to the world of Chinese language and culture with a design that is colorful, inviting, and engaging. Students will enjoy talking about their lives, family, friends, school, home, eating, shopping, and more in paired and group communicative activities. The vast digital resources of our new learning environment, Passport<sup>&reg;</sup>, are fully integrated into <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> and at your finger tips.</p>
 					<a class="learn-more-link smaller-link" href="http://www.emcp.com/zb">Learn more</a>
 				</div>
 			</div>

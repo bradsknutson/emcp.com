@@ -1854,10 +1854,12 @@ p.chatbox-quote{
 .featured-spanish {
 	background: rgb(39,37,131) url('../images/qc-collage.png') no-repeat 50% 50%;
     color: #FFF;
+    height: 375px;
 }
 .featured-german {
 	background: rgb(71, 75, 155) url('../images/da-collage.png') no-repeat 50% 50%;
     color: #FFF;
+    height: 375px;
 }
 .featured-french {
 	background: rgb(55, 98, 140) url('../images/teb-collage.png') no-repeat 50% 50%;
@@ -1866,6 +1868,7 @@ p.chatbox-quote{
 .featured-chinese {
 	background: rgb(228, 58, 52) url('../images/zb-collage.png') no-repeat 50% 50%;
     color: #FFF;
+    height: 395px;
 }
 .featured-italian {
     background: rgb(48, 86, 55) url('../images/ci-collage.png') no-repeat 50% 50%;
@@ -1875,6 +1878,10 @@ p.chatbox-quote{
     color: #FFF;
     font-size: 36px;
     margin: 10px 0;
+}
+.featured-french h2, .featured-german h2, .featured-chinese h2, .featured-italian h2, .featured-spanish h2 {
+    margin: 0;
+    line-height: 1;
 }
 .featured-chinese h2 .bold, .featured-chinese p .bold {
     color: #FFF;
@@ -2250,8 +2257,8 @@ h3.adonde {
 
 
 .no-bottom {
-	margin-bottom: 0px;
-	padding-bottom: 0px;
+	margin-bottom: 0px !important;
+	padding-bottom: 0px !important;
 }
 .no-top {
 	margin-top: 0px;
@@ -2317,6 +2324,9 @@ h3.adonde {
 }
 .p-smaller {
     font-size: 16px;   
+}
+.p-smallest {
+    font-size: 12px;   
 }
 .no-top-padding {
 	padding-top: 10px;

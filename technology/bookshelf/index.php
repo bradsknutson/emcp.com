@@ -18,14 +18,14 @@
 			<div class="ninesixty">
                 <div class="featured-left">
                     <h2>Multiplatform eBooks take learning, well, anywhere</h2>
-                    <p>EMC's multi-platform eBooks connect students to language program resources in and out of the classroom. One-touch navigation allows them to connect to every page of their textbook and workbooks as well as all audio content. Multi-platform eBooks work on all laptops, desktops, and mobile devices including the iPad&copy;.</p>
+                    <p>EMC's multi-platform eBooks connect students to language program resources in and out of the classroom. One-touch navigation allows them to connect to every page of their textbook and workbooks as well as all audio content. Multi-platform eBooks work on all laptops, desktops, and mobile devices including the iPad<sup>&copy;</sup>.</p>
                 </div>
 			</div>
 		</div>
         <div class="white marginbottom40">
             <div class="ninesixty">
                 <div class="left-block">
-                    <p><span class="p-larger">With EMC’s Multi-platform eBooks students*…</span></p>
+                    <p><span class="p-larger">With EMC’s multi-platform eBooks students*…</span></p>
                     <ul>
                         <li>View digital textbook pages and complete practice activities interactively </li>
                         <li>Receive immediate feedback</li>

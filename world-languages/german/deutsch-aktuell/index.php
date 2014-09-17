@@ -56,7 +56,7 @@
 					<h2>Redefining seamless learning through technology.</h2>
 				</div>
 				
-				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning environments for your face-to-face, blended, or online classroom.</p>
+				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
 			</div>
 			<div class="redefining-bg">
 				<div class="vimeo-modals-container">
@@ -151,7 +151,8 @@
 					<div class="one-half last">
 						<h3 class="conectate">ELPAC</h3>
 						
-						<p>Use EMC Language Proficiency Assessments by CARLA* (ELPAC) (performance-based, standardized assessments) to measure your students’ Spanish, French, or German language proficiency. Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery. Developed with input from language teachers and school administrators, ELPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
+						<p>Use EMC Language Proficiency Assessments (ELPAC) to measure your students’ German language proficiency. Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery. Developed with input from language teachers and school administrators, ELPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
+                        <a class="learn-more-link" href="<?php echo $server; ?>technology/elpac/">Learn more</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>

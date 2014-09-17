@@ -24,14 +24,13 @@
                 <div class="featured-left">
                     <h2>ACTFL-aligned online assessments</h2>
                     <p>Use ELPAC performance based, standardized assessments to ensure your students' Spanish, French, or German language proficiency.</p>
-                    <p>Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery.  Developed with input fromlanguage teachers and school administrators, ELCPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
+                    <p>Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery.  Developed with input from language teachers and school administrators, ELCPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
                 </div>
 			</div>
 		</div>
         <div class="white marginbottom40">
             <div class="ninesixty">
                 <div class="elpac-third">
-                    <p>Use ELPAC assessments to ...</p>
                     <ul>
                         <li>Benchmark language skill levels at the beginning or end of the year.</li>
                         <li>Ensure consistent standards across your district.</li>
@@ -39,16 +38,16 @@
                         <li>Determine if students have reached the Intermediate range on the ACTFL scale.</li>
                         <li>Assist staff in making decisions related to instructional planning and curriculum.</li>
                     </ul>
+                    <p class="p-smallest">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
                 </div>
                 <div class="elpac-third">
-                    <p>ELPAC is easy to use ...</p>
                     <ul>
                         <li>Auto-graded Reading and Listening assessments provide immediate feedback.</li>
                         <li>Teacher-graded Speaking and Writing assessments ensure consistent evaluation.</li>
                     </ul>
                 </div>
                 <div class="elpac-third">
-                    <p>ELPAC was developer by CARLA (Center for Advanced Research on Language Acquisition) at the University of Minnesota.  CARLA is one of the U.S. Department of Education's Title VI National Language Resource Centers, whose role is to improve the nation's capacity to teach adn learn foreign languages.</p>
+                    <p>ELPAC was developed by CARLA (Center for Advanced Research on Language Acquisition) at the University of Minnesota.  CARLA is one of the U.S. Department of Education's Title VI National Language Resource Centers, whose role is to improve the nation's capacity to teach and learn foreign languages.</p>
                 </div>
                 <div class="clearfix"></div>
             </div>

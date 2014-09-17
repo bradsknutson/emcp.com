@@ -19,7 +19,8 @@
 			<div class="ninehundred onesix">
 				<div>
 					<h2>&iexcl;Qu&eacute; ch&eacute;vere!</h2>
-					<p>The all-new, 5-level Spanish program for the middle and high school market. The vast digital assets and resources of <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span> are fully integrated into Passport, EMC’s cutting-edge digital learning environment - and at your fingertips.</p>
+                    <p class="no-top">Middle and High School</p>
+                    <p>Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span>, a 5-level Spanish program for the 21st century. Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. The vast digital resources of our new learning environment, Passport<sup>&reg;</sup>, are fully integrated into <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span> and at your finger tips.</p>
 					<a class="learn-more-link smaller-link" href="http://www.emcp.com/qc">Learn more</a>
 				</div>
 			</div>
