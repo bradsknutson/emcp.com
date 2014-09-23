@@ -5,7 +5,8 @@
 	<div id="container" class="mw">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image mw-bg">
-			<div id="topImg">             
+			<div id="topImg">
+                <a class="technology-buttons mw-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank">Sample</a>
 			</div>
 		</div>
 		<div class="header-top">

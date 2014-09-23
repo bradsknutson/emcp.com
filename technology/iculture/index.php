@@ -11,7 +11,7 @@
 				</div>
 				<div class="header-hero-hover"></div>                    
                 <div class="tech-button-container">
-                    <a class="technology-buttons iculture-demo transition" href="" target="_blank">Demo</a>
+                    <a class="technology-buttons iculture-demo transition" href="<?php echo $server; ?>technology/iculture/demo/" target="_blank">Demo</a>
                     <a class="technology-buttons iculture-login transition" href="https://www.emcp.com/ilife/iculturenew/" target="_blank">Login</a>
                     <img src="<?php echo $server; ?>lib/images/iculture-slices.png" alt="i-Culture" class="iculture-slices-img" />
                 </div>

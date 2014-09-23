@@ -1236,6 +1236,67 @@ p.chatbox-quote{
 .fofih img {
     margin: 20px 0px;   
 }
+.passport-demo {
+    z-index: 999;
+    bottom: 0px !important;
+    left: 48%;
+}
+.passport-landing .header-secondary-page {
+    height: 138px;   
+}
+.passport-landing .left-block, .passport-landing .right-block {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.passport-third-section .right-block h3, .passport-third-section .right-block p, .passport-third-section .right-block ul {
+    padding-left: 40px;
+    font-size: 23px;
+    line-height: 1.4;
+}
+.passport-third-section .right-block h3 {
+    margin: 0;
+}
+.passport-third-section .right-block li, .passport-landing .fofih li {
+    margin-left: 20px;   
+}
+.passport-landing .fofih ul {
+    padding: 0;
+    margin: 0;
+}
+.passport-landing .fofih ul {
+    font-size: 23px;
+    line-height: 1.4;
+}
+.icons-left, icons-right {
+    float: left;
+}
+.icons-left {
+   width: 8%; 
+}
+.icons-right {
+   width: 92%; 
+}
+.icons-right p {
+    margin: 0;
+    padding: 0;
+}
+.passport-landing .grey-slice {
+    font-size: 23px;
+    line-height: 1.4;
+}
+.passport-landing .grey-slice h3 {
+       
+}
+.passport-landing .grey-slice .left-block {
+    padding-right: 40px;   
+}
+.passport-landing h3 {
+    font-size: 32px !important;
+}
+
 
 /* -------- End Passport -------------- */
 
@@ -1275,6 +1336,20 @@ p.chatbox-quote{
     font-size: 36px;
     margin: 0;
 }
+.qc-sample {
+    position: relative !important;
+    display: block !important;
+    line-height: 1;
+    margin: 40px 0 10px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 99px;   
+}
+.qc-sample:hover {
+    background-color: #2a4481 !important;
+}
+
 /* -------- End Que Chevere Page Updates -------------- */
 
 /* -------- Start T'es Branche Page Styles -------------- */
@@ -1546,7 +1621,13 @@ p.chatbox-quote{
 .mw .conectate-iculture-second p {
     line-height: 1.6;   
 }
-
+.mw-sample {
+    bottom: 25px !important;
+    left: 48%;
+}
+.mw-sample:hover {
+    background-color: #79cbd6 !important;   
+}
 
 /* -------- END MW Page Styles -------------- */
 
@@ -2303,6 +2384,9 @@ h3.adonde {
 }
 .marginbottom40 {
     margin-bottom: 40px;   
+}
+.paddingtop20 {
+    padding-top: 20px;
 }
 .paddingtop40 {
     padding-top: 40px;   
