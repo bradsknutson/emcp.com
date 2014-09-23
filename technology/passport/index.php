@@ -15,7 +15,7 @@
                 <div class="play-button">
 					<div class="icon-play"></div>
 				</div>
-                <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank">Demo</a>
+                <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank">Sample</a>
             </div>
         </div>
         <div class="fofih">
