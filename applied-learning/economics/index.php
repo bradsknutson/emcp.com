@@ -5,7 +5,10 @@
 	<div id="container" class="econ">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image econ-bg">
-			<div id="topImg">            
+			<div id="topImg">     
+                <div class="tech-button-container">
+                    <a class="technology-buttons econ-sample transition" href="<?php echo $server; ?>applied-learning/economics/sample/" target="_blank">Sample</a>
+                </div>       
 			</div>
 		</div>
 		<div class="header-top">

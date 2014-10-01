@@ -1505,6 +1505,12 @@ p.chatbox-quote{
 .featured-flipgrid-right p {
     line-height: 1.8;
 }
+.econ .technology-buttons {
+    left: 47%;   
+}
+.econ .technology-buttons:hover {
+    background-color: #355494;   
+}
 
 /* -------- End Economics Page Styles -------------- */
 
