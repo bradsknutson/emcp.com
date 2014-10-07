@@ -6,6 +6,9 @@
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image teb-bg">
 			<div id="topImg">
+                <div class="tech-button-container">
+                    <a class="technology-buttons teb-demo transition" href="<?php echo $server; ?>world-languages/french/tes-branche/sample/" target="_blank">Sample</a>
+                </div>
 				<div class="play-button">
 					<div class="icon-play"></div>
 				</div>

@@ -1376,6 +1376,13 @@ p.chatbox-quote{
 .teb-tech {
     background: url('../images/teb-ebooks.jpg') no-repeat 50% 8%;   
 }
+.teb-demo {
+    z-index: 999;
+    left: 45%;
+}
+.teb-demo:hover {
+    background-color: #2c467f !important;   
+}
 
 /* -------- End T'es Branche Page Styles -------------- */
 
@@ -1398,6 +1405,12 @@ p.chatbox-quote{
 }
 .da-tech {
     background: url('../images/da-ebooks.jpg') no-repeat 50% 8%;   
+}
+.da-demo {
+    left: 45%;
+}
+.da-demo:hover {
+    background-color: #2c2f8e !important;   
 }
 
 /* -------- End Deutsch Aktuell Page Styles -------------- */
@@ -1422,6 +1435,12 @@ p.chatbox-quote{
 }
 .zb-tech {
     background: url('../images/zb-ebooks.jpg') no-repeat 50% 8%;   
+}
+.zb-demo {
+    left: 45%;   
+}
+.zb-demo:hover {
+    background-color: #d2232a !important;   
 }
 
 /* -------- End Zhen Bang Page Styles -------------- */

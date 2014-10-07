@@ -5,7 +5,10 @@
 	<div id="container" class="deutsch-aktuell">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image da-bg">
-			<div id="topImg">            
+			<div id="topImg">
+                <div class="tech-button-container">
+                    <a class="technology-buttons da-demo transition" href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/sample/" target="_blank">Sample</a>
+                </div>     
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
