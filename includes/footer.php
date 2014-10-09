@@ -3,16 +3,22 @@
 				<div class="news-events">
 					<h3>News and Events</h3>
                     
+                    <p><a href="http://www.marketwired.com/press-release/emc-publishing-launches-online-learning-environment-k-12-world-language-education-1949912.htm" target="_blank" class="learn-more-link smaller-link">
+					EMC Publishing Launches Online Learning Environment for K-12 World Language Education </a></p>
+                    
+                    <p><strong>"Passport" Takes Students on Journey Towards Fluency</strong></p>
+                    
+                    <p>EMC Publishing is proud to announce Passport&reg;, an innovative and unique online environment for teaching and learning world languages in K-12 classrooms. Passport&reg; (formerly EMCL) taps into the innovative learning technologies that digital natives embrace. It is designed to increase student fluency by allowing them to fully experience the language.</p>   
+                    
+                    <p><a href="http://ctt.marketwire.com/?release=1146623&amp;id=4686226&amp;type=1&amp;url=http%3a%2f%2fbit.ly%2fZCtTKS" target="_blank">Watch how Passport works</a>.</p>
+                    
+                    <p><a href="http://www.marketwired.com/press-release/emc-publishing-launches-online-learning-environment-k-12-world-language-education-1949912.htm" target="_blank">Click here</a> to read the entire press release.</p>
+                    
                     <p><a href="http://newmountainlearning.com/wp-content/uploads/2014/09/Que-Chevere-Release.pdf" class="learn-more-link smaller-link">
 					EMC Publishing Unveils New Immersive Spanish Education Program</a></p>
                     <p>EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student.</p>
 
                     <p>Please <a href="http://newmountainlearning.com/wp-content/uploads/2014/09/Que-Chevere-Release.pdf" target="_blank">click here</a> to read the full press release.</p>
-                    
-                    <p><a href="http://store.emcp.com/news-and-events" class="learn-more-link smaller-link">
-					Did you know?</a><br />
-                    Dr. Charles Miller presented Flipgrid on September 11th at the recent minnedemo event held at the Riverview Theatre in Minneapolis, Minnesota!</p>
-                    <p>minne<span class="red-quotes">*</span> describes the event on their website, saying, "MinneDemo is for real, working technology products made in Minnesota. Demos are 7 minutes long and PowerPoint IS NOT ALLOWED. Some have described it as geek show and tell."</p>
                     
 				</div>
 				<div class="twitter-news">
