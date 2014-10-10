@@ -12,7 +12,7 @@
                     
                     <p><a href="http://ctt.marketwire.com/?release=1146623&amp;id=4686226&amp;type=1&amp;url=http%3a%2f%2fbit.ly%2fZCtTKS" target="_blank">Watch how Passport works</a>.</p>
                     
-                    <p><a href="http://www.marketwired.com/press-release/emc-publishing-launches-online-learning-environment-k-12-world-language-education-1949912.htm" target="_blank">Click here</a> to read the entire press release.</p>
+                    <p><a href="http://www.educationalmarketer.net/content/emc%E2%80%99s-passport-designed-ferry-students-voyage-discovery" target="_blank">Click here</a> to read the entire press release.</p>
                     
                     <p><a href="http://newmountainlearning.com/wp-content/uploads/2014/09/Que-Chevere-Release.pdf" class="learn-more-link smaller-link">
 					EMC Publishing Unveils New Immersive Spanish Education Program</a></p>
