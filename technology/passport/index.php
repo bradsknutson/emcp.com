@@ -22,7 +22,7 @@
             <div class="ninehundred">
                 <h3 class="textcenter">The learning environment for the world language classroom of tomorrow&mdash;today</h3>
                 <div class="left-block">
-                    <p>Passport<sup>&reg;</sup> is an innovative world language learning environment that allows teachers to easily assign classwork, tack student progress, and report results to parents or school districts – all within a single application.</p>
+                    <p>Passport<sup>&reg;</sup> is an innovative world language learning environment that allows teachers to easily assign classwork, track student progress, and report results to parents or school districts – all within a single application.</p>
 
                     <p>Passport<sup>&reg;</sup> seamlessly delivers EMC’s leading world language content and assets in a research-based platform developed by the Institute for Design Innovation at the University of Minnesota.</p>
 
