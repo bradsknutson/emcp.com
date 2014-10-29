@@ -27,7 +27,7 @@
 				<div class="conectate-left margintop40">
 					<p class="no-top"><span class="bold"><span class="italic">T'es branch&eacute;?</span></span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. Watch students become global citizens as they explore an essential question in each unit and actively engage in francophone culture. ACTFL-aligned, <span class="italic">T'es branch&eacute;?</span> is the best choice for your French classroom–with the freshest digital resources, award-wining authors, and AP* preparation throughout all four levels.</p>
                     
-                    <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=396&language=362">Buy It Now!</a>
+                    <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/teb-cover.jpg" alt="T'es branch&eacute;? French Program" />
