@@ -5,9 +5,9 @@
                     
                     <!-- Start News Release 1 -->
                     
-                    <p><a href="http://www.districtadministration.com/" target="_blank" class="learn-more-link smaller-link">EMC Publishing unveils immersive Spanish education program</a></p>
+                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">EMC Publishing unveils immersive Spanish education program</a></p>
                     
-                    <p><strong>Story via <a href="http://www.districtadministration.com/" target="_blank" class="learn-more-link smaller-link">District Administration</a></strong></p>
+                    <p><strong>Story via <a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">District Administration</a></strong></p>
                     
                     <p>"EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student."</p>   
                     
