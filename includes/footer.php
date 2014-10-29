@@ -3,19 +3,7 @@
 				<div class="news-events">
 					<h3>News and Events</h3>
                     
-                    <!-- Start News Release 1 -->
-                    
-                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">EMC Publishing unveils immersive Spanish education program</a></p>
-                    
-                    <p><strong>Story via <a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">District Administration</a></strong></p>
-                    
-                    <p>"EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student."</p>   
-                    
-                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>
-                    
-                    <!-- End News Release 1 -->
-                    
-                    <!-- Start News Release 2 -->
+                   <!-- Start News Release 1 -->
                     
                     <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">EMC Publishing Launches Online Platform to Teach World Languages</a></p>
                     
@@ -24,6 +12,18 @@
                     <p>"EMC Publishing has launched <a href="http://www.emcp.com/passport">Passport</a>, an online environment for teaching and learning world languages. Passport (formerly EMCL) is designed to tap into the learning technologies that digital natives embrace and to increase students’ fluency by allowing them to fully experience the language they are learning."</p>   
                     
                     <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>             
+                    
+                    <!-- End News Release 1 -->                    
+                    
+                    <!-- Start News Release 2 -->
+                    
+                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">EMC Publishing unveils immersive Spanish education program</a></p>
+                    
+                    <p><strong>Story via <a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">District Administration</a></strong></p>
+                    
+                    <p>"EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student."</p>   
+                    
+                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>
                     
                     <!-- End News Release 2 -->
                     
