@@ -130,7 +130,7 @@
 				</div>
 			</div>
 		</div>
-        <div id="sniplyBar" class="animated social bottom desktop">
+        <!-- <div id="sniplyBar" class="animated social bottom desktop">
             <span id="socialbar" class="social bottom desktop">
                 <a href="http://paradigm.emcp.com" target="_blank">
                     <img id="profilePhoto" class="sized social bottom desktop" src="<?php echo $server; ?>lib/images/pes-logo.jpg" alt="Paradigm Education Solutions" />
@@ -147,5 +147,5 @@
             <span class="messageContainer social bottom desktop" id="dropshadowMessageContainer">
                 <span id="speechArrow" class="social bottom desktop"></span>
             </span>
-        </div>        
+        </div> --> 
 <?php include 'includes/footer.php' ?>
