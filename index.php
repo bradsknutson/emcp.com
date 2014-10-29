@@ -141,7 +141,7 @@
                 <a id="profileName" href="http://paradigm.emcp.com" target="_blank" class="social bottom desktop">Paradigm Education Solutions</a>
                 <span id="message" onclick="window.open('http://paradigm.emcp.com', '_blank'); " class="social bottom desktop">
                     <span id="messageText" class="social bottom desktop">Looking for Paradigm Education Solutions?</span>
-                    <a href="http://paradigm.emcp.com.com" target="_blank" class="button buttonAction sized social bottom desktop">Click Here!</a>
+                    <a href="http://paradigm.emcp.com" target="_blank" class="button buttonAction sized social bottom desktop">Click Here!</a>
                 </span>
             </span>
             <span class="messageContainer social bottom desktop" id="dropshadowMessageContainer">
