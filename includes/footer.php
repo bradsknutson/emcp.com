@@ -3,22 +3,29 @@
 				<div class="news-events">
 					<h3>News and Events</h3>
                     
-                    <p><a href="http://www.marketwired.com/press-release/emc-publishing-launches-online-learning-environment-k-12-world-language-education-1949912.htm" target="_blank" class="learn-more-link smaller-link">
-					EMC Publishing Launches Online Learning Environment for K-12 World Language Education </a></p>
+                    <!-- Start News Release 1 -->
                     
-                    <p><strong>"Passport" Takes Students on Journey Towards Fluency</strong></p>
+                    <p><a href="http://www.districtadministration.com/" target="_blank" class="learn-more-link smaller-link">EMC Publishing unveils immersive Spanish education program</a></p>
                     
-                    <p>EMC Publishing is proud to announce Passport&reg;, an innovative and unique online environment for teaching and learning world languages in K-12 classrooms. Passport&reg; (formerly EMCL) taps into the innovative learning technologies that digital natives embrace. It is designed to increase student fluency by allowing them to fully experience the language.</p>   
+                    <p><strong>Story via <a href="http://www.districtadministration.com/" target="_blank" class="learn-more-link smaller-link">District Administration</a></strong></p>
                     
-                    <p><a href="http://ctt.marketwire.com/?release=1146623&amp;id=4686226&amp;type=1&amp;url=http%3a%2f%2fbit.ly%2fZCtTKS" target="_blank">Watch how Passport works</a>.</p>
+                    <p>"EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student."</p>   
                     
-                    <p><a href="http://www.educationalmarketer.net/content/emc%E2%80%99s-passport-designed-ferry-students-voyage-discovery" target="_blank">Click here</a> to read the entire press release.</p>
+                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>
                     
-                    <p><a href="http://newmountainlearning.com/wp-content/uploads/2014/09/Que-Chevere-Release.pdf" class="learn-more-link smaller-link">
-					EMC Publishing Unveils New Immersive Spanish Education Program</a></p>
-                    <p>EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student.</p>
-
-                    <p>Please <a href="http://newmountainlearning.com/wp-content/uploads/2014/09/Que-Chevere-Release.pdf" target="_blank">click here</a> to read the full press release.</p>
+                    <!-- End News Release 1 -->
+                    
+                    <!-- Start News Release 2 -->
+                    
+                    <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">EMC Publishing Launches Online Platform to Teach World Languages</a></p>
+                    
+                    <p><strong>Article via <a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">THE Journal</a></strong></p>
+                    
+                    <p>"EMC Publishing has launched <a href="http://www.emcp.com/passport">Passport</a>, an online environment for teaching and learning world languages. Passport (formerly EMCL) is designed to tap into the learning technologies that digital natives embrace and to increase students’ fluency by allowing them to fully experience the language they are learning."</p>   
+                    
+                    <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>             
+                    
+                    <!-- End News Release 2 -->
                     
 				</div>
 				<div class="twitter-news">
