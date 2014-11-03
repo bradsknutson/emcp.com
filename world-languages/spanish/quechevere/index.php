@@ -20,7 +20,7 @@
 			<div class="ninesixty no-bottom">
 				<div class="conectate-left">
                     <p class="no-top"><span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom.  Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. Students today need a multi-sensory and multi-layered learning environment that is designed to inspire creativity, synthesis, and collaboration, as well as provide opportunities to analyze, reflect, and evaluate. With <em>&iexcl;Qu&eacute; ch&eacute;vere!</em> learners will discover Spanish in a whole new way with our cutting-edge digital resources, such as video-based tools, authentic cultural videos, eBooks and much more.</p>
-                    <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/spanish/quechevere/sample/" target="_blank">Sample</a>
+                    <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/spanish/quechevere/sample/" onClick="ga('send', 'event', 'Spanish','Click','Web-Sample-QC');" target="_blank">Sample</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/QCcover.jpg" alt="&iexcl;Qu&eacute; che&eacute;vere! Spanish Program" />
