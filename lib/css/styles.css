@@ -1338,13 +1338,12 @@ p.chatbox-quote{
 }
 .qc-sample {
     position: relative !important;
-    display: block !important;
+    display: inline-block !important;
     line-height: 1;
-    margin: 40px 0 10px;
+    margin: 20px 0 10px;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    width: 99px;   
 }
 .qc-sample:hover {
     background-color: #2a4481 !important;

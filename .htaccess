@@ -103,31 +103,31 @@ RewriteRule ^teb/teb.php$   http://www.emcp.com/world-languages/french/tes-branc
 
 RewriteRule ^returns  http://store.emcp.com/policies-and-order-information/ [R=301,L]
 
-RewriteRule ^world-languages/spanish/programs/   http://store.emcp.com/world-languages.html?emc_product_type=370&language=357 [R=301,L]
+RewriteRule ^world-languages/spanish/programs/   http://store.emcp.com/world-languages.html?language=357 [R=301,L]
 RewriteRule ^world-languages/spanish/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=357 [R=301,L]
 RewriteRule ^world-languages/spanish/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=357 [R=301,L]
 RewriteRule ^world-languages/spanish/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=357 [R=301,L]
 RewriteRule ^world-languages/spanish/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=357 [R=301,L]
 
-RewriteRule ^world-languages/german/programs/   http://store.emcp.com/world-languages.html?emc_product_type=370&language=361 [R=301,L]
+RewriteRule ^world-languages/german/programs/   http://store.emcp.com/world-languages.html?language=361 [R=301,L]
 RewriteRule ^world-languages/german/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=361 [R=301,L]
 RewriteRule ^world-languages/german/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=361 [R=301,L]
 RewriteRule ^world-languages/german/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=361 [R=301,L]
 RewriteRule ^world-languages/german/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=361 [R=301,L]
 
-RewriteRule ^world-languages/french/programs/   http://store.emcp.com/world-languages.html?emc_product_type=370&language=362 [R=301,L]
+RewriteRule ^world-languages/french/programs/   http://store.emcp.com/world-languages.html?language=362 [R=301,L]
 RewriteRule ^world-languages/french/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=362 [R=301,L]
 RewriteRule ^world-languages/french/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=362 [R=301,L]
 RewriteRule ^world-languages/french/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=362 [R=301,L]
 RewriteRule ^world-languages/french/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=362 [R=301,L]
 
-RewriteRule ^world-languages/chinese/programs/   http://store.emcp.com/world-languages.html?emc_product_type=370&language=364 [R=301,L]
+RewriteRule ^world-languages/chinese/programs/   http://store.emcp.com/world-languages.html?language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=364 [R=301,L]
 
-RewriteRule ^world-languages/italian/programs/   http://store.emcp.com/world-languages.html?emc_product_type=370&language=360 [R=301,L]
+RewriteRule ^world-languages/italian/programs/   http://store.emcp.com/world-languages.html?language=360 [R=301,L]
 RewriteRule ^world-languages/italian/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=360 [R=301,L]
 RewriteRule ^world-languages/italian/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=360 [R=301,L]
 RewriteRule ^world-languages/italian/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=360 [R=301,L]
