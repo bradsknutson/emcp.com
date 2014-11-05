@@ -15,7 +15,7 @@
                 <div class="play-button">
 					<div class="icon-play"></div>
 				</div>
-                <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank">Sample</a>
+                <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Sample');">Sample</a>
             </div>
         </div>
         <div class="fofih">

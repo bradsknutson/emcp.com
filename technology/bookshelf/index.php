@@ -6,8 +6,8 @@
 		<div class="header-background-image bookshelf-bg">
 			<div id="topImg">
                 <div class="tech-button-container">
-                    <a class="technology-buttons bookshelf-demo transition" href="http://emc.bookshelf.emcp.com" target="_blank">Demo</a>
-                    <a class="technology-buttons bookshelf-login transition" href="http://emc.bookshelf.emcp.com" target="_blank">Login</a>
+                    <a class="technology-buttons bookshelf-demo transition" href="http://emc.bookshelf.emcp.com" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Bookshelf Demo');">Demo</a>
+                    <a class="technology-buttons bookshelf-login transition" href="http://emc.bookshelf.emcp.com" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Bookshelf Login');">Login</a>
                 </div>
             </div>
 		</div>

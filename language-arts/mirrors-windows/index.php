@@ -6,7 +6,7 @@
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image mw-bg">
 			<div id="topImg">
-                <a class="technology-buttons mw-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank">Sample</a>
+                <a class="technology-buttons mw-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');">Sample</a>
 			</div>
 		</div>
 		<div class="header-top">
