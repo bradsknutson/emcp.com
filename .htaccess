@@ -182,6 +182,8 @@ RewriteRule ^world-languages/chinese/zhen-bang/sample/$    http://pages.exacttar
 RewriteRule ^world-languages/french/tes-branche/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef0b6d9f67a363648ad7544b9ed343495c [R=301,L]
 RewriteRule ^world-languages/german/deutsch-aktuell/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef7dc296945793ce5b4034abc1cc1c695a [R=301,L]
 
+RewriteRule ^passport-demo$  http://resources.emcp.com/passport/   [R=301,L]
+
 RewriteRule ^404$  /404/   [R=301,L]
 RewriteRule ^404/$  /404.php   [L]
 
