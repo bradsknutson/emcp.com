@@ -5,25 +5,25 @@
                     
                    <!-- Start News Release 1 -->
                     
+                    <p><a href="http://bit.ly/actfl14" target="_blank" class="learn-more-link smaller-link">Teachers Explore New Online Learning Environment for World Languages at ACTFL</a></p>
+                    
+                    <p><strong>EMC Publishing's "Passport<sup>&reg;</sup>" — at ACTFL Booth 10031 — Takes Students on Journey Towards Proficiency</strong></p>
+                    
+                    <p>The future of world language learning — and the new tools that will help students achieve proficiency — are hot topics at this year's American Council on The Teaching of Foreign Languages (ACTFL) conference. EMC Publishing, a leader in print and digital education programs, is contributing to the conversation about what's next.</p>   
+                    
+                    <p><a href="http://bit.ly/actfl14" target="_blank" class="learn-more-link smaller-link">Click here to read more</a>.</p>             
+                    
+                    <!-- End News Release 1 -->                    
+                    
+                    <!-- Start News Release 2 -->
+                    
                     <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">EMC Publishing Launches Online Platform to Teach World Languages</a></p>
                     
                     <p><strong>Article via <a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">THE Journal</a></strong></p>
                     
                     <p>"EMC Publishing has launched <a href="http://www.emcp.com/passport">Passport</a>, an online environment for teaching and learning world languages. Passport (formerly EMCL) is designed to tap into the learning technologies that digital natives embrace and to increase students’ fluency by allowing them to fully experience the language they are learning."</p>   
                     
-                    <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>             
-                    
-                    <!-- End News Release 1 -->                    
-                    
-                    <!-- Start News Release 2 -->
-                    
-                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">EMC Publishing unveils immersive Spanish education program</a></p>
-                    
-                    <p><strong>Story via <a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">District Administration</a></strong></p>
-                    
-                    <p>"EMC Publishing, a leader in print and online educational programs and a division of New Mountain Learning, announced the launch of its new immersive Spanish language proficiency program, &iexcl;Qu&eacute; ch&eacute;vere!. The new series, which offers five levels of Spanish instruction for middle school through high school students is available in print and digital format. It continues EMC Publishing’s mission to increase world language fluency for the 21st century student."</p>   
-                    
-                    <p><a href="http://www.districtadministration.com/news/emc-publishing-unveils-immersive-spanish-education-program" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>
+                    <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>         
                     
                     <!-- End News Release 2 -->
                     
