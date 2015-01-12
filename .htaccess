@@ -186,6 +186,8 @@ RewriteRule ^passport-demo$  http://resources.emcp.com/passport/   [R=301,L]
 
 RewriteRule ^FETC2015$  http://response.emcp.com/promo/   [R=301,L]
 
+RewriteRule ^french-app$  http://store.emcp.com/les-copains-dabord    [R=301,L]
+
 RewriteRule ^404$  /404/   [R=301,L]
 RewriteRule ^404/$  /404.php   [L]
 
