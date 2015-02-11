@@ -1418,8 +1418,14 @@ p.chatbox-quote{
 .zb-tech {
     background: url('../images/zb-ebooks.jpg') no-repeat 50% 8%;   
 }
-.zb-demo {
-    left: 45%;   
+.technology-buttons.zb-demo {
+    left: 45%;
+    background: #FFF !important;
+    color: #000 !important;
+}
+.technology-buttons.zb-demo:hover {
+    background: #BD0006 !important;
+    color: #FFF !important;
 }
 
 /* -------- End Zhen Bang Page Styles -------------- */
