@@ -177,7 +177,7 @@ RewriteRule ^technology/passport/demo/$    http://pages.exacttarget.com/page.asp
 RewriteRule ^world-languages/spanish/quechevere/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef0a15eec3eb32f75b03d83e2df28c5590 [R=301,L]
 RewriteRule ^technology/iculture/demo/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efac66bdf3e575cc56ca6d8a873358c7f9 [R=301,L]
 RewriteRule ^language-arts/mirrors-windows/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efe835d7ad27aeaf8fece1506ad04b19a4 [R=301,L]
-RewriteRule ^applied-learning/economics/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef027374820a30037685fc02851e34ca84 [R=301,L]
+RewriteRule ^applied-learning/economics/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efeb1b93655fbffec25896253a61b68828 [R=301,L]
 RewriteRule ^world-languages/chinese/zhen-bang/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112effbfa0f9e9b89480ff720aa249183e6f8 [R=301,L]
 RewriteRule ^world-languages/french/tes-branche/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef0b6d9f67a363648ad7544b9ed343495c [R=301,L]
 RewriteRule ^world-languages/german/deutsch-aktuell/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef7dc296945793ce5b4034abc1cc1c695a [R=301,L]
