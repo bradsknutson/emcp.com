@@ -2500,3 +2500,17 @@ h3.adonde {
     bottom: 0;
     left: 0;
 }
+
+/* Contest Page Styles */
+.contest-first {
+	margin-top: 500px;
+	background: #fff;
+}
+.contest-bg {
+    height: 600px;
+    background-color: #000;
+}
+.contest-bg #topImg {
+    background: url('../images/contest-banner.jpg') no-repeat 50% 100%;
+    height: 100%;
+}
