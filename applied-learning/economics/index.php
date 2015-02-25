@@ -25,7 +25,7 @@
                     
                     <p>Each section of Economics: New Ways of Thinking, Second Edition begins with a list of focus questions and key terms to quickly identify student objectives.  The text is also filled with helpful exhibits to aid in illustrating economic concepts&mdash;and to challenge students to learn through visuals.  The abundant, diverse variety of examples help students to understand difficult economic concepts and topics.</p>
                     
-                    <a class="learn-more-link smaller-link" href="">Buy It Now!</a>
+                    <a class="learn-more-link smaller-link" href="<?php echo $server; ?>applied-learning/economics/buy/">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/econ-cover.jpg" alt="Economics: New Ways of Thinking, Second Edition" />

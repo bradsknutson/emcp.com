@@ -1,5 +1,5 @@
 <?php 
-	$custom_title = 'EMC Publishing | Contest';
+	$custom_title = 'Contest | ';
 	include '../includes/header.php';
 ?>
 	<div id="container" class="contest">

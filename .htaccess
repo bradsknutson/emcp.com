@@ -149,6 +149,7 @@ RewriteRule ^world-languages/arabic/  http://store.emcp.com/world-languages.html
 
 RewriteRule ^econ$  http://www.emcp.com/applied-learning/economics/ [R=301,L]
 RewriteRule ^econ/$  http://www.emcp.com/applied-learning/economics/ [R=301,L]
+RewriteRule ^applied-learning/economics/buy/$  http://store.emcp.com/econ2e.html [R=301,L]
 
 RewriteRule ^ela$  http://www.emcp.com/language-arts/ [R=301,L]
 RewriteRule ^ela/$  http://www.emcp.com/language-arts/ [R=301,L]
@@ -181,6 +182,13 @@ RewriteRule ^applied-learning/economics/sample/$    http://pages.exacttarget.com
 RewriteRule ^world-languages/chinese/zhen-bang/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112effbfa0f9e9b89480ff720aa249183e6f8 [R=301,L]
 RewriteRule ^world-languages/french/tes-branche/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef0b6d9f67a363648ad7544b9ed343495c [R=301,L]
 RewriteRule ^world-languages/german/deutsch-aktuell/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef7dc296945793ce5b4034abc1cc1c695a [R=301,L]
+
+RewriteRule ^applied-learning/applied-science/$    http://www.emcp.com/applied-learning/ [R=301,L]
+RewriteRule ^biotech$    http://www.emcp.com/applied-learning/applied-science/biotechnology/ [R=301,L]
+RewriteRule ^biotech/$    http://www.emcp.com/applied-learning/applied-science/biotechnology/ [R=301,L]
+RewriteRule ^applied-learning/applied-science/biotechnology/sample$    http://www.emcp.com/applied-learning/ [R=301,L]
+RewriteRule ^applied-learning/applied-science/biotechnology/buy/$    http://store.emcp.com/applied-science/biotechnology-science-for-the-new-millennium-first-edition-revised.html [R=301,L]
+RewriteRule ^applied-learning/applied-science/biotechnology/buy-kit/$    http://www.gbiosciences.com/ResearchProducts/BTSNMSupport_Materials.aspx [R=301,L]
 
 RewriteRule ^passport-demo$  http://resources.emcp.com/passport/   [R=301,L]
 

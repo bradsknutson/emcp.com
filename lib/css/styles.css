@@ -1515,6 +1515,76 @@ p.chatbox-quote{
 
 /* -------- End Economics Page Styles -------------- */
 
+/* -------- Start Biotechnology Page Styles -------------- */
+
+.biotech-bg, .biotech-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.biotech-bg #topImg{
+	background: url('../images/biotech-header.jpg') no-repeat 50% 100%;
+}
+.biotech .secondary-first {
+    background: #e8e8e8;
+}
+.biotech .secondary-first p {
+    line-height: 1.5;
+}
+.biotech .entry-title h3 {
+    margin: 0;   
+    font-size: 26px;
+}
+.biotech .entry-title h4 {
+    margin: 35px 0;   
+    font-size: 22px;
+    font-weight: 100;
+    line-height: 1;
+}
+.biotech .entry-title h2 {
+    margin: 0 0 40px;
+    font-size: 32px;
+    line-height: 1;
+}
+.biotech .left-block, .biotech .right-block {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 50%;
+    margin-top: 40px;
+}
+.biotech .left-block {
+    padding-right: 10px;   
+}
+.biotech .right-block {
+    padding-left: 10px;   
+}
+.biotech-features .entry-title {
+    margin-top: 25px;
+}
+.biotech-features ul {
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+.biotech-features ul li {
+    line-height: 1.8;
+    margin: 0 0 30px;
+}
+.biotech-features ul li:last-child {
+    margin: 0;
+}
+.biotech .conectate-left {
+    padding-right: 35px;
+    width: 630px;
+}
+.biotech .technology-buttons {
+    left: 47%;   
+}
+.biotech .featured-flipgrid {
+    background-color: #D9D7D8;   
+}
+
+/* -------- End Biotechnology Page Styles -------------- */
+
 /* -------- Start ELA Page Styles -------------- */
 
 .ela .bc-current h3 {
