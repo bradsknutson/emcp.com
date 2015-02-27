@@ -1582,6 +1582,9 @@ p.chatbox-quote{
 .biotech .featured-flipgrid {
     background-color: #D9D7D8;   
 }
+.biotech-sample {
+    left: 0% !important;  
+}
 
 /* -------- End Biotechnology Page Styles -------------- */
 
