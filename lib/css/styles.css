@@ -1543,7 +1543,7 @@ p.chatbox-quote{
 .biotech .entry-title h2 {
     margin: 0 0 40px;
     font-size: 32px;
-    line-height: 1;
+    line-height: 1.3;
 }
 .biotech .left-block, .biotech .right-block {
     box-sizing: border-box;

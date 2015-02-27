@@ -12,10 +12,22 @@
 				<span class="large-red">Our position as an innovator</span> in the educational field is a result of our teaching tools, assessment techniques, and multimedia products, which reflect engaging technology and best practices in curriculum and instruction in Applied Learning.
 			</div>
 		</div>
-		<div class="students-bg"></div>
-		<div class="grey-bar">
-			<div class="ninehundred" style="padding: 17px 0px;">Explore EMC's five core domains of Applied Learning</div>
-		</div>
+        <div class="al-featured-product grey-slice">
+            <div class="ninesixty paddingtop40 paddingbottom40 onesix">
+                <div class="left-block">
+                    <h3>Featured Book</h3>
+                    <p class="no-top">Biotechnology: Science for the New Millennium, First Edition, Revised</p>
+
+                    <p>This complete program teaches the concepts and hands-on lab procedures required for entry-level careers in the rapidly growing biotechnology industry. The textbook and lab manual can be used together or separately, depending on the desired course format.</p>
+                    
+                    <p><a href="<?php echo $server; ?>applied-learning/applied-science/biotechnology/" class="learn-more-link">Learn More</a></p>
+                </div>
+                <div class="right-block">
+                    <img src="<?php echo $server; ?>lib/images/biotech-cover.jpg" alt="Biotechnology: Science for the New Millennium, First Edition, Revised" />
+                </div>
+                <div class="clearfix"></div>
+            </div>
+		</div>	
 		<div class="emc-al-cats">
 			<div class="ninesixty cleafix">
 				<div class="one-third first">
@@ -57,7 +69,6 @@
 		<div class="al-featured-product grey-slice">
             <div class="ninesixty paddingtop40 paddingbottom40 onesix">
                 <div class="left-block">
-                    <h3>Featured Book</h3>
                     <p class="no-top">Economics: New Ways of Thinking, Second Edition</p>
 
                     <p>Grab you students' attention with real-world examples they can relate to. From the NFL draft to concert ticket prices to NASCAR, Economics: New Ways of Thinking, Second Edition engages your students by finding economics in the most surprising places.</p>
