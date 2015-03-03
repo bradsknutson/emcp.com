@@ -14,7 +14,9 @@
 		<div class="contest-first">
 			<div class="ninesixty">
                 <div class="featured-left" style="float:left;">
-                    <p style="margin-top:15px;font-size:20px;">EMC Publishing will be giving away one $10,000 Digital Classroom prize on Saturday, March 14th during 
+                    <p style="margin-top:15px;font-size:20px;">
+					<img src="../../lib/images/passport-text.jpg" border="0" /><br />
+					EMC Publishing will be giving away one $10,000 Digital Classroom prize on Saturday, March 14th during 
 					the Central States Conference on the Teaching of Foreign Languages!</p>
 					<p style="font-size:20px;">Visit EMC's booth, #401, during all open exhibit hours of the conference to enter to win. One lucky teacher will leave the conference a hero, bringing back some of the most 
 					cutting-edge technology for their World Language classroom and department!</p>
@@ -39,7 +41,7 @@
 		<div>
 			<div class="ninesixty">
 				<div style="width:100%;text-align:center;">
-					<img src="../../lib/images/whats-passport.jpg" border="0" />
+					<h1>What's Passport&reg;?</h1>
 				</div>
                 <div class="featured-left" style="float:left;">
                     <p style="margin-top:10px;font-size:20px;">Passport&reg; is a learning environment uniquely designed for the world language classroom. Students connect to curriculum and so much more! 
@@ -80,6 +82,8 @@
 						<li>The official drawing will take place on Saturday, March 14th during the final exhibit break at 12 o'clock noon.</li>
 						<li>You must be present at EMC's booth at the time of the drawing to claim your prize.</li>
 						<li>The winner will have 5 minutes to claim their prize, before we move on and draw another name.</li>
+						<li>Winner may choose 1 language.</li>
+						<li>Valid for the 2015-16 school year.</li>
 					</ul>
 				</p>
 			</div>
