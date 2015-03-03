@@ -163,7 +163,7 @@ RewriteRule ^technology/flipgrid/$  http://emcl.com/flipgrid [R=301,L]
 RewriteRule ^technology/avenue/$  http://emcl.com/avenue [R=301,L]
 
 RewriteRule ^language-arts/expository-composition/$ http://store.emcp.com/expository-composition-discovering-your-voice-revised-edition.html    [R=301,L]
-RewriteRule ^language-arts/access-editions/$ http://store.emcp.com/english-language-arts/emc-access-editions.html   [R=301,L]
+RewriteRule ^language-arts/access-editions/$ http://store.emcp.com/english-language-arts.html?emc_product_series=395   [R=301,L]
 RewriteRule ^language-arts/write-in-readers/$ http://store.emcp.com/english-language-arts/the-emc-write-in-reader.html    [R=301,L]
 
 RewriteRule ^applied-learning/business-education/$  http://store.emcp.com/business-education-computer-skills.html [R=301,L]
