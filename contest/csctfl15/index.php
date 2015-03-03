@@ -21,7 +21,7 @@
 					<p style="font-size:20px;">Visit EMC's booth, #401, during all open exhibit hours of the conference to enter to win. One lucky teacher will leave the conference a hero, bringing back some of the most 
 					cutting-edge technology for their World Language classroom and department!</p>
                 </div>
-				<div class="featured-left" style="float:left; margin-left:40px;">
+				<div class="featured-left" style="float:left; margin:40px 0 0 40px;">
 					<img src="../../lib/images/contest-passport.jpg" border="0" />
 				</div>
 			</div>
