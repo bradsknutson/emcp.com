@@ -16,8 +16,8 @@
                 <div class="featured-left" style="float:left;">
                     <p style="margin-top:15px;font-size:20px;">
 					<img src="../../lib/images/passport-text.jpg" border="0" /><br />
-					EMC Publishing will be giving away one $10,000 Digital Classroom prize on Saturday, March 14th during 
-					the Central States Conference on the Teaching of Foreign Languages!</p>
+					EMC Publishing will be giving away one $10,000 Digital Classroom prize on Saturday, March 14th
+					during the final exhibit hour of the Central States Conference on the Teaching of Foreign Languages! </p>
 					<p style="font-size:20px;">Visit EMC's booth, #401, during all open exhibit hours of the conference to enter to win. One lucky teacher will leave the conference a hero, bringing back some of the most 
 					cutting-edge technology for their World Language classroom and department!</p>
                 </div>
@@ -40,16 +40,17 @@
 	-->
 		<div>
 			<div class="ninesixty">
-				<div style="width:100%;text-align:center;">
-					<h1>What's Passport&reg;?</h1>
+				<div style="width:100%;">
+					<h3 style="font-size:20px;"><strong>What's Passport&reg;?</strong></h3>
 				</div>
                 <div class="featured-left" style="float:left;">
                     <p style="margin-top:10px;font-size:20px;">Passport&reg; is a learning environment uniquely designed for the world language classroom. Students connect to curriculum and so much more! 
 					Passport's innovative tools immerse students in the culture and provide opportunities for them to create projects, share with classmates, and perform what they know.</p>
-					<h3 style="font-size:20px;"><strong>Passport Features</strong></h3>
+					<br />
+					<h3 style="font-size:20px;margin-bottom:0;"><strong>Passport Features</strong></h3>
                 </div>
 				<div class="featured-left" style="float:left; margin-left:40px;">
-					<img src="../../lib/images/contest-passport-no-title.jpg" border="0" />
+					<img src="../../lib/images/passport-device-agnostic.jpg" border="0" />
 				</div>
 				<div class="clearfix"></div>
 				<div>
@@ -74,7 +75,7 @@
 			<div class="clearfix"></div>
 		</div>
         <div class="light-grey">
-			<div class="ninesixty" style="padding:8px 0;">
+			<div class="ninesixty" style="padding:8px 0 50px;">
 				<h3><strong>Eligibility and rules:</strong></h3>
 				<p>
 					<ul>

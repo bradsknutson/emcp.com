@@ -26,6 +26,7 @@
                         <li>A full correlation to the Common Core State Standards</li>
                         <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning Guide, Assessment Guide, and Assessment Practice Guide</li>
                     </ul>
+					<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/mw-cover.png" alt="Mirrors and Windows Level 1" />
