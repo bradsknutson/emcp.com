@@ -2420,7 +2420,45 @@ h3.adonde {
 }
 
 /* -------- End Paradigm Footer Link Styles ------------- */
-    
+
+
+/* -------- Start Thank You Pages Styles ------------- */
+
+.thank-you-page, .thank-you-page #topImg {
+    height: 350px;
+}
+.thank-you-page #topImg {
+    background: #000 url('../images/thank-you-bg-2.jpg') no-repeat 50% 100%;
+}
+.ty-page {
+    margin-top: 200px;   
+}
+.ty-download {
+    left: 50%;
+    margin-left: -176px;
+}
+.secondary-first.ty-page {
+    background: #FFF;   
+}
+.thank-you-page h1 {
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    font-size: 60px;
+    text-shadow: 0px 0px 20px #000;
+    color: #FFF;
+    text-align: center;
+    font-weight: normal;
+}
+.secondary-first.ty-page p {
+    font-size: 18px;  
+}
+.secondary-first.ty-page a {
+    color: #BD0006;
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 18px;   
+}
 /* -------- Constants ---------------- */
 
 
