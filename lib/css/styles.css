@@ -2428,7 +2428,7 @@ h3.adonde {
     height: 350px;
 }
 .thank-you-page #topImg {
-    background: #000 url('../images/thank-you-bg-2.jpg') no-repeat 50% 100%;
+    background: #000;
 }
 .ty-page {
     margin-top: 200px;   
@@ -2459,6 +2459,30 @@ h3.adonde {
     font-weight: 600;
     font-size: 18px;   
 }
+
+/* -------- End Thank You Pages Styles ------------- */
+
+/* Contest Page Styles */
+.contest-first {
+	margin-top: 500px;
+	background: #fff;
+}
+.contest-bg, .contest-ncea15-bg {
+    height: 600px;
+    background-color: #000;
+}
+.contest-bg #topImg {
+    background: url('../images/contest-banner-v3.jpg') no-repeat 50% 100%;
+    height: 100%;
+}
+
+.contest-ncea15-bg #topImg {
+    background: url('../images/contest-ncea15.jpg') no-repeat 50% 100%;
+    height: 100%;
+}
+
+
+
 /* -------- Constants ---------------- */
 
 
@@ -2610,18 +2634,4 @@ h3.adonde {
     position: fixed;
     bottom: 0;
     left: 0;
-}
-
-/* Contest Page Styles */
-.contest-first {
-	margin-top: 500px;
-	background: #fff;
-}
-.contest-bg {
-    height: 600px;
-    background-color: #000;
-}
-.contest-bg #topImg {
-    background: url('../images/contest-banner-v3.jpg') no-repeat 50% 100%;
-    height: 100%;
 }
