@@ -63,14 +63,11 @@
         <div class="light-grey">
 			<div class="ninesixty" style="padding:8px 0 50px;">
 				<h3><strong>Eligibility and rules:</strong></h3>
-				<p>
-					<ul>
-						<li>Must enter at EMC's booth, #412.</li>
-						<li>The official drawing will take place at 1pm Thursday, April 9th durign the final exhibit hour. You must be present at EMC's booth at hte time of the drawing to claim your prize.</li>
-						<li>The winner will have 5 minutes to claim their prize, before we move on and draw another name.</li>
-						<li>Winner may choose 1 world language in Passport and 1 world language textbook program for up to 3 classes or 150 students.</li>
-						<li>Valid for the 2015-16 school year.</li>
-					</ul>
+				<p>Must enter at EMC's booth, #412. The official drawing will take place at 1pm Thursday, April 9th 
+				during the final exhibit hour. You must be present at EMC's booth at the time of the drawing to claim your prize.
+				The winner will have 5 minutes to claim their prize, before we move on and draw another name. Winner may choose 1 
+				world language in Passport and 1 world language textbook program for up to 3 classes or 150 students. Valid for 
+				the 2015-16 school year.
 				</p>
 			</div>
 			<div class="clearfix"></div>

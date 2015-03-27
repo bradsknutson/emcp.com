@@ -23,7 +23,7 @@
 			<div class="ninesixty no-bottom">
 				<div class="conectate-left">
                     <p class="no-top"><span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom.  Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. Students today need a multi-sensory and multi-layered learning environment that is designed to inspire creativity, synthesis, and collaboration, as well as provide opportunities to analyze, reflect, and evaluate. With <em>&iexcl;Qu&eacute; ch&eacute;vere!</em> learners will discover Spanish in a whole new way with our cutting-edge digital resources, such as video-based tools, authentic cultural videos, eBooks and much more.</p>
-					<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a>
+					<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/QCcover.jpg" alt="&iexcl;Qu&eacute; che&eacute;vere! Spanish Program" />
