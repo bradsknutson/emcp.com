@@ -14,48 +14,61 @@
 		<div class="contest-first">
 			<div class="ninesixty">
                 <div class="featured-left" style="float:left;">
-					<img style="margin-top:15px;" src="../../lib/images/passport-text.jpg" border="0" />
-					<p style="font-size:20px;">EMC Publishing will be giving away one $20,000 Digital Classroom prize on Thursday, April 9th during the final exhibit hour of the National Catholic Educational Association Conference!</p>
-					<p style="font-size:20px;">Visit EMC's booth, #412, during all open exhibit hours of the conference to enter to win. One lucky teacher will leave the conference a hero, bringing back 3 classroom sets of textbooks PLUS some of the most cutting-edge technology for their World Language Department!</p>
+					<h2 style="font-size:20px;margin-bottom:0;color:#BC0406;"><strong>EMC's NCEA 2015 Classroom Upgrade YOUR WAY Contest!</strong></h2>
+					<p style="font-size:20px;">EMC Publishing will be giving away one Classroom Upgrade (the winner's choice) on Thursday, April 9th during the National Catholic Educational Association Conference!</p>
+					<p style="font-size:20px;">Visit EMC's booth, #412, to enter. One lucky conference goer will leave a hero, bringing back THEIR CHOICE of the following 3 prizes...</p>
                 </div>
-				<div class="featured-left" style="float:left; margin:40px 0 0 40px;">
-					<img src="../../lib/images/contest-passport.jpg" border="0" />
-				</div>
 			</div>
 			<div class="clearfix"></div>
 		</div>
+		
 		<div>
 			<div class="ninesixty">
-				<div style="width:100%;">
-					<h3 style="font-size:20px;"><strong>What's Passport&reg;?</strong></h3>
-				</div>
+		<!-- For World Language  and EL Classrooms -->
                 <div class="featured-left" style="float:left;">
-                    <p style="margin-top:10px;font-size:20px;">Passport&reg; is a learning environment uniquely designed for the world language classroom. Students connect to curriculum and so much more! 
-					Passport's innovative tools immerse students in the culture and provide opportunities for them to create projects, share with classmates, and perform what they know.</p>
-					<br />
-					<h3 style="font-size:20px;margin-bottom:0;"><strong>Passport Features</strong></h3>
+					<h3 style="font-size:20px;margin-bottom:0;"><strong>For world language and English language arts classrooms</strong> ($10,000 value)</h3>
+                    <p style="margin-top:10px;font-size:20px;">
+						<ul style="margin-top:0;">
+							<li><strong>The Passport&reg;</strong> learning environment for up to 3 classes. Passport's innovative tools provide opportunities for students 
+								to create projects, share with classmates, and perform what they know.</li>
+							<li>Professional development to get you off on the right foot</li>
+						</ul>
+					</p>
                 </div>
 				<div class="featured-left" style="float:left; margin-left:40px;">
-					<img src="../../lib/images/passport-device-agnostic.jpg" border="0" />
+					<img src="../../lib/images/contest-passport.jpg" border="0" />
 				</div>
 				<div class="clearfix"></div>
-				<div>
-					<div style="float:left;width:35%;font-size:20px;">
-						<p>&#8226; performance-based assessment<br />
-						&#8226; automatic grading and feedback<br />
-						&#8226; gradebook<br />
-						&#8226; class management</p>
-					</div>
-					<div style="float:left;width:28%;font-size:20px;">
-						<p>&#8226; assigning<br />
-						&#8226; interactive eBooks<br />
-						&#8226; project-based learning<br />
-						&#8226; cultural immersion</p>
-					</div>
-					<div style="float:left;width:37%;font-size:20px;">
-						<p>&#8226; video-based sharing<br />
-						&#8226; differentiated personalized learning</p>
-					</div>
+		<!-- For World Language Elementary Classrooms -->
+                <div class="featured-left" style="float:left;">
+					<h3 style="font-size:20px;margin-bottom:0;"><strong>For world language elementary classrooms</strong> ($6,000 value)</h3>
+                    <p style="margin-top:10px;font-size:20px;">
+						<ul style="margin-top:0;">
+							<li>3 sets of 100 French and Spanish picture dictionary books full of games plus comprehension and coloring activities.</li>
+							<li>A complete Symtalk<sup style="font-size:7px;">TM</sup> Spanish or French program for 3 classes</li>
+						</ul>
+					</p>
+                </div>
+				<div class="featured-left" style="float:left; margin-left:40px;">
+					<img src="../../lib/images/contest-symtalk.jpg" border="0" />
+				</div>
+				<div class="clearfix"></div>
+		<!-- For Any Classroom -->
+				<div class="featured-left" style="float:left;">
+					<h3 style="font-size:20px;margin-bottom:0;"><strong>For any classroom!</strong> ($3,000 value)</h3>
+                    <p style="margin-top:10px;font-size:20px;">
+						<ul style="margin-top:0;">
+							<li>Flipgrid<sup style="font-size:7px;">TM</sup> video sharing and collaboration tool for up to 3 classes. In Flipgrid<sup style="font-size:7px;">TM</sup>, teachers 
+								create grids of short questions (using text or video) that students respond to through recorded videos.
+							</li>
+							<li>Avenue<sup style="font-size:7px;">TM</sup> video assessment for up to 3 classes. Avenue<sup style="font-size:7px;">TM</sup> is an innovative e-assessment platform 
+								for building custom tasks to capture, evaluate, archive, and visualize progress of video-based learner performances in any classroom.
+							</li>
+						</ul>
+					</p>
+                </div>
+				<div class="featured-left" style="float:left; margin-left:40px;">
+					<img src="../../lib/images/contest-students.jpg" border="0" />
 				</div>
 			</div>
 			<div class="clearfix"></div>
