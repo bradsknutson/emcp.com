@@ -93,6 +93,9 @@ RewriteRule ^qc	 http://www.emcp.com/world-languages/spanish/quechevere/ [R=301,
 RewriteRule ^quechevere$    http://www.emcp.com/world-languages/spanish/quechevere/ [R=301,L]
 RewriteRule ^quechevere/$   http://www.emcp.com/world-languages/spanish/quechevere/ [R=301,L]
 
+RewriteRule ^eReaders$	 http://www.emcp.com/ereaders/ [R=301,L]
+RewriteRule ^eReaders/$	 http://www.emcp.com/ereaders/ [R=301,L]
+
 RewriteRule ^tes-branche$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
 RewriteRule ^tes-branche/$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
 RewriteRule ^teb$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]

@@ -2480,7 +2480,49 @@ h3.adonde {
     height: 100%;
 }
 
+/* -------- Start eReaders Pages Styles ------------- */
+.ereaders-bg {
+    background-color: #FFF;
+}
+.ereaders-bg #topImg {
+  background: url('../images/ereaders-bg.jpg') no-repeat 50% 100%;
+  height: 100%;
+}
+.ereaders .secondary-first {
+    background: #FFF;   
+}
+.ereaders-larger {
+    font-size: 45px;
+    line-height: 1.1;
+    margin: 15px 0;
+}
+.ereaders-right-img {
+    float: right;   
+}
+.ereaders-medium {
+    font-size: 28px;
+    line-height: 1.4;
+}
+.ereaders-largest {
+    font-size: 48px;
+    text-align: center;
+    margin: 0;
+    line-height: 1;
+}
+.ereaders-smaller {
+    font-size: 20px;   
+}
+.border-bottom-tr td {
+    border-bottom: 1px solid #000;   
+}
+table .ereaders-smaller {
+    margin: 0;   
+}
+.whitespace-top {
+    padding: 15px 0 0;   
+}
 
+/* -------- End eReaders Pages Styles ------------- */
 
 /* -------- Constants ---------------- */
 
