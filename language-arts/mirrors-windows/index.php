@@ -7,6 +7,7 @@
 		<div class="header-background-image mw-bg">
 			<div id="topImg">
                 <a class="technology-buttons mw-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');">Sample</a>
+                <a class="technology-buttons mw-blog transition" href="http://blog.emcp.com" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Blog');">Blog</a>
 			</div>
 		</div>
 		<div class="header-top">

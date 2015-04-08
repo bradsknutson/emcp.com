@@ -15,14 +15,14 @@
 					</div>
 					<div class="clearfix"></div>
 				</div>
-				<div class="wl-nav">
+				<!-- <div class="wl-nav">
 					<ul>
 						<li><a href="<?php echo $server; ?>language-arts/programs/">Programs</a></li>
                         <li><a href="<?php echo $server; ?>language-arts/resources/">Resources</a></li>
                         <li><a href="<?php echo $server; ?>language-arts/readers/">Readers</a></li>
 					</ul>
 					<div class="clearfix"></div>
-				</div>
+				</div> -->
 				<div class="clearfix"></div>
 				<p class="onesix">EMC's robust multiplatform English Language Arts products provide students with innovative learning solutions and technology. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction. With EMC's English Language Arts educational solutions, you'll love what you teach even more.</p>
                 <p><a class="learn-more-link" href="<?php echo $server; ?>language-arts/programs/">See All ELA Products</a></p>
@@ -63,7 +63,7 @@ Great literature and current informational texts, multi-platform eBooks, and tec
                     <li>Close reading support ensures understanding and enjoyment.</li>
                     <li>Thought-provoking questions and activities invite students to connect their lives to those of the characters.</li>
                 </ul>
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts/emc-access-editions.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts.html?emc_product_series=395">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/ela-reader.jpg" alt="Write-In Readers" />
