@@ -170,7 +170,6 @@ RewriteRule ^language-arts/access-editions/$ http://store.emcp.com/english-langu
 RewriteRule ^language-arts/write-in-readers/$ http://store.emcp.com/english-language-arts/the-emc-write-in-reader.html    [R=301,L]
 
 RewriteRule ^applied-learning/business-education/$  http://store.emcp.com/business-education-computer-skills.html [R=301,L]
-RewriteRule ^applied-learning/computer-apps/$   http://www.emcp.com/mso2013 [R=301,L]
 RewriteRule ^applied-learning/applied-science/$ http://store.emcp.com/applied-science.html  [R=301,L]
 RewriteRule ^applied-learning/social-studies/$  http://store.emcp.com/social-studies.html   [R=301,L]
 RewriteRule ^applied-learning/career-life-skills/$  http://store.emcp.com/career-and-life-skills.html   [R=301,L]
@@ -200,6 +199,15 @@ RewriteRule ^FETC2015$  http://response.emcp.com/promo/   [R=301,L]
 RewriteRule ^french-app$  http://store.emcp.com/les-copains-dabord    [R=301,L]
 
 RewriteRule ^techdemo$  http://response.emcp.com/promo/   [R=301,L]
+
+RewriteRule ^applied-learning/computer-apps/$   http://www.emcp.com/applied-learning/computer-applications/ [R=301,L]
+RewriteRule ^applied-learning/computer-applications/guide-to-mso-2013/$   http://store.emcp.com/business-education-computer-skills.html?emc_product_series=385 [R=301,L]
+RewriteRule ^applied-learning/computer-applications/guidelines-2013/$   http://store.emcp.com/business-education-computer-skills.html?emc_product_series=543 [R=301,L]
+RewriteRule ^applied-learning/computer-applications/marquee-2013/$   http://store.emcp.com/business-education-computer-skills.html?emc_product_series=556 [R=301,L]
+RewriteRule ^applied-learning/computer-applications/benchmark-2013/$   http://store.emcp.com/business-education-computer-skills.html?emc_product_series=521 [R=301,L]
+RewriteRule ^applied-learning/computer-applications/sig-word-2013/$   http://store.emcp.com/business-education-computer-skills.html?emc_product_series=574 [R=301,L]
+
+
 
 RewriteRule ^404$  /404/   [R=301,L]
 RewriteRule ^404/$  /404.php   [L]

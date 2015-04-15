@@ -2524,6 +2524,47 @@ table .ereaders-smaller {
 
 /* -------- End eReaders Pages Styles ------------- */
 
+/* -------- Start Computer Applications Pages Styles ------------- */
+
+.al-ca-bg #topImg {
+    background: #FFF url('../images/al-ca-bg.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.al-top-content {
+    margin-top: 480px;
+}
+.white-slice, .grey-slice {
+    padding: 50px 0;   
+}
+.al-ca h1 {
+    font-size: 36px;
+    font-weight: 400;
+    color: #000;
+}
+.al-ca p {
+    line-height: 2;   
+}
+.al-ca .left-slice, .al-ca .right-slice {
+    width: 50%;   
+}
+.al-ca .left-slice {
+    float: left;
+}
+.al-ca .right-slice {
+    float: right;   
+}
+.al-ca .left-slice img {
+    float: right;
+    margin: 20px 20px 20px 0;
+}
+.al-ca .right-slice img {
+    float: left;
+    margin: 20px 0 20px 20px;
+    
+}
+
+/* -------- End Computer Applications Pages Styles ------------- */
+
 /* -------- Constants ---------------- */
 
 
