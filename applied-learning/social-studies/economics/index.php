@@ -1,18 +1,18 @@
  <?php 
 	$custom_title = 'Economics | ';
-	include '../../includes/header.php';
+	include '../../../includes/header.php';
 ?>
 	<div id="container" class="econ">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image econ-bg">
 			<div id="topImg">     
                 <div class="tech-button-container">
-                    <a class="technology-buttons econ-sample transition" href="<?php echo $server; ?>applied-learning/economics/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Econ Sample');">Sample</a>
+                    <a class="technology-buttons econ-sample transition" href="<?php echo $server; ?>applied-learning/social-studies/economics/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Econ Sample');">Sample</a>
                 </div>       
 			</div>
 		</div>
 		<div class="header-top">
-			<?php include '../../includes/nav.php'; ?>
+			<?php include '../../../includes/nav.php'; ?>
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
@@ -25,7 +25,7 @@
                     
                     <p>Each section of Economics: New Ways of Thinking, Second Edition begins with a list of focus questions and key terms to quickly identify student objectives.  The text is also filled with helpful exhibits to aid in illustrating economic concepts&mdash;and to challenge students to learn through visuals.  The abundant, diverse variety of examples help students to understand difficult economic concepts and topics.</p>
                     
-                    <a class="learn-more-link smaller-link" href="<?php echo $server; ?>applied-learning/economics/buy/">Buy It Now!</a>
+                    <a class="learn-more-link smaller-link" href="<?php echo $server; ?>applied-learning/social-studies/economics/buy/">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/econ-cover.jpg" alt="Economics: New Ways of Thinking, Second Edition" />
@@ -68,4 +68,4 @@
             </div>
         </div>
 
-<?php include '../../includes/footer.php'; ?>
+<?php include '../../../includes/footer.php'; ?>

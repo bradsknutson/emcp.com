@@ -150,9 +150,13 @@ RewriteRule ^passport/$  http://www.emcp.com/technology/passport/ [R=301,L]
 RewriteRule ^world-languages/japanese/  http://store.emcp.com/world-languages.html?language=359 [R=301,L]
 RewriteRule ^world-languages/arabic/  http://store.emcp.com/world-languages.html?language=365 [R=301,L]
 
-RewriteRule ^econ$  http://www.emcp.com/applied-learning/economics/ [R=301,L]
-RewriteRule ^econ/$  http://www.emcp.com/applied-learning/economics/ [R=301,L]
-RewriteRule ^applied-learning/economics/buy/$  http://store.emcp.com/econ2e.html [R=301,L]
+RewriteRule ^econ$  http://www.emcp.com/applied-learning/social-studies/economics/ [R=301,L]
+RewriteRule ^econ/$  http://www.emcp.com/applied-learning/social-studies/economics/ [R=301,L]
+RewriteRule ^applied-learning/economics/$  http://www.emcp.com/applied-learning/social-studies/economics/ [R=301,L]
+RewriteRule ^applied-learning/economics/buy/$  http://www.emcp.com/applied-learning/social-studies/economics/buy/ [R=301,L]
+RewriteRule ^applied-learning/social-studies/economics/buy/$  http://store.emcp.com/econ2e.html [R=301,L]
+RewriteRule ^applied-learning/economics/sample/$    http://www.emcp.com/applied-learning/social-studies/economics/sample/ [R=301,L]
+RewriteRule ^applied-learning/social-studies/economics/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efeb1b93655fbffec25896253a61b68828 [R=301,L]
 
 RewriteRule ^ela$  http://www.emcp.com/language-arts/ [R=301,L]
 RewriteRule ^ela/$  http://www.emcp.com/language-arts/ [R=301,L]
@@ -169,23 +173,16 @@ RewriteRule ^language-arts/expository-composition/$ http://store.emcp.com/exposi
 RewriteRule ^language-arts/access-editions/$ http://store.emcp.com/english-language-arts.html?emc_product_series=395   [R=301,L]
 RewriteRule ^language-arts/write-in-readers/$ http://store.emcp.com/english-language-arts/the-emc-write-in-reader.html    [R=301,L]
 
-RewriteRule ^applied-learning/business-education/$  http://store.emcp.com/business-education-computer-skills.html [R=301,L]
-RewriteRule ^applied-learning/applied-science/$ http://store.emcp.com/applied-science.html  [R=301,L]
-RewriteRule ^applied-learning/social-studies/$  http://store.emcp.com/social-studies.html   [R=301,L]
-RewriteRule ^applied-learning/career-life-skills/$  http://store.emcp.com/career-and-life-skills.html   [R=301,L]
-
 RewriteRule ^ci$    http://store.emcp.com/catalogsearch/result/?q=caffe [R=301,L]
 
 RewriteRule ^technology/passport/demo/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef54e4749f00f0979d3d83e9a341697cff [R=301,L]
 RewriteRule ^world-languages/spanish/quechevere/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef0a15eec3eb32f75b03d83e2df28c5590 [R=301,L]
 RewriteRule ^technology/iculture/demo/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efac66bdf3e575cc56ca6d8a873358c7f9 [R=301,L]
 RewriteRule ^language-arts/mirrors-windows/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efe835d7ad27aeaf8fece1506ad04b19a4 [R=301,L]
-RewriteRule ^applied-learning/economics/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efeb1b93655fbffec25896253a61b68828 [R=301,L]
 RewriteRule ^world-languages/chinese/zhen-bang/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112effbfa0f9e9b89480ff720aa249183e6f8 [R=301,L]
 RewriteRule ^world-languages/french/tes-branche/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef0b6d9f67a363648ad7544b9ed343495c [R=301,L]
 RewriteRule ^world-languages/german/deutsch-aktuell/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef7dc296945793ce5b4034abc1cc1c695a [R=301,L]
 
-RewriteRule ^applied-learning/applied-science/$    http://www.emcp.com/applied-learning/ [R=301,L]
 RewriteRule ^biotech$    http://www.emcp.com/applied-learning/applied-science/biotechnology/ [R=301,L]
 RewriteRule ^biotech/$    http://www.emcp.com/applied-learning/applied-science/biotechnology/ [R=301,L]
 RewriteRule ^applied-learning/applied-science/biotechnology/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef66f6c064ce0020a08b947a388e0245f7 [R=301,L]
@@ -207,7 +204,21 @@ RewriteRule ^applied-learning/computer-applications/marquee-2013/$   http://stor
 RewriteRule ^applied-learning/computer-applications/benchmark-2013/$   http://store.emcp.com/business-education-computer-skills.html?emc_product_series=521 [R=301,L]
 RewriteRule ^applied-learning/computer-applications/sig-word-2013/$   http://store.emcp.com/business-education-computer-skills.html?emc_product_series=574 [R=301,L]
 
+RewriteRule ^applied-learning/business-education/keyboarding/$  http://store.emcp.com/business-education-computer-skills.html?emc_product_series=549 [R=301,L]
+RewriteRule ^applied-learning/business-education/computer-concepts/$  http://store.emcp.com/business-education-computer-skills.html?emc_product_series=406 [R=301,L]
+RewriteRule ^applied-learning/business-education/computerized-accounting/$  http://store.emcp.com/business-education-computer-skills.html?emc_product_series=393 [R=301,L]
+RewriteRule ^applied-learning/business-education/web-development/$  http://store.emcp.com/business-education-computer-skills.html?emc_product_series=584 [R=301,L]
+RewriteRule ^applied-learning/business-education/legal-studies/$  http://store.emcp.com/business-education-computer-skills.html?emc_product_series=552 [R=301,L]
 
+RewriteRule ^applied-learning/applied-science/anatomy-physiology/$  http://store.emcp.com/applied-science.html [R=301,L]
+
+RewriteRule ^applied-learning/social-studies/personal-finance/$  http://store.emcp.com/social-studies/personal-finance-a-lifetime-responsibility.html [R=301,L]
+RewriteRule ^applied-learning/social-studies/american-government/$  http://store.emcp.com/social-studies/american-government-citizenship-and-power.html [R=301,L]
+
+RewriteRule ^applied-learning/career-life-skills/virtualjobshadow/$  http://edu.emcp.com/virtualjobshadow.html   [R=301,L]
+RewriteRule ^applied-learning/career-life-skills/job-search-skills/$  http://store.emcp.com/career-and-life-skills.html   [R=301,L]
+RewriteRule ^applied-learning/career-life-skills/preparing-for-career-success/$  http://store.emcp.com/career-and-life-skills/preparing-for-career-success-third-edition.html   [R=301,L]
+RewriteRule ^applied-learning/career-life-skills/developing-career-living-skills/$  http://store.emcp.com/career-and-life-skills/developing-career-and-living-skills-4662.html   [R=301,L]
 
 RewriteRule ^404$  /404/   [R=301,L]
 RewriteRule ^404/$  /404.php   [L]
