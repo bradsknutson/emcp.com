@@ -19,7 +19,7 @@
 				<div class="wl-content">
 					<h3><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Applications</a></h3>
 					
-					<p>Advance your students in critical Microsoft skills with our extensive Computer Applications offerings. Choose a teaching approach that best fits the needs of your classroom.</p>
+					<p>Advance your students in critical Microsoft skills with our extensive computer applications offerings. Choose a teaching approach that best fits the needs of your classroom.</p>
 				</div>
 			</div>
 		</div>

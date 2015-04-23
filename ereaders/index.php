@@ -14,31 +14,15 @@
 			<div class="ninesixty">
                 <p class="ereaders-larger">EMC's enhanced eReaders take reading, well, anywhere!</p>
                 
-                <img class="ereaders-right-img" src="<?php echo $server; ?>lib/images/Bookshelf-image.jpg" alt="Bookshelf" style="margin-top:-65px;" />
+                <img class="ereaders-right-img" src="<?php echo $server; ?>lib/images/iPadeReaders-image.png" alt="iPad eReaders" style="margin-left:50px;" />
                 
-                <p class="ereaders-smaller">EMC's enhanced eReaders connect students to their books in and out of the classroom. eReaders work on all laptops, desktops, and mobile devices including the iPad&copy;. Available in Spanish, French and German.</p>
+                <p class="ereaders-smaller">EMC's enhanced eReaders connect students to their books in and out of the classroom. eReaders work on all laptops, desktops, and mobile devices including the iPad&copy;. Available in Spanish, French and German. eReader features include beautiful illustrations and easy-to-follow synchronized audio. Student’s have the ability to take notes, play games, and complete interactive practice activities!</p>
                 
                 <div class="clearfix"></div>
                 
             </div>
-            <div class="redefining light-grey-slice">
-                <div class="ninesixty">
-                    
-                    <img class="ereaders-right-img" src="<?php echo $server; ?>lib/images/iPadeReaders-image.png" alt="eReader Features" style="margin:50px 50px 0 0;" />
-                    
-                    <p class="ereaders-larger">eReader Features</p>
-
-                    <ul class="ereaders-smaller">
-                        <li>beautifully illustrated</li>
-                        <li>synchronized audio</li>
-                        <li>notes</li>
-                        <li>interactive activities</li>
-                        <li>games</li>
-                    </ul>
-                </div>
-            </div>
             <div class="redefining">
-                <div class="ninesixty">
+                <div class="ninesixty no-top">
                     <table>
                         <tr>
                             <td>

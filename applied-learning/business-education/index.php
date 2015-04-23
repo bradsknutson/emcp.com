@@ -26,7 +26,7 @@
 		<div class="grey-slice">
 			<div class="ninesixty slice-odd">
                 <div class="left-slice">
-                    <h1>Computer Concepts & Literacty</h1>
+                    <h1>Computer Concepts & Literacy</h1>
                     <p>Equip your students with the computer skills needed to function in today's digital world. Through a combination of online activities and textbook content, we offer resources to expose students to the latest concepts and software to succeed in future technology careers.</p>
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/business-education/computer-concepts/">Buy It Now!</a>
                 </div>

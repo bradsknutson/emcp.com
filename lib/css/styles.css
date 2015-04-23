@@ -2635,6 +2635,9 @@ table .ereaders-smaller {
 	margin-top: 0px;
 	padding-top: 0px;
 }
+.ereaders .no-top {
+    padding-top: 0px !important;   
+}
 .white {
 	background: #FFF;
 }

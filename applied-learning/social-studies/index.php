@@ -28,7 +28,7 @@
 			<div class="ninesixty slice-odd">
                 <div class="left-slice">
                     <h1>Personal Finance</h1>
-                    <p><em>Personal Finance: A Lifetime Responsibility</em> covers the most current and relevant topics, including identity theft, buying a car, and using debit cards. It presents hundreds of real-life examples, documents, and forms to capture the interest and imagination of today's consumer-oriented teens.</p>
+                    <p><em>Personal Finance: A Lifetime Responsibility</em> covers current and relevant topics, including identity theft, buying a car, and using debit cards. It presents hundreds of real-life examples, documents, and forms to capture the interest and imagination of today's consumer-oriented teens.</p>
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/social-studies/personal-finance/">Learn more</a>
                 </div>
                 <div class="right-slice">

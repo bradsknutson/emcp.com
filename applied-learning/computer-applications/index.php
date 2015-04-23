@@ -43,7 +43,7 @@
                 </div>
                 <div class="right-slice">
                     <h1>Visual Approach</h1>
-                    <p>Provide a highly effective, visual approach to learning the essential skills in Word, Excel, Access, PowerPoint, Windows, and Internet Explorer with the Marquee Series. Graduated instructional approaches allows students to move from easy step-by-step learning to validating skills through realistic projects.</p>
+                    <p>Provide a highly effective, visual approach to learning the essential skills in Word, Excel, Access, PowerPoint, Windows, and Internet Explorer with the <em>Marquee Series</em>. Graduated instructional approaches allows students to move from easy step-by-step learning to validating skills through realistic projects.</p>
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/computer-applications/marquee-2013/">Buy It Now!</a>
                 </div>
                 <div class="clearfix"></div>

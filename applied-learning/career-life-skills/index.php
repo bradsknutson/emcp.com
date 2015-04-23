@@ -17,7 +17,7 @@
                 </div>
                 <div class="right-slice">
                     <h1>Career Exploration</h1>
-                    <p>VirtualJobShadow.com is an online career planning and career exploration resource that provides all the tools and resources for charting your career path by choice, not chance. It's highly-engaging, fun, and works perfectly on any computer, tablet, or smart phone, making job shadowing a uniquely cool digital experience!</em></p>
+                    <p><em>VirtualJobShadow.com</em> is an online career planning and career exploration resource that provides all the tools and resources for charting your career path by choice, not chance. It's highly-engaging, fun, and works perfectly on any computer, tablet, or smart phone, making job shadowing a uniquely cool digital experience!</em></p>
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/career-life-skills/virtualjobshadow/">Learn More!</a>
                 </div>
                 <div class="clearfix"></div>
