@@ -38,7 +38,7 @@
 	<script type="text/javascript" src="<?php echo $server ?>lib/js/fancybox/helpers/jquery.fancybox-media.js?v=1.0.0"></script>	
 	
 	<!-- Google Map -->
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
+	<script src="https://maps.googleapis.com/maps/api/js"></script>
 	
 	<?php if(!empty($custom_js)) {
 		echo '<!-- Custom Javascript -->';
@@ -48,6 +48,10 @@
 		echo '<!-- Custom CSS -->';
 		echo '<link href="'. $server .'lib/css/'. $custom_cs .'" rel="stylesheet">';
 	} ?>
+	<?php if( $nofollow == 'TRUE' ) {
+        echo '<!-- noindex/nofollow -->';
+		echo '<meta name="robots" content="noindex, nofollow" />';
+    } ?>
 
 	<?php include 'ga.php'; ?>
 </head>

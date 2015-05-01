@@ -51,7 +51,7 @@
                                             DAS HAUS DEN KLIPPEN<br />
                                             DIE NACHBARN<br />
                                             DIE VERWANDLUNG<br />
-                                                EINE SPEZIELLE BAND</em></p>
+                                            EINE SPEZIELLE BAND</em></p>
                                         </td>
                                         <td valign="top">
                                             <p class="ereaders-smaller"><em>MORD IN GRAND HOTEL 2013<br />

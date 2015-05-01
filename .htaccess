@@ -220,6 +220,9 @@ RewriteRule ^applied-learning/career-life-skills/job-search-skills/$  http://sto
 RewriteRule ^applied-learning/career-life-skills/preparing-for-career-success/$  http://store.emcp.com/career-and-life-skills/preparing-for-career-success-third-edition.html   [R=301,L]
 RewriteRule ^applied-learning/career-life-skills/developing-career-living-skills/$  http://store.emcp.com/career-and-life-skills/developing-career-and-living-skills-4662.html   [R=301,L]
 
+RewriteRule ^ca_lit$  http://store.emcp.com/mirrors-and-windows-california-public-review.html [R=301,L]
+RewriteRule ^ca_lit/$  http://store.emcp.com/mirrors-and-windows-california-public-review.html [R=301,L]
+
 RewriteRule ^404$  /404/   [R=301,L]
 RewriteRule ^404/$  /404.php   [L]
 

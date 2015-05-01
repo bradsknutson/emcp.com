@@ -2624,9 +2624,140 @@ table .ereaders-smaller {
 
 /* -------- End Career & Life Skills Page Styles ------------- */
 
+/* -------- Start Mirrorsandwindows.com Page Styles ------------- */
+
+.mwdc-bg, .mwdc-bg #topImg {
+    height: 311px;   
+}
+.mwdc-bg #topImg {
+    background: #FFF url('../images/mwdc-header.jpg') no-repeat 50% 100%;
+}
+.mwdc-top-content {
+    margin-top: 191px;   
+}
+.mwdc-top-content p {
+    width: 740px;
+    margin: auto;
+    padding-bottom: 40px;
+    font-size: 26px;
+    line-height: 1.4em;
+}
+.mwdc-top-content .left-slice, .mwdc-top-content .right-slice {
+    float: left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 50%;
+    position: relative;
+}
+.mwdc-top-content .left-slice p, .mwdc-top-content .right-slice p {
+    width: auto;
+    padding: 25px;
+    margin: 0;
+    text-align: center;
+}
+.mwdc-top-content .left-slice img, .mwdc-top-content .right-slice img {
+    display: block;
+    margin: auto;
+}
+.mwdc-top-content .left-slice .bghover, .mwdc-top-content .right-slice .bghover {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.mwdc-top-content .left-slice .bghover {
+    background: transparent url('../images/mwdc-1-bg.png') no-repeat 50% 0%;
+}
+.mwdc-top-content .right-slice .bghover {
+    background: transparent url('../images/mwdc-2-bg.png') no-repeat 50% 0%;
+    
+}
+.mwdc-top-content .left-slice .bghover, .mwdc-top-content .right-slice .bghover {
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	transition: all 0.3s;
+    opacity: 0;
+}
+.mwdc-top-content .left-slice:hover .bghover, .mwdc-top-content .right-slice:hover .bghover {
+    opacity: 1;
+}
+
+/* -------- End Mirrorsandwindows.com Page Styles ------------- */
+
+/* -------- Start MW California Page Styles ------------- */
+
+.mw-ca-bg, .mw-ca-bg #topImg {
+    height: 512px;   
+}
+.mw-ca-bg #topImg {
+    background: #FFF url('../images/mw-ca-bg.jpg') no-repeat 50% 100%;
+}
+.mw-ca-cta, .mw-ca-cta-2, .mw-ca-cta-3 {
+    bottom: -90px;   
+}
+.movedown {
+    margin: 75px auto 0px !important;
+}
+.mw-ca-cta {
+    left: 20%;
+}
+.mw-ca-cta-2 {
+    left: 50%;
+    margin-left: -130px;
+}
+.mw-ca-cta-3 {
+    right: 15%;
+}
+.mw-ca-top-content {
+    padding: 525px 0 50px;
+}
+.mw-ca-top-content h2 {
+    text-align: center;
+    margin: 40px 0 30px;
+    font-size: 36px;
+}
+.mw-ca-top-content h3 {
+    text-align: center;
+    margin: 0;
+    font-size: 26px;
+}
+.mw-ca-top-content h4 {
+    margin-bottom: 0;
+    display: inline;
+}
+.mw-ca-top-content h4.h4-bigger {
+    font-size: 24px;
+    margin-bottom: 30px;
+    display: block;
+}
+.mw-ca-top-content p {
+    margin-top: 0;
+    clear: both;
+}
+.mw-ca-bookshelf {
+    display: inline;
+    margin: 5px 0 -3px 5px;
+}
+.mw-ca-top-content .left-slice, .mw-ca-top-content .right-slice {
+    width: 50%;
+    float: left;
+}
+.mw-ca-bookshelf.center-img {
+    margin-bottom: 30px;   
+}
+
+/* -------- End MW California Page Styles ------------- */
+
 /* -------- Constants ---------------- */
 
-
+.sixseventyfive {
+    width: 675px;
+    margin: auto;
+}
 .no-bottom {
 	margin-bottom: 0px !important;
 	padding-bottom: 0px !important;
@@ -2710,6 +2841,10 @@ table .ereaders-smaller {
 }
 .largest-link {
 	font-size: 30px !important;
+}
+.center-img {
+    display: block;
+    margin: auto;
 }
 
 /* -------- Start Media Queries ---------------- */
