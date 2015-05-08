@@ -177,6 +177,7 @@ RewriteRule ^ci$    http://store.emcp.com/catalogsearch/result/?q=caffe [R=301,L
 
 RewriteRule ^technology/passport/demo/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef54e4749f00f0979d3d83e9a341697cff [R=301,L]
 RewriteRule ^world-languages/spanish/quechevere/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef0a15eec3eb32f75b03d83e2df28c5590 [R=301,L]
+RewriteRule ^world-languages/spanish/vale/buy/$    http://store.emcp.com/world-languages.html?emc_product_series=582&language=357&limit=all [R=301,L]
 RewriteRule ^technology/iculture/demo/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efac66bdf3e575cc56ca6d8a873358c7f9 [R=301,L]
 RewriteRule ^language-arts/mirrors-windows/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efe835d7ad27aeaf8fece1506ad04b19a4 [R=301,L]
 RewriteRule ^world-languages/chinese/zhen-bang/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112effbfa0f9e9b89480ff720aa249183e6f8 [R=301,L]

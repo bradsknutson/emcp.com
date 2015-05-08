@@ -2752,6 +2752,39 @@ table .ereaders-smaller {
 
 /* -------- End MW California Page Styles ------------- */
 
+/* -------- Start EMC Stores Page Styles ------------- */
+
+.emc-stores-bg, .emc-stores-bg #topImg {
+    height: 480px;   
+}
+.emc-stores-bg #topImg {
+    background: #FFF url('../images/emc-stores-header.png') no-repeat 50% 100%;
+}
+.emc-stores-top-content {
+    margin-top: 360px;   
+}
+.emc-stores-half {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+.emc-stores-top-content .ninehundred {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0 0 0 57px;
+}
+.emc-stores-top-content h1 {
+    font-weight: 100;
+    color: #000;
+    padding: 0;
+    margin: 0 0 50px;
+}
+.emc-stores-top-content ul {
+    padding: 0 15px 0 19px;   
+}
+
+/* -------- End EMC Stores Page Styles ------------- */
+
 /* -------- Constants ---------------- */
 
 .sixseventyfive {

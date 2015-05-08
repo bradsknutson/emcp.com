@@ -31,7 +31,7 @@
 				<h3>&iexcl;Vale!</h3>
 				<p>Elementary School</p>
 				<p>&iexcl;Vale! is best suited for grade levels 3-5. This series introduces real world situations through music to create a lively and entertaining approach to learning Spanish. The ¡Vale! series is a combination of the Multiple Intelligences Theory and the Total Physical Response Methodology.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/vale-volume-1.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/vale/buy/">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/confidently.jpg" alt="Speaking Spanish Confidently!" />
