@@ -52,7 +52,7 @@
 		<div class="grey-slice">
 			<div class="ninesixty">
                 <div class="left-slice">
-                    <h1>Ceritifaction, Cased-based Approach</h1>
+                    <h1>Certification, Cased-based Approach</h1>
                     <p>The Benchmark Series provides students with mastery skill levels to meet the Microsoft Office Specialist certification objectives through realistic projects-based exercises.</p>
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/computer-applications/benchmark-2013/">Buy It Now!</a>
                 </div>

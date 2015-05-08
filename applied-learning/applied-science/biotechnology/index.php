@@ -50,7 +50,7 @@
                 <div class="featured-flipgrid-right">
                     <h3 class="no-bottom no-top">Flipgrid&trade;</h3>
                     <p class="no-top">Give all students a voice in classroom discussions.</p>
-                    <p>Using Flipgrid&trade; with Economics: New Ways of Thinking, Second Edition will help you interact with your studetns and reinforce the essential concepts you are teaching.  Greate grids of short, discussion-style questions and have students respond through recorded videos.  Grid questions can include chapter objectives, concepts, and key terms for students to answer and define.</p>
+                    <p>Using Flipgrid&trade; with Biotechnology: Science for the new Millennium will help you interact with your students and reinforce the essential concepts you are teaching.  Create grids of short, discussion-style questions and have students respond through recorded videos.  Grid questions can include chapter objectives, concepts, and key terms for students to answer and define.</p>
                     <p><a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid!</a></p>
                 </div>
                 <div class="featured-flipgrid-left">
