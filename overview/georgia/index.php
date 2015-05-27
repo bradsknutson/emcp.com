@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include '../../includes/header.php'; ?>
 	<div id="container" class="main">
 		<div style="text-align:center;"><img src="/lib/images/georgia/Ga-WL-Landing-header.jpg" border="0" usemap="#header" /></div>
 		<!--
@@ -271,4 +271,4 @@
 <area shape="rect" coords="791,413,900,560" href="#da" alt="">
 <area shape="rect" coords="937,413,1046,560" href="#zb" alt=""> 
 </map>
-<?php include 'includes/footer.php' ?>
+<?php include '../../includes/footer.php' ?>
