@@ -18,7 +18,7 @@
                 <div class="right-slice">
                     <h1>Economics</h1>
                     <p>Show students how to find economics in usual and surprising place with <em>Economics: New Ways of Thinking.</em></p>
-                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/social-studies/economics/">Learn More!</a>
+                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/social-studies/economics/">Learn More!</a>&nbsp;&nbsp;
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/social-studies/economics/buy/">Buy It Now!</a>
                 </div>
                 <div class="clearfix"></div>

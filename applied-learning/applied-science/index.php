@@ -18,7 +18,7 @@
                 <div class="right-slice">
                     <h1>Biotechnology</h1>
                     <p>Designed for introductory courses, <em>Biotechnology: Science for the New Millennium</em> is the perfect lab manual and textbook combination to teach your students concepts and hands-on lab procedures for entry-level careers in the rapidly growing biotechnology industry.</p>
-                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/applied-science/biotechnology/">Learn More!</a>
+                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/applied-science/biotechnology/">Learn More!</a>&nbsp;&nbsp;
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/applied-science/biotechnology/buy/">Buy It Now!</a>
                 </div>
                 <div class="clearfix"></div>

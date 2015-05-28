@@ -229,4 +229,7 @@ RewriteRule ^404/$  /404.php   [L]
 
 RewriteRule ^georgia-overview.php http://www.emcp.com/overview/georgia/ [R=301,L]
 
+RewriteRule ^symtalk$ http://www.emcp.com/world-languages/symtalk/ [R=301,L]
+RewriteRule ^symtalk/$ http://www.emcp.com/world-languages/symtalk/ [R=301,L]
+
 ErrorDocument 404 /error.php

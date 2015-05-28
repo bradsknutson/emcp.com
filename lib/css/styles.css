@@ -916,7 +916,7 @@ p.chatbox-quote{
 	margin-top: 450px;
 	background: #F0EFEB;
 }
-.secondary-first .ninesixty {
+.secondary-first .ninesixty, .secondary-next .ninesixty {
 	padding: 65px 0px 40px;
 	line-height: 1.9;
 	font-size: 18px;
@@ -2784,6 +2784,43 @@ table .ereaders-smaller {
 }
 
 /* -------- End EMC Stores Page Styles ------------- */
+
+
+/* -------- Start Symtalk Page Styles ------------- */
+
+.symtalk-bg, .symtalk-bg #topImg {
+    height: 600px;   
+}
+.symtalk-bg #topImg {
+    background: #FFF url('../images/symtalk-header.jpg') no-repeat 50% 100%;   
+}
+.symtalk .secondary-first {
+    background-color: #FFF;   
+}
+.symtalk h1 {
+    font-size: 35px;
+    font-weight: 100;
+}
+.symtalk-left, .symtalk-right {
+    float: left;
+    width: 50%;
+}
+.symtalk-right img {
+    display: block;
+    margin: 50px auto 0;
+}
+.symtalk .secondary-next .symtalk-right img {
+    margin: auto;
+}
+.symtalk .secondary-next {
+    padding: 60px 0 60px 0;
+    background-color: #f0f0f0;
+}
+.symtalk .secondary-next .ninesixty {
+    padding: 0;   
+}
+
+/* -------- End Symtalk Page Styles ------------- */
 
 /* -------- Constants ---------------- */
 
