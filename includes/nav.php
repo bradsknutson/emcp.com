@@ -5,7 +5,7 @@
 ?>			
     <div class="container">
 	
-		<a href="<?php echo $server; ?>"><img src="<?php echo $server; ?>lib/images/logo.png" width="230" height="78" alt="EMC" /></a>
+		<a href="<?php echo $server; ?>"><img src="<?php echo $server; ?>lib/images/logo.png" alt="EMC" /></a>
 		
 		<nav class="main-navigation" role="navigation">
 			
