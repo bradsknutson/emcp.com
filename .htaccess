@@ -233,5 +233,6 @@ RewriteRule ^symtalk$ http://www.emcp.com/world-languages/symtalk/ [R=301,L]
 RewriteRule ^symtalk/$ http://www.emcp.com/world-languages/symtalk/ [R=301,L]
 
 RewriteRule ^ss$ http://www.emcp.com/applied-learning/social-studies/ [R=301,L]
+RewriteRule ^science$ http://www.emcp.com/applied-learning/applied-science/ [R=301,L]
 
 ErrorDocument 404 /error.php
