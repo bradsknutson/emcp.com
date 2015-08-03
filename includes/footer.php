@@ -5,25 +5,17 @@
                     
                    <!-- Start News Release 1 -->
                     
-                    <p><a href="http://bit.ly/actfl14" target="_blank" class="learn-more-link smaller-link">Teachers Explore New Online Learning Environment for World Languages at ACTFL</a></p>
-                    
-                    <p><strong>EMC Publishing's "Passport<sup>&reg;</sup>" — at ACTFL Booth 10031 — Takes Students on Journey Towards Proficiency</strong></p>
-                    
-                    <p>The future of world language learning — and the new tools that will help students achieve proficiency — are hot topics at this year's American Council on The Teaching of Foreign Languages (ACTFL) conference. EMC Publishing, a leader in print and digital education programs, is contributing to the conversation about what's next.</p>   
-                    
-                    <p><a href="http://bit.ly/actfl14" target="_blank" class="learn-more-link smaller-link">Click here to read more</a>.</p>             
+                    <p>EMC is proud to announce that Eric Cantor, our Chairman and Chief Executive Officer, has been elected to the Executive Council of the AAP PreK-12 Learning Group. Please join us in congratulating Eric! For more information about the AAP PreK-12 Learning Group, <a href="http://www.aepweb.org/" target="_blank" class="learn-more-link smaller-link">click here</a>.</p>             
                     
                     <!-- End News Release 1 -->                    
                     
                     <!-- Start News Release 2 -->
                     
-                    <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">EMC Publishing Launches Online Platform to Teach World Languages</a></p>
+                    <p><a href="http://store.emcp.com/about-emcp/news-and-events" class="learn-more-link smaller-link">The Natural Side of Student Voice</a></p>
                     
-                    <p><strong>Article via <a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">THE Journal</a></strong></p>
-                    
-                    <p>"EMC Publishing has launched <a href="http://www.emcp.com/passport">Passport</a>, an online environment for teaching and learning world languages. Passport (formerly EMCL) is designed to tap into the learning technologies that digital natives embrace and to increase students’ fluency by allowing them to fully experience the language they are learning."</p>   
-                    
-                    <p><a href="http://thejournal.com/articles/2014/10/14/emc-publishing-launches-online-foreign-language-platform.aspx" target="_blank" class="learn-more-link smaller-link">Click here</a> to read the entire aricle.</p>         
+                    <p>The power of student voice never fails to amaze us! This is so inspiring, and the very reason we do what we do at EMC! The Flipgrid team recently had the pleasure of visiting our longtime friend Andy Plemmons (@plemmonsa), Library Media Specialist at David C. Barrow Elementary School, and his awesome students in Athens, Georgia. "There's a level of honesty that comes out from kids, you see more of their natural side ... when they're making a video." – Andy Plemmons.</p>
+
+                    <p>Thanks for sharing your wonderful students + your experience, Andy! The work you do with your students is inspiring.</p>
                     
                     <!-- End News Release 2 -->
                     
