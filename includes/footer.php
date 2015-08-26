@@ -32,8 +32,9 @@
 				<div class="signupForm">
 					<form name="emailSignup" onSubmit="return ValidateForm();" method="POST" id="newsletterSignUp">
 						  <div id="formContent">
-							<input type="text" id="emailInput" name="email" class="textInput" placeholder="Stay connected" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Stay connected'" />
-							<button type="submit" id="signUp" name="signUp" class="button" style="display:none">Sign Up</button>
+                            <input type="text" name="test" id="test" class="testInput" placeholder="Leave Empty" />
+                            <input type="text" id="emailInput" name="email" class="textInput" placeholder="Stay connected" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Stay connected'" />
+                            <button type="submit" id="signUp" name="signUp" class="button" style="display:none">Sign Up</button>
 						  </div>
 					</form>
 				</div>
@@ -46,8 +47,8 @@
 					<ul>
 						<li><a href="http://store.emcp.com/about-emcp/news-and-events/">News</a></li>
 						<li><a href="<?php echo $server; ?>contact/">Contact</a></li>
-						<li><a href="http://store.emcp.com/contact-us/customer-service">Customer Service</a></li>
-						<li><a href="http://store.emcp.com/contact-us/local-account-manager-locator/">Sales</a></li>
+						<li><a href="http://store.emcp.com/customer-service">Customer Service</a></li>
+						<li><a href="http://store.emcp.com/local-account-manager-locator/">Sales</a></li>
 						<li><a href="http://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>
 					</ul>
 				</div>
