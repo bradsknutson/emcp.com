@@ -27,6 +27,7 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+	<!--
 		<div class="stay-connected">
 			<div class="ninesixty">
 				<div class="signupForm">
@@ -41,6 +42,7 @@
 				<p>Type your email above and hit 'Enter' to stay connected with EMC news, events, and updates.</p>
 			</div>
 		</div>
+	-->
 		<div class="footer">
 			<div class="ninesixty">
 				<div class="footer-nav">
