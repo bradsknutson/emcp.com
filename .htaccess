@@ -1,6 +1,3 @@
-Order Deny,Allow
-Deny from 91.207.60.88
-
 RewriteEngine On
 RewriteRule ^product_catalog/resourcefile.php?ID=1438(.*)   http://paradigm.emcp.com/about-us/policies-and-order-information/ [R=301,L]
 RewriteRule ^inventory(.*)      http://www.emcp.com/product_catalog/index.php?GroupID=1035$1 [R]
