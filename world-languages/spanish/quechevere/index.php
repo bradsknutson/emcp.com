@@ -22,7 +22,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty no-bottom">
 				<div class="conectate-left">
-                    <p class="no-top"><span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom.  Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. Students today need a multi-sensory and multi-layered learning environment that is designed to inspire creativity, synthesis, and collaboration, as well as provide opportunities to analyze, reflect, and evaluate. With <em>&iexcl;Qu&eacute; ch&eacute;vere!</em> learners will discover Spanish in a whole new way with our cutting-edge digital resources, such as video-based tools, authentic cultural videos, eBooks and much more.</p>
+                    <p class="no-top"><span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom. Watch your students connect to the Spanish-speaking world, rapidly develop language proficiency as well as cultural understanding. With our cutting-edge digital resources, such as video-based tools, authentic cultural videos, eBooks your students will discover the Spanish language in a whole new way.</p>
 					<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
 				</div>
 				<div class="conectate-right">
@@ -31,6 +31,105 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+        
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2>Top Reasons</h2>
+                <ul class="lineheight1p75">
+                    <li>Abundant activities that focus on Interpersonal, Presentational, and Interpretive Communication skills</li>
+                    <li>New insight into the target cultures through their Products, Perspectives, and Practices</li>
+                    <li>Frequent opportunities to synthesize, and reflect on, content through eachunit’s essential question</li>
+                    <li>Project-based learning</li>
+                    <li>State of the art learning environment that provides opportunities for blended learning</li>
+                </ul>
+            </div>
+        </div>
+        <div class="secondary-first margintop0 light-grey-slice">
+            <div class="ninesixty paddingtop40i paddingbottom40">
+                <h2 class="h240">Key Features</h2>
+                <ul class="lineheight1p75">
+                    <li>Visually appealing vocabulary presentations</li>
+                    <li>Current culture readings of high interest to students</li>
+                    <li>Dialogues recorded by native speakers</li>
+                    <li>Scaffolded and authentic readings</li>
+                    <li>End of lesson review activities</li>
+                    <li>End of unit cumulative projects</li>
+                    <li>Opportunities for differentiated instruction</li>
+                    <li>Integration into the <a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup> learning environment</li>
+                </ul>
+            </div>
+        </div>
+        <div class="secondary-first margintop0 white">
+            <div class="ninesixty paddingtop40i paddingbottom40">
+				<div class="conectate-left">
+                    <h2 class="h240">Why <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere! Espa&ntilde;ol avanzado</span></h2>
+
+                    <ul class="lineheight1p75">
+                        <li>We do more than teach to the test!</li>
+                        <li>AP* themes integrated into each unit</li>
+                        <li>AP* practice integrated into each unit</li>
+                        <li>ACTFL aligned</li>
+                        <li>Abundant communication activities that align to the AP* exam</li>
+                        <li>Grammar reviewed using an inductive approach</li>
+                        <li>Authentic fiction and non-fiction texts</li>
+                        <li>Authentic audio</li>
+                        <li>Opportunities for project-based learning</li>
+                        <li>State of the art learning environment with opportunities for blended learning</li>
+                    </ul>
+                    
+                    <p class="disclaimer">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
+                </div>
+				<div class="conectate-right">
+                    <img class="margintop80" src="http://www.emcp.com/lib/images/QC5cover.jpg" alt="Que Chevere! Level 5">
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="redefining paddingtop40 light-grey-slice">
+            <div class="ninesixty">
+                <h2>Components</h2>
+                <div class="one-half first">
+                    <p class="bold">For students:</p>
+                    <ul class="lineheight1p75">
+                        <li>Textbook</li>
+                        <li>Workbook</li>
+                        <li>Grammar and Vocabulary</li>
+                        <li>Listening Activities</li>
+                        <li>Video Activities</li>
+                        <li>Middle School Bridge</li>
+                        <li>Juegos</li>
+                        <li>Online Pre-tests</li>
+                        <li>eVisuals</li>
+                        <li>Flash Cards</li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="one-half last">
+                    <p class="bold">For teachers:</p>
+                    <ul class="lineheight1p75">
+                        <li>Annotated Teacher’s Edition</li>
+                        <li>Workbook Teacher’s Edition</li>
+                        <li>Grammar and Vocabulary Teacher's Edition</li>
+                        <li>Listening Activities Teacher's Edition</li></li>
+                        <li>Video Program Teacher's Edition</li>
+                        <li>Communicative Activities</li>
+                        <li>TPR Storytelling</li>
+                        <li>Middle School Activities with Answer Key</li>
+                        <li>Middle School Bridge with Answer Key</li>
+                        <li>Quizzes with Answer Key</li>
+                        <li>Tests with Answer Key</li>
+                        <li><span class="bold">Exam</span>View<sup>&reg;</sup></li>
+                        <li>Portfolio Assessment</li>
+                        <li>Materiales para hispanohablantes nativos</li>
+                        <li>Lesson Plans</li>
+                        <li>eVisuals</li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>

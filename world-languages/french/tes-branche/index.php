@@ -98,7 +98,7 @@
                         <li>Listening Activities Manual</li>
                         <li>Lesson Quizzes</li>
                         <li>Unit Tests</li>
-                        <li>Proficiency Tests</li></li>
+                        <li>Proficiency Tests</li>
                         <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
                     </ul>
                 </div>

@@ -20,7 +20,7 @@
 				<div>
 					<h2>&iexcl;Qu&eacute; ch&eacute;vere!</h2>
                     <p class="no-top">Middle and High School</p>
-                    <p>Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span>, a 5-level Spanish program for the 21st century. Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. The vast digital resources of our new learning environment, Passport<sup>&reg;</sup>, are fully integrated into <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span> and at your finger tips.</p>
+                    <p>Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span>, a 5-level Spanish program for the 21st century. Watch your students connect to the Spanish-speaking world using a program that motivates them to rapidly develop language proficiency and cultural understanding. The vast digital resources of our new learning environment, <a href="<?php echo $server; ?>technology/passport/" class="white-link">Passport</a><sup>&reg;</sup>, are fully integrated into <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span> and at your finger tips.</p>
 					<a class="learn-more-link smaller-link" href="http://www.emcp.com/qc">Learn more</a>
 				</div>
 			</div>
