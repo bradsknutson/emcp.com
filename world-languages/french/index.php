@@ -20,7 +20,7 @@
 				<div>
 					<h2 class="no-bottom">T'es branch&eacute;?</h2>
                     <p class="no-top">Middle and High School</p>
-                    <p><span class="italic">T'es branch&eacute;?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. The vast digital resources of our new learning environment, Passport<sup>&reg;</sup>, are fully integrated into <span class="italic">T'es branch&eacute;?</span> and at your finger tips. </p>
+                    <p><span class="italic">T'es branch&eacute;?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. The vast digital resources of our new learning environment, <a href="<?php echo $server; ?>technology/passport/" class="white-link">Passport</a><sup>&reg;</sup>, are fully integrated into <span class="italic">T'es branch&eacute;?</span> and at your finger tips. </p>
 					<a class="learn-more-link smaller-link" href="http://www.emcp.com/teb">Learn more</a>
 				</div>
 			</div>

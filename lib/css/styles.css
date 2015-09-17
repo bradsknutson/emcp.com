@@ -1387,6 +1387,9 @@ p.chatbox-quote{
     left: 75px;
     bottom: 75px;
 }
+.disclaimer {
+    font-size: 14px;   
+}
 
 /* -------- End T'es Branche Page Styles -------------- */
 
@@ -2863,6 +2866,9 @@ table .ereaders-smaller {
 .marginbottom15 {
 	margin-bottom: 15px !important;
 }
+.margintop0 {
+	margin-top: 0px !important;
+}
 .margintop15 {
 	margin-top: 15px !important;
 }
@@ -2918,6 +2924,13 @@ table .ereaders-smaller {
 .center-img {
     display: block;
     margin: auto;
+}
+.white-link {
+    color: #FFF !important;
+    text-decoration: underline !important;
+}
+.lineheight1p75 {
+    line-height: 1.75   
 }
 
 /* -------- Start Media Queries ---------------- */

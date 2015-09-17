@@ -25,7 +25,7 @@
 					<h2>Communicate confidently in the modern francophone world</h2>
 				</div>
 				<div class="conectate-left margintop40">
-					<p class="no-top"><span class="bold"><span class="italic">T'es branch&eacute;?</span></span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. Watch students become global citizens as they explore an essential question in each unit and actively engage in francophone culture. ACTFL-aligned, <span class="italic">T'es branch&eacute;?</span> is the best choice for your French classroom–with the freshest digital resources, award-wining authors, and AP* preparation throughout all four levels.</p>
+					<p class="no-top"><span class="bold"><span class="italic">T'es branch&eacute;?</span></span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. Watch students become global citizens as they explore an essential question in each unit and actively engage in francophone culture. ACTFL-aligned,  <span class="italic">T'es branch&eacute;?</span> is the best choice for your French classroom–with the freshest digital resources, award-wining authors, and AP* preparation throughout all four levels.</p>
                     
                     <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a>
 				</div>
@@ -35,6 +35,76 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+        
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2>Top Reasons</h2>
+                <ul class="lineheight1p75">
+                    <li>Aligns with the ACTFL National Standards for Learning Languages as well as the Common Core State Standards—a complete correlation is included in the Annotated Teacher’s Edition.</li>
+                    <li>Features two highly acclaimed authors—Toni Theisen, the 2009 ACTFL Teacher of the Year and ACTFL President in 2013; and Jacques Pécheur, Chief Editor of the French review Le français dans le monde.</li>
+                    <li>Provides for differentiated instruction throughout the textbook and ancillaries, including both basic and more advanced activities. Assessments are designed for at-standard, slower-paced, and advanced learners.</li>
+                    <li>Responds to teachers’ expressed interests and priorities based on feedback from over 1,000 experienced French educators across the country.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="secondary-first margintop0 light-grey-slice">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+				<div class="conectate-left margintop15">
+                    <h2><span class="italic">T'es branch&eacute;?</span> Level 4/AP*</h2>
+
+                    <p>The <span class="italic">T'es branch&eacute;?</span> level 4/AP* textbook is designed for advanced students to strengthen language skills and develop cultural competency that will prepare them to excel at the AP* French language and Culture exam.</p>
+                    
+                    <p class="disclaimer">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
+                </div>
+				<div class="conectate-right">
+                    <img src="http://www.emcp.com/lib/images/teb4-cover.jpg" alt="T'es branché? Level 4">
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="redefining paddingtop40">
+            <div class="ninesixty">
+                <h2>Components</h2>
+                <div class="one-half first">
+                    <p class="bold">For students:</p>
+                    <ul class="lineheight1p75">
+                        <li>Textbook</li>
+                        <li>Workbook</li>
+                        <li>Textbook Audio MP3</li>
+                        <li>DVD Program: <span class="italic">Rendez-vous &agrave; Nice!</span></li>
+                        <li>Textbook Dialogue Videos</li>
+                        <li>Drill and Practice Games</li>
+                        <li>Flash Cards</li>
+                        <li>Listening Activities and MP3 Audio</li>
+                        <li>Pre-AP Listening Activities</li>
+                        <li>Online Pre-tests</li>
+                        <li>Middle School Activities</li>
+                        <li>e-Visuals</li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="one-half last">
+                    <p class="bold">For teachers:</p>
+                    <ul class="lineheight1p75">
+                        <li>Annotated Teacher’s Edition</li>
+                        <li>Workbook Teacher’s Edition</li>
+                        <li>Lectures th&eacute;matiques</li>
+                        <li>Lesson Plans</li>
+                        <li>Middle School Bellringers</li>
+                        <li>Activities for Mastery</li>
+                        <li>TPR Storytelling Manual</li>
+                        <li>Copy Masters</li>
+                        <li>Communicative Activities</li>
+                        <li>Listening Activities Manual</li>
+                        <li>Lesson Quizzes</li>
+                        <li>Unit Tests</li>
+                        <li>Proficiency Tests</li></li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>
