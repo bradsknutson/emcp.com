@@ -7,7 +7,7 @@
 		<div class="header-background-image zb-bg">
 			<div id="topImg">
                 <div class="tech-button-container">
-                    <a class="technology-buttons zb-demo transition" href="<?php echo $server; ?>world-languages/chinese/zhen-bang/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','ZB Sample');">Sample</a>
+                    <a class="technology-buttons zb-demo transition" href="<?php echo $server; ?>world-languages/chinese/zhen-bang/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','ZB Sample');">Pre-Order Sample</a>
                 </div>
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
@@ -21,7 +21,7 @@
 					<h2>Developed for the American high school student</h2>
 				</div>
 				<div class="conectate-left margintop40">
-					<p class="no-top"><span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> welcomes students to the world of Chinese language and culture with a design that is colorful, inviting, and engaging. Students will enjoy talking about their lives, family, friends, school, home, eating, shopping, and more in paired and group communicative activities that incorporate 21<sup>st</sup> century skills whenever possible. Aligned to national standards, <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng</span></span> is the best choice for your Chinese classroom.</p>
+					<p class="no-top">Welcome to EMC's <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> program, where students interact with Chinese language and culture in awesome, everyday ways. Get students talking about family, friends, school, home, meals, shopping and more—conversing in pairs and groups. Zhēn Báng!  integrates language and culture seamlessly and provides technology resources that are easy to use for students and teachers. What an awesome way to learn the Chinese language!</p>
                     
                     <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=399&language=364">Buy It Now!</a>
 				</div>
@@ -31,6 +31,73 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+        
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2>New for the Second Edition</h2>
+                <ul class="lineheight1p75">
+                    <li>Communicative activities are clearly labeled as Interpersonal, Interpretive, and Presentational as aligned to ACTFL Standards</li>
+                    <li>Cultural content and imagery is up-to-date in order to appeal to students and improve relevancy</li>
+                    <li>Vocabulary has been updated with fresh, relevant content</li>
+                    <li>Newly revised layouts improve clarity and flow of content</li>
+                    <li>Pinyin of initial and final charts are updated along with their practice in the foundation lessons</li>
+                    <li>Improved activities</li>
+                    <li>Products, perspectives, and practices of the Chinese-speaking world while making comparisons to their own lives</li>
+                    <li>Additional authentic Chinese language materials, performance-based tasks, and project-based learning through the Passport Learning Environment</li>
+                </ul>
+            </div>
+        </div>
+        <div class="redefining no-bottom light-grey-slice">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2><span class="italic bold">Zh&#275;n B&agrave;ng!</span> at a Glance</h2>
+                <p class="lineheight1p75"><span class="bold">Interpersonal, Presentational, and Interpretive Communication</span><br />
+                    <span class="bold">Interpersonal speaking</span> activities engage students to use real-life communication skills in a partner or group setting.<br />
+<span class="bold">Presentational speaking</span> and writing activities guide students through the process of gathering information and presenting it within a cultural context.<br />
+<span class="bold">Interpretive communication</span> activities direct students to focus on meaning and analysis of content.</p>
+            </div>
+        </div>
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2>Products, Perspectives, Practices</h2>
+                <p class="lineheight1p75">Students interact with culture through the <span class="bold">products, perspectives, and practices</span> of the Chinese-speaking world while making comparisons to their own lives. Students gain insight into the cultural perspectives that underlie the practices and products of the Chinese-speaking world. Practices reveal patterns of social interactions related to products, demonstrating to students "what to do when and where."
+</p>
+            </div>
+        </div>
+        <div class="redefining paddingtop40 light-grey-slice">
+            <div class="ninesixty">
+                <h2>Components</h2>
+                <div class="one-half first textalignleft">
+                    <p class="bold">For students:</p>
+                    <ul class="lineheight1p75">
+                        <li>Textbook</li>
+                        <li>eBook</li>
+                        <li>Workbook</li>
+                        <li>eWorkbook</li>
+                        <li>Character Practice Book with audio</li>
+                        <li>Listening Practice Activities</li>
+                        <li>Games, pronunciation videos, cultural videos, dialogue videos, character</li>
+   animations and more</li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="one-half last textalignleft">
+                    <p class="bold">For teachers:</p>
+                    <ul class="lineheight1p75">
+                        <li>Annotated Teacher's Edition</li>
+                        <li>eATE and Teacher's Resources Package</li>
+                        <li>Workbook Answer Key</li>
+                        <li>Character Practice Book Answer Key</li>
+                        <li>Textbook Audio Program</li>
+                        <li>Quizzes Manual and Answer Key</li>
+                        <li>Test Manual and Answer Key</li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>        
+        
+        
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>
