@@ -1732,7 +1732,7 @@ p.chatbox-quote{
 }
 .mw-sample {
     bottom: 25px !important;
-    left: 35%;
+    left: 45%;
 }
 .mw-blog {
     bottom: 25px !important;
@@ -2948,6 +2948,9 @@ table .ereaders-smaller {
 .h240 {
     font-size: 40px;
     margin: 0;
+}
+.textalignleft {
+    text-align: left !important;   
 }
 
 /* -------- Start Media Queries ---------------- */

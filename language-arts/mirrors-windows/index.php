@@ -7,7 +7,6 @@
 		<div class="header-background-image mw-bg">
 			<div id="topImg">
                 <a class="technology-buttons mw-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');">Sample</a>
-                <a class="technology-buttons mw-blog transition" href="http://blog.emcp.com" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Blog');">Blog</a>
 			</div>
 		</div>
 		<div class="header-top">
@@ -18,7 +17,7 @@
                 <h3>Your Best Resource for Meeting College and Career Readiness Standards in English Language Arts</h3>
 				<div class="conectate-left">
                     <p class="no-top">EMC Publishing is proud to present its exciting literature program, <span class="italic">Mirrors & Windows: Connecting with Literature</span>. This seven-level program is built on a collection of timeless writings, current informational texts, multi-platform eBooks, and technology tools that speak to today’s connected learners.</p>
-                    <p class="no-bottom">Mirrors and Windows features:</p>
+                    <p class="no-bottom bold">Mirrors and Windows key features:</p>
                     <ul class="no-top">
                         <li>Three levels of reading support, from guided to directed to independent</li>
                         <li>Mix of easy, moderate, and challenging selections</li>
@@ -36,6 +35,61 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+        
+        
+        
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2>Top Reasons</h2>
+                <ol class="lineheight1p75">
+                    <li>Meets ALL English Language Arts College and Career Readiness Standards</li>
+                    <li>Truly scaffolded, gradual release of responsibility instruction with three levels of reading support and fully integrated task-based activities</li>
+                    <li>Most comprehensive range and diversity of classic and contemporary literature and informational texts</li>
+                    <li>Provides 100% of CCSS text types and range of texts within grade level text complexity levels – all in student textbook</li>
+                    <li>Common Core PARCC & SBA practice assessments online</li>
+                </ol>
+            </div>
+        </div>
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingbottom40">
+                <h2>Love of Literature</h2>
+                <p class="lineheight1p75">Mirrors & Windows represents a list of award winning authors such as Carl Sandburg, Robert Frost, Edgar Allen Poe, Ernest Hemingway and William Shakespeare. Among many other selections, Mirrors & windows also features multicultural authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer, and Langston Hughes.</p>
+            </div>
+        </div>
+        <div class="redefining paddingtop40 light-grey-slice">
+            <div class="ninesixty">
+                <h2>Components</h2>
+                <div class="one-half first textalignleft">
+                    <p class="bold">For students:</p>
+                    <ul class="lineheight1p75">
+                        <li>Textbook & eBook</li>
+                        <li>Meeting the Standards eWorkbook</li>
+                        <li>Exceeding the Standards eWorkbook</li>
+                        <li>Differentiated Instruction eWorkbook with Spanish Summaries</li>
+                        <li>Common Core Assessment Practice Criterion Online Essay Grader</li>
+                        <li>Audio program in eBook</li>
+                        <li>Access Editions (17 eBooks)</li>
+                    </ul>
+                </div>
+                <div class="one-half last textalignleft">
+                    <p class="bold">For teachers:</p>
+                    <ul class="lineheight1p75">
+                        <li>Teacher’s Edition Textbook</li>
+                        <li>Enhanced Teacher’s Edition eBook</li>
+                        <li>Program Planning Guide</li>
+                        <li>Assessment Guide with <span class="bold">EXAM</span>VIEW<sup>&reg;</sup></li>
+                        <li>Meeting the Standards, Exceeding the Standards, & Differentiated Instruction</li>
+                        <li>Criterion Online Essay Grader</li>
+                        <li>Teaching the Common Core</li>
+                        <li>Common Core Assessment Practice</li>
+                        <li>Access Editions Assessment Manuals</li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        
+        
         <div class="mw-mp-ebook paddingtop40 paddingbottom40">
 			<div class="ninesixty">
 				<div class="conectate-iculture-first">				

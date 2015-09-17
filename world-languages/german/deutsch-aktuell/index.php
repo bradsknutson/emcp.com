@@ -46,7 +46,7 @@
         <div class="redefining paddingtop40 light-grey-slice">
             <div class="ninesixty">
                 <h2>Components</h2>
-                <div class="one-half first">
+                <div class="one-half first textalignleft">
                     <p class="bold">For students:</p>
                     <ul class="lineheight1p75">
                         <li>Textbook</li>
@@ -58,7 +58,7 @@
                         <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
                     </ul>
                 </div>
-                <div class="one-half last">
+                <div class="one-half last textalignleft">
                     <p class="bold">For teachers:</p>
                     <ul class="lineheight1p75">
                         <li>Annotated Teacher’s Edition</li>
