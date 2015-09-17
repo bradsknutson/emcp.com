@@ -20,7 +20,7 @@
 				<div>
 					<h2>Deutsch Aktuell</h2>
                     <p class="no-top">High School</p>
-                    <p><span class="italic">Deutsch Aktuell</span> was created with the most up-to-date research in teaching and learning German, and our program is intended for students with varying abilities, backgrounds, interests, and learning styles. The vast digital resources of our new learning environment, Passport<sup>&reg;</sup>, are fully integrated into <span class="italic">Deutsch Aktuell</span> and at your finger tips.</p>
+                    <p><span class="italic">Deutsch Aktuell</span> was created with the most up-to-date research in teaching and learning German, and our program is intended for students with varying abilities, backgrounds, interests, and learning styles. The vast digital resources of our new learning environment, <a href="<?php echo $server; ?>technology/passport/" class="white-link">Passport</a><sup>&reg;</sup>, are fully integrated into <span class="italic">Deutsch Aktuell</span> and at your finger tips.</p>
 					<a class="learn-more-link smaller-link" href="http://www.emcp.com/da">Learn more</a>
 				</div>
 			</div>

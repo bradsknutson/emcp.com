@@ -1,4 +1,4 @@
- <?php 
+<?php 
 	$custom_title = 'Deutsch Aktuell | ';
 	include '../../../includes/header.php';
 ?>
@@ -7,7 +7,7 @@
 		<div class="header-background-image da-bg">
 			<div id="topImg">
                 <div class="tech-button-container">
-                    <a class="technology-buttons da-demo transition" href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','DA Sample');">Sample</a>
+                    <a class="technology-buttons da-demo transition" href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','DA Sample');">Pre-Order Sample</a>
                 </div>     
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
@@ -18,7 +18,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="conectate-left">
-					<p class="no-top"><span class="bold"><span class="italic">Deutsch Aktuell</span></span> will engage your students and launch them on a path to life-long fluency.  This 3-level German program focuses on experiences and activities involving German, Austrian, and Swiss teenagers and adults. We created <span class="italic">Deutsch Aktuell</span> with the most up-to-date research in teaching and learning German, and our program is intended for students with varying abilities, backgrounds, interests, and learning styles. Multiplatform eBooks that work on any device, video-based teaching tools, authentic cultural videos, ACTFL-aligned proficiency assessments, and much more—it’s all here waiting to be discovered!</p>
+					<p class="no-top"><span class="bold"><span class="italic">Deutsch Aktuell</span></span> program, where students interact with German language and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.</p>
                     
                     <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=388&language=361">Buy It Now!</a>
 				</div>
@@ -28,6 +28,63 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+        
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2>New for the Seventh Edition</h2>
+                <ul class="lineheight1p75">
+                    <li>Abundant communicative activities</li>
+                    <li>All new culture content tied to Products, Practices, Perspectives</li>
+                    <li>21st-century vocabulary that is relevant to teen lives</li>
+                    <li>Connections to other disciplines such as: Math, Art, Science, Architecture</li>
+                    <li>Opportunities for project-based learning and assessment</li>
+                    <li>New modern and engaging design</li>
+                    <li>Use of real photographs to illustrate new vocabulary</li>
+                </ul>
+            </div>
+        </div>
+        <div class="redefining paddingtop40 light-grey-slice">
+            <div class="ninesixty">
+                <h2>Components</h2>
+                <div class="one-half first">
+                    <p class="bold">For students:</p>
+                    <ul class="lineheight1p75">
+                        <li>Textbook</li>
+                        <li>Workbook</li>
+                        <li>Grammar and Vocabulary</li>
+                        <li>Listening Activities</li>
+                        <li>Video Activities</li>
+                        <li>eVisuals</li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="one-half last">
+                    <p class="bold">For teachers:</p>
+                    <ul class="lineheight1p75">
+                        <li>Annotated Teacher’s Edition</li>
+                        <li>Workbook Teacher’s Edition</li>
+                        <li>Grammar and Vocabulary Teacher's Edition</li>
+                        <li>Listening Activities Teacher's Edition</li></li>
+                        <li>Video Program Teacher's Edition</li>
+                        <li>Communicative Activities</li>
+                        <li>TPR Storytelling</li>
+                        <li>eVisuals</li>
+                        <li>Quizzes with Answer Key</li>
+                        <li>Tests with Answer Key</li>
+                        <li><span class="bold">Exam</span>View<sup>&reg;</sup></li>
+                        <li>Lesson Plans</li>
+                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>

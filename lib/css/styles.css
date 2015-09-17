@@ -1413,8 +1413,15 @@ p.chatbox-quote{
 .da-tech {
     background: url('../images/da-ebooks.jpg') no-repeat 50% 8%;   
 }
-.da-demo {
-    left: 45%;
+.technology-buttons.da-demo {
+    z-index: 999;
+    bottom: 30px;
+    background: #FFF !important;
+    color: #000 !important;
+}
+.technology-buttons.da-demo:hover {
+    background: #BD0006 !important;
+    color: #FFF !important;
 }
 
 /* -------- End Deutsch Aktuell Page Styles -------------- */
