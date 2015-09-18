@@ -14,6 +14,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="conectate-left margintop40">
+                    <h2>EMC Enhanced eReaders</h2>
 					<p class="no-top">Enhanced eReaders connect students to their books in and out of the classroom. eReaders work on all laptops, desktops, and mobile devices including the iPad<sup>&copy;</sup>. eReaders are available in Spanish, French and German.</p>
                     
                     <p>Features:</p>

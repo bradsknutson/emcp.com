@@ -2130,6 +2130,19 @@ p.chatbox-quote{
 
 /* -------- End Classroom Styles -------------- */
 
+/* -------- Start Classroom Styles -------------- */
+
+.ae-bg, .ae-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.ae-bg #topImg{
+	background: url('../images/ae-header.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- End Classroom Styles -------------- */
+
 /* -------- Footer -------------- */
 
 .footer {

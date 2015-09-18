@@ -170,7 +170,6 @@ RewriteRule ^technology/flipgrid/$  http://emcl.com/flipgrid [R=301,L]
 RewriteRule ^technology/avenue/$  http://emcl.com/avenue [R=301,L]
 
 RewriteRule ^language-arts/expository-composition/$ http://store.emcp.com/expository-composition-discovering-your-voice-revised-edition.html    [R=301,L]
-RewriteRule ^language-arts/access-editions/$ http://store.emcp.com/english-language-arts.html?emc_product_series=395   [R=301,L]
 RewriteRule ^language-arts/write-in-readers/$ http://store.emcp.com/english-language-arts/the-emc-write-in-reader.html    [R=301,L]
 
 RewriteRule ^ci$    http://store.emcp.com/catalogsearch/result/?q=caffe [R=301,L]
@@ -245,5 +244,8 @@ RewriteRule ^privacy-policy http://www.emcp.com/terms/privacy.php [R=301,L]
 
 RewriteRule ^world-languages/readers/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
 RewriteRule ^world-languages/readers/paperback/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
+
+RewriteRule ^language-arts/access-editions/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
+RewriteRule ^language-arts/access-editions/paper-back/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
 
 ErrorDocument 404 /error.php
