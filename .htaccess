@@ -243,4 +243,7 @@ RewriteRule ^classroomfun$ http://edu.emcp.com/world-languages.html?emc_product_
 RewriteRule ^terms-of-use http://www.emcp.com/terms/terms.php [R=301,L]
 RewriteRule ^privacy-policy http://www.emcp.com/terms/privacy.php [R=301,L]
 
+RewriteRule ^world-languages/readers/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
+RewriteRule ^world-languages/readers/paperback/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
+
 ErrorDocument 404 /error.php

@@ -140,9 +140,9 @@ img {
 
 .main-navigation ul {
 	margin: 0 auto;
-	margin-top: -2px;
+	margin-top: -15px;
 	list-style-type: none;
-	padding: 0;
+	padding: 0 0 13px;
 }
 
 .main-navigation ul > li {
@@ -169,7 +169,9 @@ img {
 	border-bottom: 2px solid;
   	color: #FFF;
 }
-
+.sf-menu ul {
+    top: 63px !important;   
+}
 .header-top-dark .main-navigation {
 	border-bottom: none;
 }
@@ -2041,7 +2043,6 @@ p.chatbox-quote{
 
 /* -------- End i-Culture Page Styles -------------- */
 
-
 /* -------- World Language Landing Page Styles -------------- */
 
 .featured-spanish, .featured-german, .featured-french, .featured-chinese, .featured-italian {
@@ -2097,6 +2098,23 @@ p.chatbox-quote{
 }
 
 /* -------- End World Language Landing Page Styles -------------- */
+
+/* -------- Start World Language Readers Styles -------------- */
+
+.wlr-bg, .wlr-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.wlr-bg #topImg{
+	background: url('../images/wl-readers-header.jpg') no-repeat 50% 100%;
+}
+.wl-readers .conectate-left {
+    padding-right: 80px;   
+}
+.wl-readers .conectate-right img { 
+    margin-top: 120px; 
+}
+
 
 /* -------- Footer -------------- */
 
