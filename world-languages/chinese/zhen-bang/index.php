@@ -7,7 +7,7 @@
 		<div class="header-background-image zb-bg">
 			<div id="topImg">
                 <div class="tech-button-container">
-                    <a class="technology-buttons zb-demo transition" href="<?php echo $server; ?>world-languages/chinese/zhen-bang/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','ZB Sample');">Pre-Order Sample</a>
+                    <a class="technology-buttons zb-demo transition" href="<?php echo $server; ?>world-languages/chinese/zhen-bang/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','ZB Sample');">Sample</a>
                 </div>
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>

@@ -2115,6 +2115,20 @@ p.chatbox-quote{
     margin-top: 120px; 
 }
 
+/* -------- End World Language Readers Styles -------------- */
+
+/* -------- Start Classroom Styles -------------- */
+
+.classroom-bg, .classroom-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.classroom-bg #topImg{
+	background: url('../images/classroom-header.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- End Classroom Styles -------------- */
 
 /* -------- Footer -------------- */
 
