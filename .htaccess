@@ -108,20 +108,20 @@ RewriteRule ^returns  http://store.emcp.com/policies-and-order-information/ [R=3
 
 RewriteRule ^world-languages/spanish/programs/   http://store.emcp.com/world-languages.html?language=357 [R=301,L]
 RewriteRule ^world-languages/spanish/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=357 [R=301,L]
-RewriteRule ^world-languages/spanish/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=357 [R=301,L]
-RewriteRule ^world-languages/spanish/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=357 [R=301,L]
+RewriteRule ^world-languages/spanish/readers/   http://store.emcp.com/world-languages.html?emc_product_type=374&language=357 [R=301,L]
+RewriteRule ^world-languages/spanish/games/   http://store.emcp.com/world-languages.html?emc_product_type=523&language=357 [R=301,L]
 RewriteRule ^world-languages/spanish/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=357 [R=301,L]
 
 RewriteRule ^world-languages/german/programs/   http://store.emcp.com/world-languages.html?language=361 [R=301,L]
 RewriteRule ^world-languages/german/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=361 [R=301,L]
-RewriteRule ^world-languages/german/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=361 [R=301,L]
-RewriteRule ^world-languages/german/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=361 [R=301,L]
+RewriteRule ^world-languages/german/readers/   http://store.emcp.com/world-languages.html?emc_product_type=374&language=361 [R=301,L]
+RewriteRule ^world-languages/german/games/   http://store.emcp.com/world-languages.html?emc_product_type=523&language=361 [R=301,L]
 RewriteRule ^world-languages/german/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=361 [R=301,L]
 
 RewriteRule ^world-languages/french/programs/   http://store.emcp.com/world-languages.html?language=362 [R=301,L]
 RewriteRule ^world-languages/french/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=362 [R=301,L]
-RewriteRule ^world-languages/french/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=362 [R=301,L]
-RewriteRule ^world-languages/french/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=362 [R=301,L]
+RewriteRule ^world-languages/french/readers/   http://store.emcp.com/world-languages.html?emc_product_type=374&language=362 [R=301,L]
+RewriteRule ^world-languages/french/games/   http://store.emcp.com/world-languages.html?emc_product_type=523&language=362 [R=301,L]
 RewriteRule ^world-languages/french/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=362 [R=301,L]
 
 RewriteRule ^world-languages/chinese/programs/   http://store.emcp.com/world-languages.html?language=364 [R=301,L]
@@ -135,6 +135,11 @@ RewriteRule ^world-languages/italian/activity-books/   http://store.emcp.com/wor
 RewriteRule ^world-languages/italian/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=360 [R=301,L]
 RewriteRule ^world-languages/italian/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=360 [R=301,L]
 RewriteRule ^world-languages/italian/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=360 [R=301,L]
+
+RewriteRule ^classroom/games/   http://store.emcp.com/world-languages.html?emc_product_type=523 [R=301,L]
+RewriteRule ^classroom/readers/   http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
+RewriteRule ^classroom/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368 [R=301,L]
+RewriteRule ^classroom/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369 [R=301,L]
 
 RewriteRule ^frenchreview  http://www.emcp.com/world-languages/french/tes-branche/?utm_source=magazine&utm_medium=magazine-ad&utm_campaign=FR-AD-OCT [R=301,L]
 
