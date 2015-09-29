@@ -18,7 +18,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
                 <div class="aligncenter">
-					<h2>Developed for the American high school student</h2>
+					<h2>A Chinese program for the 21st-century student</h2>
 				</div>
 				<div class="conectate-left margintop40">
 					<p class="no-top">Welcome to EMC's <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> program, where students interact with Chinese language and culture in awesome, everyday ways. Get students talking about family, friends, school, home, meals, shopping and more—conversing in pairs and groups. Zhēn Báng!  integrates language and culture seamlessly and provides technology resources that are easy to use for students and teachers. What an awesome way to learn the Chinese language!</p>
@@ -37,13 +37,13 @@
                 <h2>New for the Second Edition</h2>
                 <ul class="lineheight1p75">
                     <li>Communicative activities are clearly labeled as Interpersonal, Interpretive, and Presentational as aligned to ACTFL Standards</li>
-                    <li>Cultural content and imagery is up-to-date in order to appeal to students and improve relevancy</li>
-                    <li>Vocabulary has been updated with fresh, relevant content</li>
+                    <li>Cultural content and imagery have both been updated</li>
+                    <li>Vocabulary has been updated with fresh, relevant content that's fun for teens to learn</li>
                     <li>Newly revised layouts improve clarity and flow of content</li>
                     <li>Pinyin of initial and final charts are updated along with their practice in the foundation lessons</li>
                     <li>Improved activities</li>
-                    <li>Products, perspectives, and practices of the Chinese-speaking world while making comparisons to their own lives</li>
-                    <li>Additional authentic Chinese language materials, performance-based tasks, and project-based learning through the Passport Learning Environment</li>
+                    <li>Students explore the products, perspectives, and practices of the Chinese world while making comparisons to their own lives</li>
+                    <li>Additional authentic Chinese language materials, performance-based tasks, and project-based learning through the Passport&reg; Learning Environment</li>
                 </ul>
             </div>
         </div>

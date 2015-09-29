@@ -68,7 +68,7 @@
                         <li>We do more than teach to the test!</li>
                         <li>AP* themes integrated into each unit</li>
                         <li>AP* practice integrated into each unit</li>
-                        <li>ACTFL aligned</li>
+                        <li>ACTFL-aligned</li>
                         <li>Abundant communication activities that align to the AP* exam</li>
                         <li>Grammar reviewed using an inductive approach</li>
                         <li>Authentic fiction and non-fiction texts</li>

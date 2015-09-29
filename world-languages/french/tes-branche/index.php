@@ -52,7 +52,7 @@
 				<div class="conectate-left margintop15">
                     <h2><span class="italic">T'es branch&eacute;?</span> Level 4/AP*</h2>
 
-                    <p>The <span class="italic">T'es branch&eacute;?</span> level 4/AP* textbook is designed for advanced students to strengthen language skills and develop cultural competency that will prepare them to excel at the AP* French language and Culture exam.</p>
+                    <p>The <span class="italic">T'es branch&eacute;?</span> level 4/AP* textbook is designed for advanced students to strengthen language skills and develop cultural competency that will prepare them to excel at the AP* French language and culture exam.</p>
                     
                     <p class="disclaimer">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
                 </div>

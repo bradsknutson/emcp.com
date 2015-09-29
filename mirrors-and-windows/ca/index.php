@@ -1,16 +1,15 @@
 <?php 
-	$custom_title = 'Mirrors & Windows | ';
+	$custom_title = 'California | Mirrors & Windows | ';
 	include '../../includes/header.php';
 ?>
 	<div id="container" class="mw">
 		<div class="vimeo-modal"></div>
-		<div class="header-background-image mw-bg">
+		<div class="header-background-image mw-cal-bg">
 			<div id="topImg">
 				<div class="play-button">
 					<div class="icon-play"></div>
 				</div>
                 <div class="header-hero-hover"></div>
-                <a class="technology-buttons mw-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');">Sample</a>
 			</div>
 		</div>
 		<div class="header-top">
@@ -43,7 +42,7 @@
 					<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/mw-cover.png" alt="Mirrors and Windows Level 1" />
+					<img src="<?php echo $server; ?>lib/images/mw-cover-ca.jpg" alt="Mirrors and Windows Level 1" />
 					<img src="<?php echo $server; ?>lib/images/mw-cover-collage.png" alt="Mirrors and Windows" />
 				</div>
 				<div class="clearfix"></div>

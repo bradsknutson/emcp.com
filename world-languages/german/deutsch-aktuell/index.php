@@ -18,7 +18,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="conectate-left">
-					<p class="no-top"><span class="bold"><span class="italic">Deutsch Aktuell</span></span> program, where students interact with German language and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.</p>
+					<p class="no-top">Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.</p>
                     
                     <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=388&language=361">Buy It Now!</a>
 				</div>
@@ -35,8 +35,8 @@
                 <ul class="lineheight1p75">
                     <li>Abundant communicative activities</li>
                     <li>All new culture content tied to Products, Practices, Perspectives</li>
-                    <li>21st-century vocabulary that is relevant to teen lives</li>
-                    <li>Connections to other disciplines such as: Math, Art, Science, Architecture</li>
+                    <li>21st-century vocabulary that is relevant and fun for teens to learn</li>
+                    <li>Connections to other disciplines such as: Math, Art, Science, and Architecture</li>
                     <li>Opportunities for project-based learning and assessment</li>
                     <li>New modern and engaging design</li>
                     <li>Use of real photographs to illustrate new vocabulary</li>

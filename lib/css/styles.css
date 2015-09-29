@@ -2810,6 +2810,18 @@ table .ereaders-smaller {
 
 /* -------- End MW California Page Styles ------------- */
 
+/* -------- Start MW California 2015 (www.emcp.com/mirrors-and-windows/ca/) Page Styles ------------- */
+
+.mw-cal-bg, .mw-cal-bg #topImg {
+    height: 600px;   
+}
+.mw-cal-bg #topImg {
+    background: #FFF url('../images/mw-cal-bg.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- End MW California 2015 (www.emcp.com/mirrors-and-windows/ca/) Page Styles ------------- */
+
 /* -------- Start EMC Stores Page Styles ------------- */
 
 .emc-stores-bg, .emc-stores-bg #topImg {
