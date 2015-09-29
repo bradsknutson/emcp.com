@@ -17,7 +17,7 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
-                <h3>Your Best Resource for Meeting College and Career Readiness Standards in English Language Arts</h3>
+                <h3>Your Best Resource for Meeting the California Common Core State Standards in English Language Arts</h3>
 				<div class="conectate-left">
                     <p class="no-top"><span class="bold">EMC Publishing</span> is proud to present its exciting literature program, <span class="italic">Mirrors & Windows</span>. This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
                     <p><span class="italic">Mirrors & Windows</span> <span class="bold">challenges students</span> to reach their maximum potential while differentiating instruction for individual learners. Using a <span class="bold">gradual release approach to reading</span>, students will achieve a deep comprehension of the material and a greater appreciation of the literary genres. They will learn to <span class="bold">recognize and make connections</span> between the selections, the world, and themselves. Along the way, they will discover a love of literature that will grow throughout their lives. Truly, literature will turn mirrors into windows for your students.</p>
@@ -28,7 +28,7 @@
                         <li>Mix of easy, moderate, and challenging selections</li>
                         <li>Cross-curricular and text-to-text connections</li>
                         <li>In-depth workshops for skills mastery</li>
-                        <li>A full correlation to the Common Core State Standards</li>
+                        <li>A full correlation to the California Common Core State Standards</li>
                         <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning</li>
                         <li>Guide, Assessment Guide, and Assessment Practice Guide</li>
                         <li>Great literature and current informational texts</li>
@@ -55,7 +55,7 @@
             <div class="ninesixty paddingtop40 paddingbottom40">
                 <h2>Top Reasons</h2>
                 <ol class="lineheight1p75">
-                    <li>Meets ALL English Language Arts College and Career Readiness Standards</li>
+                    <li>Meets ALL English Language Arts California Common Core State Standards</li>
                     <li>Truly scaffolded, gradual release of responsibility instruction with three levels of reading support and fully integrated task-based activities</li>
                     <li>Most comprehensive range and diversity of classic and contemporary literature and informational texts</li>
                     <li>Provides 100% of CCSS text types and range of texts within grade level text complexity levels – all in student textbook</li>
