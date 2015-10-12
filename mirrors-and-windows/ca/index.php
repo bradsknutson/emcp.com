@@ -39,7 +39,7 @@
                         <li>The latest digital learning technologies</li>
                         <li>Aligned with College & Career Readiness Standards</li>
                     </ul>
-					<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
+					<a class="learn-more-link smaller-link" href="http://store.emcp.com/about-emcp/local-account-manager-locator">More info!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/mw-cover-ca.jpg" alt="Mirrors and Windows Level 1" />
