@@ -55,6 +55,7 @@
 					<ul>
 						<li><a href="<?php echo $server; ?>contact/">Contact</a></li>
 						<li><a href="http://store.emcp.com/about-emcp/career-opportunities">Career Opportunities</a></li>
+                        <li><a href="<?php echo $server; ?>catalog/">Catalog</a></li>
 					</ul>
 				</li>
 
