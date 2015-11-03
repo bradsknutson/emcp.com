@@ -1,0 +1,160 @@
+<?php 
+	$custom_title = 'California | Mirrors & Windows | ';
+	include '../../includes/header.php';
+?>
+	<div id="container" class="mw">
+		<div class="vimeo-modal"></div>
+		<div class="header-background-image mw-cal-bg">
+			<div id="topImg">
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
+                <div class="header-hero-hover"></div>
+			</div>
+		</div>
+		<div class="header-top">
+			<?php include '../../includes/nav.php'; ?>
+		</div>
+		<div class="secondary-first">
+			<div class="ninesixty">
+                <h3>Your Best Resource for Meeting the California Common Core State Standards in English Language Arts</h3>
+				<div class="conectate-left">
+                    <p class="no-top"><span class="bold">EMC Publishing</span> is proud to present its exciting literature program, <span class="italic">Mirrors & Windows</span>. 
+					This <span class="bold">seven-level program (grades 6-12)</span> is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
+					
+                    <p><span class="italic">Mirrors & Windows</span> <span class="bold">challenges students</span> to reach their maximum potential while differentiating instruction 
+					for individual learners. Using a <span class="bold">gradual release approach to reading</span>, students will achieve a deep comprehension of the material and a greater 
+					appreciation of the literary genres. They will learn to <span class="bold">recognize and make connections</span> between the selections, the world, and themselves. Along 
+					the way, they will discover a love of literature that will grow throughout their lives. Truly, literature will turn mirrors into windows for your students.</p>
+					
+                    <p class="no-bottom bold">Mirrors and Windows key features:</p>
+					
+                    <ul class="no-top">
+                        <li>Three levels of reading support, from guided to directed to independent</li>
+                        <li>Mix of easy, moderate, and challenging selections</li>
+                        <li>Cross-curricular and text-to-text connections</li>
+                        <li>In-depth workshops for skills mastery</li>
+                        <li>A full correlation to the California Common Core State Standards</li>
+                        <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning</li>
+                        <li>Guide, Assessment Guide, and Assessment Practice Guide</li>
+                        <li>Great literature and current informational texts</li>
+                        <li>Qualitative and quantitative text complexity measures</li>
+                        <li>Close reading models and practice</li>
+                        <li>Text-dependent questions & writing to sources</li>
+                        <li>Multiplatform eBooks & interactive eWorkbooks</li>
+                        <li>The latest digital learning technologies</li>
+                        <li>Aligned with College &amp; Career Readiness Standards</li>
+                    </ul>
+					<a class="learn-more-link smaller-link" href="http://store.emcp.com/about-emcp/local-account-manager-locator">More info!</a>
+				</div>
+				<div class="conectate-right">
+					<img src="<?php echo $server; ?>lib/images/mw-cover-ca.jpg" alt="Mirrors and Windows Level 1" />
+					<img src="<?php echo $server; ?>lib/images/mw-cover-collage.png" alt="Mirrors and Windows" />
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<!--
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <details>
+					<summary><h2>Love of Literature</h2></summary>
+					<p>Mirrors &amp; Windows has the most Diverse Range of Literature and Informational Texts.</p>
+					<ol class="lineheight1p75">
+						<li>Engage students with award winning classic and contemporary authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Annie Dillard, Ernest Hemingway and Elizabeth Bishop</li>
+						<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer and Langston Hughes.</li>
+						<li>Local California authors such as Francisco Jimenez, Gary Soto, Cherylene Lee, Janet S. Wong, William Saroyan, and Fae Myenne Ng.</li>
+					</ol>
+				</details>
+            </div>
+        </div>
+		-->
+        <div class="redefining paddingtop40 light-grey-slice">
+            <div class="ninesixty">
+                <h2>Components</h2>
+                <div class="one-half first textalignleft">
+                    <p class="bold">For students:</p>
+                    <ul class="lineheight1p75">
+                        <li>Textbook & eBook</li>
+                        <li>Meeting the Standards eWorkbook</li>
+                        <li>Exceeding the Standards eWorkbook</li>
+                        <li>Differentiated Instruction eWorkbook with Spanish Summaries</li>
+                        <li>Common Core Assessment Practice Criterion Online Essay Grader</li>
+                        <li>Audio program in eBook</li>
+                        <li>Access Editions (17 eBooks)</li>
+                    </ul>
+                </div>
+                <div class="one-half last textalignleft">
+                    <p class="bold">For teachers:</p>
+                    <ul class="lineheight1p75">
+                        <li>Teacher’s Edition Textbook</li>
+                        <li>Enhanced Teacher’s Edition eBook</li>
+                        <li>Program Planning Guide</li>
+                        <li>Assessment Guide with <span class="bold">EXAM</span>VIEW<sup>&reg;</sup></li>
+                        <li>Meeting the Standards, Exceeding the Standards, & Differentiated Instruction</li>
+                        <li>Criterion Online Essay Grader</li>
+                        <li>Teaching the Common Core</li>
+                        <li>Common Core Assessment Practice</li>
+                        <li>Access Editions Assessment Manuals</li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        
+        
+        <div class="mw-mp-ebook paddingtop40 paddingbottom40">
+			<div class="ninesixty">
+				<div class="conectate-iculture-first">				
+                    <img src="<?php echo $server; ?>lib/images/mw-mp-ebooks.jpg" alt="Mirrors & Windows Multiplatform eBooks" />
+				</div>
+				<div class="conectate-iculture-second">
+                    <h3 class="conectate">Multiplatform eBooks on Bookshelf</h3>
+                    <p class="no-top">EMC's multiplatform eBooks connect students to literature and language arts in and out of the classroom.  With a touch of the finger, students are able to access every page of their textbooks.  Our eBooks are available for delivery on all laptops, desktops, and mobile devices, including the iPad,<sup>&copy;</sup>.</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>        
+        </div>
+		<div class="redefining light-grey-slice">
+			<div class="ninehundred no-bottom">
+				<div class="aligncenter">
+					<h2>Redefining seamless learning through technology.</h2>
+				</div>
+				
+				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
+			</div>
+			<div class="redefining-bg">
+				<div class="vimeo-modals-container">
+					<div class="avenue-play-button">
+						<div class="play-button">
+							<div class="icon-play"></div>
+						</div>
+					</div>
+					<div class="avenue-play-button-hover-background"></div>
+					<div class="flipgrid-play-button">
+						<div class="play-button">
+							<div class="icon-play"></div>
+						</div>
+					</div>
+					<div class="flipgrid-play-button-hover-background"></div>
+				</div>            
+            </div>
+			<div class="ninesixty">
+				<div class="avenue-flipgrid">
+					<div class="one-half first">
+						<p><span class="bold">Avenue&trade;</span> is an innovative e-assessment platform for building custom speaking and listening tasks to capture, evaluate, archive, and visualize progress of video-based learner performances in your language arts classroom.</p>
+						
+						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
+					</div>
+					<div class="one-half last">
+						<p><span class="bold">Flipgrid&trade;</span> allows teachers to create grids of short discussion-style questions that students respond to through recorded videos. Use Mirrors & Windows essential questions to practice speaking and listening skills. Flipgrid boosts community and social presence in face-to-face, hybrid, and online classrooms.</p>
+						
+						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>	
+
+	
+<?php include '../../includes/footer.php'; ?>

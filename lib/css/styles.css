@@ -3100,3 +3100,18 @@ table .ereaders-smaller {
 }
 
 /* -------- End Career & Life Skills Page Styles ------------- */
+
+/* -------- MW Button Styles ------------------- */
+.mw-buttons {
+    bottom: 23px;
+    padding: 15px 40px;
+    color: #FFF !important;
+    background: #BD0006;
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.2);
+    text-decoration: none !important;
+    font-size: 24px !important;
+}
+.mw-buttons:hover {
+    background: #FFF;
+    color: #000 !important;
+}
