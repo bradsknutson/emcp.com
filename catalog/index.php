@@ -26,12 +26,12 @@
                     </a>
                 </div>
                 <div class="catalog-img">
-                    <a href="http://joom.ag/WpNp" target="_blank">
+                    <a href="http://joom.ag/YpNp" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/catalog-ela.png" alt="English Language Arts Catalog" class="animated" />
                     </a>
                 </div>
                 <div class="catalog-img">
-                    <a href="http://joom.ag/YpNp" target="_blank">
+                    <a href="http://joom.ag/WpNp" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/catalog-al.png" alt="Applied Learning Catalog" class="animated" />
                     </a>
                 </div>

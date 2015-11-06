@@ -1057,6 +1057,57 @@ p.chatbox-quote{
 	padding: 60px 0 0 0;
 }
 
+/* -------- Start Home Page -------------- */
+
+.home .emc-cats h3 {
+    font-size: 34px;
+    padding: 15px 0;
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,0)
+}
+.home .emc-cats h3:hover {
+    background: #BD0006;
+    color: #FFF;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	transition: all 0.3s;
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.2);
+}
+.home .emc-technology-bg {
+    margin-top: 40px;
+    height: 554px;
+}
+.home .emc-connect {
+    background-color: rgb(193,0,6);
+}
+.home .emc-connect-logo, .home .emc-connect-content {
+    float: left;
+}
+.home .emc-connect-logo {
+    width: 33.3333333333%;
+}
+.home .emc-connect-logo img {
+    margin-top: 80px;
+}
+.home .emc-connect-content {
+    width: 66.6666666666%;
+}
+.emc-connect-content p, .emc-connect-content h2, .emc-connect-content a, .emc-connect-content a:hover, .emc-connect-content a:visited {
+    color: #FFF;
+}
+.emc-connect-content a {
+    text-decoration: none;
+}
+.emc-connect-content h2 a {
+    font-size: 32px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+
+/* -------- End Home Page -------------- */
+
 /* -------- Start Applied Learning Page -------------- */
 
 .applied-learning-top {
