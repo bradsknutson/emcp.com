@@ -19,21 +19,22 @@
 	font-family: "myriad-pro", sans-serif !important;
 }
 .ui-accordion-content {
-    height: 235px !important;
+    height: 250px !important;
 }
 </style>
 	<div id="container" class="mw">
-		<div class="vimeo-modal"></div>
 		<div class="header-background-image mw-cal-bg">
 			<div id="topImg">
+			<!--
 				<div class="play-button">
 					<div class="icon-play"></div>
 				</div>
                 <div class="header-hero-hover"></div>
+			-->
 			</div>
 		</div>
 		<div class="header-top">
-			<?php include '../../includes/nav.php'; ?>
+			<?php include '../../includes/nav-ca.php'; ?>
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
@@ -41,7 +42,9 @@
                     <p class="no-top"><span class="bold">EMC Publishing</span> is proud to present its exciting literature program, <span class="italic">Mirrors & Windows</span>. 
 					This <span class="bold">seven-level program (grades 6-12)</span> is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
 					
-					<a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafe89a4ad3649ee94c8139475ac6ca417161ee54f809a82da">Sample</a>
+					<a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafe89a4ad3649ee94c8139475ac6ca417161ee54f809a82da" target="_blank">Sample</a>
+					&nbsp;&nbsp;
+					<a class="mw-buttons" href="https://vimeo.com/138627634" target="_blank">Watch Video</a>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -56,66 +59,35 @@
 			<!-- 1 -->
 					<h3 class="showSingle" target="1"><strong>1. Love of Literature</strong></h2>
 					<div id="div1" class="targetDiv" style="display:none;">
-						<p>Mirrors &amp; Windows has the most Diverse Range of Literature and Informational Texts.</p>
-						<ol>
-							<li>Engage students with award winning classic and contemporary authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Annie Dillard, Ernest Hemingway and Elizabeth Bishop.</li>
-							<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer and Langston Hughes.</li>
-							<li>Local California authors such as Francisco Jimenez, Gary Soto, Cherylene Lee, Janet S. Wong, William Saroyan, and Fae Myenne Ng.</li>
-						</ol>
+						<p>The most Diverse Range of Literature and Informational Texts</p>
+						<ul>
+							<li>Engage students with award winning classic and contemporary authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Annie Dillard, Ernest Hemingway and Elizabeth Bishop</li>
+							<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer and Langston Hughes</li>
+							<li>Local California authors such as Francisco Jimenez, Gary Soto, Cherylene Lee, Janet S. Wong, William Saroyan, and Fae Myenne Ng</li>
+						</ul>
+						<p><a href="http://www.emcp.com/lib/assets/Mirrors-Windows-Range-of-Reading.pdf" target="_blank"><strong>Download the complete range of texts in grades 6-12</strong></a></p>
 					</div>
 			<!-- 2 -->
-					<h3 class="showSingle" target="2"><strong>2. Scaffolded Close Reading</strong></h2>
+					<h3 class="showSingle" target="2"><strong>2. Digital Learning Technologies</strong></h2>
 					<div id="div2" class="targetDiv" style="display:none;">
-						<p>Mirrors &amp; Windows has the most Diverse Range of Literature and Informational Texts.</p>
-						<ol>
-							<li>Mirrors &amp; Windows is built around 8 thematic genre-based units covering Fiction, Nonfiction, Poetry, Drama, and Folk Literature.</li>
-							<li>Each unit gives students a Gradual Release of Responsibility opportunity through three levels of reading support: selections of Guided Reading, Directed Reading, and Independent Reading.</li>
-							<li>Gradual Release uses scaffolding to model and apply close reading skills and strategies.</li>
-						</ol>
+						<ul>
+							<li>EMC Bookshelf<sup>TM</sup> provides multiplatform eBooks for all program components</li>
+							<li>Interactive eWorkbooks with student feedback in Bookshelf</li>
+							<li>Only program to offer ETS Criterion&reg; Online Essay Grader</li>
+							<li>EXAMVIEW&reg; Assessment Suite - customizable</li>
+							<li>Common Core PARCC &amp; SBA practice assessments online</li>
+							<li>Flipgrid<sup>TM</sup> online video discussion platform</li>
+							<li>Avenue<sup>TM</sup> online video oral assessment</li>
+						</ul>
 					</div>
 			<!-- 3 -->
-					<h3 class="showSingle" target="3"><strong>3. Meets All California English Language Arts CCSS</strong></h2>
+					<h3 class="showSingle" target="3"><strong>3. Meets California English-Language Development Standards</strong></h2>
 					<div id="div3" class="targetDiv" style="display:none;">
-						<ol>
-							<li><i>Mirrors &amp; Windows</i> fully meets the CA CCSS criterion #1 for ELA- ELD content alignment with standards.
-							<li>The program was also cited for strengths in CA categories #2- #5 standards for:
-								<ul>
-									<li>Program Organization</li>
-									<li>Assessment</li>
-									<li>Universal Access</li>
-									<li>Instructional Planning &amp; Teacher Support</li>
-								</ul>
-							</li>
-						</ol>
-					</div>
-			<!-- 4 -->
-					<h3 class="showSingle" target="4"><strong>4. <i>Mirrors &amp; Windows</i> integrates California English Language Arts Framework's Five Key Themes</strong></h2>
-					<div id="div4" class="targetDiv" style="display:none;">
-						<ol>
-							<li>Meaning Making Mirrors & Windows essential questions; literal comprehension and critical close reading</li>
-							<li>Language Development, Vocabulary development; academic language; syntax; text structure</li>
-							<li>Effective Expression, Writing; speaking; digital and visual media</li>
-							<li>Content Knowledge, Wide range of texts; informational text connections; cross-curricular connections; inquiry and project-based learning</li>
-							<li>Foundational Skills, Print concepts, building on phonics and word recognition; fluency assessments</li>
-						</ol>
-					</div>
-			<!-- 5 -->
-					<h3 class="showSingle" target="5"><strong>5. Range of Texts and Complexity</strong></h2>
-					<div id="div5" class="targetDiv" style="display:none;">
-						<ol>
-							<li>Mirrors &amp; Windows provides 100% of CCSS text types and range of texts within grade level text complexity levels – all in student textbook</li>
-							<li>Selections in all levels are at or above the recommended Lexile range for each respective grade</li>
-							<li>Lexiles for every selection provided in ATE Scope &amp; Sequence, prereading pages, and in Lesson Plans</li>
-							<li>Qualitative and quantitative text complexity levels with difficulty and ease consideration are provided.</li>
-						</ol>
-					</div>
-			<!-- 6 -->
-					<h3 class="showSingle" target="6"><strong>6. Meets California ELD Standards</strong></h2>
-					<div id="div6" class="targetDiv" style="display:none;">
-						<ol>
-							<li>Correlated to CA ELD Standards</li>
-							<li>ELL support in Teacher's Edition and Differentiated Instruction Resource</li>
-							<li>Unit Vocabulary & Spelling and Grammar &amp; Style language development workshops in textbook and Exceeding the Standards Resources</li>
+						<ul>
+							<li>Aligned with California ELD Standards</li>
+							<li>ELL and Differentiated Instruction support in Teacher's Edition</li> 
+							<li>Differentiated Instruction Resource for English Language Learners, Developing Readers, and Advanced Students</li>
+							<li>Unit Vocabulary &amp; Spelling and Grammar &amp; Style language development workshops in textbook and Exceeding the Standards Resources</li>
 							<li>Comprehensive Language Arts Handbook in student textbook as an additional resource</li>
 							<li>Audio recordings for all selections</li>
 							<li>Spanish summaries for Differentiated Instruction ELL selections in text and audio</li>
@@ -123,48 +95,97 @@
 							<li>Flipgrid<sup>TM</sup> online video discussion platform</li>
 							<li>Avenue<sup>TM</sup> online video oral assessment</li>
 							<li>Spanish language readers and novels for extended reading in the native language</li>
-						</ol>
+						</ul>
+					</div>
+			<!-- 4 -->
+					<h3 class="showSingle" target="5"><strong>5. Meets All California English Language Arts CCSS</strong></h2>
+					<div id="div5" class="targetDiv" style="display:none;">
+						<ul>
+							<li>Mirrors &amp; Windows fully meets the CA CCSS Framework Category 1 for Content Alignment with ELA standards.</li>
+							<li>The program was also cited for strengths in Categories 2 through 5 for:
+								<ol>
+									<li>Program Organization</li>
+									<li>Assessment</li>
+									<li>Universal Access</li>
+									<li>Instructional Planning &amp; Teacher Support</li>
+								</ol>
+							</li>
+						</ul>
+					</div>
+			<!-- 5 -->
+					<h3 class="showSingle" target="6"><strong>6. Integrates California English Language Arts Framework's Five Key Themes</strong></h2>
+					<div id="div6" class="targetDiv" style="display:none;">
+						<ul>
+							<li>Meaning Making<br />
+								Mirrors &amp; Windows essential questions; literal comprehension and critical close reading
+							</li>
+							<li>Language Development<br />
+								Vocabulary development; academic language; syntax; text structure
+							</li>
+							<li>Effective Expression<br />
+								Writing; speaking; digital and visual media
+							</li>
+							<li>Content Knowledge<br />
+								Wide range of texts; informational text connections; cross-curricular connections; inquiry and project-based learning
+							</li>
+							<li>Foundational Skills<br />
+								Print concepts, building on phonics and word recognition; fluency assessments
+							</li>
+						</ul>
+					</div>
+			<!-- 6 -->
+					
+					<h3 class="showSingle" target="4"><strong>4. Scaffolded Close Reading</strong></h2>
+					<div id="div4" class="targetDiv" style="display:none;">
+						<ul>
+							<li>Mirrors &amp; Windows is built around 8 thematic genre-based units covering Fiction, Nonfiction, Poetry, Drama, and Folk Literature.</li> 
+							<li>Each unit gives students a Gradual Release of Responsibility opportunity through three levels of reading support: selections of Guided Reading, Directed Reading, and Independent Reading.</li>
+							<li>Gradual Release uses scaffolding to model and apply close reading skills and strategies.</li>
+						</ul>
 					</div>
 			<!-- 7 -->
-					<h3 class="showSingle" target="7"><strong>7. Integrated Language Arts</strong></h2>
+					<h3 class="showSingle" target="7"><strong>7. Range of Texts and Complexity</strong></h2>
 					<div id="div7" class="targetDiv" style="display:none;">
-						<ol>
-							<li>Skill development such as Grammar &amp; Style and Vocabulary & Spelling based on the selections are integrated within the units.</li>
-							<li>End-of-unit performance tasks in Writing, Speaking &amp; Listening, Viewing, and Test Practice Performance Tasks to apply skills.</li>
-							<li>Skill development culminates at the end of each book with a Language Arts Handbook.</li>
-						</ol>
+						<ul>
+							<li><i>Mirrors &amp; Windows</i> provides 100% of CCSS text types and range of texts within grade level text complexity levels – all in student textbook</li>
+							<li>Selections in all levels are at or above the recommended Lexile range for each respective grade</li>
+							<li>Lexiles for every selection provided in ATE Scope & Sequence, prereading pages, and in Lesson Plans</li>
+							<li>Qualitative and quantitative text complexity levels with difficulty and ease consideration are provided.</li>
+							<li>Independent reading Access Edition novels and plays with built-in study apparatus</li>
+							<li>EMC E-Library with over 200 literary and nonfiction texts</li>
+						</ul>
 					</div>
 			<!-- 8 -->
-					<h3 class="showSingle" target="8"><strong>8. Digital Learning Technologies</strong></h2>
+					<h3 class="showSingle" target="8"><strong>8. Integrated Language Arts</strong></h2>
 					<div id="div8" class="targetDiv" style="display:none;">
-						<ol>
-							<li>EMC Bookshelf<sup>TM</sup> provides eBooks for all program components</li>
-							<li>Only program to offer ETS Criterion Online Essay Grader</li>
-							<li>ExamView Assessment Suite - customizable</li>
-							<li>Common Core PARCC &amp; SBA practice assessments online</li>
-							<li>Flipgrid<sup>TM</sup> online video discussion platform</li>
-							<li>Avenue<sup>TM</sup> online video oral assessment</li>
-						</ol>
+						<ul>
+							<li>Skill development such as Grammar &amp; Style and Vocabulary &amp; Spelling based on the selections are integrated within the units.</li>
+							<li>End-of-unit performance tasks in Writing, Speaking & Listening, Viewing, and Test Practice Performance Tasks to apply skills.</li>
+							<li>Skill development culminates at the end of each book with a Language Arts Handbook.</li>
+							<li><i>Meeting the Standards</i> and <i>Exceeding the Standards</i> Resources provide interactive language arts activities online.</li>
+						</ul>
 					</div>
 			<!-- 9 -->
 					<h3 class="showSingle" target="9"><strong>9. Comprehensive Assessments</strong></h2>
 					<div id="div9" class="targetDiv" style="display:none;">
-						<ol>
-							<li>Assessment Guide includes formative assessments with remediation rubrics</li>
+						<ul>
+							<li>Test Practice at end of textbook units</li>
+							<li><i>Assessment Guide></i> includes formative assessments with remediation rubrics</li>
 							<li>Lesson and unit exams</li>
-							<li>ExamView customizable exams</li>
-							<li>Test practice at end of units</li>
-							<li>Exceeding the Standards: Test Practice Resource</li>
-							<li>Common Core Assessment Practice in PAARC and Smarter Balanced formats online</li>
-						</ol>
+							<li>Oral fluency assessments</li>
+							<li>EXAMVIEW&reg; customizable exams</li>
+							<li><i>Exceeding the Standards</i>: Test Practice Resource</li>
+							<li><i>Meeting the Standards</i> Unit Practice Tests</li>
+							<li><i>Common Core Assessment Practice</i> in PAARC and Smarter Balanced formats online</li>
+						</ul>
 					</div>
 			<!-- 10 -->
 					<h3 class="showSingle" target="10"><strong>10. Best Value</strong></h2>
 					<div id="div10" class="targetDiv" style="display:none;">
-						<ol>
+						<ul>
 							<li>Best personalized customer service and professional development at no cost</li>
-							<li>Best value: For only $79.95 you will have a complete print and digital package including all <strong>print and digital</strong> supplements</li>
-						</ol>
+							<li>Best value: For one low price you will have a complete <strong>print and digital</strong> package including all print and digital supplements</li>
+						</ul>
 					</div>
 				</div>
 			</div>
@@ -176,20 +197,21 @@
                 <div class="one-half first textalignleft">
                     <p class="bold">For students:</p>
                     <ul class="lineheight1p75">
-                        <li>Textbook & eBook</li>
+                        <li>Textbook &amp; eBook</li>
                         <li>Meeting the Standards eWorkbook</li>
                         <li>Exceeding the Standards eWorkbook</li>
                         <li>Differentiated Instruction eWorkbook with Spanish Summaries</li>
-                        <li>Common Core Assessment Practice Criterion Online Essay Grader</li>
+                        <li>Common Core Assessment Practice</li>
+						<li>ETS Criterion<sup>&reg;</sup> Online Essay Grader</li>
                         <li>Audio program in eBook</li>
-                        <li>Access Editions (17 eBooks)</li>
+                        <li>Access Editions (including eBooks)</li>
                     </ul>
                 </div>
                 <div class="one-half last textalignleft">
                     <p class="bold">For teachers:</p>
                     <ul class="lineheight1p75">
-                        <li>Teacher’s Edition Textbook</li>
-                        <li>Enhanced Teacher’s Edition eBook</li>
+                        <li>Teacher's Edition Textbook</li>
+                        <li>Enhanced Teacher's Edition eBook</li>
                         <li>Program Planning Guide</li>
                         <li>Assessment Guide with <span class="bold">EXAM</span>VIEW<sup>&reg;</sup></li>
                         <li>Meeting the Standards, Exceeding the Standards, & Differentiated Instruction</li>
