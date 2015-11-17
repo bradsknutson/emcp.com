@@ -6,9 +6,13 @@
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image symtalk-bg">
 			<div id="topImg">
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
 				<div class="tech-button-container">
                     <a class="technology-buttons teb-demo transition" href="<?php echo $server; ?>world-languages/symtalk/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Symtalk Sample');">Sample</a>
                 </div>
+				<div class="header-hero-hover"></div>
 			</div>
 		</div>
 		<div class="header-top">
