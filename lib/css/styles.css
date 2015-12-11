@@ -2590,6 +2590,27 @@ h3.adonde {
 
 /* -------- End Thank You Pages Styles ------------- */
 
+/* -------- End Flipgrid 65 Page Styles ------------- */
+
+.f65-header {
+    height: 600px;
+    background: url('../images/flipgrid-header.jpg') no-repeat 50% 100%;
+    margin-top: -100px;
+}
+.f65-container {
+    width: 960px;
+    margin: auto;
+    height: 600px;
+    position: relative;
+}
+.f65-buy {
+    position: absolute;
+    bottom: 97px;
+    left: 68px;
+}
+
+/* -------- End Flipgrid 65 Page Styles ------------- */
+
 /* Contest Page Styles */
 .contest-first {
 	margin-top: 500px;
