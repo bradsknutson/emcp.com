@@ -40,7 +40,8 @@
         <div class="redefining">
             <div class="ninesixty">
                 <h3>Flipgrid<sup style="font-size:16px;">TM</sup> is simple.</h3>
-                <p>Create grids of questions or topics using text or video and share your questions with whomever you like. Your audience then responds with recorded videos. Flipgrid boosts community and collaboration in classrooms, corporations, and at conferences around the world.</p>
+				<p>How it works:</p>
+                <p>Flipgrid<sup style="font-size:12px;">TM</sup> is a video-discussion and collaboration tool where teachers create short, discussion-style questions that students respond to through recorded videos. Students share their thoughts with classmates on selected topics to drive engagement and interaction among students.</p>
                 
                 
                 <div id="accordion">
