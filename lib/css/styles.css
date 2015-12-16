@@ -3187,3 +3187,11 @@ table .ereaders-smaller {
     background: #FFF;
     color: #000 !important;
 }
+
+/* ----------- Mirrors and Windows Resource Page ----------------- */
+.mw-ca-bg-resources, .mw-ca-bg-resources #topImg {
+    height: 512px;   
+}
+.mw-ca-bg-resources #topImg {
+    background: #FFF url('../images/mw-cal-bg-resources.jpg') no-repeat 50% 100%;
+}
