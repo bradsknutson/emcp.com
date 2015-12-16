@@ -2624,7 +2624,7 @@ h3.adonde {
 .f65-header {
     height: 600px;
     background: url('../images/flipgrid-header.jpg') no-repeat 50% 100%;
-    margin-top: -100px;
+    margin-top: -240px;
 }
 .f65-container {
     width: 960px;
@@ -2634,8 +2634,8 @@ h3.adonde {
 }
 .f65-buy {
     position: absolute;
-    bottom: 97px;
-    left: 68px;
+    bottom: 70px;
+    right: 10px;
 }
 
 /* -------- End Flipgrid 65 Page Styles ------------- */
