@@ -12,7 +12,7 @@
 		<div class="white-slice light-grey-slice al-top-content">
 			<div class="ninesixty">
                 <div>
-					<p style="margin-top:0;">Thanks for your interest in EMC’s 2015 catalogs. Scroll down to view, download or share our English Language Arts, Social Studies, and World Languages catalogs.</p>
+					<p style="margin-top:0;">Thanks for your interest in EMC's 2015 catalogs. Scroll down to view, download or share our English Language Arts, Social Studies, World Languages, Applied Science and Applied Learning catalogs.</p>
 					<p>Questions? Please feel free to contact your <a href="http://store.emcp.com/about-emcp/local-account-manager-locator">Account Manager</a>.</p>
 				</div>
                 <div class="clearfix"></div>
@@ -35,6 +35,22 @@
                         <img src="<?php echo $server; ?>lib/images/catalog-al.png" alt="Applied Learning Catalog" class="animated" />
                     </a>
                 </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="white-slice no-top">
+			<div class="ninesixty">
+                <div class="catalog-img">
+                    <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKNURYeHlkdUdESkk/view" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/catalog-al-2015.png" alt="Applied Learning Catalog 2015" class="animated" />
+                    </a>
+                </div>
+                <div class="catalog-img">
+                    <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKZ1MzTW93Z3FZbHM/view" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/catalog-fall-2015.png" alt="Computer Technology 2015" class="animated" />
+                    </a>
+                </div>
+                <div class="catalog-img"></div>
                 <div class="clearfix"></div>
             </div>            
         </div>
