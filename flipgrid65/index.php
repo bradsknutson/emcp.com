@@ -33,16 +33,14 @@
         </div>
         <div class="f65 grey-slice">
             <div class="ninehundred" style="padding-top:0px;">
-                <p><strong>Flipgrid<sup style="font-size:16px;">TM</sup> is simple.</strong> Try for yourself. (Click the green button below and tell the world why you love to teach. Don’t worry, you’ll be asked to post the video before it becomes visible to others)</p>
+                <p><strong>Flipgrid<sup style="font-size:16px;">TM</sup> is simple.</strong> Try for yourself. Click the green button below and tell the world why you love to teach. (Don't worry, you'll be asked to post the video before it becomes visible to others)</p>
                 <iframe src="https://flipgrid.com/#84ee7b7d" width="900" height="600" frameborder="0"></iframe>
             </div>
         </div>
         <div class="redefining">
             <div class="ninesixty">
-                <h3>Flipgrid<sup style="font-size:16px;">TM</sup> is simple.</h3>
-				<p>How it works:</p>
+                <h3>How it works:</h3>
                 <p>Flipgrid<sup style="font-size:12px;">TM</sup> is a video-discussion and collaboration tool where teachers create short, discussion-style questions that students respond to through recorded videos. Students share their thoughts with classmates on selected topics to drive engagement and interaction among students.</p>
-                
                 
                 <div id="accordion">
 			<!-- 1 -->

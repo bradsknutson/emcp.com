@@ -255,4 +255,6 @@ RewriteRule ^language-arts/access-editions/paper-back/buy/ http://store.emcp.com
 
 RewriteRule ^readers$ http://www.emcp.com/world-languages/readers/ [R=301,L]
 
+RewriteRule ^swf/ http://www.emcp.com/ [R=301,L]
+
 ErrorDocument 404 /error.php
