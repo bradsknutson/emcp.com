@@ -25,12 +25,6 @@
 	<div id="container" class="mw">
 		<div class="header-background-image mw-cal-bg">
 			<div id="topImg">
-			<!--
-				<div class="play-button">
-					<div class="icon-play"></div>
-				</div>
-                <div class="header-hero-hover"></div>
-			-->
 			</div>
 		</div>
 		<div class="header-top">
@@ -100,7 +94,7 @@
 						</ul>
 					</div>
 			<!-- 4 -->
-					<h3 class="showSingle" target="5"><strong>5. Meets All California English Language Arts CCSS</strong></h2>
+					<h3 class="showSingle" target="5"><strong>4. Meets All California English Language Arts CCSS</strong></h2>
 					<div id="div5" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Mirrors &amp; Windows fully meets the CA CCSS Framework Category 1 for Content Alignment with ELA standards.</li>
@@ -115,7 +109,7 @@
 						</ul>
 					</div>
 			<!-- 5 -->
-					<h3 class="showSingle" target="6"><strong>6. Integrates California English Language Arts Framework's Five Key Themes</strong></h2>
+					<h3 class="showSingle" target="6"><strong>5. Integrates California English Language Arts Framework's Five Key Themes</strong></h2>
 					<div id="div6" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Meaning Making<br />
@@ -137,7 +131,7 @@
 					</div>
 			<!-- 6 -->
 					
-					<h3 class="showSingle" target="4"><strong>4. Scaffolded Close Reading</strong></h2>
+					<h3 class="showSingle" target="4"><strong>6. Scaffolded Close Reading</strong></h2>
 					<div id="div4" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Mirrors &amp; Windows is built around 8 thematic genre-based units covering Fiction, Nonfiction, Poetry, Drama, and Folk Literature.</li> 
