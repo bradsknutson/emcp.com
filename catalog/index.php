@@ -47,7 +47,7 @@
                 </div>
                 <div class="catalog-img">
                     <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKZ1MzTW93Z3FZbHM/view" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/catalog-fall-2015.png" alt="Computer Technology 2015" class="animated" />
+                        <img src="<?php echo $server; ?>lib/images/2016-computer-tech-catalog.jpg" alt="Computer Technology 2016" class="animated" />
                     </a>
                 </div>
                 <div class="catalog-img"></div>
