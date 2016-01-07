@@ -2987,6 +2987,34 @@ table .ereaders-smaller {
 
 /* -------- End MW California 2015 (www.emcp.com/mirrors-and-windows/ca/) Page Styles ------------- */
 
+/* -------- Start MW Oklahoma 2015 (www.emcp.com/mirrors-and-windows/ok/) Page Styles ------------- */
+
+.mw-ok-bg, .mw-ok-bg #topImg {
+    height: 600px;   
+}
+.mw-ok-bg #topImg {
+    background: #FFF url('../images/ela-ok-header.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- End MW Oklahoma 2015 (www.emcp.com/mirrors-and-windows/ok/) Page Styles ------------- */
+
+
+/* ----------- Mirrors and Windows CA Resource Page ----------------- */
+.mw-ca-bg-resources, .mw-ca-bg-resources #topImg {
+    height: 512px;   
+}
+.mw-ca-bg-resources #topImg {
+    background: #FFF url('../images/mw-cal-bg-resources.jpg') no-repeat 50% 100%;
+}
+/* ----------- Mirrors and Windows OK Resource Page ----------------- */
+.mw-ok-bg-resources, .mw-ok-bg-resources #topImg {
+    height: 600px;   
+}
+.mw-ok-bg-resources #topImg {
+    background: #FFF url('../images/ela-ok-resources.jpg') no-repeat 50% 100%;
+}
+
 /* -------- Start EMC Stores Page Styles ------------- */
 
 .emc-stores-bg, .emc-stores-bg #topImg {
@@ -3282,12 +3310,4 @@ table .ereaders-smaller {
 .mw-buttons:hover {
     background: #FFF;
     color: #000 !important;
-}
-
-/* ----------- Mirrors and Windows Resource Page ----------------- */
-.mw-ca-bg-resources, .mw-ca-bg-resources #topImg {
-    height: 512px;   
-}
-.mw-ca-bg-resources #topImg {
-    background: #FFF url('../images/mw-cal-bg-resources.jpg') no-repeat 50% 100%;
 }

@@ -171,6 +171,11 @@ RewriteRule ^language-arts/readers/  http://store.emcp.com/english-language-arts
 RewriteRule ^mw$  http://www.emcp.com/language-arts/mirrors-windows/ [R=301,L]
 RewriteRule ^mw/$  http://www.emcp.com/language-arts/mirrors-windows/ [R=301,L]
 
+RewriteRule ^ela-ok$  http://www.emcp.com/mirrors-and-windows/ok/ [R=301,L]
+RewriteRule ^ela-ok/$  http://www.emcp.com/mirrors-and-windows/ok/ [R=301,L]
+RewriteRule ^wl-ok$  http://www.emcp.com/world-languages/adoption/ok/ [R=301,L]
+RewriteRule ^wl-ok/$  http://www.emcp.com/world-languages/adoption/ok/ [R=301,L]
+
 RewriteRule ^technology/flipgrid/$  http://emcl.com/flipgrid [R=301,L]
 RewriteRule ^technology/avenue/$  http://emcl.com/avenue [R=301,L]
 
