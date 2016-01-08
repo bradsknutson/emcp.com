@@ -255,8 +255,9 @@ RewriteRule ^privacy-policy http://www.emcp.com/terms/privacy.php [R=301,L]
 RewriteRule ^world-languages/readers/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
 RewriteRule ^world-languages/readers/paperback/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
 
-RewriteRule ^language-arts/access-editions/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
-RewriteRule ^language-arts/access-editions/paper-back/buy/ http://store.emcp.com/world-languages.html?emc_product_type=374 [R=301,L]
+RewriteRule ^language-arts/access-editions/buy/ http://edu.emcp.com/english-language-arts.html?emc_product_series=395 [R=301,L]
+RewriteRule ^language-arts/access-editions/learn-more/ http://edu.emcp.com/english-language-arts.html?emc_product_series=395 [R=301,L]
+RewriteRule ^language-arts/access-editions/paper-back/buy/ http://edu.emcp.com/english-language-arts.html?emc_product_type=374 [R=301,L]
 
 RewriteRule ^readers$ http://www.emcp.com/world-languages/readers/ [R=301,L]
 

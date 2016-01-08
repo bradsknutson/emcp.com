@@ -27,7 +27,7 @@
                 </ul>
                 
                 <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>language-arts/access-editions/buy/">Buy Now!</a></p>
-                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>ereaders/">Learn more!</a></p>
+                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>language-arts/access-editions/learn-more/">Learn more!</a></p>
             </div>
         </div>
         <div class="redefining no-bottom">
