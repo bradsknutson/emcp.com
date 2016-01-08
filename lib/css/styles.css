@@ -1127,9 +1127,8 @@ p.chatbox-quote{
     background-color: #FFF;
 }
 p.home-mission {
-    font-size: 18px;
     line-height: 2;
-    font-size: 27px;
+    font-size: 25px;
 }
 .home-mission-h2 {
     font-size: 41px;
@@ -1158,7 +1157,7 @@ p.home-mission {
     padding: 0;
 }
 .emc-connect-posts .one-third p {
-    font-size: 14px;
+    font-size: 15px;
 }
 .emc-connect-posts p.date {
     margin: 0;
@@ -1196,7 +1195,6 @@ p.home-mission {
     color: #FFF;
 }
 .about-emc p {
-    
 }
 
 /* -------- End Home Page -------------- */
