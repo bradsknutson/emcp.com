@@ -264,3 +264,6 @@ RewriteRule ^readers$ http://www.emcp.com/world-languages/readers/ [R=301,L]
 RewriteRule ^swf/ http://www.emcp.com/ [R=301,L]
 
 ErrorDocument 404 /error.php
+
+RewriteRule ^actfl2015$  http://pages.exacttarget.com/actfl2015/   [R=301,L]
+RewriteRule ^fetc2016$  http://pages.exacttarget.com/fetc2016/   [R=301,L]
