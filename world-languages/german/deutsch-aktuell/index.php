@@ -24,7 +24,7 @@
 				<div class="conectate-left">
 					<p class="no-top">Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.</p>
                     
-                    <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=388&language=361">Buy It Now!</a>
+                    <a class="learn-more-link smaller-link" href="buy/">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/da-cover.jpg" alt="Deutsch Aktuell German Program" />

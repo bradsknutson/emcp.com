@@ -64,6 +64,7 @@ RewriteRule ^zb(.*)		http://www.emcp.com/world-languages/chinese/zhen-bang/ [R=3
 RewriteRule ^deutschaktuell(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
 RewriteRule ^deutschaktuel(.*)	http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
 RewriteRule ^da(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
+RewriteRule ^world-languages/german/deutsch-aktuell/buy/(.*)    http://edu.emcp.com/world-languages/deutsch-aktuell-7th-edition-level-10.html [R=301,L]
 
 # RewriteCond %{HTTP_REFERER} ^http://www.emcponline.com/.*$ [OR,NC]
 # RewriteRule    ^(.*)$		http://www.emcp.com/product_catalog/index.php?GroupID=102/    [R=301,L]
