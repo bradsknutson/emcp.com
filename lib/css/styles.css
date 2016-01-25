@@ -1567,6 +1567,11 @@ p.home-mission {
     background: #BD0006 !important;
     color: #FFF !important;
 }
+.teb-acftl2015-1, .teb-acftl2015-2 {
+    position: relative !important;
+    display: inline !important;
+    top: 0;
+}
 
 /* -------- End Deutsch Aktuell Page Styles -------------- */
 
