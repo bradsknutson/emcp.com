@@ -1,10 +1,10 @@
 
 <?php 
-	$custom_title = 'Oklahmona | Mirrors & Windows Resources | ';
+	$custom_title = 'Idaho | Mirrors & Windows Resources | ';
 	include '../../../includes/header.php';
 ?>
 	<div id="container" class="mw">
-		<div class="header-background-image mw-ok-bg-resources">
+		<div class="header-background-image mw-id-bg-resources">
 			<div id="topImg">
 			<!--
 				<div class="play-button">
@@ -19,7 +19,7 @@
 		</div>
 	<!-- Sample Chapters -->
 		<div>
-			<div class="ninesixty"><h3 style="margin-top:505px;">Hello Oklahoma ELA Teachers. If you are purchasing an English Language Arts Program, here are some resources about EMC's Mirrors &amp; Windows: Connecting with Literature program.</h3></div>
+			<div class="ninesixty"><h3 style="margin-top:505px;">Hello Idaho ELA Teachers. If you are purchasing an English Language Arts Program, here are some resources about EMC's Mirrors &amp; Windows: Connecting with Literature program.</h3></div>
 		</div>
 		<div style="margin-top:0;" class="grey-slice" style="padding:25px 0 !important;">
 			<div class="ninesixty">
@@ -49,9 +49,9 @@
 	<!-- OK PASS Correlations -->
         <div class="grey-slice" style="padding:25px 0 !important;">
             <div class="ninesixty">
-                <h2>Oklahoma Priority Academic Student Skills Correlations</h2>
-                <p>These standards map correlations list how our program aligns 100% with the Oklahoma PASS for Languages, Grades 6-12.<br /><br />
-					Click <a href="https://www.joomag.com/magazine/oklahoma-pass-correlations/M0728096001452110458" target="_blank" class="learn-more-link">here</a> to see the OK PASS Correlations
+                <h2>Idaho Core Standards Correlations</h2>
+                <p>These standards map correlations list how our program aligns 100% with the Idaho Core Standards (CCSS) for Languages, Grades 6-12.<br /><br />
+					Click <a href="https://www.joomag.com/magazine/idaho-core-standards/M0598673001453749531" target="_blank" class="learn-more-link">here</a> to see the Idaho Core Standards Correlations
 				</p>
                 <div class="clearfix"></div>
             </div>

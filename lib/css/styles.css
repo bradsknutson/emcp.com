@@ -3002,6 +3002,18 @@ table .ereaders-smaller {
 
 /* -------- End MW Oklahoma 2015 (www.emcp.com/mirrors-and-windows/ok/) Page Styles ------------- */
 
+/* -------- Start MW Idaho Page Styles ------------- */
+
+.mw-id-bg, .mw-id-bg #topImg {
+    height: 600px;   
+}
+.mw-id-bg #topImg {
+    background: #FFF url('../images/id-header.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- End MW Idaho Page Styles ------------- */
+
 
 /* ----------- Mirrors and Windows CA Resource Page ----------------- */
 .mw-ca-bg-resources, .mw-ca-bg-resources #topImg {
@@ -3016,6 +3028,13 @@ table .ereaders-smaller {
 }
 .mw-ok-bg-resources #topImg {
     background: #FFF url('../images/ela-ok-resources.jpg') no-repeat 50% 100%;
+}
+/* ----------- Mirrors and Windows ID Resource Page ----------------- */
+.mw-id-bg-resources, .mw-id-bg-resources #topImg {
+    height: 600px;   
+}
+.mw-id-bg-resources #topImg {
+    background: #FFF url('../images/id-header-resources.jpg') no-repeat 50% 100%;
 }
 
 /* -------- Start EMC Stores Page Styles ------------- */
