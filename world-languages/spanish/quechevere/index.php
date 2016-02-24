@@ -2,6 +2,25 @@
 	$custom_title = '&iexcl;Qu&eacute; ch&eacute;vere! | ';
 	include '../../../includes/header.php';
 ?>
+<style>
+.ui-accordion .ui-accordion-header {
+	background: #F0EFEB !important;
+	font-size: 22px !important;
+	padding-right: .2em !important;
+}
+.redefining p {
+	font-size: 20px !important;
+}
+.ui-helper-reset {
+	font-size: 18px !important;
+}
+.ui-widget {
+	font-family: "myriad-pro", sans-serif !important;
+}
+.ui-accordion-content {
+    height: 550px !important;
+}
+</style>
 	<div id="container" class="quechevere">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image conectate-bg">
@@ -33,102 +52,146 @@
 		</div>
         
         <div class="redefining no-bottom">
-            <div class="ninesixty paddingtop40 paddingbottom40">
-                <h2>Top Reasons</h2>
-                <ul class="lineheight1p75">
-                    <li>Abundant activities that focus on Interpersonal, Presentational, and Interpretive Communication skills</li>
-                    <li>New insight into the target cultures through their Products, Perspectives, and Practices</li>
-                    <li>Frequent opportunities to synthesize, and reflect on, content through eachunit’s essential question</li>
-                    <li>Project-based learning</li>
-                    <li>State of the art learning environment that provides opportunities for blended learning</li>
-                </ul>
-            </div>
-        </div>
-        <div class="secondary-first margintop0 light-grey-slice">
-            <div class="ninesixty paddingtop40i paddingbottom40">
-                <h2 class="h240">Key Features</h2>
-                <ul class="lineheight1p75">
-                    <li>Visually appealing vocabulary presentations</li>
-                    <li>Current culture readings of high interest to students</li>
-                    <li>Dialogues recorded by native speakers</li>
-                    <li>Scaffolded and authentic readings</li>
-                    <li>End of lesson review activities</li>
-                    <li>End of unit cumulative projects</li>
-                    <li>Opportunities for differentiated instruction</li>
-                    <li>Integration into the <a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup> learning environment</li>
-                </ul>
-            </div>
-        </div>
-        <div class="secondary-first margintop0 white">
-            <div class="ninesixty paddingtop40i paddingbottom40">
-				<div class="conectate-left">
-                    <h2 class="h240">Why <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere! Espa&ntilde;ol avanzado</span></h2>
+            <div class="ninesixty paddingbottom40" style="margin-top:15px;">
+				<div id="accordion">
+			<!-- 1 -->
+					<h3 class="showSingle" target="1"><strong>Top Reasons</strong></h3>
+					<div id="div1" class="targetDiv" style="display:none;">
+                        <ul class="lineheight1p75">
+                            <li>Abundant activities that focus on Interpersonal, Presentational, and Interpretive Communication skills</li>
+                            <li>New insight into the target cultures through their Products, Perspectives, and Practices</li>
+                            <li>Frequent opportunities to synthesize, and reflect on, content through eachunit’s essential question</li>
+                            <li>Project-based learning</li>
+                            <li>State of the art learning environment that provides opportunities for blended learning</li>
+                        </ul>
+					</div>
+			<!-- 2 -->
+					<h3 class="showSingle" target="2"><strong>Key Features</strong></h3>
+					<div id="div2" class="targetDiv" style="display:none;">
+                        <ul class="lineheight1p75">
+                            <li>Visually appealing vocabulary presentations</li>
+                            <li>Current culture readings of high interest to students</li>
+                            <li>Dialogues recorded by native speakers</li>
+                            <li>Scaffolded and authentic readings</li>
+                            <li>End of lesson review activities</li>
+                            <li>End of unit cumulative projects</li>
+                            <li>Opportunities for differentiated instruction</li>
+                            <li>Integration into the <a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup> learning environment</li>
+                        </ul>
+					</div>
+			<!-- 3 -->
+					<h3 class="showSingle" target="3"><strong>Why &iexcl;Qu&eacute; ch&eacute;vere! Espa&ntilde;ol avanzado</strong></h3>
+					<div id="div3" class="targetDiv" style="display:none;">
+                        <div class="conectate-left" style="width:450px;">
+                            <ul class="lineheight1p75">
+                                <li>We do more than teach to the test!</li>
+                                <li>AP* themes integrated into each unit</li>
+                                <li>AP* practice integrated into each unit</li>
+                                <li>ACTFL-aligned</li>
+                                <li>Abundant communication activities that align to the AP* exam</li>
+                                <li>Grammar reviewed using an inductive approach</li>
+                                <li>Authentic fiction and non-fiction texts</li>
+                                <li>Authentic audio</li>
+                                <li>Opportunities for project-based learning</li>
+                                <li>State of the art learning environment with opportunities for blended learning</li>
+                            </ul>
 
-                    <ul class="lineheight1p75">
-                        <li>We do more than teach to the test!</li>
-                        <li>AP* themes integrated into each unit</li>
-                        <li>AP* practice integrated into each unit</li>
-                        <li>ACTFL-aligned</li>
-                        <li>Abundant communication activities that align to the AP* exam</li>
-                        <li>Grammar reviewed using an inductive approach</li>
-                        <li>Authentic fiction and non-fiction texts</li>
-                        <li>Authentic audio</li>
-                        <li>Opportunities for project-based learning</li>
-                        <li>State of the art learning environment with opportunities for blended learning</li>
-                    </ul>
-                    
-                    <p class="disclaimer">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
-                </div>
-				<div class="conectate-right">
-                    <img class="margintop80" src="http://www.emcp.com/lib/images/QC5cover.jpg" alt="Que Chevere! Level 5">
-                </div>
-                <div class="clearfix"></div>
-            </div>
+                            <p class="disclaimer">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
+                        </div>
+                        <div class="conectate-right">
+                            <img class="margintop80" src="http://www.emcp.com/lib/images/QC5cover.jpg" alt="Que Chevere! Level 5" style="margin:100px 0 -200px 0;">
+                        </div>
+                        <div class="clearfix"></div>
+					</div>
+			<!-- 3 -->
+					<h3 class="showSingle" target="4"><strong>Components</strong></h3>
+					<div id="div4" class="targetDiv" style="display:none;">
+                        <div class="one-half first textalignleft">
+                            <p class="bold">For students:</p>
+                            <ul class="lineheight1p75">
+                                <li>Textbook</li>
+                                <li>Workbook</li>
+                                <li>Grammar and Vocabulary</li>
+                                <li>Listening Activities</li>
+                                <li>Video Activities</li>
+                                <li>Middle School Bridge</li>
+                                <li>Juegos</li>
+                                <li>Online Pre-tests</li>
+                                <li>eVisuals</li>
+                                <li>Flash Cards</li>
+                                <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                            </ul>
+                        </div>
+                        <div class="one-half last textalignleft">
+                            <p class="bold">For teachers:</p>
+                            <ul class="lineheight1p75">
+                                <li>Annotated Teacher’s Edition</li>
+                                <li>Workbook Teacher’s Edition</li>
+                                <li>Grammar and Vocabulary Teacher's Edition</li>
+                                <li>Listening Activities Teacher's Edition</li></li>
+                                <li>Video Program Teacher's Edition</li>
+                                <li>Communicative Activities</li>
+                                <li>TPR Storytelling</li>
+                                <li>Middle School Activities with Answer Key</li>
+                                <li>Middle School Bridge with Answer Key</li>
+                                <li>Quizzes with Answer Key</li>
+                                <li>Tests with Answer Key</li>
+                                <li><span class="bold">Exam</span>View<sup>&reg;</sup></li>
+                                <li>Portfolio Assessment</li>
+                                <li>Materiales para hispanohablantes nativos</li>
+                                <li>Lesson Plans</li>
+                                <li>eVisuals</li>
+                                <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                            </ul>
+                        </div>
+                        <div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END ACCORDION -->   
+
+
+		<div class="ninesixty no-bottom no-top">
+            <h2 style="margin:0;">Additional Resources</h2>
         </div>
-        <div class="redefining paddingtop40 light-grey-slice">
-            <div class="ninesixty">
-                <h2>Components</h2>
-                <div class="one-half first textalignleft">
-                    <p class="bold">For students:</p>
-                    <ul class="lineheight1p75">
-                        <li>Textbook</li>
-                        <li>Workbook</li>
-                        <li>Grammar and Vocabulary</li>
-                        <li>Listening Activities</li>
-                        <li>Video Activities</li>
-                        <li>Middle School Bridge</li>
-                        <li>Juegos</li>
-                        <li>Online Pre-tests</li>
-                        <li>eVisuals</li>
-                        <li>Flash Cards</li>
-                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
-                    </ul>
-                </div>
-                <div class="one-half last textalignleft">
-                    <p class="bold">For teachers:</p>
-                    <ul class="lineheight1p75">
-                        <li>Annotated Teacher’s Edition</li>
-                        <li>Workbook Teacher’s Edition</li>
-                        <li>Grammar and Vocabulary Teacher's Edition</li>
-                        <li>Listening Activities Teacher's Edition</li></li>
-                        <li>Video Program Teacher's Edition</li>
-                        <li>Communicative Activities</li>
-                        <li>TPR Storytelling</li>
-                        <li>Middle School Activities with Answer Key</li>
-                        <li>Middle School Bridge with Answer Key</li>
-                        <li>Quizzes with Answer Key</li>
-                        <li>Tests with Answer Key</li>
-                        <li><span class="bold">Exam</span>View<sup>&reg;</sup></li>
-                        <li>Portfolio Assessment</li>
-                        <li>Materiales para hispanohablantes nativos</li>
-                        <li>Lesson Plans</li>
-                        <li>eVisuals</li>
-                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
-                    </ul>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+		
+		<div class="ninehundred">
+			<div class="sub-featured onesix black">
+				<img src="<?php echo $server; ?>lib/images/symtalk_comp.jpg" alt="Symtalk" />
+				<h3>Symtalk</h3>
+				<p>Middle and Elementary School</p>
+				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=357&q=symtalk">Buy It Now!</a></p>
+			</div>
+			<div class="sub-featured onesix black">
+				<img src="<?php echo $server; ?>lib/images/exploring-spanish.jpg" alt="Exploring Spanish" />
+				<h3>Exploring Spanish</h3>
+				<p>Middle School</p>
+				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-spanish-3rd-edtion.html">Buy It Now!</a></p>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+        <div class="ninehundred no-bottom">
+			<div class="sub-featured onesix black">
+				<img src="<?php echo $server; ?>lib/images/vale_comp.jpg" alt="Vale!" />
+				<h3>&iexcl;Vale!</h3>
+				<p>Elementary School</p>
+				<p>&iexcl;Vale! is best suited for grade levels 3-5. This series introduces real world situations through music to create a lively and entertaining approach to learning Spanish. The ¡Vale! series is a combination of the Multiple Intelligences Theory and the Total Physical Response Methodology.<br />
+				<a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/vale/buy/">Buy It Now!</a></p>
+			</div>
+			<div class="sub-featured onesix black">
+				<img src="<?php echo $server; ?>lib/images/confidently.jpg" alt="Speaking Spanish Confidently!" />
+				<h3>Speaking Spanish Confidently!</h3>
+				<p>High School</p>
+				<p><span class="italic">Speaking Spanish Confidently</span> teaches 20 of the most common and difficult Spanish grammar structures. At the core of this method are symbol cards, which are self-explanatory images that represent words for all parts of speech. The symbol cards facilitate the visualization of grammar structures for students to easily identify syntax. Get your students speaking confidently today!<br />
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/speaking-spanish-confidently.html">Buy It Now!</a></p>
+			</div>			
+			<div class="clearfix"></div>
+		</div>
+        <?php include '../../../includes/wl-footer-links.php'; ?>
+        
         
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
@@ -260,5 +323,15 @@
 			</div>
 		</div>		
 
-	
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      collapsible: true,
+	  active: false
+    });
+  });
+</script>
 <?php include '../../../includes/footer.php'; ?>

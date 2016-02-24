@@ -9,9 +9,9 @@
 		</div>
 		<div class="world-languages-title">
 			<div class="ninehundred onesix fonttwenty">
-				<h3>EMC World Languages. <span class="italic">The future of fluency&trade;.</span></h3>
+				<h3>EMC World Language Programs</h3>
 				
-				<p><span class="bold">Discover</span> our core curricula through print and digital resources that provide the critical foundations of language learning. <span class="bold">Expand</span> learning through engaging and authentic culture, video, songs, reflection, and literature. <span class="bold">Perform</span> language tasks through innovative, research-based, and video-driven practice and assessment tools.</p>
+                <p>Meet our world language programs, supported by <a href="<?php echo $server; ?>technology/passport/"><img src="http://www.emcp.com/lib/images/passport-logo-150.png" alt="Passport" style="height: 38px;margin: 0px 0px 0px 5px;padding: 0;line-height: 0;vertical-align: bottom;"/></a>, our award-winning digital learning environment.</p>
 				
 				<p style="margin-bottom: 0px;">View our award-winning lineups by selecting your target language below:</p>
 			</div>
@@ -19,7 +19,7 @@
 		<div class="world-languages-right spanish">		
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<h3>Spanish <a href="<?php echo $server; ?>world-languages/spanish/">View our Spanish products</a></h3>
+					<h3>Spanish <a href="<?php echo $server; ?>world-languages/spanish/quechevere">View our Spanish products</a></h3>
 					
 					<p>EMC's robust multiplatform Spanish products provide students with innovative learning solutions and technology that prepare them to be lifelong languages learners and global citizens. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction. With EMC's Spanish educational solutions, you'll love what you teach even more.</p>
 				</div>
@@ -49,33 +49,6 @@
 					<h3>Chinese <a href="<?php echo $server; ?>world-languages/chinese/">View our Chinese products</a></h3>
 					
 					<p>EMC's Chinese products challenge students to discover language and culture while expanding their understanding beyond the classroom. Discover the future of fluency. Put your class on the path to achieving proficiency and a deeper understanding and appreciation for Chinese culture. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction.</p>
-				</div>
-			</div>
-		</div>
-		<div class="world-languages-right italian">
-			<div class="ninehundred no-top no-bottom">
-				<div class="wl-content">
-					<h3>Italian <a href="<?php echo $server; ?>world-languages/italian/">View our Italian products</a></h3>
-					
-					<p>With EMC's robust, multiplatform Italian products, students will be equipped with the knowledge and skills to be successful, life-long language learners. Discover the future of fluency through our innovative learning solutions and technology. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction.</p>
-				</div>
-			</div>
-		</div>
-		<div class="world-languages-left japanese">
-			<div class="ninehundred no-top no-bottom">
-				<div class="wl-content">
-					<h3>Japanese <a href="<?php echo $server; ?>world-languages/japanese/">View our Japanese products</a></h3>
-					
-					<p>Discover the future of fluency through EMC's Japanese products and our innovative learning solutions and technology. With EMC's robust, multi-platform Japanese products, students will be equipped with the knowledge and skills to be successful, life-long language learners who appreciate cultural diversity. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction.</p>
-				</div>
-			</div>
-		</div>
-		<div class="world-languages-right arabic">
-			<div class="ninehundred no-top no-bottom">
-				<div class="wl-content">
-					<h3>Arabic <a href="<?php echo $server; ?>world-languages/arabic/">View our Arabic products</a></h3>
-					
-					<p>Discover the future of fluency through EMC's innovative digital learning solutions coupled with our Arabic products equip students with the knowledge and skills necessary to achieve second language fluency and increase cultural understanding. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction.</p>
 				</div>
 			</div>
 		</div>
