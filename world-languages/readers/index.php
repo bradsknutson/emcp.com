@@ -11,7 +11,7 @@
 		<div class="header-top">
 			<?php include '../../includes/nav.php'; ?>
 		</div>
-		<div class="secondary-first">
+		<div class="secondary-first white">
 			<div class="ninesixty">
 				<div class="conectate-left margintop40">
                     <h2>EMC Enhanced eReaders</h2>
@@ -31,12 +31,20 @@
                     <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>ereaders/">Learn more!</a></p>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/cideb.png" alt="CIDEB Readers" />
+					<img src="<?php echo $server; ?>lib/images/readers-example.png" alt="EMC Enhanced eReaders" style="margin-top:40px !important;"/>
 				</div>
 				<div class="clearfix"></div>
 			</div>
-		</div>
-        
+        </div>        
+        <div class="redefining no-bottom light-grey-slice">
+            <div class="ninesixty paddingtop40 paddingbottom40">
+                <h2>My Language Town</h2>
+                <p>A book series packed with communicative dialogs and a collection of songs for Spanish language learners.</p>
+                
+                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>mylanguagetown/">Buy Now!</a></p>
+                
+            </div>
+        </div>
         <div class="redefining no-bottom">
             <div class="ninesixty paddingtop40 paddingbottom40">
                 <h2>EMC Paperback Readers</h2>
