@@ -53,7 +53,7 @@
             <div class="ninesixty paddingbottom40" style="margin-top:15px;">
 				<div id="accordion">
 			<!-- 1 -->
-					<h3 class="showSingle" target="1"><strong>1. Love of Literature</strong></h2>
+					<h3 class="showSingle" target="1"><strong>1. Love of Literature</strong></h3>
 					<div id="div1" class="targetDiv" style="display:none;">
 						<p>The most Diverse Range of Literature and Informational Texts</p>
 						<ul>
@@ -64,7 +64,7 @@
 						<p><a href="http://www.emcp.com/lib/assets/Mirrors-Windows-Range-of-Reading.pdf" target="_blank"><strong>Download the complete range of texts in grades 6-12</strong></a></p>
 					</div>
 			<!-- 2 -->
-					<h3 class="showSingle" target="2"><strong>2. Digital Learning Technologies</strong></h2>
+					<h3 class="showSingle" target="2"><strong>2. Digital Learning Technologies</strong></h3>
 					<div id="div2" class="targetDiv" style="display:none;">
 						<ul>
 							<li>EMC Bookshelf<sup>TM</sup> provides multiplatform eBooks for all program components</li>
@@ -77,7 +77,7 @@
 						</ul>
 					</div>
 			<!-- 3 -->
-					<h3 class="showSingle" target="3"><strong>3. Meets California English-Language Development Standards</strong></h2>
+					<h3 class="showSingle" target="3"><strong>3. Meets California English-Language Development Standards</strong></h3>
 					<div id="div3" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Aligned with California ELD Standards</li>
@@ -94,7 +94,7 @@
 						</ul>
 					</div>
 			<!-- 4 -->
-					<h3 class="showSingle" target="5"><strong>4. Meets All California English Language Arts CCSS</strong></h2>
+					<h3 class="showSingle" target="5"><strong>4. Meets All California English Language Arts CCSS</strong></h3>
 					<div id="div5" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Mirrors &amp; Windows fully meets the CA CCSS Framework Category 1 for Content Alignment with ELA standards.</li>
@@ -109,7 +109,7 @@
 						</ul>
 					</div>
 			<!-- 5 -->
-					<h3 class="showSingle" target="6"><strong>5. Integrates California English Language Arts Framework's Five Key Themes</strong></h2>
+					<h3 class="showSingle" target="6"><strong>5. Integrates California English Language Arts Framework's Five Key Themes</strong></h3>
 					<div id="div6" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Meaning Making<br />
@@ -131,16 +131,16 @@
 					</div>
 			<!-- 6 -->
 					
-					<h3 class="showSingle" target="4"><strong>6. Scaffolded Close Reading</strong></h2>
+					<h3 class="showSingle" target="4"><strong>6. Scaffolded Close Reading</strong></h3>
 					<div id="div4" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Mirrors &amp; Windows is built around 8 thematic genre-based units covering Fiction, Nonfiction, Poetry, Drama, and Folk Literature.</li> 
-							<li>Each unit gives students a Gradual Release of Responsibility opportunity through three levels of reading support: selections of Guided Reading, Directed Reading, and Independent Reading.</li>
+							<li>Each unit gives students a Gradual Release of Responsibility opportunity through three levels of reading support: selections of Guided Reading, Directed Reading, and Independent Reading.</li>h3
 							<li>Gradual Release uses scaffolding to model and apply close reading skills and strategies.</li>
 						</ul>
 					</div>
 			<!-- 7 -->
-					<h3 class="showSingle" target="7"><strong>7. Range of Texts and Complexity</strong></h2>
+					<h3 class="showSingle" target="7"><strong>7. Range of Texts and Complexity</strong></h3>
 					<div id="div7" class="targetDiv" style="display:none;">
 						<ul>
 							<li><i>Mirrors &amp; Windows</i> provides 100% of CCSS text types and range of texts within grade level text complexity levels – all in student textbook</li>
@@ -152,7 +152,7 @@
 						</ul>
 					</div>
 			<!-- 8 -->
-					<h3 class="showSingle" target="8"><strong>8. Integrated Language Arts</strong></h2>
+					<h3 class="showSingle" target="8"><strong>8. Integrated Language Arts</strong></h3>
 					<div id="div8" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Skill development such as Grammar &amp; Style and Vocabulary &amp; Spelling based on the selections are integrated within the units.</li>
@@ -162,7 +162,7 @@
 						</ul>
 					</div>
 			<!-- 9 -->
-					<h3 class="showSingle" target="9"><strong>9. Comprehensive Assessments</strong></h2>
+					<h3 class="showSingle" target="9"><strong>9. Comprehensive Assessments</strong></h3>
 					<div id="div9" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Test Practice at end of textbook units</li>
@@ -176,7 +176,7 @@
 						</ul>
 					</div>
 			<!-- 10 -->
-					<h3 class="showSingle" target="10"><strong>10. Best Value</strong></h2>
+					<h3 class="showSingle" target="10"><strong>10. Best Value</strong></h3>
 					<div id="div10" class="targetDiv" style="display:none;">
 						<ul>
 							<li>Best personalized customer service and professional development at no cost</li>
