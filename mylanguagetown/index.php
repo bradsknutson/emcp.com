@@ -36,7 +36,8 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
                 <img src="<?php echo $server; ?>lib/images/mlt-ereader.png" alt="My Language Town eReaders" style="float:right;margin-top:100px;"/>
-                <h1 class="no-bottom">Enhanced eReaders</h1>
+                <h1 class="no-bottom">Available June 1st starting at $2.95</h1>
+				<p><a class="technology-buttons mw-sample transition" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafa7e88f41d8cbd96a0269d731b013d8d034e9a8d6f0718f7" "target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Sample');">Preorder your free sample today!</a></p>
                 <p class="no-top">We all know how important reading, listening and having fun are for learning and perfecting your native language. It is equally important when learning a second language. My Language Town gives you this opportunity and provides you a variety of titles for each level that can be used with any program.</p>
                 
                 <p>Designed for use both in the classroom and as an independent study, My Language Town eBooks can make learning a new language an interactive experience. My Language Town eBooks can be read aloud in class, in a small group, at home with the family and friends, as a play with a study group, or even alone at your kitchen table.</p>
