@@ -3,7 +3,7 @@
 	include '../includes/header.php';
 ?>
 	<div id="container">
-		<div class="header-background-image cat-bg">
+		<div class="header-background-image famis-bg">
 			<div id="topImg"></div>
 		</div>
 		<div class="header-top">
