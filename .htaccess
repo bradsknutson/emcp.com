@@ -144,8 +144,12 @@ RewriteRule ^classroom/classroom-fun/   http://store.emcp.com/world-languages.ht
 
 RewriteRule ^frenchreview  http://www.emcp.com/world-languages/french/tes-branche/?utm_source=magazine&utm_medium=magazine-ad&utm_campaign=FR-AD-OCT [R=301,L]
 
-RewriteRule ^bookshelf$  http://www.emcp.com/technology/bookshelf/ [R=301,L]
-RewriteRule ^bookshelf/$  http://www.emcp.com/technology/bookshelf/ [R=301,L]
+RewriteRule ^technology/bookshelf$  http://www.emcp.com/technology/ebooks/ [R=301,L]
+RewriteRule ^technology/bookshelf/$  http://www.emcp.com/technology/ebooks/ [R=301,L]
+RewriteRule ^bookshelf$  http://www.emcp.com/technology/ebooks/ [R=301,L]
+RewriteRule ^bookshelf/$  http://www.emcp.com/technology/ebooks/ [R=301,L]
+RewriteRule ^ebooks$  http://www.emcp.com/technology/ebooks/ [R=301,L]
+RewriteRule ^ebooks/$  http://www.emcp.com/technology/ebooks/ [R=301,L]
 RewriteRule ^iculture$  http://www.emcp.com/technology/iculture/ [R=301,L]
 RewriteRule ^iculture/$  http://www.emcp.com/technology/iculture/ [R=301,L]
 RewriteRule ^elpac$  http://www.emcp.com/technology/elpac/ [R=301,L]

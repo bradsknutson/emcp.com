@@ -1,5 +1,5 @@
 <?php 
-	$custom_title = 'Bookshelf | Multiplatform eBooks | ';
+	$custom_title = 'Multiplatform eBooks | ';
 	include '../../includes/header.php';
 ?>
 	<div id="container" class="bookshelf">

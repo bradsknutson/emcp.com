@@ -24,7 +24,7 @@
 		<div class="world-languages-left techlp-bookshelf">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<a href="<?php echo $server; ?>technology/bookshelf/"><img src="<?php echo $server; ?>lib/images/logo-bookshelf.png" alt="Bookshelf" /></a>
+					<a href="<?php echo $server; ?>technology/ebooks/"><img src="<?php echo $server; ?>lib/images/logo-bookshelf.png" alt="Bookshelf" /></a>
 					
 					<p>Our multiplatform eBooks take learning, well, anywhere. One-touch navigation connects to every page of our textbooks and workbooks as well as audio and video content. Access all of our eBooks easily through Bookshelf.</p>
 				</div>

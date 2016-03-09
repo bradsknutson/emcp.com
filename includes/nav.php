@@ -14,7 +14,7 @@
                 <li<?php echo get_current('technology',$current); ?>><a href="<?php echo $server; ?>technology/">Technology</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>technology/passport/">Passport</a></li>
-						<li><a href="<?php echo $server; ?>technology/bookshelf/">Bookshelf</a></li>
+						<li><a href="<?php echo $server; ?>technology/ebooks/">eBooks</a></li>
 						<li><a href="<?php echo $server; ?>technology/iculture/">i-Culture</a></li>
 						<li><a href="<?php echo $server; ?>technology/flipgrid/">Flipgrid</a></li>
 						<li><a href="<?php echo $server; ?>technology/avenue/">Avenue</a></li>
