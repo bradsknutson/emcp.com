@@ -128,7 +128,7 @@ RewriteRule ^world-languages/french/classroom-fun/   http://store.emcp.com/world
 RewriteRule ^world-languages/chinese/programs/   http://store.emcp.com/world-languages.html?language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=364 [R=301,L]
-RewriteRule ^world-languages/chinese/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=364 [R=301,L]
+RewriteRule ^world-languages/chinese/games/   http://store.emcp.com/world-languages.html?emc_product_type=523&language=364 [R=301,L]
 RewriteRule ^world-languages/chinese/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=364 [R=301,L]
 
 RewriteRule ^world-languages/italian/programs/   http://store.emcp.com/world-languages.html?language=360 [R=301,L]
@@ -270,6 +270,10 @@ RewriteRule ^swf/ http://www.emcp.com/ [R=301,L]
 
 RewriteRule ^FAMIS http://www.emcp.com/famis/ [R=301,L]
 RewriteRule ^FAMIS/ http://www.emcp.com/famis/ [R=301,L]
+
+RewriteRule ^CUT5 http://paradigm.emcp.com/computer-technology/computers-understanding-technology-fifth-edition.html [R=301,L]
+RewriteRule ^CUT5e http://paradigm.emcp.com/computer-technology/computers-understanding-technology-fifth-edition.html [R=301,L]
+RewriteRule ^CUT5E http://paradigm.emcp.com/computer-technology/computers-understanding-technology-fifth-edition.html [R=301,L]
 
 ErrorDocument 404 /error.php
 

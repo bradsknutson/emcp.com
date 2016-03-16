@@ -17,14 +17,14 @@
 			<div class="ninesixty">
 				<div class="conectate-left">
                     <div class="entry-title">
-                        <h4>Biotechnology: Science for the New Millennium, First Edition, Revised</h4>
+                        <h4>Biotechnology: Science for the New Millennium, Second Edition &copy;2017</h4>
                         <h2>Comprehensive textbook and lab manual combination program, designed for introductory courses</h2>
                     </div>
                     <p class="no-top">This complete program teaches the <strong>concepts and hands-on lab procedures</strong> required for entry-level careers in the rapidly growing biotechnology industry. The <strong>textbook and lab manual can be used together or separately</strong>, depending on the desired course format.</p>
-                    <a class="learn-more-link smaller-link" href="<?php echo $server; ?>applied-learning/applied-science/biotechnology/buy/">Buy It Now!</a>
+                    <a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtAeWZLUHVCeDZKOFk/view?usp=sharing" target="_blank">Download a sample chapter</a>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/biotech-cover.jpg" alt="Biotechnology: Science for the New Millennium, First Edition, Revised" />
+					<img src="<?php echo $server; ?>lib/images/biotech-cover.jpg" alt="Biotechnology: Science for the New Millennium, Second Edition &copy;2017" />
 				</div>
 				<div class="clearfix"></div>
 			</div>
