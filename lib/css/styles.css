@@ -3002,6 +3002,18 @@ table .ereaders-smaller {
 
 /* -------- End MW Oklahoma 2015 (www.emcp.com/mirrors-and-windows/ok/) Page Styles ------------- */
 
+/* -------- Start MW Virginia 2015 (www.emcp.com/mirrors-and-windows/va/) Page Styles ------------- */
+
+.mw-va-bg, .mw-va-bg #topImg, .wl-va-bg, .wl-va-bg #topImg {
+    height: 600px;   
+}
+.mw-va-bg #topImg {
+    background: #FFF url('../images/va-header.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- End MW Virginia 2015 (www.emcp.com/mirrors-and-windows/va/) Page Styles ------------- */
+
 /* -------- Start WL Oklahoma 2016 (www.emcp.com/world-langugaes/ok/) Page Styles ------------- */
 
 .wl-ok-bg #topImg {
@@ -3037,6 +3049,13 @@ table .ereaders-smaller {
 }
 .mw-ok-bg-resources #topImg {
     background: #FFF url('../images/ela-ok-resources.jpg') no-repeat 50% 100%;
+}
+/* ----------- Mirrors and Windows VA Resource Page ----------------- */
+.mw-va-bg-resources, .mw-va-bg-resources #topImg {
+    height: 600px;   
+}
+.mw-va-bg-resources #topImg {
+    background: #FFF url('../images/va-resources-header.jpg') no-repeat 50% 100%;
 }
 /* ----------- Mirrors and Windows ID Resource Page ----------------- */
 .mw-id-bg-resources, .mw-id-bg-resources #topImg {
