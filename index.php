@@ -51,4 +51,4 @@
                 </div>
             </div>
         </div>
-<?php include 'includes/footer-new.php' ?>
+<?php include 'includes/footer.php' ?>

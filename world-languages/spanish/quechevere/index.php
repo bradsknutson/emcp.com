@@ -39,13 +39,14 @@
 			<?php include '../../../includes/nav.php'; ?>
 		</div>
 		<div class="secondary-first">
-			<div class="ninesixty no-bottom">
+			<div class="ninesixty">
 				<div class="conectate-left">
                     <p class="no-top"><span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom. Watch your students connect to the Spanish-speaking world, rapidly develop language proficiency as well as cultural understanding. With our cutting-edge digital resources, such as video-based tools, authentic cultural videos, eBooks your students will discover the Spanish language in a whole new way.</p>
+                    <a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover &iexcl;Qu&eacute; ch&eacute;vere! in Passport</a><br /><br />
 					<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/QCcover.jpg" alt="&iexcl;Qu&eacute; che&eacute;vere! Spanish Program" />
+					<img src="<?php echo $server; ?>lib/images/QCcover.jpg" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" />
 				</div>
 				<div class="clearfix"></div>
 			</div>

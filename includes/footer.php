@@ -1,32 +1,3 @@
-		<div class="news-section">
-			<div class="ninesixty">
-				<div class="news-events">
-					<h3>News and Events</h3>
-                    
-                   <!-- Start News Release 1 -->
-                    
-                    <p>EMC is proud to announce that Eric Cantor, our Chairman and Chief Executive Officer, has been elected to the Executive Council of the AAP PreK-12 Learning Group. Please join us in congratulating Eric! For more information about the AAP PreK-12 Learning Group, <a href="http://www.aepweb.org/" target="_blank" class="learn-more-link smaller-link">click here</a>.</p>             
-                    
-                    <!-- End News Release 1 -->                    
-                    
-                    <!-- Start News Release 2 -->
-                    
-                    <p><a href="http://store.emcp.com/about-emcp/news-and-events" class="learn-more-link smaller-link">The Natural Side of Student Voice</a></p>
-                    
-                    <p>The power of student voice never fails to amaze us! This is so inspiring, and the very reason we do what we do at EMC! The Flipgrid team recently had the pleasure of visiting our longtime friend Andy Plemmons (@plemmonsa), Library Media Specialist at David C. Barrow Elementary School, and his awesome students in Athens, Georgia. "There's a level of honesty that comes out from kids, you see more of their natural side ... when they're making a video." – Andy Plemmons.</p>
-
-                    <p>Thanks for sharing your wonderful students + your experience, Andy! The work you do with your students is inspiring.</p>
-                    
-                    <!-- End News Release 2 -->
-                    
-				</div>
-				<div class="twitter-news">
-					<a href="https://twitter.com/EMCPublishing" class="twitter-handle" target="_blank">@EMCPublishing</a>
-					<div id="twitter-feed"></div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
 		<div class="stay-connected">
 			<div class="ninesixty">
 				<div class="signupForm">
@@ -39,6 +10,20 @@
 					</form>
 				</div>
 				<p>Type your email above and hit 'Enter' to stay connected with EMC news, events, and updates.</p>
+                <div class="social-icons-footer">
+                    <a href="https://www.facebook.com/EMCPublishing" target="_blank">
+                            <img src="<?php echo $server; ?>lib/images/social-facebook.png" alt="Facebook" />
+                    </a>
+                    <a href="https://twitter.com/EMCPublishing" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/social-twitter.png" alt="Twitter" />
+                    </a>
+                    <a href="https://www.linkedin.com/company/emc-publishing-llc" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/social-linkedin.png" alt="Linkedin" />
+                    </a>
+                    <a href="https://vimeo.com/emcpublishing" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/social-vimeo.png" alt="Vimeo" />
+                    </a>
+                </div>
 			</div>
 		</div>
 		<div class="footer">
@@ -51,19 +36,6 @@
 						<li><a href="http://store.emcp.com/local-account-manager-locator/">Sales</a></li>
 						<li><a href="http://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>
 					</ul>
-				</div>
-				<div class="social-icons">
-					<div>
-						<a href="https://twitter.com/EMCPublishing" target="_blank">
-							<img src="<?php echo $server; ?>lib/images/twitter_small.png" alt="EMC Twitter" />
-						</a>
-						<a href="https://www.facebook.com/EMCPublishing" target="_blank">
-							<img src="<?php echo $server; ?>lib/images/facebook.png" alt="EMC Facebook" />
-						</a>
-						<a href="http://vimeo.com/emcpublishing" target="_blank">
-							<img src="<?php echo $server; ?>lib/images/vimeo.png" alt="EMC Vimeo" />
-						</a>
-					</div>
 				</div>
 				<p>&copy; <?php echo date("Y"); ?> EMC Publishing, LLC. All Rights Reserved.<br />
 				EMC is a division of <a class="nostyle" href="http://newmountainlearning.com" target="_blank"><img src="<?php echo $server; ?>lib/images/NML_logo.png" alt="New Mountain Learning" /> New Mountain Learning, LLC</a><br />
