@@ -34,47 +34,40 @@
                                     </tr>
                                     <tr>
                                         <td valign="top" style="padding: 0 20px 0;">
-                                            <p class="ereaders-smaller"><em>CANTAR DEL MIO CID<br />
-                                            CARMEN<br />
-                                            CASA DE BERNARDA ALBA<br />
-                                            CONJUNTO ESPECIAL<br />
-                                            CUENTOS FANTASTICOS<br />
-                                            EL SECRETO DE ROMINA 2012<br />
-                                            FORMULA SECRETA<br />
-                                            INDAGACIONES MADRID<br />
-                                            LAZARILLO D.TORMES<br />
-                                            ZORRO 2013<br />
-                                            EL COLLAR VISIGODO<br />
-                                            MISTERIO EN EL MALLORCA GRAN HOTEL<br />
-                                            GUZMAN DE ALFARANCHE<br />
-                                            DON QUIJOTE DE LA MANCHA NE<br />
-                                            DAS HAUS DEN KLIPPEN<br />
-                                            DIE NACHBARN<br />
-                                            DIE VERWANDLUNG<br />
-                                            EINE SPEZIELLE BAND</em></p>
+                                            <p class="ereaders-smaller"><em><span style="text-decoration:underline;">FRENCH</span><br />
+                                            À la recherche de Tibou<br />
+                                            Apparition et autres contes<br />
+                                            Aventure dans les Pyrénées<br />
+                                            Deux ans de vacances<br />
+                                            Éric a disparu<br />
+                                            La momie du Louvre<br />
+                                            Le secret de Louise<br />
+                                            Les Misérables<br />
+                                            Paris est en danger</em></p>
+                                            <p class="ereaders-smaller"><em><span style="text-decoration:underline;">SPANISH</span><br />
+                                            Cantar de Mio Cid<br />
+                                            Cuentos fantásticos<br />
+                                            Don Quijote de la Mancha<br />
+                                            El collar visigodo<br />
+                                            El secreto de Romina<br />
+                                            El Zorro<br />
+                                            Guzmán de Alfarache<br />
+                                            Misterio en el Mallorca Gran Hotel<br />
+                                            Un conjunto especial</em></p>
                                         </td>
                                         <td valign="top">
-                                            <p class="ereaders-smaller"><em>MORD IN GRAND HOTEL 2013<br />
-                                            DIEBSTAHL IN HAMBURG<br />
-                                            DAS HAUS AN DEN KLIPPEN NE<br />
-                                            DER GOLEM<br />
-                                            JOAHNN WOLFGANG GOETHE<br />
-                                            DEUX ANS VACANCES<br />
-                                            ERIC A DISPARU<br />
-                                            FANTOME DE L'OPERA 2013<br />
-                                            LA BELLE ET LA BETE<br />
-                                            MISERABLES<br />
-                                            MOMIE DU LOUVRE<br />
-                                            NOTRE-DAME DE PARIS<br />
-                                            POURSUITE DANS PARIS<br />
-                                            SECRET DE LOUISE 2012<br />
-                                            VENGEANCE LA REUNION<br />
-                                            A LA RECHERCHE DE TIBOU<br />
-                                            AVENTURE DANS LES PYRENEES<br />
-                                            PARIS EST EN DANGER<br />
-                                            APARITION ET AUTRES CONTES</em></p>
+                                            <p class="ereaders-smaller"><em><span style="text-decoration:underline;">GERMAN</span><br />
+                                            Das Haus an den Klippen<br />
+                                            Der Golem<br />
+                                            Die Nachbarn<br />
+                                            Die Verwandlung<br />
+                                            Diebstahl in Hamburg<br />
+                                            Eine spezielle Band<br />
+                                            Johann Wolfgang Goethe<br />
+                                            Mord im Grand Hotel</em></p>
                                         </td>
                                     </tr>
+                                    <!-- Removing Pricing Table 3/19/2016
                                     <tr>
                                         <td colspan="2">
                                             <p class="ereaders-largest">Pricing</p>
@@ -100,6 +93,7 @@
                                         <td align="left"><p class="ereaders-smaller">30 student class library 6-year license</p></td>
                                         <td align="right"><p class="ereaders-smaller">$375.95</p></td>
                                     </tr>
+                                    -->
                                 </table>
                             </td>
                             <td>

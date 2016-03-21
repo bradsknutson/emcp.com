@@ -41,16 +41,18 @@
                 <h2>My Language Town</h2>
                 <p>A book series packed with communicative dialogs and a collection of songs for Spanish language learners.</p>
                 
-                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>mylanguagetown/">Buy Now!</a></p>
+                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>mylanguagetown/">Learn more</a></p>
                 
             </div>
         </div>
         <div class="redefining no-bottom">
             <div class="ninesixty paddingtop40 paddingbottom40">
                 <h2>EMC Paperback Readers</h2>
+                <img src="<?php echo $server; ?>lib/images/cideb-readers-v2.png" alt="CIDEB Readers" class="img-float-right cideb-img" />
                 <p>Prefer the no-power-required type of reader? You’re at the right place. Either as stand-alone books or as extensions to our textbook series, readers develop your learners' grammar and vocabulary while building their ability to comprehend increasingly difficult pieces of literature.</p>
                 
                 <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/readers/paperback/buy/">Buy Now!</a></p>
+                <div class="clearfix"></div>
             </div>
         </div>
 
