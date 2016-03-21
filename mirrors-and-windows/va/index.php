@@ -71,7 +71,6 @@
 							<li>Interactive eWorkbooks with student feedback in Bookshelf</li>
 							<li>Only program to offer ETS Criterion&reg; Online Essay Grader</li>
 							<li>EXAMVIEW&reg; Assessment Suite - customizable</li>
-							<li>Common Core PARCC &amp; SBA practice assessments online</li>
 							<li>Flipgrid<sup>TM</sup> online video discussion platform</li>
 							<li>Avenue<sup>TM</sup> online video oral assessment</li>
 						</ul>
@@ -136,7 +135,6 @@
 							<li>EXAMVIEW&reg; customizable exams</li>
 							<li><i>Exceeding the Standards</i>: Test Practice Resource</li>
 							<li><i>Meeting the Standards</i> Unit Practice Tests</li>
-							<li><i>Common Core Assessment Practice</i> in PAARC and Smarter Balanced formats online</li>
 						</ul>
 					</div>
 			<!-- 8 -->

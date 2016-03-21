@@ -27,9 +27,6 @@
 						<li><a href="<?php echo $server; ?>world-languages/french/">French</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/german/">German</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/chinese/">Chinese</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/italian/">Italian</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/japanese/">Japanese</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/arabic/">Arabic</a></li>
 					</ul>
 				</li>
 				<li<?php echo get_current('language-arts',$current); ?>><a href="<?php echo $server; ?>language-arts/">Language Arts</a>
