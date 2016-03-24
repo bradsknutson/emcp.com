@@ -24,7 +24,7 @@
 				<li<?php echo get_current('world-languages',$current); ?>><a href="<?php echo $server; ?>world-languages/">World Languages</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>world-languages/spanish/quechevere/">Spanish</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/french/">French</a></li>
+						<li><a href="<?php echo $server; ?>world-languages/french/tes-branche/">French</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/german/">German</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/chinese/">Chinese</a></li>
 					</ul>
