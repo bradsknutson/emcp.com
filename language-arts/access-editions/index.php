@@ -4,7 +4,11 @@
 ?>
 	<div id="container" class="access-editions">
 		<div class="header-background-image ae-bg">
-			<div id="topImg"></div>
+			<div id="topImg">
+				<div class="tech-button-container">
+                    <a class="technology-buttons teb-demo transition" href="https://www.joomag.com/magazine/emc-access-editions-preview/M0171579001458584536" onclick="ga('send', 'event', 'Call To Action Button','click','Sample');" target="_blank">Sample</a>
+                </div>
+			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
 		<div class="header-top">

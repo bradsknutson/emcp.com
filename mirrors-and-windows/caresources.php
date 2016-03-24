@@ -50,7 +50,8 @@
                     <h2>EMC Access Editions Novels</h2>
 					<p class="no-top">Our Access Editions novels and full-length plays offer a wide range of extended independent reading. These literary works include a complete study apparatus 
 						with close reading support and related nonfiction and informational texts.<br /><br />
-						Click <a href="http://joom.ag/hGSp" target="_blank" class="learn-more-link">here</a> to learn more about our Access Editions
+						Click <a href="http://joom.ag/hGSp" target="_blank" class="learn-more-link">here</a> to learn more about our Access Editions.<br />
+						Click <a href="https://www.joomag.com/magazine/emc-access-editions-preview/M0171579001458584536" target="_blank" class="learn-more-link">here</a> to see samples of our Access Editions.
 					</p>
 				</div>
 				<div class="clearfix"></div>
