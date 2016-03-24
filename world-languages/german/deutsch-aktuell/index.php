@@ -2,6 +2,25 @@
 	$custom_title = 'Deutsch Aktuell | ';
 	include '../../../includes/header.php';
 ?>
+<style>
+.ui-accordion .ui-accordion-header {
+	background: #F0EFEB !important;
+	font-size: 22px !important;
+	padding-right: .2em !important;
+}
+.redefining p {
+	font-size: 20px !important;
+}
+.ui-helper-reset {
+	font-size: 18px !important;
+}
+.ui-widget {
+	font-family: "myriad-pro", sans-serif !important;
+}
+.ui-accordion-content {
+    height: 550px !important;
+}
+</style>
 	<div id="container" class="deutsch-aktuell">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image da-bg">
@@ -23,8 +42,8 @@
 			<div class="ninesixty">
 				<div class="conectate-left">
 					<p class="no-top">Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.</p>
-                    
-                    <a class="learn-more-link smaller-link" href="buy/">Buy It Now!</a>
+                    <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Deutsch Aktuell in Passport</a></p>
+                    <p><a class="learn-more-link smaller-link" href="buy/">Buy It Now!</a></p>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/da-cover.jpg" alt="Deutsch Aktuell German Program" />
@@ -32,63 +51,83 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+         <div class="redefining no-bottom">
+            <div class="ninesixty paddingbottom40" style="margin-top:15px;">
+				<div id="accordion" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
+			<!-- 1 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="1" role="tab" id="ui-id-1" aria-controls="div1" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>New for Seventh Edition</strong></h3>
+					<div id="div1" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true">
+                        <ul class="lineheight1p75">
+                            <li>Abundant communicative activities</li>
+                            <li>All new culture content tied to Products, Practices, Perspectives</li>
+                            <li>21st-century vocabulary that is relevant and fun for teens to learn</li>
+                            <li>Connections to other disciplines such as: Math, Art, Science, and Architecture</li>
+                            <li>Opportunities for project-based learning and assessment</li>
+                            <li>New modern and engaging design</li>
+                            <li>Use of real photographs to illustrate new vocabulary</li>
+                        </ul>
+					</div>
+			<!-- 2 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="2" role="tab" id="ui-id-2" aria-controls="div2" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Components</strong></h3>
+					<div id="div2" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true">
+                        <div class="one-half first textalignleft">
+                            <p class="bold">For students:</p>
+                            <ul class="lineheight1p75">
+                                <li>Textbook</li>
+                                <li>Workbook</li>
+                                <li>Grammar and Vocabulary</li>
+                                <li>Listening Activities</li>
+                                <li>Video Activities</li>
+                                <li>eVisuals</li>
+                                <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                            </ul>
+                        </div>
+                        <div class="one-half last textalignleft">
+                            <p class="bold">For teachers:</p>
+                            <ul class="lineheight1p75">
+                                <li>Annotated Teacher’s Edition</li>
+                                <li>Workbook Teacher’s Edition</li>
+                                <li>Grammar and Vocabulary Teacher's Edition</li>
+                                <li>Listening Activities Teacher's Edition</li></li>
+                                <li>Video Program Teacher's Edition</li>
+                                <li>Communicative Activities</li>
+                                <li>TPR Storytelling</li>
+                                <li>eVisuals</li>
+                                <li>Quizzes with Answer Key</li>
+                                <li>Tests with Answer Key</li>
+                                <li><span class="bold">Exam</span>View<sup>&reg;</sup></li>
+                                <li>Lesson Plans</li>
+                                <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+                            </ul>
+                        </div>
+                        <div class="clearfix"></div>    
+					</div>
+				</div>
+			</div>
+		</div>       
         
-        <div class="redefining no-bottom">
-            <div class="ninesixty paddingtop40 paddingbottom40">
-                <h2>New for the Seventh Edition</h2>
-                <ul class="lineheight1p75">
-                    <li>Abundant communicative activities</li>
-                    <li>All new culture content tied to Products, Practices, Perspectives</li>
-                    <li>21st-century vocabulary that is relevant and fun for teens to learn</li>
-                    <li>Connections to other disciplines such as: Math, Art, Science, and Architecture</li>
-                    <li>Opportunities for project-based learning and assessment</li>
-                    <li>New modern and engaging design</li>
-                    <li>Use of real photographs to illustrate new vocabulary</li>
-                </ul>
-            </div>
-        </div>
-        <div class="redefining paddingtop40 light-grey-slice">
-            <div class="ninesixty">
-                <h2>Components</h2>
-                <div class="one-half first textalignleft">
-                    <p class="bold">For students:</p>
-                    <ul class="lineheight1p75">
-                        <li>Textbook</li>
-                        <li>Workbook</li>
-                        <li>Grammar and Vocabulary</li>
-                        <li>Listening Activities</li>
-                        <li>Video Activities</li>
-                        <li>eVisuals</li>
-                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
-                    </ul>
-                </div>
-                <div class="one-half last textalignleft">
-                    <p class="bold">For teachers:</p>
-                    <ul class="lineheight1p75">
-                        <li>Annotated Teacher’s Edition</li>
-                        <li>Workbook Teacher’s Edition</li>
-                        <li>Grammar and Vocabulary Teacher's Edition</li>
-                        <li>Listening Activities Teacher's Edition</li></li>
-                        <li>Video Program Teacher's Edition</li>
-                        <li>Communicative Activities</li>
-                        <li>TPR Storytelling</li>
-                        <li>eVisuals</li>
-                        <li>Quizzes with Answer Key</li>
-                        <li>Tests with Answer Key</li>
-                        <li><span class="bold">Exam</span>View<sup>&reg;</sup></li>
-                        <li>Lesson Plans</li>
-                        <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
-                    </ul>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-        
-        
-        
-        
-        
-        
+     
+        <div class="ninesixty no-bottom no-top">
+            <h2 style="margin:0;">Additional Resources</h2>
+        </div>   
+		<div class="ninehundred">
+			<div class="sub-featured onesix black">
+				<img src="<?php echo $server; ?>lib/images/symtalk-german.jpg" alt="Symtalk" />
+				<h3>Symtalk</h3>
+				<p>Middle and Elementary School</p>
+				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=361&q=symtalk">Buy It Now!</a></p>
+			</div>
+			<div class="sub-featured onesix black">
+				<img src="<?php echo $server; ?>lib/images/exploring-german.jpg" alt="Exploring German" />
+				<h3>Exploring German</h3>
+				<p>Middle School</p>
+				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-german-3rd-edition.html">Buy It Now!</a></p>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+        <?php include '../../../includes/wl-footer-links.php'; ?>  
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>
@@ -223,5 +262,14 @@
 			</div>
 		</div>		
 
-	
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      collapsible: true,
+	  active: false
+    });
+  });
+</script>	
 <?php include '../../../includes/footer.php'; ?>

@@ -19,7 +19,7 @@
 		<div class="world-languages-right spanish">		
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<h3>Spanish <a href="<?php echo $server; ?>world-languages/spanish/quechevere">View our Spanish products</a></h3>
+					<h3>Spanish <a href="<?php echo $server; ?>world-languages/spanish/quechevere/">View our Spanish products</a></h3>
 					
 					<p>EMC's robust multiplatform Spanish products provide students with innovative learning solutions and technology that prepare them to be lifelong languages learners and global citizens. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction. With EMC's Spanish educational solutions, you'll love what you teach even more.</p>
 				</div>
@@ -28,7 +28,7 @@
 		<div class="world-languages-left french">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<h3>French <a href="<?php echo $server; ?>world-languages/french/">View our French products</a></h3>
+					<h3>French <a href="<?php echo $server; ?>world-languages/french/tes-branche/">View our French products</a></h3>
 					
 					<p>Discover the future of fluency. EMC's French products are designed to seamlessly integrate with our innovative digital learning tools, like Avenue&trade;. Our rich, diverse French products put students on track to achieve second-language proficiency and develop a deeper understanding and appreciation for francophone culture. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction.</p>
 				</div>
@@ -37,7 +37,7 @@
 		<div class="world-languages-right german">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<h3>German <a href="<?php echo $server; ?>world-languages/german/">View our German products</a></h3>
+					<h3>German <a href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/">View our German products</a></h3>
 					
 					<p>Discover the future of fluency. EMC's German products are designed to seamlessly integrate with our innovative digital learning tools, like Avenue&trade;. Our robust German products put students on track to achieve proficiency in their target language, all the while developing a deeper appreciation and understanding of German culture. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction.</p>
 				</div>
@@ -46,7 +46,7 @@
 		<div class="world-languages-left chinese">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<h3>Chinese <a href="<?php echo $server; ?>world-languages/chinese/">View our Chinese products</a></h3>
+					<h3>Chinese <a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/">View our Chinese products</a></h3>
 					
 					<p>EMC's Chinese products challenge students to discover language and culture while expanding their understanding beyond the classroom. Discover the future of fluency. Put your class on the path to achieving proficiency and a deeper understanding and appreciation for Chinese culture. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction.</p>
 				</div>

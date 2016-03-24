@@ -45,8 +45,8 @@
 				</div>
 				<div class="conectate-left margintop40">
 					<p class="no-top"><span class="bold"><span class="italic">T'es branch&eacute;?</span></span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. Watch students become global citizens as they explore an essential question in each unit and actively engage in francophone culture. ACTFL-aligned,  <span class="italic">T'es branch&eacute;?</span> is the best choice for your French classroom–with the freshest digital resources, award-wining authors, and AP* preparation throughout all four levels.</p>
-                    <p><a class="learn-more-link" href="<?php echo $server; ?>technology/passport/">Discover T'es branch&eacute;? in Passport</a></p>
-                    <a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a>
+                    <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover T'es branch&eacute;? in Passport</a></p>
+                    <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a></p>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/teb-cover.jpg" alt="T'es branch&eacute;? French Program" />
@@ -68,7 +68,7 @@
                         </ul>
 					</div>
 			<!-- 2 -->
-					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="2" role="tab" id="ui-id-2" aria-controls="div2" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Key Features</strong></h3>
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="2" role="tab" id="ui-id-2" aria-controls="div2" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>T'es branch&eacute; Level 4/AP</strong></h3>
 					<div id="div2" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true">
                         <div class="conectate-left margintop15" style="width:550px;">
                             <h2><span class="italic">T'es branch&eacute;?</span> Level 4/AP*</h2>
@@ -83,7 +83,7 @@
                         <div class="clearfix"></div>
 					</div>
 			<!-- 3 -->
-					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="3" role="tab" id="ui-id-3" aria-controls="div3" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Why ¡Qué chévere! Español avanzado</strong></h3>
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="3" role="tab" id="ui-id-3" aria-controls="div3" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Components</strong></h3>
 					<div id="div3" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true">
                         <h2>Components</h2>
                         <div class="one-half first textalignleft">
