@@ -38,6 +38,7 @@
         </div>        
         <div class="redefining no-bottom light-grey-slice">
             <div class="ninesixty paddingtop40 paddingbottom40">
+                <img src="<?php echo $server; ?>lib/images/mlt-reader.png" alt="My Language Town" class="img-float-left mlt-img" />
                 <h2>My Language Town</h2>
                 <p>A book series packed with communicative dialogs and a collection of songs for Spanish language learners.</p>
                 

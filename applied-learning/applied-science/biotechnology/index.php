@@ -21,7 +21,7 @@
                         <h2>Comprehensive textbook and lab manual combination program, designed for introductory courses</h2>
                     </div>
                     <p class="no-top">This complete program teaches the <strong>concepts and hands-on lab procedures</strong> required for entry-level careers in the rapidly growing biotechnology industry. The <strong>textbook and lab manual can be used together or separately</strong>, depending on the desired course format.</p>
-                    <a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtAeWZLUHVCeDZKOFk/view?usp=sharing" target="_blank">Download a sample chapter</a>
+                    <a class="learn-more-link smaller-link" href="http://joom.ag/nKrp" target="_blank">Download a sample chapter</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/biotech-cover.jpg" alt="Biotechnology: Science for the New Millennium, Second Edition &copy;2017" />
