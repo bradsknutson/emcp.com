@@ -3419,3 +3419,22 @@ table .ereaders-smaller {
     background: #FFF;
     color: #000 !important;
 }
+
+/* -------- Start MW Nevada Page Styles ------------- */
+
+.mw-nv-bg, .mw-nv-bg #topImg {
+    height: 600px;   
+}
+.mw-nv-bg #topImg {
+    background: #FFF url('../images/nv-header.jpg') no-repeat 50% 100%;
+}
+/* ----------- Mirrors and Windows NV Resource Page ----------------- */
+.mw-nv-bg-resources, .mw-nv-bg-resources #topImg {
+    height: 600px;   
+}
+.mw-nv-bg-resources #topImg {
+    background: #FFF url('../images/nv-header-resources.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- End MW Nevada Page Styles ------------- */
