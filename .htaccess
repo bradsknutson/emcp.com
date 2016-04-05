@@ -283,6 +283,8 @@ RewriteRule ^CUT5 http://paradigm.emcp.com/computer-technology/computers-underst
 RewriteRule ^CUT5e http://paradigm.emcp.com/computer-technology/computers-understanding-technology-fifth-edition.html [R=301,L]
 RewriteRule ^CUT5E http://paradigm.emcp.com/computer-technology/computers-understanding-technology-fifth-edition.html [R=301,L]
 
+RewriteRule ^product_catalog/school/litLink/$ http://www.emcp.com [R=301,L]
+
 ErrorDocument 404 /error.php
 
 RewriteRule ^actfl2015$  http://pages.exacttarget.com/actfl2015/   [R=301,L]
