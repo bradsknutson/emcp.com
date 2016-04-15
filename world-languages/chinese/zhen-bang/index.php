@@ -47,7 +47,7 @@
 				<div class="conectate-left margintop40">
 					<p class="no-top">Welcome to EMC's <span class="bold"><span class="italic">Zh&#275;n B&agrave;ng!</span></span> program, where students interact with Chinese language and culture in awesome, everyday ways. Get students talking about family, friends, school, home, meals, shopping and more—conversing in pairs and groups. Zhēn Báng!  integrates language and culture seamlessly and provides technology resources that are easy to use for students and teachers. What an awesome way to learn the Chinese language!</p>
                     <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Zh&#275;n B&agrave;ng! in Passport</a></p>
-                    <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=399&language=364">Buy It Now!</a></p>
+                    <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?emc_product_type=590&language=364&q=zhen">Buy It Now!</a></p>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/zb-cover.jpg" alt="Zh&#275;n B&agrave;ng Chinese Program" />
