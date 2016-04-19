@@ -37,16 +37,14 @@
 			<div class="ninesixty">
                 <img src="<?php echo $server; ?>lib/images/mlt-ereader.png" alt="My Language Town eReaders" style="float:right;margin-top:100px;"/>
 				<p style="margin:15px 0 -10px;"><a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafa7e88f41d8cbd96a0269d731b013d8d034e9a8d6f0718f7" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Sample');">Preorder your free sample today!</a></p>
-                <h1 class="no-bottom">Available June 1st starting at $2.95</h1>
-                <p class="no-top">We all know how important reading, listening and having fun are for learning and perfecting your native language. It is equally important when learning a second language. My Language Town gives you this opportunity and provides you a variety of titles for each level that can be used with any program.</p>
+                <h1 class="no-bottom">Available June 1st | Starting at $2.95</h1>
+                <p class="no-top">We all know how important reading, listening and having fun are for learning and perfecting your native language. It is equally important when learning a second language. My Language Town (MLT) gives you this opportunity. MLT eReaders are available in a variety of titles for each level and are program agnostic so that they can be used with any curriculum.</p>
                 
-                <p>Designed for use both in the classroom and as an independent study, My Language Town eBooks can make learning a new language an interactive experience. My Language Town eBooks can be read aloud in class, in a small group, at home with the family and friends, as a play with a study group, or even alone at your kitchen table.</p>
+                <p>Designed for use both in the classroom and as an independent study, MLT eBooks can make learning a new language a more engaging, interactive experience. MLT eBooks can be read aloud by students in class, in small groups, at home with family and friends, or even alone at their kitchen table.</p>
                 
-                <p>With My Language Town eBooks, students will make emotional connections and improve their communication skills with the highly communicative books. Students also learn about vocabulary and grammar in context, culture, connections with other subjects, as well as create fun projects and more.</p>
+                <p>With My Language Town eBooks, students will make emotional connections and improve their communication skills. Students also learn about vocabulary and grammar in context. Culture is explored, connections with other subjects are made, and ideas for fun projects are included!</p>
 
-                <p>All our eBooks include lots of illustrations, very useful vocabulary and expressions and many activities to solidify and expand their understanding. Students will learn Spanish language, improve their communication and culture efficiently and with ease at the same time that the gain confidence in the language and they develop autonomous learning skills.</p>
-
-                <p>Choose among a wide range of educational and exciting books. Thrills, laugh and adventure, along with load of vocabulary and culture. Some of the books are also available as audio books, with audio game at the end.</p>
+                <p>All our eBooks include beautiful illustrations, useful vocabulary, and many activities to expand and solidify student comprehension. Students will learn Spanish language, improve their communication skills, deepen their cultural understanding, and gain confidence in the language.</p>
                 
                 <div id="accordion">
 			<!-- 1 -->
@@ -91,11 +89,11 @@
                 
                 <h2 class="no-bottom" style="margin-bottom:13px !important;">The power of teaching Spanish through songs</h2>
                 <h3 class="no-top">The results are simply incredible. The possibilities are endless.</h3>
-                <p>Move, shake and learn to the beat! These catchy, popular songs are created to help students learn Spanish in a fun and easy way. Songs are available for Elementary, Beginner and Low-intermediate/Intermediate level students.
+                <p>Move, shake, and learn to the beat! These catchy, popular songs were created to help students learn Spanish in a fun, effortless way. MLT songs are available for Elementary, Beginner and Low-Intermediate/Intermediate level students.</p>
 
-                <p>We know that singing is one of the quickest and most efficient way to learn the Spanish sounds and to acquire new words effortlessly. Our songs are incredibly catchy and versatile. Students can read the lyrics, listen to the music, sing along, make music videos, and play games with their teachers. My Language Town songs work great in class, but can also be taken home for practice! 
+                <p>Singing is one of the quickest and most efficient ways to learn Spanish sounds. Students acquire new words effortlessly. MLT songs are designed to be incredibly catchy and versatile. Students can read the lyrics, listen to the music, sing along, make music videos, and play games with their teachers. My Language Town songs work great in class but can also be reviewed at home for extended practice!</p>
 
-                <h3>How to use My Language Town Songs in your classroom</h3>
+                <h3>How to use My Language Town songs in your classroom:</h3>
                 
                 <ul>
                     <li>Students can read the lyrics and sing along</li>
