@@ -30,8 +30,7 @@
                     <li>Words for Everyday Use entries define and give pronunciations for difficult terms and academic vocabulary meant to enter students’ active vocabularies.</li>
                 </ul>
                 
-                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>language-arts/access-editions/buy/">Buy Now!</a></p>
-                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>language-arts/access-editions/learn-more/">Learn more!</a></p>
+                <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>language-arts/access-editions/buy/">Buy Now!</a></p>></p>
             </div>
         </div>
 		
