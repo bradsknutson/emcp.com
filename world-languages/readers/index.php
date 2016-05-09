@@ -13,18 +13,20 @@
 		</div>
 		<div class="secondary-first light-grey-slice">
 			<div class="ninesixty">
-                <h3>Enhance your students’ learning experience with leveled readers in the target language. Readers help develop students’ grammar and vocabulary knowledge while building their ability to comprehend increasingly difficult pieces of literature.</h3>
+                <h3>Enhance your students' learning experience with leveled readers in the target language. Readers help develop students’ grammar and vocabulary knowledge while building their ability to comprehend increasingly difficult pieces of literature.</h3>
             </div>
         </div>
 		<div class="secondary-first white margintop0">
 			<div class="ninesixty paddingtop0i">
 				<div class="conectate-left margintop40">
-                    <h2>Enhanced eReaders</h2>
+                    <h2>CIDEB Ehanced eReaders</h2>
 					<p class="no-top">Enhanced eReaders with beautiful illustartions to help develop reading and listening skills through texts and sincronized audio recordings of the stories, consolidate vocabulary and learn culture. These eReaders are multi-platform, they work on all laptops, desktops, and mobile devices including the iPad<sup>&copy;</sup>.</p>
                     
                     <ul>
                         <li>Available in Spanish, French, German and Italian</li>
-                        <li>Paperback only</li>
+                        <li>Digital only</li>
+                        <li>Interactive activities</li>
+                        <li>Note taking capabilities</li>
                     </ul>
                     
                     <a class="technology-buttons wl-readers-buttons transition" href="<?php echo $server; ?>world-languages/readers/buy/" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','World Language Readers Buy Now');">Buy Now</a>
@@ -47,7 +49,7 @@
                     <p>Original Spanish eReaders series packed with communicative dialogs and activities and a collection of songs for mastering vocabulary, grammar and culture. Designed for use both in the classroom and as an independent study, My Language Town materials can make learning Spanish language an interactive, engaging experience.</p>
 
                     <ul>
-                        <li>Available in Spanish, French, German and Italian</li>
+                        <li>Available in Spanish</li>
                         <li>Digital and paperback (on demand only)</li>
                         <li>Songs</li>
                     </ul>
@@ -63,6 +65,11 @@
                 <h2>EMC Paperback Readers</h2>
                 <img src="<?php echo $server; ?>lib/images/cideb-readers-v2.png" alt="CIDEB Readers" class="img-float-right cideb-img" />
                 <p>Prefer the no-power-required type of reader? You’re at the right place. Either as stand-alone books or as extensions to our textbook series, readers develop your learners' grammar and vocabulary while building their ability to comprehend increasingly difficult pieces of literature.</p>
+                
+                <ul>
+                    <li>Available in Spanish, French, German and Italian</li>
+                    <li>Paperback</li>
+                </ul>
                 
                 <a class="technology-buttons wl-readers-buttons transition" href="<?php echo $server; ?>world-languages/readers/paperback/buy/" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','EMC Paperback Readers Buy Now');">Buy Now</a>
                 <div class="clearfix"></div>
