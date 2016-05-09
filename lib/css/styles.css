@@ -3450,3 +3450,24 @@ table .ereaders-smaller {
 
 
 /* -------- End MW Nevada Page Styles ------------- */
+
+/* 2016 Exploring Spanish Landing Page */
+.ex-sp-bg {
+	background:#F0EFEB;
+	margin:0 auto;
+}
+.ex-sp-left {
+	width: 480px;
+	float:left;
+	padding-right: 30px;
+}
+.ex-sp-right {
+	float:left;
+}
+.exploring-spanish-bg, .exploring-spanish-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.exploring-spanish-bg #topImg{
+	background: url('../images/2016-exploring-spanish.jpg') no-repeat 50% 100%;
+}
