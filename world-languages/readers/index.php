@@ -19,8 +19,8 @@
 		<div class="secondary-first white margintop0">
 			<div class="ninesixty paddingtop0i">
 				<div class="conectate-left margintop40">
-                    <h2>CIDEB Ehanced eReaders</h2>
-					<p class="no-top">Enhanced eReaders with beautiful illustartions to help develop reading and listening skills through texts and sincronized audio recordings of the stories, consolidate vocabulary and learn culture. These eReaders are multi-platform, they work on all laptops, desktops, and mobile devices including the iPad<sup>&copy;</sup>.</p>
+                    <h2>CIDEB Enhanced eReaders</h2>
+					<p class="no-top">Enhanced eReaders with beautiful illustrations to help develop reading and listening skills through texts and synchronized audio recordings of the stories, consolidate vocabulary and learn culture. These eReaders are multi-platform, they work on all laptops, desktops, and mobile devices including the iPad<sup>&copy;</sup>.</p>
                     
                     <ul>
                         <li>Available in Spanish, French, German and Italian</li>
@@ -49,11 +49,12 @@
                     <p>Original Spanish eReaders series packed with communicative dialogs and activities and a collection of songs for mastering vocabulary, grammar and culture. Designed for use both in the classroom and as an independent study, My Language Town materials can make learning Spanish language an interactive, engaging experience.</p>
 
                     <ul>
-                        <li>Available in Spanish</li>
+                        <li>Available in Spanish (June 1st)</li>
                         <li>Digital and paperback (on demand only)</li>
                         <li>Songs</li>
-                    </ul>
-
+                    </ul>            
+                    
+                    <a class="technology-buttons wl-readers-buttons transition" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafa7e88f41d8cbd96a0269d731b013d8d034e9a8d6f0718f7" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','My Language Town Preorder Sample');">Sample</a>
                     <a class="technology-buttons wl-readers-buttons transition" href="<?php echo $server; ?>mylanguagetown/" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','My Language Town Learn More');">Learn More</a>
                 </div>
                 <div class="clearfix"></div>
