@@ -91,5 +91,17 @@
                 <div class="clearfix"></div>
             </div>
         </div>
+	<!-- ELD Sample Lessons -->
+		<div class="grey-slice" style="padding:25px 0 !important;">
+			<div class="ninesixty">
+				<div>
+                    <h2>ELD Sample Lessons</h2>
+					<p class="no-top">
+						Click <a href="http://joom.ag/kvdQ" target="_blank" class="learn-more-link">here</a> to see our California ELD sample lessons brochure
+					</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
 	</div>
 <?php include '../includes/footer.php'; ?>
