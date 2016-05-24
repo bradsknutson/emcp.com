@@ -37,7 +37,7 @@
 			<div class="ninesixty">
                 <img src="<?php echo $server; ?>lib/images/mlt-ereader.png" alt="My Language Town eReaders" style="float:right;margin-top:100px;"/>
 				<p style="margin:15px 0 -10px;"><a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafa7e88f41d8cbd96a0269d731b013d8d034e9a8d6f0718f7" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Sample');">Preorder your free sample today!</a></p>
-                <h1 class="no-bottom">Available June 1st | Starting at $2.95</h1>
+                <h1 class="no-bottom">Available August 1st | Starting at $2.95</h1>
                 <p class="no-top">We all know how important reading, listening and having fun are for learning and perfecting your native language. It is equally important when learning a second language. My Language Town (MLT) gives you this opportunity. MLT eReaders are available in a variety of titles for each level and are program agnostic so that they can be used with any curriculum.</p>
                 
                 <p>Designed for use both in the classroom and as an independent study, MLT eBooks can make learning a new language a more engaging, interactive experience. MLT eBooks can be read aloud by students in class, in small groups, at home with family and friends, or even alone at their kitchen table.</p>

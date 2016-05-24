@@ -49,7 +49,7 @@
                     <p>Original Spanish eReaders series packed with communicative dialogs and activities and a collection of songs for mastering vocabulary, grammar and culture. Designed for use both in the classroom and as an independent study, My Language Town materials can make learning Spanish language an interactive, engaging experience.</p>
 
                     <ul>
-                        <li>Available in Spanish (June 1st)</li>
+                        <li>Available in Spanish (August 1st)</li>
                         <li>Digital and paperback (on demand only)</li>
                         <li>Songs</li>
                     </ul>            
