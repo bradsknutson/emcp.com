@@ -80,19 +80,8 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-	<!-- Range of Selection -->
-        <div style="padding:25px 0 !important;">
-            <div class="ninesixty">
-                <h2>Range of Selections</h2>
-                <p>The Range of Readings lists the contents in each level by genre for our entire ELA Program. See why the California Adoption Review panel said, 
-					Mirrors &amp; Windows has "...the best range of literature we've ever seen."<br /><br />
-					Click <a href="http://joom.ag/BGSp" target="_blank" class="learn-more-link">here</a> to see the Range of Selections
-				</p>
-                <div class="clearfix"></div>
-            </div>
-        </div>
 	<!-- ELD Sample Lessons -->
-		<div class="grey-slice" style="padding:25px 0 !important;">
+		<div style="padding:25px 0 !important;">
 			<div class="ninesixty">
 				<div>
                     <h2>ELD Sample Lessons</h2>
@@ -103,5 +92,18 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+	
+	<!-- Range of Selection -->
+        <div class="grey-slice" style="padding:25px 0 !important;">
+            <div class="ninesixty">
+                <h2>Range of Selections</h2>
+                <p>The Range of Readings lists the contents in each level by genre for our entire ELA Program. See why the California Adoption Review panel said, 
+					Mirrors &amp; Windows has "...the best range of literature we've ever seen."<br /><br />
+					Click <a href="http://joom.ag/BGSp" target="_blank" class="learn-more-link">here</a> to see the Range of Selections
+				</p>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+	
 	</div>
 <?php include '../includes/footer.php'; ?>

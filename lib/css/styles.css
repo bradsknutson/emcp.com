@@ -3138,7 +3138,77 @@ table .ereaders-smaller {
 .symtalk .secondary-next .ninesixty {
     padding: 0;   
 }
+/* New Symtalk Styles for V2 Brian */
+/* -------- Start Symtalk Page Styles ------------- */
 
+.symtalk-bg-new, .symtalk-bg-new #topImg {
+    height: 600px;   
+}
+.symtalk-bg-new #topImg {
+    background: #FFF url('../images/symtalk-header-new.jpg') no-repeat 50% 100%;   
+}
+.symtalk-right-new img {
+    display: block;
+    margin: 0 auto;
+}
+.symtalk-third {
+    float: left;
+    width: 33%;
+	text-align:center;
+}
+p.symtalk-vimeo {
+	margin:5px 20px;
+	line-height: 140%;
+}
+.symtalk-third h1 {
+	margin:0 0 10px;
+	text-align:center;
+}
+.symtalk-bg {
+	 background: #FFF url('../images/symtalk-bg.jpg') no-repeat 50% 100%;  
+	 height: 195px;
+}
+.symtalk-1 {
+	width: 300px;
+	height: 169px;
+}
+.symtalk-2 {
+	width: 300px;
+	height: 169px;
+}
+.symtalk-3 {
+	width: 300px;
+	height: 169px;
+}
+.symtalk-link {
+	color: #ff0000 !important;
+}
+.symtalk-modals-container {
+	position: relative;
+	height: 169px;
+	width: 960px;
+	margin: auto;
+}
+.symtalk-play-button-1, .symtalk-play-button-2, .symtalk-play-button-3 {
+	position: absolute;
+}
+.symtalk-play-button-1 {
+	left: 0px;
+	top:10px;
+}
+.symtalk-play-button-2 {
+	left: 320px;
+	top:10px;
+}
+.symtalk-play-button-3 {
+	left: 635px;
+	top:10px;
+}
+p.symtalk-steps {
+	margin:10px 15px;
+	font-size: 20px;
+	line-height: 150%;
+}
 /* -------- End Symtalk Page Styles ------------- */
 
 /* -------- Constants ---------------- */
@@ -3452,14 +3522,25 @@ table .ereaders-smaller {
 /* -------- End MW Nevada Page Styles ------------- */
 
 /* 2016 Exploring Spanish Landing Page */
+.sp-header {
+	font-size:26px;
+}
+.sp-text {
+	margin:0;
+}
+ul.sp-landing {
+	list-style-position:inside;
+	margin:0 0 20px;
+	padding:0;
+}
 .ex-sp-bg {
 	background:#F0EFEB;
 	margin:0 auto;
 }
 .ex-sp-left {
-	width: 480px;
+	width: 530px;
 	float:left;
-	padding-right: 30px;
+	padding-right: 50px;
 }
 .ex-sp-right {
 	float:left;
