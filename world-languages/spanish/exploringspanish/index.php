@@ -18,7 +18,7 @@
 	font-family: "myriad-pro", sans-serif !important;
 }
 .ui-accordion-content {
-    height: 710px !important;
+    height: 100% !important;
 }
 </style>
 	<div id="container" class="quechevere">
@@ -56,7 +56,7 @@
 				<div id="accordion">
 			<!-- 1 -->
 					<h3 class="showSingle" target="1"><strong>New! for Third Edition Revised</strong></h3>
-					<div id="div1" class="targetDiv" style="display:none;">
+					<div id="div1" class="targetDiv">
                         <ul class="sp-landing">
 							<li>New! The updated <i>Realia</i> section in each unit gives students additional activities for practice.</li>
 							<li>New! Provides students a sampling of the food, art, music, and literature of Spanish-speaking countries with current, relevant topics.</li>
@@ -68,7 +68,7 @@
 					</div>
 			<!-- 2 -->
 					<h3 class="showSingle" target="2"><strong>Program Resources</strong></h3>
-					<div id="div2" class="targetDiv" style="display:none;">
+					<div id="div2" class="targetDiv" style="display:none;height:560px !important;">
 						<span class="sp-header">Exploring Spanish Student &copy;2017</span>
 						<p class="sp-text">Set your students on a path to discovering and learning languages with
 						EMC's Exploring Spanish, an introductory program intended to present
