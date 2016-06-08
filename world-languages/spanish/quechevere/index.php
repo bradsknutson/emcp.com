@@ -170,7 +170,7 @@
 				<h3>Exploring Spanish</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-spanish-3rd-edtion.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages/exploring-spanish-third-edition-revised.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/exploringspanish">Learn more</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
