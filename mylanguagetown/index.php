@@ -18,13 +18,19 @@
 	font-family: "myriad-pro", sans-serif !important;
 }
 .ui-accordion-content {
-    height: 275px !important;
+    height: 750px !important;
+}
+#div1.ui-accordion-content {
+    height: 275px !ipmortant;
 }
 .ui-accordion .ui-accordion-icons, .ui-accordion .ui-accordion-content {
     border: none;
     outline: none;
     background: transparent;
 }
+    .targetDiv img {
+        max-width: 100%;
+    }
 </style>
 	<div id="container" class="mlt">
 		<div class="header-background-image mlt-bg">
@@ -71,7 +77,7 @@
                 <div id="accordion">
 			<!-- 1 -->
 					<h3 class="showSingle" target="1"><strong>How to use My Language Town eBooks</strong></h3>
-					<div id="div1" class="targetDiv" style="display:none;">
+					<div id="div1" class="targetDiv" style="display:none;height:275px !important;">
 						<p>The most Diverse Range of Literature and Informational Texts</p>
 						<ul>
 							<li>Students can read them aloud (in small groups, in class, or at home)</li>
@@ -88,18 +94,21 @@
 					<div id="div3" class="targetDiv" style="display:none;">
                         <p>My Language Town's Elementary Spanish Series is a fantastic collection of quick reads to learn elementary Spanish effortlessly&mdash;including songs, stories, poems and plenty of delightful illustrations. Students learn everyday vocabulary, basic sentences and expressions in a highly interactive, engaging and effective way.</p>
                         <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtATXdiS1V3M25MTzQ/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
+                        <img src="<?php echo $server; ?>lib/images/mlt-elementary.png" />
 					</div>
 			<!-- 3 -->
                     <h3 class="showSingle" target="2"><strong>Beginner Level eReaders </strong></h3>
 					<div id="div2" class="targetDiv" style="display:none;">
                         <p>Embark on Christopher Columbus's journey to the New World or join the Rodríguez in their hilarious quest for a legendary Mayan crown amongst Chihuahuas and mariachis. My Language Town Beginners Series is packed with thrills, laughs and adventure. My Language Town is the hometown for every student of Spanish language. Come join us!</p>
                         <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtATXdiS1V3M25MTzQ/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
+                        <img src="<?php echo $server; ?>lib/images/mlt-beginner.png" />
 					</div>
 			<!-- 4 -->
 					<h3 class="showSingle" target="5"><strong>Low intermediate/Intermediate Level eReaders</strong></h3>
 					<div id="div5" class="targetDiv" style="display:none;">
                         <p>My Language Town's Intermediate Series is the place to drop by for those students of Spanish in the mood for adventure. Fact or fiction, historical or contemporary, quick reads or longer novels, a war romance in Madrid or a tango-paced murder mystery in Buenos Aires&mdash;you get to choose!</p>
                         <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtATXdiS1V3M25MTzQ/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
+                        <img src="<?php echo $server; ?>lib/images/mlt-low.png" />
 					</div>
 				</div>
                 
@@ -122,11 +131,7 @@
                     <li>Try to guess the meaning of new words based on context</li>
                 </ul>
                 
-                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246410594&amp;color=c10006&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-                
-                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246410469&amp;color=c10006&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-                
-                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246410186&amp;color=c10006&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                <a href="https://soundcloud.com/emc-587353640/sets/my-language-town-albums-1-5" target="_blank" ><img src="<?php echo $server; ?>lib/images/mlt-audio.png" alt="MyLanguageTown Audio Samples" style="margin:auto;"/></a>
                 
             </div>
         </div>
