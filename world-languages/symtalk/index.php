@@ -18,12 +18,15 @@
 	font-family: "myriad-pro", sans-serif !important;
 }
 .ui-accordion-content {
-    height: 100% !important;
+    height: 400px !important;
 }
 </style>
 	<div id="container" class="symtalk">
+		<div class="vimeo-modal"></div>
 		<div class="header-background-image symtalk-bg-new">
-			<div id="topImg"></div>
+			<div id="topImg">
+				<div class="header-hero-hover"></div>
+			</div>
 		</div>
 		<div class="header-top">
 			<?php include '../../includes/nav.php'; ?>
