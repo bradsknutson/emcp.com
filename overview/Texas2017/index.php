@@ -8,11 +8,11 @@
 		-->
 		<div>
 			<div class="ninehundred">
-				<h3>The best solutions for Texas world language teachers</h3>
+				<h3><strong>The best solutions for Texas world language teachers</strong></h3>
 				
 				EMC's goal is to equip Texas teachers with world language programs that provide full coverage of all the Texas Education Knowledge and Skills so teachers can focus on what they love to do: teach. 
 
-				<h3>Our world language programs give teachers the tools to...</h3>
+				<h3><strong>Our world language programs give teachers the tools to...</strong></h3>
 				
 				Expose students to new cultural content focused on the practices, products, and perspectives of target cultures.<br /><br /> 
 
@@ -22,7 +22,7 @@
 
 				Create activities that teach students how to contribute to and build community in the classroom, online, and in their home state of Texas.<br /><br />
 
-				<h3>Students will...</h3>
+				<h3><strong>Students will...</strong></h3>
 				
 				Demonstrate a better understanding of the target cultures' practices and how they are related to the perspectives of those cultures. Additionally, students will gain an understanding of the 
 				products produced by the target cultures and how they are connected to the peoples of those cultures.<br /><br />
@@ -36,18 +36,18 @@
 				school setting through activities such as participating in cultural events and using technology to communicate with others in immersive experiences.
 			</div>
 			<div class="clearfix"></div>
-			<div class="ninehundred light-grey-slice">
-				<p style="text-align:center;">
-					<a href="">Middle School/High School Spanish</a>
-					|
-					<a href="">Exploratory Spanish</a>
-					|
-					<a href="">French</a>
-					| 
-					<a href="">German</a>
-					|
-					<a href="">Chinese</a>
-				</p>
+			<div class="light-grey-slice" style="padding:20px 0;">
+				<div style="text-align:center;">
+					<a href="" class="learn-more-link">Middle School/High School Spanish</a>&nbsp;&nbsp;
+					|&nbsp;&nbsp;
+					<a href="" class="learn-more-link">Exploring Spanish</a>&nbsp;&nbsp;
+					|&nbsp;&nbsp;
+					<a href="#teb" class="learn-more-link">French</a>&nbsp;&nbsp;
+					|&nbsp;&nbsp;
+					<a href="#da" class="learn-more-link">German</a>&nbsp;&nbsp;
+					|&nbsp;&nbsp;
+					<a href="#zb" class="learn-more-link">Chinese</a>
+				</div>
 			</div>
 		</div>
 	<!-- Que Chevere -->

@@ -36,7 +36,7 @@
                     <p class="no-top">
 					Set your students on a path to discovering and learning languages with EMC’s Exploring Spanish, an introductory program intended to present Spanish language and 
 					culture to young, beginning language learners. It is perfect for use in middle school FLEX and FLES programs. It can also be used as part of a formal 7th and 8th 
-					grade language course or as supplementary material in a first-year high school class. With Exploring Spanish your students will get a taste of the Spanish language 
+					grade language course. With Exploring Spanish your students will get a taste of the Spanish language 
 					and culture through 20 thematic units covering topics of high interest: food, music, art, literature, geography, and so much more! Engage them in listening, 
 					speaking, reading, and writing Spanish while using functional and relevant vocabulary. 
 					</p>
