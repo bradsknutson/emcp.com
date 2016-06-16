@@ -38,9 +38,9 @@
 			<div class="clearfix"></div>
 			<div class="light-grey-slice" style="padding:20px 0;">
 				<div style="text-align:center;">
-					<a href="" class="learn-more-link">Middle School/High School Spanish</a>&nbsp;&nbsp;
+					<a href="#qc" class="learn-more-link">Middle School/High School Spanish</a>&nbsp;&nbsp;
 					|&nbsp;&nbsp;
-					<a href="" class="learn-more-link">Exploring Spanish</a>&nbsp;&nbsp;
+					<a href="#es" class="learn-more-link">Exploring Spanish</a>&nbsp;&nbsp;
 					|&nbsp;&nbsp;
 					<a href="#teb" class="learn-more-link">French</a>&nbsp;&nbsp;
 					|&nbsp;&nbsp;
@@ -55,14 +55,22 @@
 		<div>
 			<div class="ninehundred">
 				<h3>Program Resources</h3>
-				<strong>Student</strong>
-				<ul>
-					<li>Textbook (print)</li>
-					<li>eBook (digital)</li>
-					<li>Workbook (print and digital)</li>
-					<li>Grammar &amp; Vocabulary Exercises (print and digital)</li>
-					<li>Listening Activities (digital)</li>
-				</ul>
+				
+				<div>
+					<div style="float:left;width:400px;padding-right:20px;">
+						<strong>Student</strong>
+						<ul>
+							<li>Textbook (print)</li>
+							<li>eBook (digital)</li>
+							<li>Workbook (print and digital)</li>
+							<li>Grammar &amp; Vocabulary Exercises (print and digital)</li>
+							<li>Listening Activities (digital)</li>
+						</ul>
+					</div>
+					<div><img src="http://www.emcp.com/lib/images/texas/qc-hero.jpg" border="0" /></div>
+				</div>
+				<div class="clearfix"></div>
+				
 				<strong>Teachers</strong>
 				<ul>
 					<li>Annotated Teacher's Edition (print) includes margin notes featuring games and activities, cultural information, and teacher suggestions.</li>
@@ -112,7 +120,65 @@
 					</div>
 				</div>
 			</div>
-			<div 
+			<div class="clearfix"></div>
+		</div>
+	<!-- Exploring Spanish -->
+		<div style="text-align:center;"><a name="es"></a><img src="/lib/images/texas/es-header.jpg" border="0" /></div>
+		<div>
+			<div class="ninehundred">
+				<p>Set your students on a path to discovering and learning languages with EMC's Exploring Spanish, an introductory program intended to 
+				present Spanish language and culture to young, beginning language learners. It is perfect for use in middle school FLEX and FLES programs. 
+				It can also be used as part of a formal 7th and 8th grade language course or as supplementary material in a first-year high school class. 
+				With Exploring Spanish your students will get a taste of the Spanish language and culture through 20 thematic units covering topics of 
+				high interest: food, music, art, literature, geography, and so much more! Engage them in listening, speaking, reading, and writing Spanish 
+				while using functional and relevant vocabulary.
+				</p>
+				<h3>New! for Third Edition Revised</h3>
+				<div>
+					<div style="float:left;">
+						<ul style="margin-left:-27px;">
+							<li>New! The updated Realia section in each unit gives students additional activities for practice.</li>
+							<li>New! Provides students a sampling of the food, art, music, and literature of Spanish-speaking countries with current, relevant topics.</li>
+							<li>Builds skills in speaking, listening, reading, and writing.</li>
+							<li>Symtalk&reg; activities duplicate the natural process of language acquisition through the use of visual image symbol cards (160 digital cards).</li>
+							<li>Puzzles and other fun activities engage and entertain students.</li>
+							<li>New! Multiplatform eBook and eWorkbook are available for delivery on all laptops, desktops, and mobile devices and feature audio and interactive activities.</li>
+						</ul>
+					</div>
+				</div>
+				<div>
+					<strong>Program Resources</strong><br />
+					<p>Exploring Spanish Student &copy;2017<br />
+					Set your students on a path to discovering and learning languages with EMC's Exploring Spanish, an introductory program intended to present Spanish language and 
+					culture to young, beginning language learners.</p>
+					<div style="float:left;">
+						Exploring Spanish Workbook &copy;2017
+						<ul>
+							<li>Builds skills in speaking, listening, reading, and writing
+						</ul>
+						Exploring Spanish Teacher's Guide &copy;2017<br />
+						The Exploring Spanish Teacher's Guide contains:
+						<ul>
+							<li>Unit Objectives, Lesson Plans, Teaching Suggestions, and Symtalk Activities</li>
+							<li>Textbook Answer Key</li>
+							<li>Workbook Answer Key</li>
+							<li>Check-up Written Activities Blackline Masters and Answer Key</li>
+							<li>Check-up Listening Activities Blackline Masters and Answer Key</li>
+							<li>Textbook Audio Program Script</li>
+						</ul>
+					</div>
+					<div style="float:left;">
+						The Exploring Spanish Teacher's Guide eBook also includes access to the following:
+						<ul>
+							<li>eWorkbook</li>
+							<li>Textbook Audio Program files</li>
+							<li>Check-up Listening Activities Audio files</li>
+							<li>Symtalk Digital Symbol cards</li>
+							<li>eVisuals</li>
+						</ul>
+					</div>
+				</div>
+			</div>
 		</div>
 	<!-- Tes Branche -->
 		<div style="text-align:center;"><a name="teb"></a><img src="/lib/images/georgia/GA-TEB-header.jpg" border="0"></div>
@@ -122,14 +188,20 @@
 					<h3>T'es branch&eacute;?</h3>
 					<strong>Program Resources</strong><br /><br />
 
-					<strong>Student</strong>
-					<ul>
-						<li>Textbook (print)</li>
-						<li>eBook  (digital)</li>
-						<li>Workbook (print and digital)</li>
-						<li>Listening Activities (digital)</li>
-					</ul>
-
+					<div>
+						<div style="float:left;width:400px;padding-right:20px;">
+							<strong>Student</strong>
+							<ul>
+								<li>Textbook (print)</li>
+								<li>eBook  (digital)</li>
+								<li>Workbook (print and digital)</li>
+								<li>Listening Activities (digital)</li>
+							</ul>
+						</div>
+						<div><img src="http://www.emcp.com/lib/images/texas/tb-hero.jpg" border="0" /></div>
+					</div>
+					<div class="clearfix"></div>
+					
 					<strong>Teachers</strong>
 					<ul>
 						<li><strong>Annotated Teacher's Edition (print and digital)</strong>
@@ -197,31 +269,36 @@
 			</div>
 		</div>
 	<!-- DA -->
-		<div style="text-align:center;"><a name="da"></a><img src="/lib/images/georgia/GA-DA-header.jpg" border="0"></div>
+		<div style="text-align:center;"><a name="da"></a><img src="/lib/images/texas/da-header.jpg" border="0"></div>
 		<div>
 			<div class="ninehundred">
 				<h3>Deutsch Aktuell 6th edition</h3>
 				<strong>Program Resources</strong><br /><br />
 
-				<strong>Student</strong>
-				<ul>
-					<li>Textbook (print)</li>
-					<li>eBook  (digital)</li>
-					<li>Workbook (print)</li>
-					<li>eWorkbook (digital)</li>
-				</ul>
-
-				<strong>Teachers</strong><br />
-				Printed and digital resources:
-				<ul>
-					<li><strong>Annotated Teacher's Edition</strong><br />
-						Includes margin notes featuring games and activities, cultural information and teacher suggestions</li>
-					<li><strong>Workbook Teacher's Edition</strong> includes the answers to the student activities that reinforce vocabulary, grammar, and cultural information.</li>
-					<li><strong>eWorkbook Teacher's Edition</strong></li>
-					<li><strong>Communicative Activities</strong> includes information gap activities, postcard activities, and situation card activities.</li>
-					<li><strong>TPR Storytelling Manual</strong> includes Step-by-step instructions for basic and advanced stories. (Level 1 only)</li>
-				</ul>
-
+				<div>
+					<div style="float:left;width:400px;padding-right:20px;">
+						<strong>Student</strong>
+						<ul>
+							<li>Textbook (print)</li>
+							<li>eBook  (digital)</li>
+							<li>Workbook (print)</li>
+							<li>eWorkbook (digital)</li>
+						</ul>
+						<strong>Teachers</strong><br />
+						Printed and digital resources:
+						<ul>
+							<li><strong>Annotated Teacher's Edition</strong><br />
+								Includes margin notes featuring games and activities, cultural information and teacher suggestions</li>
+							<li><strong>Workbook Teacher's Edition</strong> includes the answers to the student activities that reinforce vocabulary, grammar, and cultural information.</li>
+							<li><strong>eWorkbook Teacher's Edition</strong></li>
+							<li><strong>Communicative Activities</strong> includes information gap activities, postcard activities, and situation card activities.</li>
+							<li><strong>TPR Storytelling Manual</strong> includes Step-by-step instructions for basic and advanced stories. (Level 1 only)</li>
+						</ul>
+					</div>
+					<div><img src="http://www.emcp.com/lib/images/texas/da-hero.jpg" border="0" /></div>
+				</div>
+				<div class="clearfix"></div>
+				
 				Multimedia resources:
 				<ul>
 					<li><strong>Plan, Listening, and Assessment Pack with Audio CD</strong> includes: <i>Textbook Audio Program Manual; Textbook Audio Program CD; Listening Activities Manual with Answer Key</i> 
@@ -254,28 +331,34 @@
 			</div>
 		</div>
 	<!-- Zhen Bang -->
-		<div style="text-align:center;"><a name="zb"></a><img src="/lib/images/georgia/GA-ZB-header.jpg" border="0"></div>
+		<div style="text-align:center;"><a name="zb"></a><img src="/lib/images/texas/zb-header.jpg" border="0"></div>
 		<div>
 			<div class="ninehundred">
 				<h3>Zhen B&agrave;ng</h3>
-				<strong>Program Resources</strong><br /><br />
+				<strong>Program Resources</strong><br />
 
-				<strong>Student</strong>
-				<ul>
-					<li>Textbook</li>
-					<li>Workbook</li>
-					<li>Characters Practice Book</li>
-					<li>ebook</li>
-					<li>Listening Activities with MP3 Audio includes student worksheets for listening comprehension activities as well as the audio and answer key.</li>
-					<li>Online Flash game</li>
-					<li>Textbook Audio program includes all recordings from the textbook; dialogues, narratives, and activities.</li>
-					<li>Character Practice Book Audio MP3s</li>
-					<li>Video Program: ZhenBang has a serious storyline videos that reinforce each lesson's vocabulary and grammar</li>
-					<li>Culture Videos</li> 
-					<li>Pronunciation Videos</li>
-					<li>Story of Characters Animations</li>
-					<li>Unit Review Lessons </li>
-				</ul>
+				<div>
+					<div style="float:left;width:400px; padding-right:20px;">
+						<strong>Student</strong>
+						<ul>
+							<li>Textbook</li>
+							<li>Workbook</li>
+							<li>Characters Practice Book</li>
+							<li>ebook</li>
+							<li>Listening Activities with MP3 Audio includes student worksheets for listening comprehension activities as well as the audio and answer key.</li>
+							<li>Online Flash game</li>
+							<li>Textbook Audio program includes all recordings from the textbook; dialogues, narratives, and activities.</li>
+							<li>Character Practice Book Audio MP3s</li>
+							<li>Video Program: ZhenBang has a serious storyline videos that reinforce each lesson's vocabulary and grammar</li>
+							<li>Culture Videos</li> 
+							<li>Pronunciation Videos</li>
+							<li>Story of Characters Animations</li>
+							<li>Unit Review Lessons </li>
+						</ul>
+					</div>
+					<div><img src="http://www.emcp.com/lib/images/texas/zb-hero.jpg" border="0" /></div>
+				</div>
+				<div class="clearfix"></div>
 
 				<strong>Teachers</strong>
 				<ul>
