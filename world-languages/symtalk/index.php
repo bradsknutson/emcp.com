@@ -101,7 +101,7 @@
 						<p class="symtalk-steps">Practice and repetition through writing and paired communication activities in the Student Workbook</p>
 					</div>
 					<div class="symtalk-third">
-						<p class="symtalk-steps">Play games to foster communicative proficiency and listening skills</p>
+						<p class="symtalk-steps">Play communicative activities to foster speaking and listening skills</p>
 					</div>
 				</div>
 				<div class="clearfix"></div>
