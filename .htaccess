@@ -285,7 +285,9 @@ RewriteRule ^CUT5E http://paradigm.emcp.com/computer-technology/computers-unders
 
 RewriteRule ^product_catalog/school/litLink/$ http://www.emcp.com [R=301,L]
 
-ErrorDocument 404 /error.php
-
 RewriteRule ^actfl2015$  http://pages.exacttarget.com/actfl2015/   [R=301,L]
 RewriteRule ^fetc2016$  http://pages.exacttarget.com/fetc2016/   [R=301,L]
+
+RewriteRule ^texas-sample$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea3decb8741a7b05a5a3f22a839e68a74f689b6924f185a883   [R=301,L]
+
+ErrorDocument 404 /error.php
