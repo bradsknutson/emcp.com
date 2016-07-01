@@ -46,7 +46,7 @@
                     <p><a class="learn-more-link smaller-link" href="buy/">Buy It Now!</a></p>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/da-cover.jpg" alt="Deutsch Aktuell German Program" />
+					<img src="<?php echo $server; ?>lib/images/da-cover_new.png" alt="Deutsch Aktuell German Program" />
 				</div>
 				<div class="clearfix"></div>
 			</div>

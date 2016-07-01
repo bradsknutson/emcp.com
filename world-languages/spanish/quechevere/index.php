@@ -46,7 +46,7 @@
 					<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/QCcover.jpg" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" />
+					<img src="<?php echo $server; ?>lib/images/QCcover_new.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" />
 				</div>
 				<div class="clearfix"></div>
 			</div>

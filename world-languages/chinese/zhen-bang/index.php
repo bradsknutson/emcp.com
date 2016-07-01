@@ -50,7 +50,7 @@
                     <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?emc_product_type=590&language=364&q=zhen">Buy It Now!</a></p>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/zb-cover.jpg" alt="Zh&#275;n B&agrave;ng Chinese Program" />
+					<img src="<?php echo $server; ?>lib/images/zb-cover_new.png" alt="Zh&#275;n B&agrave;ng Chinese Program" />
 				</div>
 				<div class="clearfix"></div>
 			</div>

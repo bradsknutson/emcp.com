@@ -49,7 +49,7 @@
                     <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a></p>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/teb-cover.jpg" alt="T'es branch&eacute;? French Program" />
+					<img src="<?php echo $server; ?>lib/images/teb-cover_new.png" alt="T'es branch&eacute;? French Program" />
 				</div>
 				<div class="clearfix"></div>
 			</div>
