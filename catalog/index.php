@@ -41,12 +41,12 @@
         <div class="white-slice no-top">
 			<div class="ninesixty">
                 <div class="catalog-img">
-                    <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKNURYeHlkdUdESkk/view" target="_blank">
+                    <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKNURYeHlkdUdESkk/view?usp=sharing" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/catalog-al-2015.png" alt="Applied Learning Catalog 2015" class="animated" />
                     </a>
                 </div>
                 <div class="catalog-img">
-                    <a href="https://drive.google.com/open?id=0B2BRD_gaMsOKZ1MzTW93Z3FZbHM" target="_blank">
+                    <a href="https://drive.google.com/file/d/0B2wIWFpktdtAVnBFYmk1cm1QMmc/view?usp=sharing" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/2016-computer-tech-catalog.jpg" alt="Computer Technology 2016" class="animated" />
                     </a>
                 </div>
