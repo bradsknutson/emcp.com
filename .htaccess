@@ -44,9 +44,10 @@ RewriteRule ^nectfl07(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=
 
 RewriteRule ^cprbinder(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=2011$1 [R]
 
-RewriteRule ^exploring(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=512$1 [R]
-RewriteRule ^aventura/$		http://www.emcp.com/product_catalog/index.php?GroupID=2145$1 [R]
-RewriteRule ^aventura$		http://www.emcp.com/product_catalog/index.php?GroupID=2145$1 [R]
+RewriteRule ^exploring	     http://www.emcp.com/world-languages/spanish/exploringspanish/ [R=301,L]
+RewriteRule ^exploring/	     http://www.emcp.com/world-languages/spanish/exploringspanish/ [R=301,L]
+RewriteRule ^aventura/$		 http://www.emcp.com/product_catalog/index.php?GroupID=2145$1 [R]
+RewriteRule ^aventura$		 http://www.emcp.com/product_catalog/index.php?GroupID=2145$1 [R]
 
 RewriteRule ^amgovt/$	http://www.emcp.com/product_catalog/index.php?GroupID=2524$1 [R]
 RewriteRule ^amgovt$	http://www.emcp.com/product_catalog/index.php?GroupID=2524$1 [R]
