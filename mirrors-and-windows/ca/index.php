@@ -5,9 +5,10 @@
 ?>
 <style>
 .ui-accordion .ui-accordion-header {
-	background: #F0EFEB !important;
-	font-size: 22px !important;
+	background: #FFF !important;
+	font-size: 24px !important;
 	padding-right: .2em !important;
+    border: none !important;
 }
 .redefining p {
 	font-size: 20px !important;
@@ -19,7 +20,8 @@
 	font-family: "myriad-pro", sans-serif !important;
 }
 .ui-accordion-content {
-    height: 250px !important;
+    height: 100% !important;
+    border: none !important;
 }
 </style>
 	<div id="container" class="mw">
