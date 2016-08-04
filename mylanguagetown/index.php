@@ -45,7 +45,7 @@
                 
                 <img src="<?php echo $server; ?>lib/images/mlt-ereader.png" alt="My Language Town eReaders" style="float:right;margin-top:50px;"/>
                 
-                <h1 class="no-bottom">Available June 30th | Starting at $2.95</h1>
+                <h1 class="no-bottom">Starting at $2.95</h1>
                 <p class="no-top">A colorful way to learn more about Spanish language and culture My Language Town (MLT) eReaders create an engaging, interactive reading experience. Whether incorporated into the classroom curriculum or used as an independent study, MLT eReaders will enrich your students' language learning.</p>
                 
                 <h3>Key Features:</h3>
