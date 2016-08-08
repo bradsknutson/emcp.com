@@ -52,6 +52,18 @@
 			<!-- 1 -->
 					<h3 class="showSingle" target="1"><strong>New! For Spanish and French Revised Editions</strong></h3>
 					<div id="div1" class="targetDiv">
+                        <ul>
+                            <li>The updated Realia section in each unit gives students additional activities for practice.</li>
+                            <li>Provides students a sampling of the food, art, music, and literature of Spanish and French-speaking countries with current, relevant topics.</li>
+                            <li>Builds skills in speaking, listening, reading, and writing.</li>
+                            <li>Visual activities duplicate the natural process of language acquisition through the use of image symbol cards (160 digital cards).</li>
+                            <li>Puzzles and other fun activities engage and entertain students.</li>
+                            <li>eBooks and eWorkbooks are available for delivery on all laptops, desktops, and mobile devices and feature audio and interactive activities.</li>
+                        </ul>
+					</div>
+			<!-- 2 -->
+					<h3 class="showSingle" target="2"><strong>Program Resources</strong></h3>
+					<div id="div2" class="targetDiv" style="display:none;height:560px !important;">
                         <p>For Students:</p>
                         <ul>
                             <li>Student Edition Textbook</li>
@@ -61,13 +73,16 @@
                         </ul>
                         <p>For Teachers:</p>
                         <ul>
-                            <li>Teacher's Guide, which includes:</li>
-                            <li>Unit Objectives, Lesson Plans, Teaching Suggestions, and Symtalk Activities</li>
-                            <li>Textbook Answer Key</li>
-                            <li>Workbook Answer Key</li>
-                            <li>Check-up Written Activities Blackline Masters and Answer Key</li>
-                            <li>Check-up Listening Activities Blackline Masters and Answer Key</li>
-                            <li>Textbook Audio Program Script</li>
+                            <li>Teacher's Guide, which includes:
+                                <ul>
+                                    <li>Unit Objectives, Lesson Plans, Teaching Suggestions, and Symtalk Activities</li>
+                                    <li>Textbook Answer Key</li>
+                                    <li>Workbook Answer Key</li>
+                                    <li>Check-up Written Activities Blackline Masters and Answer Key</li>
+                                    <li>Check-up Listening Activities Blackline Masters and Answer Key</li>
+                                    <li>Textbook Audio Program Script</li>
+                                </ul>
+                            </li>
                             <li>Exploring Teacher's Guide eBook, which also includes access to:
                                 <ul>
                                     <li>eWorkbook</li>
@@ -78,40 +93,7 @@
                                 </ul>
                             </li>
                         </ul>
-                        <p>Not every component is available for every language. See <a href="<?php echo $server; ?>exploring">emcp.com/exploring</a> for more details.</p>
-					</div>
-			<!-- 2 -->
-					<h3 class="showSingle" target="2"><strong>Program Resources</strong></h3>
-					<div id="div2" class="targetDiv" style="display:none;height:560px !important;">
-						<span class="sp-header">Exploring Spanish Student &copy;2017</span>
-						<p class="sp-text">Set your students on a path to discovering and learning languages with
-						EMC's Exploring Spanish, an introductory program intended to present
-						Spanish language and culture to young, beginning language learners.</p>
-						
-						<br />
-						<span class="sp-header">Exploring Spanish Workbook &copy;2017</span>
-						<ul class="sp-landing">
-							<li>Builds skills in speaking, listening, reading, and writing</li>
-						</ul>
-						<span class="sp-header">Exploring Spanish Teacher's Guide &copy;2017</span>
-						<p class="sp-text">The Exploring Spanish Teacher's Guide contains:</p>
-						<ul class="sp-landing">
-							<li>Unit Objectives, Lesson Plans, Teaching Suggestions, and Symtalk Activities</li>
-							<li>Textbook Answer Key</li>
-							<li>Workbook Answer Key</li>
-							<li>Check-up Written Activities Blackline Masters and Answer Key</li>
-							<li>Check-up Listening Activities Blackline Masters and Answer Key</li>
-							<li>Textbook Audio Program Script</li>
-						</ul>
-						<p class="sp-text">The Exploring Spanish Teacher's Guide eBook also includes access to the following:</p>
-						<ul class="sp-landing">
-							<li>eWorkbook</li>
-							<li>Textbook Audio Program files</li>
-							<li>Check-up Listening Activities Audio files</li>
-							<li>Symtalk Digital Symbol cards</li>
-							<li>eVisuals</li>
-						</ul>
-						</p>
+                        <p>Not every component is available for every language.</p>
 					</div>                                                                                                 
 				</div>
 			</div>
