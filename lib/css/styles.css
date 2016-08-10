@@ -1600,6 +1600,7 @@ p.home-mission {
     left: 38%;
     background: #FFF !important;
     color: #000 !important;
+	z-index: 1;
 }
 .technology-buttons.zb-demo:hover {
     background: #BD0006 !important;
