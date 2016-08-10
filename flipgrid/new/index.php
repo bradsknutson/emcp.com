@@ -50,7 +50,7 @@
 
   <nav>
     <div class="container">
-      <a class="logo pull-left" href="https://www.emcp.com/flipgrid/new/">
+      <a class="logo pull-left" href="http://www.emcp.com/flipgrid/new/">
         <img class="img-fluid" src="<?php echo $server; ?>assets/images/topLogo@2x.png" alt="Flipgrid Logo" />
       </a>
 

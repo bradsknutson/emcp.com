@@ -16,7 +16,7 @@
 						<li><a href="<?php echo $server; ?>technology/passport/">Passport</a></li>
 						<li><a href="<?php echo $server; ?>technology/ebooks/">eBooks</a></li>
 						<li><a href="<?php echo $server; ?>technology/iculture/">i-Culture</a></li>
-						<li><a href="<?php echo $server; ?>technology/flipgrid/">Flipgrid</a></li>
+						<li><a href="<?php echo $server; ?>flipgrid/new/">Flipgrid</a></li>
 						<li><a href="<?php echo $server; ?>technology/avenue/">Avenue</a></li>
 						<li><a href="<?php echo $server; ?>technology/elpac/">ELPAC</a></li>
 					</ul>                
