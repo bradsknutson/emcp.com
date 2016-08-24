@@ -100,7 +100,7 @@
 
   <!-- top -->
   <div class="top">
-    <div class="text-center">
+    <div class="top-feature text-center">
 
       <div class="container">
         <h1 class="container mb025 mt05">Video for <strong>Active Learning</strong>.</h1>
@@ -110,8 +110,7 @@
           Create your free grid today
         </a>
       </div>
-      <!-- <img class="mw100 mt1 hide-for-mobile" src="assets/images/devices@2x.png" width="1200" height="auto"> -->
-      <img class="mw100" src="assets/images/allDevices.png" width="1200" height="auto">
+      <img class="top-feature-image" src="assets/images/allDevices.png" alt="Flipgrid App showcase">
 
     </div>
   </div>

@@ -243,6 +243,17 @@ RewriteRule ^california/$  http://www.emcp.com/mirrors-and-windows/ca/ [R=301,L]
 RewriteRule ^California$  http://www.emcp.com/mirrors-and-windows/ca/ [R=301,L]
 RewriteRule ^California/$  http://www.emcp.com/mirrors-and-windows/ca/ [R=301,L]
 
+RewriteRule ^ca$  http://www.emcp.com/texas/ [R=301,L]
+RewriteRule ^ca/$  http://www.emcp.com/texas/ [R=301,L]
+RewriteRule ^tx$  http://www.emcp.com/texas/ [R=301,L]
+RewriteRule ^tx/$  http://www.emcp.com/texas/ [R=301,L]
+RewriteRule ^Texas$  http://www.emcp.com/texas/ [R=301,L]
+RewriteRule ^Texas/$  http://www.emcp.com/texas/ [R=301,L]
+RewriteRule ^txresources$  http://www.emcp.com/texas/resources/ [R=301,L]
+RewriteRule ^txresources/$  http://www.emcp.com/texas/resources/ [R=301,L]
+RewriteRule ^texasresources$  http://www.emcp.com/texas/resources/ [R=301,L]
+RewriteRule ^texasresources/$  http://www.emcp.com/texas/resources/ [R=301,L]
+
 RewriteRule ^ca_ela_contact_list.pdf  https://drive.google.com/file/d/0B6EVavS5JOmiMXI3SndFMUtHY0U/view [R=301,L]
 
 RewriteRule ^ca_lit$  http://store.emcp.com/mirrors-and-windows-california-public-review.html [R=301,L]
