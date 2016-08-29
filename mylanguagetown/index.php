@@ -41,7 +41,7 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
-                <p style="margin:15px 0 -10px;"><a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafa7e88f41d8cbd96a0269d731b013d8d034e9a8d6f0718f7" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Sample');">Pre-order your free sample today!</a> &nbsp; <a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="https://www.joomag.com/magazine/my-language-town/M0363333001465393954" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT View Sample Pages');">View sample pages</a></p>
+                <p style="margin:15px 0 -10px;"><a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="http://store.emcp.com/world-languages.html?emc_product_type=374" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Buy');">Buy Now!</a> &nbsp; <a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="https://www.joomag.com/magazine/my-language-town/M0363333001465393954" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT View Sample Pages');">View sample pages</a></p>
                 
                 <img src="<?php echo $server; ?>lib/images/mlt-ereader.png" alt="My Language Town eReaders" style="float:right;margin-top:50px;"/>
                 
