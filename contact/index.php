@@ -48,7 +48,7 @@
 				
 				<h3>Email support</h3>
 				<p class="topten">Available Monday through Sunday 8AM - 10PM (CST).<br />
-				<a href="mailto:support@emcp.com">support@emcp.com</a></p>
+				<a href="mailto:support@emcschool.com">support@emcschool.com</a></p>
 				
 				<p>Contact Technical Support at one of the email addresses above or call 800-328-1452 (press 2).<br />
 				Contact Customer Service by email at <a href="mailto:educate@emcp.com">educate@emcp.com</a> or phone 800-328-1452 (press 1).</p>
