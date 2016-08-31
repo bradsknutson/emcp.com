@@ -1145,11 +1145,11 @@ p.home-mission {
 }
 .emc-connect-posts .one-third.first {
     padding-left: 0px;
-    border-right: 1px solid #000;
+    border-right: 1px solid #EBEBEB;
 }
 .emc-connect-posts .one-third.last {
     padding-right: 0px;
-    border-left: 1px solid #000;
+    border-left: 1px solid #EBEBEB;
 }
 .emc-connect-posts .one-third h2, .emc-connect-posts .one-third h2 a {
     font-size: 22px;
@@ -3072,6 +3072,107 @@ table .ereaders-smaller {
     background: #FFF url('../images/id-header-resources.jpg') no-repeat 50% 100%;
 }
 
+
+
+
+
+/* -------- Start Texas Page ------------- */
+
+.texas-landing #topImg {
+    background: #FFF url('../images/texas-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.texas-resources #topImg {
+    background: #FFF url('../images/texas-resources-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.texas-landing .emc-connect-content {
+    padding: 25px 0 40px;
+    margin: 0;
+    font-size: 36px;
+    text-align: center;
+    color: #444444;    
+}
+.texas-landing .top-slice {
+    padding: 530px 0 50px;
+}
+.dark-grey-slice {
+    padding: 50px 0;
+}
+.dark-grey-slice p,
+.dark-grey-slice h1,
+.dark-grey-slice h2,
+.dark-grey-slice h3 {
+    color: #FFF;
+}
+.texas-landing .top-slice a {
+    font-size: 22px;
+    text-transform: uppercase;
+}
+.texas-landing h2, .texas-resources h2 {
+    font-size: 46px;
+    margin: 20px 0;
+}
+.purple {
+    color: #362453;
+}
+.texas-landing .left-block,
+.texas-landing .right-block {
+    width: 50%;
+}
+.expandable-box {
+    margin-bottom: 10px;
+    background-color: #f7f6f6;
+}
+.expandable-box-label {
+    padding: 15px;
+    cursor: pointer;    
+}
+.expandable-box-icon {
+    margin: 0 15px;    
+}
+.expandable-box-expanded .expandable-box-content {
+    border-top: 10px solid #f7f6f6;
+    border-bottom: 40px solid #f7f6f6;
+}
+.expandable-box-content {
+    height: 0px;
+    overflow: hidden;
+    padding: 0 40px;
+    border-top: 0px solid #f7f6f6;
+    border-bottom: 0px solid #f7f6f6;
+    -webkit-transition: 0.3s all ease-out;
+    -moz-transition: 0.3s all ease-out;
+    -ms-transition: 0.3s all ease-out;
+}
+.expandable-box-content h2 {
+    font-size: 36px;
+}
+.one-fourth-col {
+    float: left;
+    width: 25%;
+}
+.rep-container {
+    margin: 0 5px;
+    padding: 15px;
+    background-color: #575656;
+    color: #FFF;
+}
+.rep-container p {
+    color: #FFF;
+    font-size: 15px;
+    line-height: 24px;
+}
+.rep-container p a {
+    color: #FFF;
+}
+.rep-container img {
+    max-width: 100%;
+}
+
+/* -------- End Texas Page ------------- */
+
+
 /* -------- Start EMC Stores Page Styles ------------- */
 
 .emc-stores-bg, .emc-stores-bg #topImg {
@@ -3210,6 +3311,17 @@ p.symtalk-steps {
 	font-size: 20px;
 	line-height: 150%;
 }
+.symtalk-right img {
+    max-width: 100%;
+    margin-top: -15px !important;
+}
+.symtalk .play-button {
+    opacity: 0;
+}
+.symtalk .play-button:hover {
+    opacity: 1;
+}
+
 /* -------- End Symtalk Page Styles ------------- */
 
 /* -------- Constants ---------------- */
@@ -3250,6 +3362,9 @@ p.symtalk-steps {
 .marginbottom15 {
 	margin-bottom: 15px !important;
 }
+.marginbottom0 {
+	margin-bottom: 0px !important;
+}
 .margintop0 {
 	margin-top: 0px !important;
 }
@@ -3258,6 +3373,9 @@ p.symtalk-steps {
 }
 .textcenter {
     text-align: center;
+}
+.textleft {
+    text-align: left !important;
 }
 .transition {
 	-moz-transition: all 0.3s;
@@ -3304,6 +3422,9 @@ p.symtalk-steps {
 }
 .light-grey-slice {
     background: #F0EFEB;   
+}
+.dark-grey-slice {
+    background: #575656;
 }
 .p-larger {
     font-size: 22px;
@@ -3354,6 +3475,12 @@ p.symtalk-steps {
 }
 .mlt-img {
     margin: 50px 0px !important
+}
+.nomargin {
+    margin: 0;
+}
+.nopadding {
+    padding: 0;
 }
 
 /* -------- Start Media Queries ---------------- */

@@ -25,7 +25,6 @@
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image symtalk-bg-new">
 			<div id="topImg">
-				<div class="header-hero-hover"></div>
 			</div>
 		</div>
 		<div class="header-top">
@@ -45,8 +44,8 @@
 					<a class="mw-buttons teb-demo transition" href="<?php echo $server; ?>world-languages/symtalk/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Symtalk Sample');">Sample</a>
 					</p>
 				</div>
-				<div class="symtalk-right-new">
-					<img src="<?php echo $server; ?>lib/images/symtalk-ebook-page.jpg" alt="Symtalk" style="margin:-90px auto !important;" />
+				<div class="symtalk-right">
+					<img src="<?php echo $server; ?>lib/images/symtalk-hero-image.png" alt="Symtalk" />
 				</div>
 				<div class="clearfix"></div>
 			</div>

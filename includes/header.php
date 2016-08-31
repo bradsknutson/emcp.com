@@ -42,11 +42,11 @@
 	
 	<?php if(!empty($custom_js)) {
 		echo '<!-- Custom Javascript -->';
-		echo '<script src="'. $server .'lib/js/'. $custom_js .'" type="text/javascript"></script>';
+		echo '<script src="'. $custom_js .'" type="text/javascript"></script>';
 	} ?>
 	<?php if(!empty($custom_css)) {
 		echo '<!-- Custom CSS -->';
-		echo '<link href="'. $server .'lib/css/'. $custom_cs .'" rel="stylesheet">';
+		echo '<link href="'. $custom_css .'" rel="stylesheet">';
 	} ?>
 	<?php if( $nofollow == 'TRUE' ) {
         echo '<!-- noindex/nofollow -->';

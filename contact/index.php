@@ -1,5 +1,5 @@
 <?php 
-	$custom_js = 'google.map.js';
+	$custom_js = '/lib/js/google.map.js';
 	include '../includes/header.php';
 ?>
 	<div id="container">
