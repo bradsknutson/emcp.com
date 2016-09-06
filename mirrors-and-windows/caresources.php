@@ -86,7 +86,10 @@
 				<div>
                     <h2>ELD Sample Lessons</h2>
 					<p class="no-top">
-						Click <a href="http://joom.ag/kvdQ" target="_blank" class="learn-more-link">here</a> to see our California ELD sample lessons brochure
+						Click <a href="https://joom.ag/kvdQ" target="_blank" class="learn-more-link">here</a> to see our California ELD sample lessons brochure (Middle School)
+					</p>
+					<p class="no-top">
+						Click <a href="https://joom.ag/A4SQ" target="_blank" class="learn-more-link">here</a> to see our California ELD sample lessons brochure (High School)
 					</p>
 				</div>
 				<div class="clearfix"></div>
