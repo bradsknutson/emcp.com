@@ -3094,7 +3094,7 @@ table .ereaders-smaller {
     color: #444444;    
 }
 .texas-landing .top-slice {
-    padding: 530px 0 50px;
+    padding: 500px 0 0;
 }
 .dark-grey-slice {
     padding: 50px 0;
@@ -3402,6 +3402,9 @@ p.symtalk-steps {
 .paddingtop20 {
     padding-top: 20px;
 }
+.paddingbottom20 {
+    padding-top: 20px;
+}
 .paddingtop40 {
     padding-top: 40px;   
 }
@@ -3679,4 +3682,21 @@ ul.sp-landing {
 }
 .exploring-spanish-bg #topImg{
 	background: url('../images/2016-exploring-spanish.jpg') no-repeat 50% 100%;
+}
+
+
+/* -------- Start MW Georgia Page Styles ------------- */
+
+.mw-ga-bg, .mw-ga-bg #topImg {
+    height: 600px;   
+}
+.mw-ga-bg #topImg {
+    background: #FFF url('../images/ga-header.jpg') no-repeat 50% 100%;
+}
+/* ----------- Mirrors and Windows Georgia Resource Page ----------------- */
+.mw-ga-bg-resources, .mw-ga-bg-resources #topImg {
+    height: 600px;   
+}
+.mw-ga-bg-resources #topImg {
+    background: #FFF url('../images/ga-header-resources.jpg') no-repeat 50% 100%;
 }

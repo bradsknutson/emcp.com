@@ -15,13 +15,13 @@
                 <p><a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; <a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; <a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; <a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; <a href="<?php echo $server; ?>texas/resources/">Resources</a></p>
             </div>            
         </div>
-		<div class="light-grey-slice paddingtop40 paddingbottom40 textcenter">
+		<div class="light-grey-slice paddingtop20 paddingbottom20 textcenter">
             <div class="seveneighty">
                 <h2 class="purple">Meaningful Language Learning</h2>
                 <p>Provide students with the context, skills, and understanding they’ll need to function in today’s globalized, interconnected world. Spark interest with rich, authentic culture that brings your lessons to life.</p>
             </div>
         </div>
-		<div class="dark-grey-slice">
+		<div class="dark-grey-slice" style="padding:20px 0 !important;">
             <div class="seveneighty">
                 <h2 class="textcenter marginbottom0">Passport</h2>
                 <p class="textcenter nomargin nopadding marginbottom15">Our content and so much more!</p>
@@ -29,7 +29,9 @@
                     <img src="<?php echo $server; ?>lib/images/texas-passport.png" alt="Passport" />
                 </div>
                 <div class="right-block">
-                    <p>Provide 21st century experiences that will help students build relationships and prepare them for what lays far beyond your classroom walls.</p>
+                    <p>Provide 21st century experiences that will help students build relationships and prepare them for what lies far beyond your classroom walls.
+					For a self-guide Passport tour, click <a href="http://www.emcp.com/passport/tour/" target="_blank" style="font-size:20px;color:#fff;text-decoration:underline;">here</a>.
+					</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
