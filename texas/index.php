@@ -15,13 +15,13 @@
                 <p><a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; <a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; <a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; <a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; <a href="<?php echo $server; ?>texas/resources/">Resources</a></p>
             </div>            
         </div>
-		<div class="light-grey-slice paddingtop20 paddingbottom20 textcenter">
+		<div class="grey-slice paddingtop20 paddingbottom20 textcenter">
             <div class="seveneighty">
                 <h2 class="purple">Meaningful Language Learning</h2>
                 <p>Provide students with the context, skills, and understanding they’ll need to function in today’s globalized, interconnected world. Spark interest with rich, authentic culture that brings your lessons to life.</p>
             </div>
         </div>
-		<div class="dark-grey-slice" style="padding:20px 0 !important;">
+		<div class="dark-grey-slice paddingtop20 paddingbottom40">
             <div class="seveneighty">
                 <h2 class="textcenter marginbottom0">Passport</h2>
                 <p class="textcenter nomargin nopadding marginbottom15">Our content and so much more!</p>
@@ -365,7 +365,6 @@
                 <p>Contact your Account Manager anytime!</p>
                 <div class="one-fourth-col">
                     <div class="rep-container textleft">
-                        <img src="<?php echo $server; ?>lib/images/texas-rep-1.jpg" />
                         <p><strong>Phil Neill</strong><br />
                         817-637-7445<br />
                         <a href="mailto:pneill@emcp.com">pneill@emcp.com</a></p>
@@ -374,7 +373,6 @@
                 </div>                
                 <div class="one-fourth-col">
                     <div class="rep-container textleft">
-                        <img src="<?php echo $server; ?>lib/images/texas-rep-2.jpg" />
                         <p><strong>Vicki Robinson</strong><br />
                         405-426-7245<br />
                         <a href="mailto:vrobinson@emcp.com">vrobinson@emcp.com</a></p>
@@ -383,7 +381,6 @@
                 </div>                
                 <div class="one-fourth-col">
                     <div class="rep-container textleft">
-                        <img src="<?php echo $server; ?>lib/images/texas-rep-3.jpg" />
                         <p><strong>Joni Dodson</strong><br />
                         281-799-8133<br />
                         <a href="mailto:jdodson@emcp.com">jdodson@emcp.com</a></p>
@@ -392,7 +389,6 @@
                 </div>                
                 <div class="one-fourth-col">
                     <div class="rep-container textleft">
-                        <img src="<?php echo $server; ?>lib/images/texas-rep-4.jpg" />
                         <p><strong>Nancy Welch</strong><br />
                         201-865-5467<br />
                         <a href="mailto:nwelch@emcp.com">nwelch@emcp.com</a></p>

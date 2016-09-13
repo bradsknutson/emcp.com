@@ -3094,7 +3094,7 @@ table .ereaders-smaller {
     color: #444444;    
 }
 .texas-landing .top-slice {
-    padding: 500px 0 0;
+    padding: 500px 0 20px;
 }
 .dark-grey-slice {
     padding: 50px 0;
@@ -3168,6 +3168,9 @@ table .ereaders-smaller {
 }
 .rep-container img {
     max-width: 100%;
+}
+.texas-resources h3 {
+    font-size: 32px;
 }
 
 /* -------- End Texas Page ------------- */
@@ -3403,7 +3406,7 @@ p.symtalk-steps {
     padding-top: 20px;
 }
 .paddingbottom20 {
-    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .paddingtop40 {
     padding-top: 40px;   
@@ -3583,7 +3586,7 @@ p.symtalk-steps {
 /* -------- Start My Language Town Page Styles ------------- */
 
 .mlt-bg, .mlt-bg #topImg {
-    height: 600px;   
+    height: 484px;   
 }
 .mlt-bg #topImg {
     background: #FFF url('../images/mlt-header.jpg') no-repeat 50% 100%;   
@@ -3605,6 +3608,9 @@ p.symtalk-steps {
 }
 .mlt iframe:last-child {
     margin-bottom: 0px;
+}
+.mlt .secondary-first {
+    margin-top: 334px;
 }
 .mlt .secondary-first h2 {
     font-size: 22px;
