@@ -93,21 +93,21 @@
 					<h3 class="showSingle" target="3"><strong>Elementary Level eReaders </strong></h3>
 					<div id="div3" class="targetDiv" style="display:none;">
                         <p>My Language Town's Elementary Spanish Series is a fantastic collection of quick reads to learn elementary Spanish effortlessly&mdash;including songs, stories, poems and plenty of delightful illustrations. Students learn everyday vocabulary, basic sentences and expressions in a highly interactive, engaging and effective way.</p>
-                        <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtATXdiS1V3M25MTzQ/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
+                        <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2BRD_gaMsOKLVROV2NCN1lzV0k/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
                         <img src="<?php echo $server; ?>lib/images/mlt-elementary.png" />
 					</div>
 			<!-- 3 -->
                     <h3 class="showSingle" target="2"><strong>Beginner Level eReaders </strong></h3>
 					<div id="div2" class="targetDiv" style="display:none;">
-                        <p>Embark on Christopher Columbus's journey to the New World or join the Rodríguez in their hilarious quest for a legendary Mayan crown amongst Chihuahuas and mariachis. My Language Town Beginners Series is packed with thrills, laughs and adventure. My Language Town is the hometown for every student of Spanish language. Come join us!</p>
-                        <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtATXdiS1V3M25MTzQ/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
+                        <p>Learn about el d&#237;a de los muertos or join the Rodríguez brothers in their hilarious quest for a legendary Mayan crown amongst Chihuahuas and mariachis. My Language Town Beginners Series is packed with thrills, laughs and adventure. My Language Town is the hometown for every student of Spanish language. Come join us!</p>
+                        <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2BRD_gaMsOKLVROV2NCN1lzV0k/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
                         <img src="<?php echo $server; ?>lib/images/mlt-beginner.png" />
 					</div>
 			<!-- 4 -->
 					<h3 class="showSingle" target="5"><strong>Low intermediate/Intermediate Level eReaders</strong></h3>
 					<div id="div5" class="targetDiv" style="display:none;">
                         <p>My Language Town's Intermediate Series is the place to drop by for those students of Spanish in the mood for adventure. Fact or fiction, historical or contemporary, quick reads or longer novels, a war romance in Madrid or a tango-paced murder mystery in Buenos Aires&mdash;you get to choose!</p>
-                        <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2wIWFpktdtATXdiS1V3M25MTzQ/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
+                        <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2BRD_gaMsOKLVROV2NCN1lzV0k/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
                         <img src="<?php echo $server; ?>lib/images/mlt-low.png" />
 					</div>
 				</div>
