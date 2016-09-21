@@ -40,7 +40,7 @@
 					
 					<a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea4c8c0259cc6bcf5199116cc4e6cb0b0042e5403b262817cd" target="_blank">Sample</a>
 					&nbsp;&nbsp;
-					<a class="mw-buttons" href="" target="_blank">Watch Video</a>
+					<a class="mw-buttons" href="https://vimeo.com/182404737" target="_blank">Watch Video</a>
 					&nbsp;&nbsp;
 					<a class="mw-buttons" href="../garesources.php" target="_blank">Resources</a>
 				</div>
@@ -129,7 +129,7 @@
 
 				<div class="expandable-box expandable-one">
 					<div class="expandable-box-label">
-						<span class="expandable-box-icon">+</span><strong>5. Integrates Georgia English Language Arts Framework's Five Key Themes</strong>
+						<span class="expandable-box-icon">+</span><strong>5. Integrates English Language Arts Framework's Five Key Themes</strong>
 					</div>
 					<div class="expandable-box-content">
 						<div class="hidden-content">
@@ -162,7 +162,7 @@
 						<div class="hidden-content">
 							<ul>
 								<li>Mirrors &amp; Windows is built around 8 thematic genre-based units covering Fiction, Nonfiction, Poetry, Drama, and Folk Literature.</li> 
-								<li>Each unit gives students a Gradual Release of Responsibility opportunity through three levels of reading support: selections of Guided Reading, Directed Reading, and Independent Reading.</li>h3
+								<li>Each unit gives students a Gradual Release of Responsibility opportunity through three levels of reading support: selections of Guided Reading, Directed Reading, and Independent Reading.</li>
 								<li>Gradual Release uses scaffolding to model and apply close reading skills and strategies.</li>
 							</ul>
 						</div>
