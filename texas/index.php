@@ -30,7 +30,7 @@
                 </div>
                 <div class="right-block">
                     <p>Provide 21st century experiences that will help students build relationships and prepare them for what lies far beyond your classroom walls.
-					For a self-guide Passport tour, click <a href="http://www.emcp.com/passport/tour/" target="_blank" style="font-size:20px;color:#fff;text-decoration:underline;">here</a>.
+					For a self-guided Passport tour, click <a href="http://www.emcp.com/passport/tour/" target="_blank" style="font-size:20px;color:#fff;text-decoration:underline;">here</a>.
 					</p>
                 </div>
                 <div class="clearfix"></div>

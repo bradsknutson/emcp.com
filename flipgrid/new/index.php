@@ -150,7 +150,7 @@
       <div class="slickquotes">
         <div>
           <p class="text-center white mb2">
-            "Flipgrid us a service that is not to be missed. The App and service are simple to use for both students and teachers, and gives teachers a new tool for accurate real time assessment. Flipgrid has also allowed me to assess my students’ use of my ‘flipped classroom' in real time."
+            "Flipgrid is a service that is not to be missed. The App and service are simple to use for both students and teachers, and gives teachers a new tool for accurate real time assessment. Flipgrid has also allowed me to assess my students’ use of my ‘flipped classroom' in real time."
           </p>
           <div class="reviewWrap mt2">
             <div class="info-block">

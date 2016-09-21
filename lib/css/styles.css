@@ -3109,7 +3109,8 @@ table .ereaders-smaller {
     font-size: 22px;
     text-transform: uppercase;
 }
-.texas-landing h2, .texas-resources h2 {
+.texas-landing h2, .texas-resources h2,
+.msreview-landing h2 {
     font-size: 46px;
     margin: 20px 0;
 }
@@ -3117,7 +3118,9 @@ table .ereaders-smaller {
     color: #362453;
 }
 .texas-landing .left-block,
-.texas-landing .right-block {
+.texas-landing .right-block,
+.msreview-landing .left-block,
+.msreview-landing .right-block {
     width: 50%;
 }
 .expandable-box {
@@ -3623,6 +3626,40 @@ p.symtalk-steps {
 }
 
 /* -------- End My Language Town Page Styles ------------- */
+
+/* -------- Start MSReview Page Styles ------------- */
+.msreview-landing {
+    
+}
+.msreview-landing-bg #topImg {
+    background: #FFF url('../images/msreview-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.msreview-landing .top-slice {
+    margin-top: 480px;
+}
+.msreview-landing .top-slice  P {
+    font-size: 24px;
+    line-height: 1.5em;
+}
+.msreview-landing .emc-connect-logo img {
+    display: block;
+    margin: 20px auto 0px;
+    width: 200px;
+}
+.msreview-landing .emc-connect-content {
+    padding: 25px 0 40px;
+    margin: 0;
+    font-size: 36px;
+    text-align: center;
+    color: #444444;
+}
+.msreview-sample {
+    left: 50%;
+    margin-left: -143px;
+}
+
+/* -------- End MSReview Page Styles ------------- */
 
 /* -------- MW Button Styles ------------------- */
 .mw-buttons {
