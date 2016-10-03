@@ -7,6 +7,8 @@
 			<div id="topImg">     
                 <div class="tech-button-container">
                     <a class="technology-buttons biotech-sample transition" href="<?php echo $server; ?>applied-learning/applied-science/biotechnology/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Biotechnology Sample');">Request a Sample</a>
+					&nsbp;&nbsp;
+					<a class="technology-buttons biotech-sample transition" href="http://edu.emcp.com/applied-science/biotechnology-science-for-the-new-millennium-second-edition.html" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Biotechnology Buy It Now');" style="margin-left:300px;">Buy it now!</a>
                 </div>       
 			</div>
 		</div>

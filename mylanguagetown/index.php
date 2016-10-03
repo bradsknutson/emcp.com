@@ -99,7 +99,7 @@
 			<!-- 3 -->
                     <h3 class="showSingle" target="2"><strong>Beginner Level eReaders </strong></h3>
 					<div id="div2" class="targetDiv" style="display:none;">
-                        <p>Learn about el d&#237;a de los muertos or join the Rodríguez brothers in their hilarious quest for a legendary Mayan crown amongst Chihuahuas and mariachis. My Language Town Beginners Series is packed with thrills, laughs and adventure. My Language Town is the hometown for every student of Spanish language. Come join us!</p>
+                        <p>Learn about <span class="italic">el d&#237;a de los muertos</span> or join the Rodríguez brothers in their hilarious quest for a legendary Mayan crown amongst Chihuahuas and mariachis. My Language Town Beginners Series is packed with thrills, laughs and adventure. My Language Town is the hometown for every student of Spanish language. Come join us!</p>
                         <p><a class="learn-more-link smaller-link" href="https://drive.google.com/file/d/0B2BRD_gaMsOKLVROV2NCN1lzV0k/view?usp=sharing" target="_blank">My Language Town eReader Titles by Level</a></p>
                         <img src="<?php echo $server; ?>lib/images/mlt-beginner.png" />
 					</div>
