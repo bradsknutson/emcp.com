@@ -20,12 +20,12 @@
         </div>
         <div class="white-slice">
 			<div class="ninesixty">
-                <div class="catalog-img">
+                <div class="catalog-img-lang">
                     <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKSEdlOGY2Y0Y2UFU/view?usp=sharing" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/catalog-wl-2017.png" alt="World Languages Catalog" class="animated" />
                     </a>
                 </div>
-                <div class="catalog-img">
+                <div class="catalog-img-lang">
                     <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKVlRXc0oyUEt6N2M/view?usp=sharing" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/catalog-ela-2017.png" alt="English Language Arts Catalog" class="animated" />
                     </a>

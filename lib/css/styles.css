@@ -3575,10 +3575,21 @@ p.symtalk-steps {
     width: 33.333333%;
     float: left;
 }
+.catalog-img-lang {
+    text-align: center;
+    width: 33.333333%;
+    float: left;
+	margin-top: 50px;
+}
 .catalog-img img {
     box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.3);
     height: 315px;
     width: 243px;
+}
+.catalog-img-lang img {
+    box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.3);
+    height: 213px;
+    width: 275px;
 }
 .catalog-img img:hover {
     box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.8);   
