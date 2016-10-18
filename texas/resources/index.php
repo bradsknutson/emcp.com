@@ -4,7 +4,9 @@
 ?>
 	<div id="container" class="texas-resources">
 		<div class="header-background-image texas-resources-bg">
-			<div id="topImg"></div>
+			<div id="topImg">
+				<div style="padding-top:525px;"><a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea34e9212ae851742777d6f33a2e3ce90d16c89036f0eaf1aa" target="_blank">Sample</a></div>
+			</div>
 		</div>
 		<div class="header-top">
 			<?php include '../../includes/nav.php'; ?>
