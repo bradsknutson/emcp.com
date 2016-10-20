@@ -306,4 +306,6 @@ RewriteRule ^actfl2016$  http://response.emcp.com/promo/actfl-rsvp/   [R=301,L]
 
 RewriteRule ^ACTFL16$  http://response.emcp.com/promo/actfl-rsvp/   [R=301,L]
 
+RewriteRule ^inacoldemo$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea76683497aef581f7f2faf892703f6dc96ae433798ce75bb3   [R=301,L]
+
 ErrorDocument 404 /error.php
