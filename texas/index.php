@@ -14,7 +14,7 @@
 		</div>
 		<div class="white-slice top-slice textcenter">
             <div class="ninesixty">
-                <p><a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; <a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; <a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; <a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; <a href="<?php echo $server; ?>texas/resources/">Resources</a></p>
+                <p><a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; <a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; <a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; <a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; <a href="<?php echo $server; ?>texas/resources/" class="bold">Resources</a></p>
             </div>            
         </div>
 		<div class="grey-slice paddingtop20 paddingbottom20 textcenter">

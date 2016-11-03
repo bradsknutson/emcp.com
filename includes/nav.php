@@ -29,6 +29,7 @@
 						<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/">Chinese</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/readers/">Readers</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/symtalk/">Symtalk</a></li>
+						<li><a href="<?php echo $server; ?>texas/">Texas Proclamation 2017</a></li>
 					</ul>
 				</li>
 				<li<?php echo get_current('language-arts',$current); ?>><a href="<?php echo $server; ?>language-arts/">Language Arts</a>
