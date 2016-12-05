@@ -46,8 +46,7 @@
                     <p class="emc-connect-content">Tips, resources, trends, and more!</p>
                 </div>
                 <div class="emc-connect-posts">
-                    <?php include 'includes/home.php'; ?>
-                    <div class="clearfix"></div>
+            
                 </div>
             </div>
         </div>
