@@ -310,4 +310,6 @@ RewriteRule ^inacoldemo$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab
 
 RewriteRule ^nctedemo$  http://pages.exacttarget.com/nctedemo/   [R=301,L]
 
+RewriteRule ^clta17$  http://www.emcp.com/clta17/   [L,R=301,NC]
+
 ErrorDocument 404 /error.php
