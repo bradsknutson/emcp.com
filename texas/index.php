@@ -14,7 +14,12 @@
 		</div>
 		<div class="white-slice top-slice textcenter">
             <div class="ninesixty">
-                <p><a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; <a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; <a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; <a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; <a href="<?php echo $server; ?>texas/resources/" class="bold">Resources</a></p>
+                <p>
+					<a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; 
+					<a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; 
+					<a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; 
+					<a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; 
+					<a href="<?php echo $server; ?>texas/resources/" class="bold">Resources</a></p>
             </div>            
         </div>
 		<div class="grey-slice paddingtop20 paddingbottom20 textcenter">
@@ -112,7 +117,28 @@
                                 <li>Passport<sup>&reg;</sup></li>
                             </ul>
 
+						<!-- Begin SFNS -->
+							<h2>Espa&ntilde;ol para hispanohablantes nativos</h2>
 
+							 <img src="<?php echo $server; ?>lib/images/texas-sns.png" alt="Exploring Spanish" class="img-float-right" />
+							
+							<p>This digital supplement is designed to address the needs of heritage and native speakers, as well as provide practice for the AP* Spanish Language and Culture Exam. With 42 levels in each of the two levels, this is a perfect companion piece to ¡Qu&eacute; ch&eacute;vere!</p>
+							
+							 <ul>
+								<li>Native speakers interact with material specifically designed for their level of language</li>
+								<li>Engaging topics appeal to middle and high school students</li>
+								<li>Abundant activities offer practice in the Interpretive, Interpersonal, and Presentational Communication modes</li>
+								<li>All selections are excerpts from authentic materials</li>
+								<li>Activities mirror the seven sections for the AP* Spanish Language and Culture Exam</li>
+								<li>All six AP* themes are represented</li>
+								<li>Digital delivery allows for immediate feedback on multiple choice activities</li>
+								<li>Two levels provide differentiated instruction</li>
+							</ul>
+							
+							<p>*AP is a trademark registered by the College Board, which was not involved in the production of, and does not endorse this product</p>
+							
+						<!-- End SFNS -->
+						
                             <h2>Exploring Spanish &copy;2017</h2>
                             <p><em>The journey begins here!</em></p>
 
