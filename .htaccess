@@ -184,6 +184,7 @@ RewriteRule ^wl-ok/$  http://www.emcp.com/world-languages/adoption/ok/ [R=301,L]
 
 RewriteRule ^technology/flipgrid/$  http://emcl.com/flipgrid [R=301,L]
 RewriteRule ^technology/avenue/$  https://avenue.emcl.com/info/ [R=301,L]
+RewriteRule ^avenue$  http://www.emcp.com/technology/avenue [R=301,L]
 RewriteRule ^avenue/$  http://www.emcp.com/technology/avenue [R=301,L]
 
 RewriteRule ^language-arts/expository-composition/$ http://store.emcp.com/expository-composition-discovering-your-voice-revised-edition.html    [R=301,L]
