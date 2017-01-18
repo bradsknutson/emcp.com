@@ -3075,15 +3075,22 @@ table .ereaders-smaller {
 
 
 
-
 /* -------- Start Texas Page ------------- */
 
 .texas-landing #topImg {
     background: #FFF url('../images/texas-header.jpg') no-repeat 50% 100%;
     height: 600px;
 }
+.mississippi-landing-bg #topImg {
+    background: #FFF url('../images/ms-adoption-header.jpg') no-repeat 50% 100% !important;
+    height: 600px;
+}
 .texas-resources #topImg {
     background: #FFF url('../images/texas-resources-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.mississippi-resources-bg #topImg {
+    background: #FFF url('../images/ms-resources-header.jpg') no-repeat 50% 100% !important;
     height: 600px;
 }
 .texas-landing .emc-connect-content {

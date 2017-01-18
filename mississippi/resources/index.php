@@ -3,9 +3,9 @@
 	include '../../includes/header.php';
 ?>
 	<div id="container" class="texas-resources">
-		<div class="header-background-image texas-resources-bg">
+		<div class="header-background-image mississippi-resources-bg">
 			<div id="topImg">
-				<div style="padding-top:525px;"><a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea34e9212ae851742777d6f33a2e3ce90d16c89036f0eaf1aa" target="_blank">Sample</a></div>
+				<div style="padding-top:525px;"><a class="mw-buttons" href="http://pages.exacttarget.com/mississippi-adoption-2017/" target="_blank">Sample</a></div>
 			</div>
 		</div>
 		<div class="header-top">
@@ -13,7 +13,7 @@
 		</div>
 		<div class="white-slice al-top-content paddingtop20 paddingbottom20">
             <div class="seveneighty">
-                <p>Hello Texas Teachers. Welcome to our Proclamation 2017 Resources site. EMC offers Spanish, French, German, and Chinese Language Programs, all of which are available in our award winning digital platform Passport<sup>&reg;</sup>.  Feel free to look at our resources or go to our Texas Proclamation 2017 Homepage for more information and to request samples.</p>
+                <p>Hello Mississippi Teachers. Welcome to our Mississippi Adoption 2017 Resources site. EMC offers a 7 level (Grades 6–12) English Language Arts Series as well as Spanish, French, German, and Chinese Language Programs all of which are available in our award winning digital platform Passport<sup>&copy;</sup>. Feel free to look at our resources or go to our <a class="learn-more-link" href="<?php echo $server; ?>mississippi">Mississippi Adoption 2017 Homepage</a> for more information.</p>
             </div>
         </div>
         <div class="grey-slice paddingtop20 paddingbottom20">
@@ -24,22 +24,8 @@
         </div>
         <div class="white-slice paddingtop20 paddingbottom20">
             <div class="seveneighty">
-                <h3>Proclamation 2017 Approved Language Programs</h3>
-                <p><a href="https://www.joomag.com/magazine/texas-adoption-program-overviews/M0939966001459540031" target="_blank" class="learn-more-link">See the detailed Program overview for our Spanish and French programs.</a></p>
-            </div>
-        </div>
-        <div class="grey-slice paddingtop20 paddingbottom20">
-            <div class="seveneighty">
                 <h3>Available Languages Overview Brochures</h3>
                 <p><a href="https://www.joomag.com/magazine/emc-world-language-brochures/M0396129001457106036" target="_blank" class="learn-more-link">See our Program Overview Brochures here</a>.</p>
-            </div>
-        </div>
-        <div class="white-slice paddingtop20 paddingbottom20">
-            <div class="seveneighty">
-                <h3>TEKS</h3>
-                <p><a href="/lib/assets/TEKS.zip" class="learn-more-link">Click here to download the TEKS correlations.</a></p>
-                <p><a href="/lib/assets/TEKS-QC.pdf" target="_blank" class="learn-more-link">Click here to download a "Covering the TEKS with EMC" Sample Lesson for &iexcl;Qu&eacute; ch&eacute;vere!</a></p>
-                <p><a href="/lib/assets/TEKS-TEB.pdf" target="_blank" class="learn-more-link">Click here to download a "Covering the TEKS with EMC" Sample Lesson for T'es branch&eacute;?</a></p>
             </div>
         </div>
         <div class="grey-slice paddingtop20 paddingbottom20">
