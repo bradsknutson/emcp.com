@@ -17,7 +17,7 @@
 				</div>
                 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Sample');">Sample</a>
 				&nbsp;&nbsp;
-				 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>passport/tour/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Sample');" style="margin-left:175px;">Self-guided Passport Tour</a>
+				 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>passport/tour/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Tour');" style="margin-left:175px;">Self-guided Passport Tour</a>
             </div>
         </div>
         <div class="fofih">
