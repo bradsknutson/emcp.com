@@ -56,6 +56,7 @@
                             <img src="<?php echo $server; ?>lib/images/texas-spanish.png" alt="Que Chevere" class="img-float-right" />
                             
                             <h3>Spanish language learning has never been more engaging!</h3>
+							<p><a href="https://vimeo.com/200376096" target="_blank">Click here to see a unit tour</a></p>
                             <p>With EMC's new ground-breaking middle and high school program, students build Spanish language and cultural proficiency through authentic communication activities and engaging cultural interaction. &iexcl;Qu&eacute; ch&eacute;vere! takes Spanish teaching and learning to awesome new heights.</p>
 
                             <h3>Why &iexcl;Qu&eacute; ch&eacute;vere!</h3>
