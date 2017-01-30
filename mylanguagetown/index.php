@@ -41,12 +41,14 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
-                <p style="margin:15px 0 -10px;"><a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="http://store.emcp.com/world-languages.html?emc_product_type=374" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Buy');">Buy Now!</a> &nbsp; <a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="https://www.joomag.com/magazine/my-language-town/M0363333001465393954" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT View Sample Pages');">View sample pages</a></p>
+                <p style="margin:15px 0 -10px;"><a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="http://store.emcp.com/world-languages.html?emc_product_series=615" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Buy or View Sample Pages');">Buy now or view sample pages</a> &nbsp; <a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="https://soundcloud.com/emc-587353640/sets/my-language-town-albums-1-5" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Listen to Sample Songs');">Listen to sample songs</a></p>
                 
                 <img src="<?php echo $server; ?>lib/images/mlt-ereader.png" alt="My Language Town eReaders" style="float:right;margin-top:50px;"/>
                 
                 <h1 class="no-bottom">Starting at $2.95</h1>
-                <p class="no-top">A colorful way to learn more about Spanish language and culture My Language Town (MLT) eReaders create an engaging, interactive reading experience. Whether incorporated into the classroom curriculum or used as an independent study, MLT eReaders will enrich your students' language learning.</p>
+                <p class="no-top">A colorful way to learn more about Spanish language and culture My Language Town (MLT) eReaders and <a href="#albums" class="learn-more-link smaller-link">Albums</a> 
+				create an engaging, interactive reading experience. Whether incorporated into the classroom curriculum or used as an independent study, 
+				MLT eReaders will enrich your students' language learning.</p>
                 
                 <h3>Key Features:</h3>
                 
@@ -131,7 +133,8 @@
                     <li>Try to guess the meaning of new words based on context</li>
                 </ul>
                 
-                <a href="https://soundcloud.com/emc-587353640/sets/my-language-town-albums-1-5" target="_blank" ><img src="<?php echo $server; ?>lib/images/mlt-audio.png" alt="MyLanguageTown Audio Samples" style="margin:auto;"/></a>
+				<a name="albums">&nbsp;</a>
+                <a href="https://soundcloud.com/emc-587353640/sets/my-language-town-albums-1-5" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-audio.png" alt="MyLanguageTown Audio Samples" style="margin:auto;"/></a>
                 
             </div>
         </div>
