@@ -3761,3 +3761,18 @@ ul.sp-landing {
 .mw-ga-bg-resources #topImg {
     background: #FFF url('../images/ga-header-resources.jpg') no-repeat 50% 100%;
 }
+
+
+/* -------- Start Grand Prairie Page ------------- */
+
+.grand-prairie-landing #topImg {
+    background: #FFF url('../images/grand-prairie-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.grand-prairie-resources #topImg {
+    background: #FFF url('../images/grand-prairie-resources-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.grand-prairie-resources h3 {
+    font-size: 32px;
+}
