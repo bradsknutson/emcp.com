@@ -5,7 +5,7 @@
 	<div id="container" class="grand-prairie-resources">
 		<div class="header-background-image grand-prairie-resources-bg">
 			<div id="topImg">
-				<div style="padding-top:525px;"><a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea34e9212ae851742777d6f33a2e3ce90d16c89036f0eaf1aa" target="_blank">Sample</a></div>
+				<div style="padding-top:525px;"><a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea71708286d92a6af4c2696cd14dd6d34bf23fa96591425b4a" target="_blank">Sample</a></div>
 			</div>
 		</div>
 		<div class="header-top">
