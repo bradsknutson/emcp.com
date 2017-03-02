@@ -3081,7 +3081,7 @@ table .ereaders-smaller {
     background: #FFF url('../images/texas-header.jpg') no-repeat 50% 100%;
     height: 600px;
 }
-.mississippi-landing-bg #topImg {
+.texas-landing .mississippi-landing-bg #topImg {
     background: #FFF url('../images/ms-adoption-header.jpg') no-repeat 50% 100% !important;
     height: 600px;
 }
