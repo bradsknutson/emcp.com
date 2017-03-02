@@ -17,6 +17,8 @@
                 <img class="ereaders-right-img" src="<?php echo $server; ?>lib/images/iPadeReaders-image.png" alt="iPad eReaders" style="margin-left:50px;" />
                 
                 <p class="ereaders-smaller">EMC's enhanced eReaders connect students to their books in and out of the classroom. eReaders work on all laptops, desktops, and mobile devices including the iPad&copy;. Available in Spanish, French and German. eReader features include beautiful illustrations and easy-to-follow synchronized audio. Student’s have the ability to take notes, play games, and complete interactive practice activities!</p>
+                    
+                <a class="technology-buttons wl-readers-buttons transition" href="<?php echo $server; ?>world-languages/readers/buy/" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','World Language Readers Buy Now');">Buy Now</a>
                 
                 <div class="clearfix"></div>
                 
