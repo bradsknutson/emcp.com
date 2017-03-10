@@ -2,46 +2,118 @@
 	$custom_title = 'Italian Language Programs | ';
 	include '../../includes/header.php';
 ?>
-	<div id="container">
-		<div class="header-secondary-page"></div>
-		<div class="header-top-dark">
+<style>
+.ui-accordion .ui-accordion-header {
+	background: #F0EFEB !important;
+	font-size: 22px !important;
+	padding-right: .2em !important;
+}
+.redefining p {
+	font-size: 20px !important;
+}
+.ui-helper-reset {
+	font-size: 18px !important;
+}
+.ui-widget {
+	font-family: "myriad-pro", sans-serif !important;
+}
+.ui-accordion-content {
+    height: 550px !important;
+}
+</style>
+	<div id="container" class="quechevere">
+		<div class="vimeo-modal"></div>
+		<div class="header-background-image italian-bg">
+			<div id="topImg">
+                <div class="tech-button-container">
+                    <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/italian/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','Italian Sample');" target="_blank">Sample</a>
+                </div>
+				<div class="header-hero-hover"></div>                
+			</div>
+			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
+		</div>
+		<div class="header-top">
 			<?php include '../../includes/nav.php'; ?>
 		</div>
-		<div class="world-language-nav black">
-			<div class="ninehundred no-bottom">
-				<?php include '../../includes/wl-nav.php'; ?>
+		<div class="secondary-first">
+			<div class="ninesixty">
+				<div class="italian-left">
+                    <p class="no-top"><span class="bold">Welcome to <span class="italic">Amici d'Italia</span></span>, a 3-level Italian program for the 21st century classroom! Watch your students discover the Italian Language in a whole new way.</p>
+				</div>
+				<div class="italian-right">
+					<img src="<?php echo $server; ?>lib/images/italian-hero.png" alt="Italian Program" />
+				</div>
 				<div class="clearfix"></div>
-				<p class="onesix">EMC's robust multiplatform Italian products provide students with innovative learning solutions and technology that prepare them to be lifelong languages learners and global citizens. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction. With EMC's German educational solutions, you'll love what you teach even more.</p>
-                <p><a class="learn-more-link" href="http://www.emcp.com/world-languages/italian/programs/">See All Italian Products</a></p>
 			</div>
 		</div>
-		<div class="wl-featured-first featured-italian">
-			<div class="ninehundred onesix">
-				<div>
-					<h2>Caff&egrave; Italia</h2>
-                    <p class="no-top">Middle and High School</p>
-					<p>This three-level Italian program was created by an expert group of teachers and based on the latest teaching methodologies. <span class="italic">Caff&egrave; Italia</span> puts students at the center of the learning process and encourages them to discover the rules and rationales behind the Italian language.</p>
-					<a class="learn-more-link smaller-link" href="<?php echo $server; ?>ci">Learn more</a>
+        
+        <div class="redefining no-bottom">
+            <div class="ninesixty paddingbottom40" style="margin-top:15px;">
+				<div id="accordion">
+			<!-- 1 -->
+					<h3 class="showSingle" target="2"><strong>Key Features</strong></h3>
+					<div id="div2" class="targetDiv" style="display:none;">
+                        Amici d'Italia is specifically designed to engage high school students in learning the Italian language. Unit features:
+						<ul class="lineheight1p75">
+							<li>Vocabulary and grammar presented in context
+							<li>Clear and concise grammar explanations
+							<li>Ample vocabulary and grammar practice
+							<li>Communication activities in the presentational, interpersonal, and interpretive modes
+							<li>Activities devoted to the four skills: listening, speaking, reading, writing
+							<li>Cultural narratives that focus on the products, perspectives, and practices of the Italian culture
+						</ul>
+					</div>
+			<!-- 3 -->
+					<h3 class="showSingle" target="4"><strong>Program Components</strong></h3>
+					<div id="div4" class="targetDiv" style="display:none;">
+                        <div class="one-half first textalignleft">
+                            <p class="bold">For students:</p>
+                            <ul class="lineheight1p75">
+								<li>Textbook (print and digital)</li>
+								<li>Workbook (print and digital)</li>
+								<li>Textbook audio files</li>
+								<li>Workbook audio files</li>
+                            </ul>
+                        </div>
+                        <div class="one-half last textalignleft">
+                            <p class="bold">For teachers:</p>
+							<p>Teacher's Guide (print and digital), which includes:</p>
+                            <ul class="lineheight1p75">
+                                <li>Textbook Activities Answer Key</li>
+								<li>Workbook Answer Key and listening activities transcript</li>
+								<li>Entrance Test</li>
+								<li>Unit Assessments provided in two versions</li> 
+								<li>Units Skill Tests with audio files for listening comprehension</li>
+								<li>Cumulative Linguistic Competence Tests</li>
+								<li>Remedial Unit Assessments</li>
+								<li>Dramatization scripts</li>
+								<li>Audio Program Manager</li>
+                            </ul>
+                        </div>
+                        <div class="clearfix"></div>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="ninehundred">
-			<div class="sub-featured onesix black">
-				<img src="<?php echo $server; ?>lib/images/symtalk-italian.jpg" alt="Symtalk" />
-				<h3>Symtalk</h3>
-				<p>Middle and Elementary School</p>
-				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=360&q=symtalk">Buy It Now!</a></p>
-			</div>
-			<div class="sub-featured onesix black">
-				<img src="<?php echo $server; ?>lib/images/exploring-italian.jpg" alt="Exploring French" />
-				<h3>Exploring Italian</h3>
-				<p>Middle School</p>
-				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-italian-second-edition.html">Buy It Now!</a></p>
-			</div>
-			<div class="clearfix"></div>
-		</div>
-        <?php include '../../includes/wl-footer-links.php'; ?>
+		<!-- END ACCORDION -->   
+
+
+		<div class="ninesixty no-bottom no-top">
+            <h2 style="margin:0 0 25px 0;text-align:center;font-weight:bold;">Related Italian Resources</h2>
+        </div>
 		
-<?php include '../../includes/footer.php'; ?>		
+		<?php include '../../includes/wl-footer-links.php'; ?> 
+	</div>
+
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      collapsible: true,
+	  active: false
+    });
+  });
+</script>
+<?php include '../../includes/footer.php'; ?>
