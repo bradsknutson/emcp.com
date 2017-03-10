@@ -3776,3 +3776,20 @@ ul.sp-landing {
 .grand-prairie-resources h3 {
     font-size: 32px;
 }
+
+
+/* -------- Italian Page ------------------------- */
+.italian-bg, .italian-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.italian-bg #topImg{
+	background: url('../images/italian-header.jpg') no-repeat 50% 100%;
+}
+.italian-left {
+	float: left;
+	width: 500px;
+}
+.italian-right {
+	float: left;
+}

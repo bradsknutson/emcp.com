@@ -134,8 +134,8 @@ RewriteRule ^world-languages/chinese/classroom-fun/   http://store.emcp.com/worl
 
 RewriteRule ^world-languages/italian/programs/   http://store.emcp.com/world-languages.html?language=360 [R=301,L]
 RewriteRule ^world-languages/italian/activity-books/   http://store.emcp.com/world-languages.html?emc_product_type=368&language=360 [R=301,L]
-RewriteRule ^world-languages/italian/readers/   http://store.emcp.com/world-languages.html?emc_product_type=367&language=360 [R=301,L]
-RewriteRule ^world-languages/italian/games/   http://store.emcp.com/world-languages.html?emc_product_type=366&language=360 [R=301,L]
+RewriteRule ^world-languages/italian/readers/   http://store.emcp.com/world-languages.html?emc_product_type=374&language=360 [R=301,L]
+RewriteRule ^world-languages/italian/games/   http://store.emcp.com/world-languages.html?emc_product_type=523&language=360 [R=301,L]
 RewriteRule ^world-languages/italian/classroom-fun/   http://store.emcp.com/world-languages.html?emc_product_type=369&language=360 [R=301,L]
 
 RewriteRule ^classroom/games/   http://store.emcp.com/world-languages.html?emc_product_type=523 [R=301,L]
@@ -202,6 +202,7 @@ RewriteRule ^world-languages/french/tes-branche/sample/$    http://pages.exactta
 RewriteRule ^world-languages/german/deutsch-aktuell/sample/$    http://pages.exacttarget.com/page.aspx?QS=3935619f7de112ef7dc296945793ce5b4034abc1cc1c695a [R=301,L]
 RewriteRule ^world-languages/symtalk/sample/$    http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea57c806cc572360ee784e04d5206dd10cf7e0b5af413b023c [R=301,L]
 RewriteRule ^world-languages/symtalk/buy/$ http://edu.emcp.com/world-languages.html?emc_product_series=579 [R=301,L]
+RewriteRule ^world-languages/italian/sample/$   http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eac3cc687a33cd6b9b270805d0aa6296c9e62cec76849b1dc6 [R=301,L]
 
 RewriteRule ^biotech$    http://www.emcp.com/applied-learning/applied-science/biotechnology/ [R=301,L]
 RewriteRule ^biotech/$    http://www.emcp.com/applied-learning/applied-science/biotechnology/ [R=301,L]
