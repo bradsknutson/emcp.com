@@ -316,4 +316,8 @@ RewriteRule ^nctedemo$  http://pages.exacttarget.com/nctedemo/   [R=301,L]
 
 RewriteRule ^clta17$  http://www.emcp.com/clta17/   [L,R=301,NC]
 
+RewriteRule ^texaspreview(.*)$ http://www.emcp.com/   [L,R=301,NC]
+RewriteRule ^previews/Common%20Files(.*)$ http://www.emcp.com/   [L,R=301,NC]
+RewriteRule ^previews/Common\sFiles(.*)$ http://www.emcp.com/   [L,R=301,NC]
+
 ErrorDocument 404 /error.php
