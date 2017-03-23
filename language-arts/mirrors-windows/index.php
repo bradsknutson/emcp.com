@@ -30,15 +30,14 @@
                         <li>Cross-curricular and text-to-text connections</li>
                         <li>In-depth workshops for skills mastery</li>
                         <li>A full correlation to the Common Core State Standards</li>
-                        <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning</li>
-                        <li>Guide, Assessment Guide, and Assessment Practice Guide</li>
+                        <li>Aligned with College & Career Readiness Standards</li>
+                        <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning Guide, Assessment Guide, and CCSS Assessment Practice</li>
                         <li>Great literature and current informational texts</li>
                         <li>Qualitative and quantitative text complexity measures</li>
                         <li>Close reading models and practice</li>
                         <li>Text-dependent questions & writing to sources</li>
                         <li>Multiplatform eBooks & interactive eWorkbooks</li>
                         <li>The latest digital learning technologies</li>
-                        <li>Aligned with College & Career Readiness Standards</li>
                     </ul>
 					<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
 				</div>
@@ -81,7 +80,8 @@
                         <li>Meeting the Standards eWorkbook</li>
                         <li>Exceeding the Standards eWorkbook</li>
                         <li>Differentiated Instruction eWorkbook with Spanish Summaries</li>
-                        <li>Common Core Assessment Practice Criterion Online Essay Grader</li>
+                        <li>Common Core Assessment Practice</li>
+                        <li>Criterion Online Essay Grader</li>
                         <li>Audio program in eBook</li>
                         <li>Access Editions (17 eBooks)</li>
                     </ul>
@@ -112,7 +112,7 @@
 				</div>
 				<div class="conectate-iculture-second">
                     <h3 class="conectate">Multiplatform eBooks on Bookshelf</h3>
-                    <p class="no-top">EMC's multiplatform eBooks connect students to literature and language arts in and out of the classroom.  With a touch of the finger, students are able to access every page of their textbooks.  Our eBooks are available for delivery on all laptops, desktops, and mobile devices, including the iPad,<sup>&copy;</sup>.</p>
+                    <p class="no-top">EMC's multiplatform eBooks connect students to literature and language arts in and out of the classroom.  With a touch of the finger, students are able to access every page of their textbooks.  Our eBooks are available for delivery on all laptops, desktops, and mobile devices, including the iPad<sup>&copy;</sup>.</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>        
@@ -120,7 +120,7 @@
 		<div class="redefining light-grey-slice">
 			<div class="ninehundred no-bottom">
 				<div class="aligncenter">
-					<h2>Redefining seamless learning through technology.</h2>
+					<h2>Redefining seamless learning through technology</h2>
 				</div>
 				
 				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
