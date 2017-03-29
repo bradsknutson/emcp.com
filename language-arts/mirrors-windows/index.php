@@ -10,7 +10,9 @@
 					<div class="icon-play"></div>
 				</div>
                 <div class="header-hero-hover"></div>
-                <a class="technology-buttons mw-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');">Sample</a>
+                <a class="technology-buttons passport-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');">Sample</a>
+				&nbsp;&nbsp;
+				<a class="technology-buttons passport-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport');" style="margin-left:200px !important;">New! Passport for ELA</a>
 			</div>
 		</div>
 		<div class="header-top">

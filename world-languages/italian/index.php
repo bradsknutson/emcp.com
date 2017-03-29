@@ -27,7 +27,10 @@
 			<div id="topImg">
                 <div class="tech-button-container">
                     <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/italian/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','Italian Sample');" target="_blank">Sample</a>
-                </div>
+					&nbsp;&nbsp;
+					<a class="technology-buttons qc-sample transition" href="https://drive.google.com/file/d/0B2BRD_gaMsOKYnJYX1dEWUZubHc/view?usp=sharing" onClick="ga('send', 'event', 'Call To Action Button','click','Sample Chapter');" target="_blank" style="margin-left:200px !important;">Preview a Sample Chapter</a>
+				
+				</div>
 				<div class="header-hero-hover"></div>                
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
@@ -38,7 +41,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="italian-left">
-                    <p class="no-top"><span class="bold">Welcome to <span class="italic">Amici d'Italia</span></span>, a 3-level Italian program for the 21st century classroom! Watch your students discover the Italian Language in a whole new way.</p>
+                    <p class="no-top"><span class="bold">Welcome to <span class="italic">Amici d'Italia</span></span>, a 3-level Italian program for the 21st century classroom! Watch your students discover the Italian Language in a whole new way. Available in fall 2017.</p>
 				</div>
 				<div class="italian-right">
 					<img src="<?php echo $server; ?>lib/images/italian-hero.png" alt="Italian Program" />
