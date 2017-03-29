@@ -318,4 +318,8 @@ RewriteRule ^clta17$  http://www.emcp.com/clta17/   [L,R=301,NC]
 
 RewriteRule ^ELAPassport$  http://www.emcp.com/language-arts/mirrors-windows/passport/   [L,R=301,NC]
 
+RewriteRule ^texaspreview(.*)$ http://www.emcp.com/   [L,R=301,NC]
+RewriteRule ^previews/Common%20Files(.*)$ http://www.emcp.com/   [L,R=301,NC]
+RewriteRule ^previews/Common\sFiles(.*)$ http://www.emcp.com/   [L,R=301,NC]
+
 ErrorDocument 404 /error.php
