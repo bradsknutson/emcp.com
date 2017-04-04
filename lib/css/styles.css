@@ -3807,3 +3807,9 @@ ul.sp-landing {
     bottom: 25px !important;
     left: 35%;
 }
+
+/* --------------- WV Review Page ---------------- */
+.wvreview-landing-bg #topImg {
+    background: #FFF url('../images/wvreview-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
