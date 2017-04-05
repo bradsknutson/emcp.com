@@ -18,11 +18,10 @@
             <div class="seveneighty">
                 <p>Welcome West Virginia Reviewers,</p>
                 <p>EMC School has submitted sample materials for the West Virginia adoption.<br />
-                   Please access our digital samples using the respective usernames and passwords provided to the Adoption Committee. 
-				   Please access our digital samples by clicking <a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">here</a>, 
+				   Please access our digital samples by clicking <a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link" style="font-size:24px;">here</a>, 
 				   then click "Login" and use the respective usernames and passwords provided to the Adoption Coordinator. 
 				   For System Requirements and User-Guides, please click 
-				   <a href="http://support.emcp.com/support/emc-multiplatform-ebooks/#requirements-entries-tab" target="_blank" class="learn-more-link">here</a>.</p>
+				   <a href="http://support.emcp.com/support/emc-multiplatform-ebooks/#requirements-entries-tab" target="_blank" class="learn-more-link" style="font-size:24px;">here</a>.</p>
             </div>            
         </div>
         <div class="dark-grey-slice paddingtop20 paddingbottom40">
