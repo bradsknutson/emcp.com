@@ -5,10 +5,11 @@
 ?>
 <style>
 .ui-accordion .ui-accordion-header {
-	background: #FFF !important;
+	background: #F0EFEB !important;
 	font-size: 24px !important;
 	padding-right: .2em !important;
     border: none !important;
+	margin: 0 0 2px 0;
 }
 .redefining p {
 	font-size: 20px !important;
@@ -23,6 +24,8 @@
     height: 100% !important;
     border: none !important;
 }
+
+
 </style>
 	<div id="container" class="mw">
 		<div class="header-background-image mw-cal-bg">
@@ -51,8 +54,8 @@
 		<div style="padding:10px 0;margin:0;background:#9E0C10;">
 			<h2 style="font-size:34px;margin:15px 0 25px;text-align:center;color:#fff;">Top 10 Reasons Mirrors & Windows is Perfect for California Teachers</h2>
 		</div>
-        <div class="redefining no-bottom">
-            <div class="ninesixty paddingbottom40" style="margin-top:15px;">
+        <div class="redefining no-bottom light-grey-slice">
+            <div class="ninesixty paddingbottom40">
 				<div id="accordion">
 			<!-- 1 -->
 					<h3 class="showSingle" target="1"><strong>1. Love of Literature</strong></h3>
@@ -188,6 +191,21 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="supp-support-container">
+			<div class="supp-support-content">
+				<h2>Supplemental Support for California Program 2</h2>
+				<p class="bold">ELD Lessons grades 6-8 and 9-12</p>
+				<p>English Language Development lessons expand on the program’s English Language Learners support included in the Differentiated Instruction resource. These lessons provide additional activities at the Emerging, Bridging, and Expanding levels that increase students’ vocabulary development, oral language proficiency, and English language skills.</p>
+				<p class="bold">Foundational Literacy Skills Lessons</p>
+				<p>The Foundational Literacy Skills Practice lessons provide additional instruction and activities that build on the Reading Standards for Foundational Skills, kindergarten through grade five of the CA CCSS for ELA, focusing on phonological awareness, phonics and word recognition, and fluency.</p>
+				<p class="bold">Spanish Literary Terms Handbook</p>
+				<p>The Literary Terms Handbook translated into Spanish is provided for grades 6-12. The dual language handbook lists terms first in English, followed by Spanish translation and definition in Spanish.</p>
+				<p class="bold">Spanish Selection Summaries</p>
+				<p>Selection summaries are provided in Spanish for the Differentiated Instruction-ELL selections in text and audio.</p>
+			</div>
+		</div>
+
 		<!-- END NEW -->
         <div class="redefining paddingtop40 light-grey-slice">
             <div class="ninesixty">

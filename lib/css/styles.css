@@ -940,7 +940,7 @@ p.chatbox-quote{
 }
 .secondary-first {
 	margin-top: 450px;
-	background: #F0EFEB;
+	//background: #F0EFEB;
 }
 .secondary-first .ninesixty, .secondary-next .ninesixty {
 	padding: 65px 0px 40px;
@@ -2465,6 +2465,38 @@ h3.adonde {
 .testInput {
     display: none;
 }
+
+/* ------- Accordian style overrides ------- */
+
+.ui-widget-content {
+    background: #F0EFEB !important;
+}
+
+.ui-helper-reset {
+    line-height: 1.6 !important;
+}
+
+/* ------- Supplemental Support ------- */
+
+
+.supp-support-container {
+    /*background-color: #D9D7D8;*/
+    width: 100%;
+}
+
+.supp-support-content {
+    width: 960px;
+    margin: auto;
+    padding: 40px;
+    line-height: 1.6;
+}
+
+.supp-support-content h2 {
+    font-size: 40px;
+}
+
+
+
 
 /* -------- End Footer Styles ------------- */
 
