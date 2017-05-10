@@ -1,13 +1,13 @@
 
 <?php 
-	$custom_title = 'West Virginia Review | ';
+	$custom_title = 'Tennesee Review | ';
 	include '../includes/header.php';
 ?>
 	<div id="container" class="msreview-landing">
-		<div class="header-background-image wvreview-landing-bg">
+		<div class="header-background-image tnreview-landing-bg">
 			<div id="topImg">
                 <div class="tech-button-container">
-                    <a class="technology-buttons msreview-sample transition" href="http://emc.bookshelf.emcp.com" onclick="ga('send', 'event', 'Call To Action Button','click','WV Review');" target="_blank">Access Samples Here!</a>
+                    <a class="technology-buttons msreview-sample transition" href="http://emc.bookshelf.emcp.com" onclick="ga('send', 'event', 'Call To Action Button','click','TN Review');" target="_blank">Access Samples Here!</a>
                 </div>
             </div>
 		</div>
@@ -16,8 +16,8 @@
 		</div>
 		<div class="white-slice top-slice">
             <div class="seveneighty">
-                <p>Welcome West Virginia Reviewers,</p>
-                <p>EMC School has submitted sample materials for the West Virginia adoption.<br />
+                <p>Welcome Tennessee Reviewers,</p>
+                <p>EMC School has submitted Anatomy &amp; Physiology sample materials for the Tennessee adoption.<br />
 				   Please access our digital samples by clicking <a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link" style="font-size:24px;">here</a>, 
 				   then click "Login" and use the respective usernames and passwords provided to the Adoption Coordinator. 
 				   For System Requirements and User-Guides, please click 
