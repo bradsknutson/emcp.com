@@ -27,12 +27,12 @@
                 </div>
                 <div class="catalog-img-lang">
                     <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKVlRXc0oyUEt6N2M/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/2017-CompTechCover.jpg" alt="English Language Arts Catalog" class="animated" />
+                        <img src="<?php echo $server; ?>lib/images/catalog-ela-2017.png" alt="English Language Arts Catalog" class="animated" />
                     </a>
                 </div>
                 <div class="catalog-img">
                     <a href="https://drive.google.com/file/d/0B2wIWFpktdtAS3ZMdUw5NlltOUU/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/2016-computer-tech-catalog.jpg" alt="Computer Technology 2016" class="animated" />
+                        <img src="<?php echo $server; ?>lib/images/2017-CompTechCover.jpg" alt="Computer Technology 2016" class="animated" />
                     </a>
                 </div>
                 <div class="clearfix"></div>
