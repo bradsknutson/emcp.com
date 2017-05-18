@@ -25,15 +25,30 @@
                 <div class="clearfix"></div>
             </div>
         </div>
+	<!--
 		<div class="grey-slice">
 			<div class="ninesixty slice-odd">
                 <div class="left-slice">
                     <h1>Anatomy & Physiology</h1>
                     <p><em>Applied Anatomy & Physiology</em> is a fresh approach to teaching the fundamental principles and the practical application of those principles to your high school students.</p>
-                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/applied-science/anatomy-physiology/">Buy It Now!</a>
+                    <a class="learn-more-link" href="http://store.emcp.com/applied-science.html">Buy It Now!</a>
                 </div>
                 <div class="right-slice">
-                    <img src="<?php echo $server; ?>lib/images/al-as-anat.png" alt="Anatomy & Physiology<" />
+                    <img src="<?php //echo $server; ?>lib/images/al-as-anat.png" alt="Anatomy & Physiology" />
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+	-->
+		<div class="grey-slice">
+			<div class="ninesixty">
+                <div class="left-slice">
+                    <img src="<?php echo $server; ?>lib/images/ap-2e-cover.png" alt="Applied Anatomy &amp; Physiology, 2nd Edition Revised, A Case Study Approachs" />
+                </div>
+                <div class="right-slice">
+                    <h1>Applied Anatomy &amp; Physiology, 2nd Edition Revised, A Case Study Approach</h1>
+                    <p><em>Applied Anatomy &amp; Physiology, 2nd Edition, Revised, A Case Study Approach</em> is a fresh approach to teaching the fundamental principles and the practical application of those principles to your high school students.</p>
+                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/applied-science/anatomy-physiology/">Learn More!</a>&nbsp;&nbsp;
                 </div>
                 <div class="clearfix"></div>
             </div>

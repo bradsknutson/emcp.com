@@ -231,7 +231,7 @@ RewriteRule ^applied-learning/business-education/computerized-accounting/$  http
 RewriteRule ^applied-learning/business-education/web-development/$  http://store.emcp.com/business-education-computer-skills.html?emc_product_series=584 [R=301,L]
 RewriteRule ^applied-learning/business-education/legal-studies/$  http://store.emcp.com/business-education-computer-skills.html?emc_product_series=552 [R=301,L]
 
-RewriteRule ^applied-learning/applied-science/anatomy-physiology/$  http://store.emcp.com/applied-science.html [R=301,L]
+# RewriteRule ^applied-learning/applied-science/anatomy-physiology/$  http://store.emcp.com/applied-science.html [R=301,L]
 
 RewriteRule ^applied-learning/social-studies/personal-finance/$  http://store.emcp.com/social-studies/personal-finance-a-lifetime-responsibility.html [R=301,L]
 RewriteRule ^applied-learning/social-studies/american-government/$  http://store.emcp.com/social-studies/american-government-citizenship-and-power.html [R=301,L]
@@ -321,5 +321,7 @@ RewriteRule ^ELAPassport$  http://www.emcp.com/language-arts/mirrors-windows/pas
 RewriteRule ^texaspreview(.*)$ http://www.emcp.com/   [L,R=301,NC]
 RewriteRule ^previews/Common%20Files(.*)$ http://www.emcp.com/   [L,R=301,NC]
 RewriteRule ^previews/Common\sFiles(.*)$ http://www.emcp.com/   [L,R=301,NC]
+
+RewriteRule ^applied-learning/applied-science/anatomy-physiology/sample/$    http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea7d0f6734bab405bdc9c17a40224089592949a3b092e07d1c [R=301,L]
 
 ErrorDocument 404 /error.php
