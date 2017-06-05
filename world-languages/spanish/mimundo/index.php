@@ -39,9 +39,9 @@
 				<div>
                     <p class="no-top">Mi Mundo Classroom is an elementary Spanish curriculum focusing on communication. It bundles a collection of our 
 					leading components into one effective teaching tool that will get your students speaking Spanish after the first lesson. The bundle 
-					includes our visual speaking method called <span class="bold">Symtalk</span>, the age-appropriate and leveled 
-					<span class="bold">My Language Town eReaders &amp; Songs</span>, as well as 
-					our video capture and collaboration tool called <span class="bold">Flipgrid</span>.</p>
+					includes our visual speaking method called <a class="learn-more-link" href="http://www.emcp.com/world-languages/symtalk/">Symtalk</a>, 
+					the age-appropriate and leveled <a class="learn-more-link" href="http://www.emcp.com/mylanguagetown/">My Language Town eReaders &amp; Songs</a>, as well as 
+					our video capture and collaboration tool called <a class="learn-more-link" href="http://www.emcp.com/flipgrid/new/">Flipgrid</a>.</p>
 					<p span class="bold">Please contact us at 800-328-1452 to place an order.</p>
 				</div>
 				<div class="clearfix"></div>

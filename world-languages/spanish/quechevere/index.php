@@ -163,7 +163,7 @@
 				<img src="<?php echo $server; ?>lib/images/mi-mundo-cover.jpg" alt="Mi Mundo Classroom" />
 				<h3 style="line-height:90% !important;margin:35px 0 0 !important;">Mi Mundo Classroom</h3>
 				<p>An elementary Spanish curriculum focusing on geting your students speaking Spanish after the first lesson.<br />
-				<a class="learn-more-link smaller-link" href="../mimundo/index.php">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="../mimundo/index.php">Learn More</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/texas-sns-covers.jpg" alt="Spanish for Native Speakers" />
@@ -186,7 +186,7 @@
 				<h3>Exploring Spanish</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages/exploring-spanish-third-edition-revised.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/exploringspanish">Learn more</a></p>
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages/exploring-spanish-third-edition-revised.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/exploringspanish">Learn More</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
