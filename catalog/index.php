@@ -31,7 +31,7 @@
                     </a>
                 </div>
                 <div class="catalog-img">
-                    <a href="https://drive.google.com/file/d/0B2wIWFpktdtAS3ZMdUw5NlltOUU/view?usp=sharing" target="_blank">
+                    <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKNjhLRmdOblVXQVU/view?usp=sharing" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/2017-CompTechCover.jpg" alt="Computer Technology 2016" class="animated" />
                     </a>
                 </div>

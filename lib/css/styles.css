@@ -3857,3 +3857,11 @@ ul.sp-landing {
     background: #FFF url('../images/ap-hero.jpg') no-repeat 50% 100%;
     height: 600px;
 }
+/* --------------- Mi Mundo Page ---------------------------- */
+.mimundo-bg, .mimundo-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.mimundo-bg #topImg{
+	background: url('../images/mimundo-header.jpg') no-repeat 50% 100%;
+}

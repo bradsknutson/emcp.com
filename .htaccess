@@ -323,5 +323,6 @@ RewriteRule ^previews/Common%20Files(.*)$ http://www.emcp.com/   [L,R=301,NC]
 RewriteRule ^previews/Common\sFiles(.*)$ http://www.emcp.com/   [L,R=301,NC]
 
 RewriteRule ^applied-learning/applied-science/anatomy-physiology/sample/$    http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea7d0f6734bab405bdc9c17a40224089592949a3b092e07d1c [R=301,L]
+RewriteRule ^world-languages/spanish/mimundo/sample/$    http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea74068c51c6f4c416eca70abf6b7a36bfcd12dc3974a32157 [R=301,L]
 
 ErrorDocument 404 /error.php
