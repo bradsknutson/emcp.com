@@ -42,6 +42,9 @@
 					a complete sentence. Students will learn vocabulary and grammar in context and have fun interpreting the self-explanatory pictures.<br /><br />
 					
 					<a class="mw-buttons teb-demo transition" href="<?php echo $server; ?>world-languages/symtalk/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Symtalk Sample');">Sample</a>
+					<a class="mw-buttons teb-demo transition" href="http://store.emcp.com/world-languages.html?emc_product_series=579" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','Symtalk Sample');">Buy Now</a>
+					
+					
 					</p>
 				</div>
 				<div class="symtalk-right">
