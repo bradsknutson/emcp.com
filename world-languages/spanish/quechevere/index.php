@@ -169,7 +169,10 @@
 				<img src="<?php echo $server; ?>lib/images/texas-sns-covers.jpg" alt="Spanish for Native Speakers" />
 				<h3 style="line-height:90% !important;margin:-15px 0 0 !important;">Espa&ntilde;ol para<br />hispanohablantes nativos</h3>
 				<p>Spanish for Native Speakers</p>
-				<p>Espa&ntilde;ol para hispanohablantes nativos is a digital supplement designed to address the needs of heritage and native speakers, as well as provide practice for the AP* Spanish Language and Culture Exam. With 42 levels in each of the two levels, this is a perfect companion piece to ¡Qu&eacute; ch&eacute;vere!</p>
+				<p>Espa&ntilde;ol para hispanohablantes nativos is a digital supplement designed to address the needs of heritage and native speakers, 
+				as well as provide practice for the AP* Spanish Language and Culture Exam. With 42 levels in each of the two levels, this is a perfect 
+				companion piece to ¡Qu&eacute; ch&eacute;vere!<br />
+				<a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages/espanol-para-hispanohablantes-nativos.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/heritage">Learn More</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>

@@ -3865,3 +3865,18 @@ ul.sp-landing {
 .mimundo-bg #topImg{
 	background: url('../images/mimundo-header.jpg') no-repeat 50% 100%;
 }
+/* --------------- Heritage Page ---------------------------- */
+.heritage-bg, .heritage-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.heritage-bg #topImg{
+	background: url('../images/heritage-header.jpg') no-repeat 50% 100%;
+}
+/* ---------------- Mimundo Page ---------------------------- */
+.mimundo .ninesixty {
+	padding: 15px 0px 10px;
+	line-height: 1.9;
+	font-size: 18px;
+	color: #000;
+}

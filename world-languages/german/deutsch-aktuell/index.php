@@ -134,7 +134,7 @@
                 <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />            
             </div>
         </div>
-		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-40px;"></div>		
+		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-120px;"></div>		
 		<div class="emc-languages">
 			<div class="ninehundred no-top">
 				<div class="emc-languages-learn">
