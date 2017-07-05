@@ -44,7 +44,10 @@
 				<p class="topten">Go to <a href="http://support.emcp.com" target="_blank">support.emcp.com</a> to view FAQs, User Guides, Training Videos and more. Chat is available 24x7.</p>
 				
 				<h3>Phone</h3>
-				<p class="topten">Available Monday through Sunday 8AM - 10PM (CST). Call 1-800-328-1452 (press 2) for Technical Support.</p>
+				<p class="topten">
+				<strong>We are experiencing intermittent issues with our phone system. For immediate assistance please contact us via live chat at the links provided above. We apologize for any inconvenience that this causes.</strong>
+				<!-- Available Monday through Sunday 8AM - 10PM (CST). Call 1-800-328-1452 (press 2) for Technical Support. -->
+				</p>
 				
 				<h3>Email support</h3>
 				<p class="topten">Available Monday through Sunday 8AM - 10PM (CST).<br />

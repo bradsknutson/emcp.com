@@ -35,19 +35,64 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
-				<div class="aligncenter"><h2>Meet Mi Mundo Classroom?</h2></div>
+				<div class="aligncenter"><img src="http://www.emcp.com/lib/images/mimundo-title.png" border="0" /></div>
 				<div>
-                    <p class="no-top">Mi Mundo Classroom is an elementary Spanish curriculum focusing on communication. It bundles a collection of our 
-					leading components into one effective teaching tool that will get your students speaking Spanish after the first lesson. The bundle 
-					includes our visual speaking method called <a class="learn-more-link" href="http://www.emcp.com/world-languages/symtalk/">Symtalk</a>, 
-					the age-appropriate and leveled <a class="learn-more-link" href="http://www.emcp.com/mylanguagetown/">My Language Town eReaders &amp; Songs</a>, as well as 
-					our video capture and collaboration tool called <a class="learn-more-link" href="http://www.emcp.com/flipgrid/new/">Flipgrid</a>.</p>
-					<p span class="bold">Please contact us at 800-328-1452 to place an order.</p>
+                    <p>Mi Mundo Classroom is an elementary Spanish curriculum focusing on communication. It bundles a collection of our 
+					leading components into one effective teaching tool that will get your students speaking Spanish after the first lesson.</p>
+					
+					<p>Please contact us at 800-328-1452 to place an order.</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
+		</div>
+		<div class="mimundo grey-slice" style="padding:0 !important;">
+			<div class="ninesixty">
+				<div>
+                    <h2 class="aligncenter">Symtalk</span></h2>
+					<p>The Symbol Cards are at the core of the Symtalk method. Students learn to speak Spanish using self-explanatory symbols to create meaningful sentences. 
+					The Symbol Cards represent all parts of speech: subjects, nouns, adverbs, prepositions, and more. The images are introduced in a meaningful sentence structure 
+					which allows students to interpret them immediately while grammar is implicitly learned.</p>
+				</div>
+				<div class="aligncenter"><img src="http://www.emcp.com/lib/images/symtalk-card-series.png" alt="Symtalk Card Series" border="0" /></div>
+				<div class="clearfix"></div>
+			</div>
 		</div> 
-
+		<div class="mimundo">
+			<div class="ninesixty">
+				<div>
+                    <h2 class="aligncenter">My Language Town</span></h2>
+					<p><img src="http://www.emcp.com/lib/images/mlt-3-screens.png" alt="My Language Town " border="0" style="float:right;" />
+					The visually appealing eReaders present language through unique and engaging stories that reinforce and expand language concepts. The easy-to-follow 
+					dialogue format provides students with opportunities to act out the stories.<br /><br />
+					
+					 The easy-to-learn, catchy Spanish songs introduce and develop language concepts in a fun and engaging way.
+					</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="mimundo grey-slice" style="padding:0 !important;">
+			<div class="ninesixty">
+				<div>
+                    <h2 class="aligncenter">Flipgrid</span></h2>
+					<p>Students demonstrate what they know by capturing short videos from any device, to post and share ideas, with classmates. Students practice 
+					presentational and interpersonal communication in a safe and controlled online environment.</p>
+				</div>
+				<div class="aligncenter"><img src="http://www.emcp.com/lib/images/mimundo-flipgrid.png" alt="Flipgrid" border="0" /></div>
+				<div class="clearfix"></div>
+			</div>
+		</div> 
+		<div class="mimundo">
+			<div class="ninesixty">
+				<div>
+                    <h2 class="aligncenter">Mi mundo Classroom – <span class="italic">Which level is right for my students?</span></h2>
+					<p>Mi mundo is flexible. Each level is designed as an entry-level, so students who are not familiar with the program can begin at any level.</p>
+				</div>
+				<div class="aligncenter"><img src="http://www.emcp.com/lib/images/mimundo-flipgrid.png" alt="Flipgrid" border="0" /></div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>
