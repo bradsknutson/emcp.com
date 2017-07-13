@@ -7,6 +7,9 @@
 	
 		<a href="<?php echo $server; ?>"><img src="<?php echo $server; ?>lib/images/logo.png" alt="EMC" /></a>
 		
+		<!-- Request Button -->
+		<a href="/catalog/request.php" class="request">SAMPLE</a>
+		
 		<nav class="main-navigation" role="navigation">
 			
 			<ul id="sf" class="sf-menu">
