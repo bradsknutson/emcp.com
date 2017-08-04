@@ -34,7 +34,7 @@
             <a class="button" href="http://www.emcp.com/ilife/iculturenew">Continue</a>
         </div>
         <div class="footer">
-            <img src="footer-logo.jpg" alt="EMc Publishing, LLC" />
+            <img src="footer-logo.jpg" alt="EMC School" />
             <div class="footer-content">
                 <div class="footer-inner">
                     <p>Toll Free: (800) 328-1452 (Press 1 for Customer Service, Press 2 for Technical Support)<br />

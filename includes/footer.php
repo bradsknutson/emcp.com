@@ -37,9 +37,9 @@
 						<li><a href="http://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>
 					</ul>
 				</div>
-				<p>&copy; <?php echo date("Y"); ?> EMC Publishing, LLC. All Rights Reserved.<br />
+				<p>&copy; <?php echo date("Y"); ?> EMC School. All Rights Reserved.<br />
 				EMC is a division of <a class="nostyle" href="http://newmountainlearning.com" target="_blank"><img src="<?php echo $server; ?>lib/images/NML_logo.png" alt="New Mountain Learning" /> New Mountain Learning, LLC</a><br />
-				EMC Publishing, LLC, 875 Montreal Way, St. Paul, MN 55102 &bull; 800-328-1452 &bull; Fax: 800-328-4564</p>
+				EMC School, 875 Montreal Way, St. Paul, MN 55102 &bull; 800-328-1452 &bull; Fax: 800-328-4564</p>
 			</div>
 		</div>
 	</div>

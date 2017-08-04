@@ -8,7 +8,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name = "viewport" content = "user-scalable=yes, minimum-scale=.25, maximum-scale=1.0">
-    <title><?php echo $custom_title; ?>EMC Publishing, LLC</title>
+    <title><?php echo $custom_title; ?>EMC School</title>
 	
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="<?php echo $server; ?>lib/images/favicon.ico" type="image/x-icon" >

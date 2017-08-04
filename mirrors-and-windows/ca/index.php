@@ -38,7 +38,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div>
-                    <p class="no-top"><span class="bold">EMC Publishing</span> is proud to present its exciting literature program, <span class="italic">Mirrors &amp; Windows</span>. 
+                    <p class="no-top"><span class="bold">EMC School</span> is proud to present its exciting literature program, <span class="italic">Mirrors &amp; Windows</span>. 
 					This <span class="bold">seven-level program (grades 6-12)</span> is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
 					
 					<a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafe89a4ad3649ee94c8139475ac6ca417161ee54f809a82da" target="_blank">Sample</a>

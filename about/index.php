@@ -30,7 +30,7 @@
 							<span class="red-quotes">"</span>The successful history of EMC is due to our team's dedication and ability to evolve with the modern needs of the classroom.<span class="red-quotes">"</span>
 						</div>
 						<div class="quote-author">
-							<strong>- Mick Demakos</strong>, CDO<br />EMC Publishing
+							<strong>- Mick Demakos</strong>, CDO<br />EMC School
 						</div>
 					</div>
 					<div class="clearfix"></div>
@@ -39,11 +39,11 @@
 			</div>
 			<div class="building building-width">
 				<div class="ninehundred building-width relative">
-					<div class="caption">EMC Publishing headquarters, St. Paul, Minnesota</div>
+					<div class="caption">EMC School headquarters, St. Paul, Minnesota</div>
 				</div>
 			</div>
 			<div class="ninehundred no-top no-bottom">
-				<p>Over the years, EMC has grown steadily into one of the nation's leading producers and marketers of textbooks and supporting multimedia programs for K-12 and post-secondary schools throughout the country. EMC is a division of <a href="http://newmountainlearning.com" class="learn-more-link" target="_blank">New Mountain Learning</a>&mdash;a diversified education company devoted to overseeing the continued development and growth of five prominent and established brands: EMC Publishing, Paradigm Publishing, JIST Publishing, RCL Benziger and Standard Publishing. Each brand provides traditional print and technology products and services for a wide range of learning needs including world language, religion education, secondary and post secondary technical/computer applications training, career counseling, life skills and job search guidance.
+				<p>Over the years, EMC has grown steadily into one of the nation's leading producers and marketers of textbooks and supporting multimedia programs for K-12 and post-secondary schools throughout the country. EMC is a division of <a href="http://newmountainlearning.com" class="learn-more-link" target="_blank">New Mountain Learning</a>&mdash;a diversified education company devoted to overseeing the continued development and growth of five prominent and established brands: EMC School, Paradigm Publishing, JIST Publishing, RCL Benziger and Standard Publishing. Each brand provides traditional print and technology products and services for a wide range of learning needs including world language, religion education, secondary and post secondary technical/computer applications training, career counseling, life skills and job search guidance.
 			</div>
 			<div class="chatbox">
 				<div class="ninehundred no-top no-bottom">
@@ -55,7 +55,7 @@
 			<div class="ninehundred no-top">
 				<p>New Mountain Learning currently publishes print and electronic educational materials under three imprints:</p>
 				
-				<p><a href="http://www.emcp.com" target="_blank" class="learn-more-link">EMC Publishing</a> offers K-12 textbook programs in World Languages, Business Education, Literature and Language Arts, and Social Studies with supplementary and multimedia materials.</p>
+				<p><a href="http://www.emcp.com" target="_blank" class="learn-more-link">EMC School</a> offers K-12 textbook programs in World Languages, Business Education, Literature and Language Arts, and Social Studies with supplementary and multimedia materials.</p>
 				
 				<p><a href="http://paradigm.emcp.com" target="_blank" class="learn-more-link">Paradigm Publishing</a> specializes in post-secondary publishing, offering textbook programs in Computer Technology, Health Careers, Biotechnology Accounting, Business Technology, Distance Learning, and Career Management with supplementary and multimedia materials.<p>
 				

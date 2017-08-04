@@ -42,7 +42,7 @@
 		</div>
         <div class="redefining no-bottom">
             <div class="ninesixty paddingbottom40" style="margin-top:15px;">
-                <p>EMC Publishing is proud to present its exciting world language programs for Spanish, French, German and Chinese!</p>
+                <p>EMC School is proud to present its exciting world language programs for Spanish, French, German and Chinese!</p>
                 
                 <p><strong>Discover</strong> our core curricula through print and digital resources that provide the critical foundations of language learning. <strong>Expand</strong> learning through engaging and authentic culture, video, songs, reflection, and literature. <strong>Perform</strong> language tasks through innovative, research-based, and video-driven practice and assessment tools.</p>
 

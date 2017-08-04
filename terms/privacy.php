@@ -12,7 +12,7 @@
 				<p style="text-align:right;"><i>Last updated: 07/28/2015</i></p>
 				<h3 style="text-align:center;">Privacy Policy Applicable to Use of the Website by Schools, School Districts and Their Students</h3>
 								
-				<p>EMC Publishing, LLC ("EMC") recognizes the importance of safeguarding the personal information provided to us by the users of our website (the "Website". EMC has implemented this Privacy Policy to 
+				<p>EMC School ("EMC") recognizes the importance of safeguarding the personal information provided to us by the users of our website (the "Website". EMC has implemented this Privacy Policy to 
 				govern the use of personally identifiable information and/or personal data that it collects via the Website (the "Personal Information") from the applicable schools and school districts and each of 
 				their respective personnel and agents (the "the School/School District") and from K12students (and the parents and guardians of such students) of the applicable School District (collectively, the "Students", 
 				and along with the School District, the "School/School District Users") when School District Users communicate electronically with the Website via online classrooms, email or otherwise. This Privacy Policy 
@@ -202,7 +202,7 @@
 				
 				<p>If you have any questions about this online privacy statement, the practices of this site, or your dealings with the Website, you can contact:</p>
 				
-				<p>EMC Publishing<br />
+				<p>EMC School<br />
 				875 Montreal Way<br />
 				St. Paul, MN  55102</p>
 				

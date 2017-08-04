@@ -16,7 +16,7 @@
                 <div class="featured-left" style="float:left;">
                     <p style="margin-top:15px;font-size:20px;">
 					<img src="../../lib/images/passport-text.jpg" border="0" /><br />
-					EMC Publishing will be giving away one $10,000 Digital Classroom prize on Saturday, March 14th
+					EMC School will be giving away one $10,000 Digital Classroom prize on Saturday, March 14th
 					during the final exhibit hour of the Central States Conference on the Teaching of Foreign Languages! </p>
 					<p style="font-size:20px;">Visit EMC's booth, #401, during all open exhibit hours of the conference to enter to win. One lucky teacher will leave the conference a hero, bringing back some of the most 
 					cutting-edge technology for their World Language classroom and department!</p>

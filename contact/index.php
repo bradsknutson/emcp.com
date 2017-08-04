@@ -11,13 +11,16 @@
 			<div class="ninehundred no-bottom">
 				<h2>Contact Us</h2>
 				
-				<p class="bottomthirty topten">Our Customer Service Department can provide additional information about our comprehensive educational materials, arrange for an examination copy to be sent, and assist with all aspects of order process. Our on-site representatives are available Mon-Fri, 8am to 5pm (CST).</p>
+				<p class="bottomthirty topten">Our Customer Service Department can provide additional information about our comprehensive educational materials, arrange for an examination copy to be sent, and assist with all aspects of order process. 
+					Customer Service Call Center hours are Mon-Fri 8am-5pm (CST).
+					Customer Service Chat is available Mon-Thurs 7:30am-5:30pm, Fri 8:00am-5:00pm (CST).
+				</p>
 			</div>
 		</div>
 		<div id="map"></div>
 		<div class="map-icons">
 			<div class="ninehundred">
-				<p><span class="bold">EMC Publishing, LLC</span> 875 Montreal Way, St. Paul, MN 55102</p>
+				<p><span class="bold">EMC School</span> 875 Montreal Way, St. Paul, MN 55102</p>
 				<div>
 					<div class="map-icons-float">
 						<p><a href="mailto:educate@emcp.com">educate@emcp.com</a></p>

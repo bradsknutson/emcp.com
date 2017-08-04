@@ -14,7 +14,7 @@
 				
 				<p><strong>Welcome to Passport.</strong></p>
 				
-				<p>This Website (referred to herein as this "Website" or this "Site"), is operated by, or on behalf of, EMC Publishing, LLC ("EMC"). 
+				<p>This Website (referred to herein as this "Website" or this "Site"), is operated by, or on behalf of, EMC School ("EMC"). 
 				Please read these Terms and Conditions of Use (these "Terms and Conditions") carefully before registering for or using the website provided by EMC. 
 				These Terms and Conditions, including all documents referenced herein, represent the entire understanding between EMC and you regarding the use of 
 				this Website and supersede any prior statements or representations. These Terms and Conditions may be revised by EMC from time to time and the 
@@ -219,7 +219,7 @@
 				
 				<p>If you have any questions concerning this Website or any of the policies set forth in these Terms and Conditions, please contact us at:</p>
 				
-				<p>EMC Publishing, LLC<br />
+				<p>EMC School<br />
 				875 Montreal Way<br />
 				St. Paul, Minnesota 55102</p>
 				

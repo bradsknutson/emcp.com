@@ -26,7 +26,7 @@
 		<div class="grey-slice paddingtop20 paddingbottom20 textcenter">
             <div class="seveneighty">
                 <h2 class="purple">Meaningful Language Learning</h2>
-                <p><strong>EMC Publishing</strong> is proud to present its exciting world language and literature programs to Mississippi. Our <strong>world language programs</strong> provide students with the context, skills, and understanding they'll need to function in today's globalized, interconnected world.</p> 
+                <p><strong>EMC School</strong> is proud to present its exciting world language and literature programs to Mississippi. Our <strong>world language programs</strong> provide students with the context, skills, and understanding they'll need to function in today's globalized, interconnected world.</p> 
 
                 <p>Our <strong>seven-level ELA program (grades 6-12)</strong> is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
                     
@@ -401,7 +401,7 @@
                             <div class="conectate-left">
                                 <h2>Your Best Resource for Meeting College and Career Readiness Standards in English Language Arts</h2>
 
-                                <p><strong>EMC Publishing</strong> is proud to present its exciting literature program, Mirrors & Windows. This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
+                                <p><strong>EMC School</strong> is proud to present its exciting literature program, Mirrors & Windows. This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
 
                                 <p>Mirrors &amp; Windows <strong>challenges students</strong> to reach their maximum potential while differentiating instruction for individual learners. Using a <strong>gradual release approach to reading</strong>, students will achieve a deep comprehension of the material and a greater appreciation of the literary genres. They will learn to <strong>recognize and make connections</strong> between the selections, the world, and themselves. Along the way, they will discover a love of literature that will grow throughout their lives. Truly, literature will turn mirrors into windows for your students.</p>
 

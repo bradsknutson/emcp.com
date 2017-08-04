@@ -14,7 +14,7 @@
 		<div class="contest-first">
 			<div class="ninesixty">
 				<h2 style="font-size:24px;margin-bottom:0;color:#BC0406;"><strong>EMC's NCEA 2015 Classroom Upgrade YOUR WAY Contest!</strong></h2>
-				<p style="font-size:20px;">EMC Publishing will be giving away one Classroom Upgrade (the winner's choice) on Thursday, April 9th during the National Catholic Educational Association Conference!
+				<p style="font-size:20px;">EMC School will be giving away one Classroom Upgrade (the winner's choice) on Thursday, April 9th during the National Catholic Educational Association Conference!
 				Visit EMC's booth, #412, to enter. One lucky conference goer will leave a hero, bringing back THEIR CHOICE of the following 3 prizes...</p>
 			</div>
 			<div class="clearfix"></div>
