@@ -1,5 +1,5 @@
  <?php
-	$custom_title = 'Sample Request Form | ';
+	$custom_title = 'Request Form | ';
 	include '../includes/header.php';
 ?>
 	
