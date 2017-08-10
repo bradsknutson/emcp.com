@@ -39,7 +39,9 @@
                 <h3>TEKS</h3>
                 <p><a href="/lib/assets/TEKS.zip" class="learn-more-link">Click here to download the TEKS correlations.</a></p>
                 <p><a href="/lib/assets/TEKS-QC.pdf" target="_blank" class="learn-more-link">Click here to download a "Covering the TEKS with EMC" Sample Lesson for &iexcl;Qu&eacute; ch&eacute;vere!</a></p>
-                <p><a href="/lib/assets/TEKS-TEB.pdf" target="_blank" class="learn-more-link">Click here to download a "Covering the TEKS with EMC" Sample Lesson for T'es branch&eacute;?</a></p>
+                <p><a href="https://drive.google.com/file/d/0B2BRD_gaMsOKN3p6OUJ5UFpUNVE/view?usp=sharing" target="_blank" class="learn-more-link">T'es branch&eacute;? Level 1 TEKS Supplemental Lesson</a></p>
+				<p><a href="https://drive.google.com/file/d/0B2BRD_gaMsOKejhZOTU3SVplUUE/view?usp=sharing" target="_blank" class="learn-more-link">T'es branch&eacute;? Level 2 TEKS Supplemental Lesson</a></p>
+				<p><a href="https://drive.google.com/file/d/0B2BRD_gaMsOKekRBQXdkYzE4TFU/view?usp=sharing" target="_blank" class="learn-more-link">T'es branch&eacute;? Level 4 TEKS Supplemental Lesson</a></p>
             </div>
         </div>
         <div class="grey-slice paddingtop20 paddingbottom20">
