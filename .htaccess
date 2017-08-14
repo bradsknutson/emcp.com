@@ -326,6 +326,6 @@ RewriteRule ^applied-learning/applied-science/anatomy-physiology/sample/$    htt
 RewriteRule ^world-languages/spanish/mimundo/sample/$    http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea74068c51c6f4c416eca70abf6b7a36bfcd12dc3974a32157 [R=301,L]
 RewriteRule ^world-languages/spanish/heritage/sample/$   http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea79959614e37ec4f0775815f56166b70cbb368f63878036d4 [R=301,L]
 
-RewriteRule ^mimundo$ http://www.emcp.com/world-languages/spanish/mimundo/ [L,R=301,NC]
+RewriteRule ^mimundo$  http://www.emcp.com/world-languages/spanish/mimundo/   [L,R=301,NC]
 
 ErrorDocument 404 /error.php
