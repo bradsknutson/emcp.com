@@ -328,4 +328,6 @@ RewriteRule ^world-languages/spanish/heritage/sample/$   http://pages.exacttarge
 
 RewriteRule ^mimundo$  http://www.emcp.com/world-languages/spanish/mimundo/   [L,R=301,NC]
 
+RewriteRule ^applied-learning/social-studies/$ http://www.emcp.com/applied-learning/social-studies/economics/ [R=301,L]
+
 ErrorDocument 404 /error.php
