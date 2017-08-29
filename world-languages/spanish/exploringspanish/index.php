@@ -33,10 +33,10 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="ex-sp-left">
-                    <p class="no-top">Set your students on a path to discovering and learning languages with EMC’s Exploring Series, introductory programs intended to present language and culture to young, beginning language learners. The Exploring Series is perfect for use in middle school FLEX and FLES programs. It can also be used as part of a formal 7th and 8th grade language course. With Exploring your students will get a taste of language and culture through 20 thematic units covering topics of high interest: food, music, art, literature, geography, and so much more! Engage them in listening, speaking, reading, and writing while using functional and relevant vocabulary.</p>
+                    <p class="no-top">Set your students on a path to discovering and learning languages with EMC's Exploring Series, introductory programs intended to present language and culture to young, beginning language learners. The Exploring Series is perfect for use in middle school FLEX and FLES programs. It can also be used as part of a formal 7th and 8th grade language course. With Exploring your students will get a taste of language and culture through 20 thematic units covering topics of high interest: food, music, art, literature, geography, and so much more! Engage them in listening, speaking, reading, and writing while using functional and relevant vocabulary.</p>
 				</div>
 				<div class="ex-sp-right">
-					<img src="<?php echo $server; ?>lib/images/exploring-spanish-cover.png" alt="Exploring Spanish Program" />
+					<img src="<?php echo $server; ?>lib/images/exploring-spanish-hero.png" alt="Exploring Spanish Program" />
 				</div>
 				<div class="clearfix"></div>
 				<div class="tech-button-container" style="margin:20px 0 0;">
