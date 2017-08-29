@@ -330,4 +330,6 @@ RewriteRule ^mimundo$  http://www.emcp.com/world-languages/spanish/mimundo/   [L
 
 RewriteRule ^applied-learning/social-studies/$ http://www.emcp.com/applied-learning/social-studies/economics/ [R=301,L]
 
+RewriteRule ^italian$ http://www.emcp.com/world-languages/italian/
+
 ErrorDocument 404 /error.php
