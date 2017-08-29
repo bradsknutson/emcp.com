@@ -17,7 +17,7 @@
 		</div>
 		<div class="secondary-first grey-slice">
 			<div class="ninesixty">
-				<div class="conectate-left">
+				<div class="conectate-left" style="padding-right:30px;">
                     <div class="entry-title">
                         <h4 class="margintop0">Applied Anatomy &amp; Physiology, 2nd Edition Revised, A Case Study Approach</h4>
                     </div>
@@ -43,7 +43,7 @@
 						</ul>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/ap-cover.png" alt="Anatomy &amp; Physiology, Second Edition &copy;2017" />
+					<img src="<?php echo $server; ?>lib/images/ap-cover-hero.png" alt="Anatomy &amp; Physiology, Second Edition &copy;2017" />
 				</div>
 				<div class="clearfix"></div>
 			</div>
