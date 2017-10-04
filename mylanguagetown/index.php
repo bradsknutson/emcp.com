@@ -75,6 +75,67 @@
                     <li>Improve reading comprehension</li>
                     <li>Apply their skills in the five “C” goal areas of the ACTFL World-Readiness Standards</li>
                 </ul>
+				
+				<div id="mlt-pricing" style="font-size:85%;line-height:120%;margin:30px 0;">
+					<table width="100%" border="1" cellpadding="5" cellspacing="5" style="border-collapse: collapse;">
+						<tbody>
+						<tr style="background:#DCDCDC;">
+							<td width="22%">&nbsp;</td>
+							<td width="26%" colspan="2" align="center" valign="top">
+								<strong>Student License</strong><br>
+								For classes where each student has their own device to view content	
+							</td>
+							<td width="26%" colspan="2" align="center" valign="top">
+								<strong>Teacher License</strong><br>
+								For classes where the teacher will project the eReader or album for the entire class - individual accounts are not needed	
+							</td>
+							<td width="26%" colspan="2" align="center" valign="top">
+								<strong>Building License</strong><br>
+								For an entire school - each teacher will have an unlimited # of accounts for an unlimited # of students	
+							</td>
+						</tr>
+						<tr>
+							<td width="22%">&nbsp;</td>
+							<td align="center">1-year license</td>
+							<td align="center">6-year license</td>
+							<td align="center">1-year license</td>
+							<td align="center">6-year license</td>
+							<td align="center">1-year license</td>
+							<td align="center">6-year license</td>
+						</tr>
+						<tr style="background:#DCDCDC;">
+							<td><strong>Choose 1: Elementary, Beginner or Intermediate-Low eReader library</strong></td>
+							<td align="center">16.95</td>
+							<td align="center">71.95</td>
+							<td align="center">81.95</td>
+							<td align="center">395.95</td>
+							<td align="center">645.95</td>
+							<td align="center">3483.95</td>
+						</tr>
+						<tr>
+							<td><strong>Single Album</strong></td>
+							<td align="center">4.95</td>
+							<td align="center">18.95</td>
+							<td align="center">10.95</td>
+							<td align="center">64.95</td>
+							<td align="center">129.95</td>
+							<td align="center">696.95</td>
+						</tr>
+						<tr style="background:#DCDCDC;">
+							<td><strong>Complete Library of Albums</strong></td>
+							<td align="center">18.95</td>
+							<td align="center">74.95</td>
+							<td align="center">84.95</td>
+							<td align="center">398.95</td>
+							<td align="center">599.95</td>
+							<td align="center">3243.95</td>
+						</tr>
+						</tbody>
+					</table>
+				</div>
+				<div style="text-align:center;margin-bottom:20px;">
+					<a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:0px !important;" href="http://edu.emcp.com/world-languages/my-language-town-ereader-libraries.html" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Buy Now');">Buy now</a>
+				</div>
                 
                 <div id="accordion">
 			<!-- 1 -->
