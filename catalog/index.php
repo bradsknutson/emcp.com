@@ -1,18 +1,15 @@
  <?php
-	$custom_title = '2016 Catalogs | ';
+	$custom_title = '2018 Catalogs | ';
 	include '../includes/header.php';
 ?>
 	<div id="container">
-		<div class="header-background-image cat-bg">
-			<div id="topImg"></div>
-		</div>
-		<div class="header-top">
+		<div class="header-top-dark">
 			<?php include '../includes/nav.php'; ?>
 		</div>
-		<div class="white-slice light-grey-slice al-top-content">
+		<div class="white-slice light-grey-slice" style="margin-top:125px;">
 			<div class="ninesixty">
                 <div>
-					<p style="margin-top:0;">Thanks for your interest in EMC's 2017 catalogs. Scroll down to view, download or share our English Language Arts, Social Studies, World Languages, Applied Science and Applied Learning catalogs.</p>
+					<p style="margin-top:0;">Thanks for your interest in EMC's 2018 catalogs. Scroll down to view, download or share our English Language Arts, Social Studies, World Languages, Applied Science and Applied Learning catalogs.</p>
 					<p>Questions? Please feel free to contact your <a href="http://store.emcp.com/about-emcp/local-account-manager-locator">Account Manager</a>.</p>
 				</div>
                 <div class="clearfix"></div>
