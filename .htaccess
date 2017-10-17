@@ -332,4 +332,7 @@ RewriteRule ^applied-learning/social-studies/$ http://www.emcp.com/applied-learn
 
 RewriteRule ^italian$ http://www.emcp.com/world-languages/italian/
 
+RewriteRule ^ACTFL17$ http://response.emcp.com/ACTFL17/
+RewriteRule ^NCTE17$ http://response.emcp.com/NCTE17/
+
 ErrorDocument 404 /error.php
