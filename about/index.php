@@ -49,7 +49,7 @@
 				<div class="ninehundred no-top no-bottom">
 					<p class="chatbox-quote">"As a nation, we face a series of challenges related to our world language deficit. Our focus will be to help world language educators meet these challenges by providing them with a simple and engaging learning environment that's easy to use and builds student competency."</p>
 					<div class="chatbox-quote-author">- <span class="bold red">Eric Cantor</span><br />
-					CEO, New Moutain Learning</div>
+					CEO, New Mountain Learning</div>
 				</div>
 			</div>
 			<div class="ninehundred no-top">
