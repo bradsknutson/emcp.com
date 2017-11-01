@@ -41,12 +41,20 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
                 <div class="aligncenter">
-					<h2>Communicate confidently in the modern francophone world</h2>
+					<h2><strong>New</strong> <span class="italic">T'es branch&eacute;?</span> Second Editon &copy;2019</h2>
 				</div>
-				<div class="conectate-left margintop40">
-					<p class="no-top"><span class="bold"><span class="italic">T'es branch&eacute;?</span></span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. Watch students become global citizens as they explore an essential question in each unit and actively engage in francophone culture. ACTFL-aligned,  <span class="italic">T'es branch&eacute;?</span> is the best choice for your French classroom–with the freshest digital resources, award-wining authors, and AP* preparation throughout all four levels.</p>
+				<div class="conectate-left margintop40" style="padding-right:50px !important;">
+					<p class="no-top">EMC is proud to present <span class="italic">T'es branché?</span> Second Edition ©2019: The newest French program on the market. 
+					<span class="italic">T'es branché?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative 
+					practice. We bundle <span class="italic">T'es branché?</span> eBooks with i-Culture™, immersing students in French culture through authentic news articles, 
+					documentary-style videos, and songs.<br />
+					ACTFL-aligned, <span class="italic">T'es branché?</span> is the best choice for your French classroom–with the freshest 
+					digital resources, award-wining authors, and AP* preparation throughout all four levels.
+					</p>
+				<!--
                     <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover T'es branch&eacute;? in Passport</a></p>
                     <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a></p>
+				-->
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/teb-cover_new.png" alt="T'es branch&eacute;? French Program" />
@@ -58,20 +66,43 @@
             <div class="ninesixty paddingbottom40" style="margin-top:15px;">
 				<div id="accordion" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
 			<!-- 1 -->
-					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="1" role="tab" id="ui-id-1" aria-controls="div1" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Top Reasons</strong></h3>
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="1" role="tab" id="ui-id-1" aria-controls="div1" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>What's New</strong></h3>
 					<div id="div1" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true">
-                        <ul class="lineheight1p75">
-                            <li>Aligns with the ACTFL National Standards for Learning Languages as well as the Common Core State Standards—a complete correlation is included in the Annotated Teacher's Edition.</li>
-                            <li>Features two highly acclaimed authors—Toni Theisen, the 2009 ACTFL Teacher of the Year and ACTFL President in 2013; and Jacques Pécheur, Chief Editor of the French review Le français dans le monde.</li>
-                            <li>Provides for differentiated instruction throughout the textbook and ancillaries, including both basic and more advanced activities. Assessments are designed for at-standard, slower-paced, and advanced learners.</li>
-                            <li>Responds to teachers' expressed interests and priorities based on feedback from over 1,000 experienced French educators across the country.</li>
+                        <h3><strong>Student Textbook</strong></h3>
+						<ul class="lineheight1p75">
+                            <li>New design, new photos, new modern <strong>look</strong></li>
+							<li>Vocabulary: <strong>active vocabulary words</strong> highlighted in <strong>red</strong> or with blue labels for added clarity</li>
+							<li>Vocabulary and grammar activities: <strong>modes of communication</strong> added to all activities in the <span class="italic">Vocabulaire actif</span> and <span class="italic">Structure de la langue</span> sections to help students practice specific content within each mode of communication</li> 
+							<li>Updated <strong>culture</strong> and, when pertinent, vocabulary</li>
+							<li>Culture section (<span class="italic">Points de d&eacute;part</span>) now includes <strong>more scaffolding</strong> with added Products, Practices, Perspectives, or Comparisons in French starting in Unit 3 (Main culture paragraphs are in English until Unit 5, so this allows added exposure to the French language before Unit 6)</li>
+							<li><strong>Communication</strong>: We now have 3 communicative sections instead of 2 (<span class="italic">&Agrave; vous la parole/Stratégie communicative/Syst&egrave;me D</span>); modes of communication have been added in green font to help students develop proficiency in each mode</li>
+							<li><strong>NEW section</strong>: <span class="italic">Syst&egrave;me D</span> builds <strong>21st century skills</strong>, which are beneficial in helping students develop critical thinking and cross-disciplinary skills, as well as global awareness</li>
+							<li><strong>NEW readings in Level 2</strong>: excerpts from a piece of young adult fiction by a French-Canadian author, and from a best-selling novel by a young French YouTuber</li>
+							<li><strong>Added features</strong>:<br />
+								- <span class="italic">Je parle bien!</span>: simple pronunciation tips typically in the Dialogue section (<span class="italic">Rencontres culturelles</span>)–not as complex and thorough as the pronunciation section<br />
+								- <span class="italic">Connexions</span>: additional activities connecting to various disciplines to motivate students according to their skills and interests<br />
+								- <span class="italic">On recycle!</span>: Grammar and Vocabulary review activities that can be used if there is extra time, or for advanced or slower-paced students
+							</li>
+							<li>Complete vocabulary list at the end of each unit!</li>
                         </ul>
+						<h3><strong>Teacher Textbook</strong></h3>
+						<ul class="lineheight1p75">
+							<li>New cleaner design</li>
+							<li><strong>Scripts</strong> have been added in the ATE margins for audio recorded activities.</li>
+							<li>Alternative spellings of vocabulary words according to <strong><span class="italic">La nouvelle orthographe</span></strong> are provided in margins, as appropriate, for teachers who may want to implement those changes.</li> 
+							<li><strong>Added features:</strong><br />
+								- Added pedagogical information and suggestions in <span class="italic">Expansion</span> boxes: PQA (Personalized Questions and Answers), and <span class="italic">Question Circling</span><br />
+								- <span class="italic">French in the Workplace</span> (in the <span class="italic">Syst&egrave;me D</span> section) connects the learning of French to the business world. It makes French relevant to students for use in the real world and in their future.<br />
+								- Connections: additional activities connecting to various disciplines to motivate students according to their skills and interests, including connections to Spanish
+							</li>
+							<li>Added resources for Passport users: suggestions on when to use Explore, Share, and Perform</li>
+						</ul>
 					</div>
 			<!-- 2 -->
 					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="2" role="tab" id="ui-id-2" aria-controls="div2" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>T'es branch&eacute; Level 4/AP</strong></h3>
 					<div id="div2" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true">
                         <div class="conectate-left margintop15" style="width:550px;">
-                            <h2><span class="italic">T'es branch&eacute;?</span> Level 4/AP*</h2>
+                            <h2><span class="italic">T'es branch&eacute;?</span> Level 4/AP</h2>
 
                             <p>The <span class="italic">T'es branch&eacute;?</span> level 4/AP* textbook is designed for advanced students to strengthen language skills and develop cultural competency that will prepare them to excel at the AP* French language and culture exam.</p>
 
