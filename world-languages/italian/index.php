@@ -21,10 +21,13 @@
     height: 550px !important;
 }
 </style>
-	<div id="container" class="quechevere">
+	<div id="container" class="italian">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image italian-bg">
 			<div id="topImg">
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
                 <div class="tech-button-container">
                     <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/italian/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','Italian Sample');" target="_blank">Sample</a>
 					&nbsp;&nbsp;
