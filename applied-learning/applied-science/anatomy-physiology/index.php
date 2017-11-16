@@ -3,8 +3,13 @@
 	include '../../../includes/header.php';
 ?>
 	<div id="container" class="ap-hero">
+		<div class="vimeo-modal"></div>
 		<div class="header-background-image ap-hero-bg">
-			<div id="topImg">     
+			<div id="topImg"> 
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
+                <div class="header-hero-hover"></div>
                 <div class="tech-button-container">
                     <a class="technology-buttons ap-sample transition" href="<?php echo $server; ?>applied-learning/applied-science/anatomy-physiology/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','A&amp;P Sample');">Request a Sample</a>
 					&nbsp;&nbsp;
