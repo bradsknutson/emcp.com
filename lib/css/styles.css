@@ -3135,6 +3135,12 @@ table .ereaders-smaller {
 .texas-landing .top-slice {
     padding: 500px 0 20px;
 }
+.texas-landing-ela .top-slice {
+    padding: 500px 0 20px;
+}
+.texas-landing .top-slice {
+    padding: 500px 0 20px;
+}
 .dark-grey-slice {
     padding: 50px 0;
 }
@@ -3147,6 +3153,13 @@ table .ereaders-smaller {
 .texas-landing .top-slice a {
     font-size: 22px;
     text-transform: uppercase;
+}
+
+/* ---------  Start Texas ELA Page ----------------- */
+
+.texas-landing-ela #topImg {
+    background: #FFF url('../images/texas-header-ela.jpg') no-repeat 50% 100%;
+    height: 600px;
 }
 .texas-landing h2, .texas-resources h2,
 .msreview-landing h2 {
