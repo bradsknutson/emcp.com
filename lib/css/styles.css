@@ -3910,3 +3910,12 @@ ul.sp-landing {
 		background:#fff;
 		text-decoration: none;
 	}
+
+.mwtitle {
+	font-size:72px;
+	font-family:"Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+.tx-left-block {
+	width:50%;
+	float:left;
+}
