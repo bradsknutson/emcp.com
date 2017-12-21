@@ -336,4 +336,6 @@ RewriteRule ^ACTFL17$ http://response.emcp.com/ACTFL17/
 RewriteRule ^NCTE17$ http://response.emcp.com/NCTE17/
 RewriteRule ^TCTELA18$ http://response.emcp.com/promo/TCTELA18/
 
+RewriteRule ^flipgrid/new/$ https://info.flipgrid.com/ [R=301,L]
+
 ErrorDocument 404 /error.php
