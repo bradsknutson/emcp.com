@@ -290,7 +290,7 @@ RewriteRule ^language-arts/access-editions/paper-back/buy/ http://edu.emcp.com/e
 
 RewriteRule ^readers$ http://www.emcp.com/world-languages/readers/ [R=301,L]
 
-RewriteRule ^swf/ http://www.emcp.com/ [R=301,L]
+RewriteRule ^swf/ http://irc.emcp.com/ [R=301,L]
 
 RewriteRule ^FAMIS http://www.emcp.com/famis/ [R=301,L]
 RewriteRule ^FAMIS/ http://www.emcp.com/famis/ [R=301,L]
