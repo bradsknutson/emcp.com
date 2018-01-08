@@ -16,6 +16,7 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
+				<p><img src="/lib/images/texas_ela_banner.gif" width="900" border="0" alt="" /></p>
                 <h2 class="purple" style="display:inline !important;">INTRODUCING</h2> <span class="mwtitle">Mirrors &amp; Windows</span>
                 <p style="line-height:1.6;"><img src="/lib/images/texasela-hero.png" style="float:right;margin-left:20px;" />
 				<strong>EMC School</strong> is proud to present its exciting literature and language arts program, <span class="italic">Mirrors &amp; Windows</span>. 
@@ -31,7 +32,7 @@
         </div>
 		<div class="redefining no-bottom light-grey-slice">
             <div class="ninesixty paddingtop40 paddingbottom40">
-                <p><strong>Among its extensive supplemental materials a variety of Texas authors including:</strong></p>
+                <p><strong>The program's extensive range of texts includes the following Texas authors:</strong></p>
 				<div class="one-third">
 					<span style="font-weight:bold;color:#ff0000;">Level I/Grade 6</span>
 					<ul style="margin-top:0;line-height:1.2;">
@@ -43,7 +44,7 @@
 				<div class="one-third">
 					<span style="font-weight:bold;color:#ff0000;">Level II/Grade 7</span>
 					<ul style="margin-top:0;line-height:1.2;">
-						<li><strong>Tomas Rivera</strong> – author of "The Portrait" – from Crystal City, TX (passed away in 1984)</li>
+						<li><strong>Tomas Rivera</strong> – author of "The Portrait" – from Crystal City, TX</li>
 						<li><strong>Naomi Shihab Nye</strong> – author of "The Lost Parrot" –lives in San Antonio, TX</li>
 					</ul>
 				</div>
@@ -62,7 +63,10 @@
 				<div class="tx-left-block">
 					<div style="margin-top:40px;"><img src="/lib/images/texasela-passport-logo.png" style="margin:0 !important;" /></div>
 					<h1 style="font-size:72px !important;text-align:center;"><span class="italic">IT'S HERE!</span></h1>
-					<p style="line-height:1.6;text-align:center;">EMC School's English Language Arts program Mirrors &amp; Windows has arrived on our state-of-the-art learning platform Passport&reg;</p>
+					<p style="line-height:1.6;text-align:center;">EMC School's English Language Arts program<br />
+						<span class="italic">Mirrors &amp; Windows</span> has arrived on our state-of-the-art<br />
+						learning platform <strong>Passport&reg;</strong>
+					</p>
 				</div>
 				<div class="tx-left-block">
 					<img src="/lib/images/texasela-passport-ipad.png" style="float:left;margin-left:20px;" />
@@ -75,7 +79,7 @@
 					extremely user-friendly while the social media look and feel instantly clicks with students. Easy-to-use, Passport&reg; helps students focus 
 					more on the content while the discussion tools engage and help them to dive deeper into the curriculum and connect with fellow classmates.</p>
 
-					<p>Passport&reg; is real-world! The ELA curriculum included teaches students useful skills to prepare them for college and future careers.<br />
+					<p><strong>Passport&reg; is real-world</strong>! The ELA curriculum included teaches students useful skills to prepare them for college and future careers.<br />
 					For teaching professionals: Mirrors &amp; Windows with Passport&reg; allows teachers easy access to all program resources. It provides a way to 
 					track the progress of all students visually with stunning graphics and charts. It also gives teachers a straightforward way to assign homework 
 					and tasks as well as provide feedback to students.
