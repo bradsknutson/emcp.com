@@ -32,6 +32,7 @@
 						<li><a href="<?php echo $server; ?>world-languages/italian/">Italian</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/readers/">Readers</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/symtalk/">Symtalk</a></li>
+						<li><a href="<?php echo $server; ?>world-languages/spanish/mimundo/">Mi Mundo</a></li>
 						<li><a href="<?php echo $server; ?>texas/">Texas Proclamation 2017</a></li>
 					</ul>
 				</li>

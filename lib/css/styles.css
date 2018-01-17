@@ -3374,7 +3374,7 @@ p.symtalk-steps {
     margin-top: -15px !important;
 }
 .symtalk .play-button {
-    opacity: 0;
+    opacity: 1;
 }
 .symtalk .play-button:hover {
     opacity: 1;
