@@ -26,13 +26,13 @@
 				<li<?php echo get_current('world-languages',$current); ?>><a href="<?php echo $server; ?>world-languages/">World Languages</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>world-languages/spanish/quechevere/">Spanish</a></li>
+						<li><a href="<?php echo $server; ?>world-languages/spanish/mimundo/">Elementary Spanish</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/french/tes-branche/">French</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/">German</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/">Chinese</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/italian/">Italian</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/readers/">Readers</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/symtalk/">Symtalk</a></li>
-						<li><a href="<?php echo $server; ?>world-languages/spanish/mimundo/">Mi Mundo</a></li>
 						<li><a href="<?php echo $server; ?>texas/">Texas Proclamation 2017</a></li>
 					</ul>
 				</li>
