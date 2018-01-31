@@ -24,17 +24,34 @@
 					<div class="clearfix"></div>
 				</div> -->
 				<div class="clearfix"></div>
-				<p class="onesix">EMC's robust multiplatform English Language Arts products provide students with innovative learning solutions and technology. EMC's abundant resources and 24/7 customer service provide you with the support you need for effective instruction. With EMC's English Language Arts educational solutions, you'll love what you teach even more.</p>
-                <p><a class="learn-more-link" href="<?php echo $server; ?>language-arts/programs/">See All ELA Products</a></p>
+				<div class="onesix" style="float:left;width:510px;">
+					Every language arts publisher can say they have great literature, but only EMC School has Passport<sup>&reg;</sup>.<br />
+					Built from the ground up, EMC School has uniquely designed Passport<sup>&reg;</sup> for your language arts classroom. It's built to be 
+					intuitive and extremely user-friendly while the social media look and feel instantly clicks with students. Easy-to-use, 
+					Passport<sup>&reg;</sup> helps students focus more on the content while the discussion tools engage and help them to dive deeper into 
+					the curriculum and connect with fellow classmates.<br /><br />
+					<a class="learn-more-link" href="<?php echo $server; ?>language-arts/programs/">See All ELA Products</a>
+				</div>
+				<div style="float:left;padding-left:20px;width:370px;">
+					<img src="<?php echo $server; ?>lib/images/passport-logo-250.png" alt="Passport" style="float:right;padding-right:50px;" /><br />
+					<img src="<?php echo $server; ?>lib/images/ela-hero-350.png" alt="Early Language Arts" style="float:right;" />
+					
+				</div>
+				<div class="clearfix"></div>
 			</div>
 		</div>
-		<div class="wl-featured-first featured-ela">
+		<div class="wl-featured-first featured-ela" style="height:575px !important;">
 			<div class="ninehundred onesix">
 				<div>
 					<h2>Mirrors and Windows</h2>
-					<p><span class="italic">Mirrors & Windows</span> is your <span class="italic">best</span> resource for meeting College and Career Readiness Standards in English Language Arts.
-Great literature and current informational texts, multi-platform eBooks, and technology tools that speak to today’s connected learners.
-</p>
+					<p>EMC School is proud to present its exciting literature and language arts program, <span class="italic">Mirrors &amp; Windows</span>. 
+					This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
+
+					<p><span class="italic">Mirrors &amp; Windows</span> challenges students to reach their maximum potential while differentiating instruction for 
+					individual learners. Using a gradual release approach to reading, students will achieve a deep comprehension of the material and a greater appreciation 
+					of the literary genres. They will learn to recognize and make connections between the selections, the world, and themselves. Along the way, 
+					they will discover a love of literature that will grow throughout their lives. Truly, literature will turn mirrors into windows for your students.
+					</p>
 					<a class="learn-more-link smaller-link" href="<?php echo $server; ?>mw">Learn more</a>
 				</div>
 			</div>

@@ -18,7 +18,8 @@
             <div class="ninehundred">
                 <div>
                     <h2 style="text-align:center;">Everybody has Language Arts Content...Nobody has Passport&reg;</h2>
-					<p>Passport<sup>&reg;</sup>, EMC's state of the art learning environment, is uniquely designed for your language arts classroom. 
+					<p><img src="<?php echo $server; ?>lib/images/passport-logo-150.png" alt="Mirrors and Windows - Passport" style="float:right;" />Passport<sup>&reg;</sup>, 
+					EMC's state of the art learning environment, is uniquely designed for your language arts classroom. 
 					Engage students in language arts with content, communication, and media literacy. Equip students with the skills needed to succeed 
 					in work and life in the 21st century.
 					</p>

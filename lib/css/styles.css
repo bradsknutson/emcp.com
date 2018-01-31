@@ -127,7 +127,7 @@ img {
 
 .main-navigation {
 	width: 70%;
-	margin-left: 22%;
+	margin-left: 20%;
 	font-size: 14px;
 	font-weight: 400;
 	text-align: right;
@@ -152,9 +152,9 @@ img {
 .main-navigation ul > li a {
 	border-bottom: 1px solid #929292;
   	color: #fff;
-  	margin-right: 20px;
+  	margin-right: 15px;
     font-weight: 100;
-    font-size: 17px;
+    font-size: 15px;
     padding: 13px 2px;
 }
 .main-navigation ul > li a:hover {
@@ -172,6 +172,61 @@ img {
 .sf-menu ul {
     top: 63px !important;   
 }
+
+/* Add Footer dropdown menu to the 'About' link */
+*----------------------------------------------*/
+/*	Footer Navigation (Note - The navigation is styled in conjunction with superfish.css)
+/*----------------------------------------------*/
+
+.footer-navigation {
+	width: 70%;
+	margin-left: 22%;
+	font-size: 14px;
+	font-weight: 400;
+	text-align: right;
+	height: 100%;
+	position: relative;
+	/* margin-top: -65px; */
+	margin-bottom: 25px;
+	z-index: 9999;
+}
+
+.footer-navigation ul {
+	margin: 0 auto;
+	margin-top: -15px;
+	list-style-type: none;
+	padding: 0 0 13px;
+}
+
+.footer-navigation ul > li {
+  	cursor: pointer;
+}
+
+.footer-navigation ul > li a {
+	border-bottom: 1px solid #929292;
+  	color: #fff;
+  	margin-right: 20px;
+    font-weight: 100;
+    font-size: 14px;
+    padding: 13px 2px;
+}
+.footer-navigation ul > li a:hover {
+	border-bottom: 2px solid;
+  	color: #FF0;
+}
+.footer-navigation ul > li a.last {
+	margin-right: 0px;
+	padding-right: 0px;
+}
+.footer-navigation li.current > a {
+	border-bottom: 2px solid;
+  	color: #FFF;
+}
+
+.nf-menu ul {
+    bottom: -135px !important;   
+}
+
 .header-top-dark .main-navigation {
 	border-bottom: none;
 }
@@ -707,10 +762,10 @@ p.chatbox-quote{
 .world-languages-right.german {
 	background: #F9F8F6 url('../images/german.png') no-repeat 50% 0%;
 }
-.world-languages-left.chinese {
+.world-languages-right.chinese {
 	background: #F1EEE9 url('../images/chinese.png') no-repeat 50% 0%;
 }
-.world-languages-right.italian {
+.world-languages-left.italian {
 	background: #F9F8F6 url('../images/italian.png') no-repeat 50% 0%;
 }
 .world-languages-left.japanese {
@@ -1915,16 +1970,16 @@ p.home-mission {
     background: #FFF url('../images/slice-bookshelf.png') no-repeat 50% 0%   
 }
 .technology .techlp-iculture {
-    background: #E8E8E8 url('../images/slice-iculture.png') no-repeat 50% 0%   
+    background: #FFF url('../images/slice-iculture.png') no-repeat 50% 0%   
 }
 .technology .techlp-flipgrid {
-    background: #FFF url('../images/slice-flipgrid.png') no-repeat 50% 0%   
+    background: #E8E8E8 url('../images/slice-flipgrid.png') no-repeat 50% 0%   
 }
 .technology .techlp-avenue {
-    background: #E8E8E8 url('../images/slice-avenue.png') no-repeat 50% 0%   
+    background: #FFF url('../images/slice-avenue.png') no-repeat 50% 0%   
 }
 .technology .techlp-elpac {
-    background: #FFF url('../images/slice-elpac.png') no-repeat 50% 0%   
+    background: #E8E8E8 url('../images/slice-elpac.png') no-repeat 50% 0%   
 }
 
 
@@ -3918,4 +3973,33 @@ ul.sp-landing {
 .tx-left-block {
 	width:50%;
 	float:left;
+}
+/* Connect landing page styles */
+.connect-bg, .connect-bg #topImg {
+    height: 1052px;   
+}
+.connect-bg #topImg {
+    background: #FFF url('../images/connect-header.jpg') no-repeat 50% 100%;
+}
+.connect-title {
+	color:#345E9F;
+	font-size: 45px;
+	line-height:60px;
+	font-style: italic;
+}
+.connect-subtitle {
+	color:#345E9F;
+	font-size: 30px;
+	font-weight: bold;
+}
+.connect-header {
+	color:#345E9F;
+	font-size: 24px;
+	font-weight: bold;
+}
+a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
+	text-decoration: none !important;
+	color: #345E9F !important;
+	font-size: 16px !important;
+	font-weight: normal !important;
 }

@@ -115,3 +115,132 @@
 	-webkit-transition: none;
 	transition: none;
 }
+
+/*** Add Footer Menu to the 'About' link ***/
+
+#nf {
+	display: inline-block;
+	text-align: left;
+}
+
+.nf-menu, .nf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.nf-menu li {
+	position: relative;
+}
+
+.nf-menu > li {
+	padding-bottom: 10px;
+}
+
+.nf-menu ul {
+	position: absolute;
+	display: none;
+	bottom: 51px;
+	left: 0;
+	z-index: 99;
+}
+
+.nf-menu ul li {
+	border-bottom: 1px solid #666;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.nf-menu ul li:hover {
+	border-bottom: 1px solid #999;
+}
+
+.nf-menu ul li:last-child {
+	border: none;
+}
+
+.nf-menu > li {
+	float: left;
+}
+.nf-menu li:hover > ul,
+.nf-menu li.sfHover > ul {
+	display: block;
+}
+
+.nf-menu a {
+	display: block;
+	position: relative;
+}
+.nf-menu ul ul {
+	top: 0;
+	left: 100%;
+}
+
+/*** DEMO SKIN ***/
+.nf-menu {
+	margin-bottom: 1em;
+}
+.nf-menu ul {
+	min-width: 12em; /* allow long menu items to determine submenu width */
+	*width: 12em; /* no auto sub width for IE7, see white-space comment below */
+	display: none;
+}
+.nf-menu a {
+	padding: .75em .1em;
+	text-decoration: none;
+	zoom: 1; /* IE7 */
+}
+
+.nf-menu a:first-of-type {
+	padding-left: 0;
+}
+.nf-menu a {
+	color: #333;
+}
+.nf-menu li {
+	white-space: nowrap; /* no need for Supersubs plugin */
+	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
+}
+.nf-menu ul li {
+	padding-left: 5px;
+	background: #1c1817;
+	background: rgba(51, 51, 51, .95);
+	-moz-box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+	-webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+	box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+	width: 100%;
+}
+
+.nf-menu ul li:hover {
+	background: #c10006;
+	/*background: rgba(102, 153, 166, .9);*/
+}
+
+.nf-menu ul li a {
+	border-bottom: none;
+}
+
+.nf-menu ul li a:hover {
+	color: #fff;
+	border-bottom: none;
+}
+
+.nf-menu ul ul li {}
+.nf-menu li a:hover,
+.nf-menu li.sfHover {
+	/* only transition out, not in */
+	-webkit-transition: none;
+	transition: none;
+}
+
+/* Footer rollover links */
+.footerlink {
+    margin: 5px 12px !important;
+    text-decoration: none;
+    color: #FFF !important;
+    font-size: 16px !important;
+    font-weight: 100;
+	border-bottom: none !important;
+}

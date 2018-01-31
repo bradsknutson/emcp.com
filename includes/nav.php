@@ -32,6 +32,7 @@
 						<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/">Chinese</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/italian/">Italian</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/readers/">Readers</a></li>
+						<li><a href="<?php echo $server; ?>world-languages/spanish/mimundo/index.php">Mi Mundo</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/symtalk/">Symtalk</a></li>
 						<li><a href="<?php echo $server; ?>texas/">Texas Proclamation 2017</a></li>
 					</ul>
@@ -49,17 +50,16 @@
 						<li><a href="<?php echo $server; ?>applied-learning/business-education/">Business Education &<br />Computer Skills</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Applications</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/applied-science/">Applied Science</a></li>
-						<li><a href="<?php echo $server; ?>applied-learning/social-studies/">Social Studies</a></li>
+						<li><a href="<?php echo $server; ?>applied-learning/financial-literacy/">Financial Literacy</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/career-life-skills/">Career & Life Skills</a></li>
 					</ul>
                 
                 </li>
 				<li<?php echo get_current('store',$current); ?>><a href="http://store.emcp.com" title="Home">Store</a></li>
-				<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>about/">About</a>
+				<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Sciences</a>
 					<ul>
-						<li><a href="<?php echo $server; ?>contact/">Contact</a></li>
-						<li><a href="http://store.emcp.com/about-emcp/career-opportunities">Career Opportunities</a></li>
-                        <li><a href="<?php echo $server; ?>catalog/">Catalog</a></li>
+						<li><a href="<?php echo $server; ?>applied-learning/business-education/">Business Education &<br />Computer Skills</a></li>
+						<li><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Applications</a></li>
 					</ul>
 				</li>
 

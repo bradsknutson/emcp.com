@@ -28,6 +28,7 @@
                     <!-- <a class="learn-more-link smaller-link" href="<?php echo $server; ?>applied-learning/social-studies/economics/buy/">Buy It Now!</a> -->
 				</div>
 				<div class="conectate-right">
+					<img src="<?php echo $server; ?>lib/images/powered-by-passport-300.png" alt="Powered by Passport" /><br />
 					<img src="<?php echo $server; ?>lib/images/econ-cover-hero.png" alt="Economics: New Ways of Thinking, Second Edition" />
 				</div>
 				<div class="clearfix"></div>

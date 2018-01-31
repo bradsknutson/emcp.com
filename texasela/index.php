@@ -107,7 +107,6 @@
 							<div style="float:left;">
 								<ul style="line-height:1.1 !important;font-size:15px;">
 									<li>Leander ISD</li>
-									<li>Judson ISD</li>
 									<li>North East ISD</li>
 									<li>Corpus Christi ISD</li>
 									<li>Irving ISD</li>

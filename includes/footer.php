@@ -29,9 +29,16 @@
 		<div class="footer">
 			<div class="ninesixty">
 				<div class="footer-nav">
-					<ul>
+					<ul id="nf" class="nf-menu">
 						<li><a href="http://store.emcp.com/about-emcp/news-and-events/">News</a></li>
-						<li><a href="<?php echo $server; ?>contact/">Contact</a></li>
+						<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>about/">About</a>
+							<ul>
+								<li><a href="<?php echo $server; ?>contact/" class="footerlink">Contact</a></li>
+								<li><a href="http://store.emcp.com/about-emcp/career-opportunities" class="footerlink">Career Opportunities</a></li>
+								<li><a href="<?php echo $server; ?>catalog/" class="footerlink">Catalog</a></li>
+							</ul>
+						</li>
+						<!-- <li><a href="<?php echo $server; ?>contact/">Contact</a></li> -->
 						<li><a href="http://store.emcp.com/customer-service">Customer Service</a></li>
 						<li><a href="http://store.emcp.com/local-account-manager-locator/">Sales</a></li>
 						<li><a href="http://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>

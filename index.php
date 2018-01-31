@@ -36,7 +36,10 @@
         <div class="about-emc">
             <div class="ninehundred">
                 <h2 class="home-mission-h2">About EMC</h2>
-                <p class="home-mission">EMC is revolutionizing the way students are taught and learn, both in and out of the classroom. Through its innovative learning environment, Passport, EMC delivers digital learning solutions, marrying interactive curriculum with unique video based collaboration and assessment tools to promote student engagement, proficiency and culture in World Languages and English Language Arts. EMC &mdash; improving how teachers teach and students learn.</p>
+                <p class="home-mission">EMC is revolutionizing the way students are taught and learn, both in and out of the classroom. 
+				Through its innovative learning environment, Passport, EMC delivers digital learning solutions, marrying interactive 
+				curriculum with unique video based collaboration and assessment tools to promote student engagement, proficiency. 
+				EMC  &mdash; improving how teachers teach and students learn.</p>
             </div>
         </div>
         <div class="connect-slice">

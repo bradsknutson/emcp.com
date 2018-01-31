@@ -44,7 +44,7 @@
 		<div class="world-languages-left social-studies">
 			<div class="ninehundred no-bottom">
 				<div class="wl-content">
-					<h3><a href="<?php echo $server; ?>applied-learning/social-studies/">Social Studies</a></h3>
+					<h3><a href="<?php echo $server; ?>applied-learning/financial-literacy/">Financial Literacy</a></h3>
 					
 					<p>Expand your students' understanding of  ever-changing events as well as fundamental concepts of Social Studies. Our textbooks balance core structures with an emphasis on current events.</p>
 				</div>

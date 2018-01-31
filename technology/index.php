@@ -15,12 +15,13 @@
 		<div class="world-languages-right techlp-passport">		
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-                    <a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/logo-passport.png" alt="Passport" /></a>
+                    <a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/logo-passport.png" alt="Passport" style="margin-top:25px !important;" /></a>
 					
-					<p>Passport is a revolutionary digital world language learning environment. Immerse your students in their target language and culture, while capturing and measuring progress with performance-based tasks and assessments.</p>
+					<p>EMC is revolutionizing the way students are taught and learn, both in and out of the classroom. Through its innovative learning environment, Passport, EMC delivers digital learning solutions, marrying interactive curriculum with unique video based collaboration and assessment tools to promote student engagement, proficiency. EMC — improving how teachers teach and students learn.</p>
 				</div>
 			</div>
 		</div>
+	<!--
 		<div class="world-languages-left techlp-bookshelf">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
@@ -30,34 +31,39 @@
 				</div>
 			</div>
 		</div>
-		<div class="world-languages-right techlp-iculture">
+	-->
+		<div class="world-languages-left techlp-iculture">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<a href="<?php echo $server; ?>technology/iculture/"><img src="<?php echo $server; ?>lib/images/logo-iculture.png" alt="i-Culture" /></a>
-					
-					<p>Explore and immerse into French, Spanish, and German culture and language through authentic news articles, documentary-style videos, and songs.</p>
+					<a href="<?php echo $server; ?>technology/iculture/"><img src="<?php echo $server; ?>lib/images/logo-iculture.png" alt="i-Culture" style="float:right;" /></a>
+					<img src="<?php echo $server; ?>lib/images/also-available-in-passport-250.png" alt="Also Available in Passport" style="float:right;" />
+					<p style="clear:both;">
+					Explore and immerse into French, Spanish, and German culture and language through authentic news articles, documentary-style videos, and songs.
+					</p>
 				</div>
 			</div>
 		</div>
-		<div class="world-languages-left techlp-flipgrid">
+		<div class="world-languages-right techlp-flipgrid">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<a href="<?php echo $server; ?>technology/flipgrid/"><img src="<?php echo $server; ?>lib/images/logo-flipgrid.png" alt="Flipgrid" /></a>
-					
-					<p>Introduce social media to your classroom using a video collaboration tool. Create grids of short questions then simply invite others to respond through recorded videos without the need to login or sign-up.</p>
+					<a href="<?php echo $server; ?>technology/flipgrid/"><img src="<?php echo $server; ?>lib/images/logo-flipgrid.png" alt="Flipgrid" style="float:left;"  /></a>
+					<img src="<?php echo $server; ?>lib/images/also-available-in-passport-250.png" alt="Also Available in Passport" style="float:left;" />
+					<p style="clear:both;">
+					Introduce social media to your classroom using a video collaboration tool. Create grids of short questions then simply invite others to respond through recorded videos without the need to login or sign-up.
+					</p>
 				</div>
 			</div>
 		</div>
-		<div class="world-languages-right techlp-avenue">
+		<div class="world-languages-left techlp-avenue">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
-					<a href="<?php echo $server; ?>technology/avenue/"><img src="<?php echo $server; ?>lib/images/logo-avenue.png" alt="Avenue" /></a>
-					
-					<p><span class="bold">Avenue&trade;</span>is an innovative e-assessment platform for building custom language tasks to capture, evaluate, archive, and visualize progress of video-based learner performances.</p>
+					<a href="<?php echo $server; ?>technology/avenue/"><img src="<?php echo $server; ?>lib/images/logo-avenue.png" alt="Avenue" style="float:left;" /></a>
+					<img src="<?php echo $server; ?>lib/images/also-available-in-passport-250.png" alt="Also Available in Passport" style="float:left;" />
+					<p style="clear:both;"><span class="bold">Avenue&trade;</span>is an innovative e-assessment platform for building custom language tasks to capture, evaluate, archive, and visualize progress of video-based learner performances.</p>
 				</div>
 			</div>
 		</div>
-		<div class="world-languages-left techlp-elpac">
+		<div class="world-languages-right techlp-elpac">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
 					<a href="<?php echo $server; ?>technology/elpac/"><img src="<?php echo $server; ?>lib/images/logo-elpac.png" alt="ELPAC" /></a>

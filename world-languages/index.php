@@ -43,7 +43,23 @@
 				</div>
 			</div>
 		</div>
-		<div class="world-languages-left chinese">
+		<div class="world-languages-left italian">
+			<div class="ninehundred no-top no-bottom">
+				<div class="wl-content">
+					<h3 style="padding:8px 0 0 !important;">Italian <a href="<?php echo $server; ?>world-languages/italian/">View our Italian products</a></h3>
+					
+					<p style="padding:0 !important;">The newest 3-level Italian program!<br />
+
+					Amici d'Italia is an Italian language program for high school students. It is structured in three levels, and it aims to make students proficient 
+					in the Italian language. Teaching tools are flexible and diverse. The goals of the program include: a balanced proficiency in the four fundamental 
+					skills (listening, speaking, writing, and reading); a good working knowledge of orthographic, phonetic, and morpho-syntactic elements; and an 
+					introduction to Italian culture and civilization in a fun, engaging way. Amici d’Italia is fully aligned to the World-Readiness standards for 
+					Learning Languages developed by ACTFL.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="world-languages-right chinese">
 			<div class="ninehundred no-top no-bottom">
 				<div class="wl-content">
 					<h3>Chinese <a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/">View our Chinese products</a></h3>
