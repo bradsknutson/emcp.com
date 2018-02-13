@@ -1183,7 +1183,7 @@ p.chatbox-quote{
 }
 p.home-mission {
     line-height: 2;
-    font-size: 25px;
+    font-size: 20px;
 }
 .home-mission-h2 {
     font-size: 41px;
@@ -3742,6 +3742,14 @@ p.symtalk-steps {
 .mlt .redefining ul {
     line-height: 1.8;
 }
+/* New Verion of MLT page */
+.mlt-new-bg, .mlt-new-bg #topImg {
+    height: 600px;   
+	margin-top:70px;
+}
+.mlt-new-bg #topImg {
+    background: #FFF url('../images/mlt-header-new.jpg') no-repeat 50% 100%;   
+}
 
 /* -------- End My Language Town Page Styles ------------- */
 
@@ -3933,6 +3941,14 @@ ul.sp-landing {
 .mimundo-bg #topImg{
 	background: url('../images/mimundo-header.jpg') no-repeat 50% 100%;
 }
+.mimundo-new-bg, .mimundo-new-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top: 67px;
+}
+.mimundo-new-bg #topImg{
+	background: url('../images/mi-mundo-new-header.jpg') no-repeat 50% 100%;
+}
 /* --------------- Heritage Page ---------------------------- */
 .heritage-bg, .heritage-bg #topImg{
 	height: 600px;
@@ -4002,4 +4018,47 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 	color: #345E9F !important;
 	font-size: 16px !important;
 	font-weight: normal !important;
+}
+/* Zulama landing page */
+.zulama-bg, .zulama-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top:70px;
+}
+.zulama-bg #topImg{
+	background: url('../images/zulama-header.jpg') no-repeat 50% 100%;
+}
+.zulama-buttons {
+    padding: 10px 20px;
+    color: #BD0006 !important;
+    background: #fff;
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.2);
+    text-decoration: none !important;
+    font-size: 20px !important;
+}
+.zulama-buttons.da-demo:hover {
+    background: #BD0006 !important;
+    color: #FFF !important;
+}
+#mimundo-table table, td {
+	border-collapse: collapse;
+	border:1px solid #ccc;
+}
+.mimundo-sample {
+    z-index: 999;
+    bottom: 50px;
+    background: #BD0006 !important;
+    color: #fff !important;
+	left: -70px;
+}
+.mimundo-sample:hover {
+    background: #cccccc !important;
+    color: #BD0006 !important;
+}
+/* MLT Landing Page Slider style overrides */
+.bx-wrapper .bx-prev {
+    left: -50px !important;	
+}
+.bx-wrapper .bx-next {
+    right: -50px !important;
 }

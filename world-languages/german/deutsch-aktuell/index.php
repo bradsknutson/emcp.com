@@ -40,13 +40,22 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
-				<div class="conectate-left">
-					<p class="no-top">Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.</p>
-                    <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Deutsch Aktuell in Passport</a></p>
-                    <p><a class="learn-more-link smaller-link" href="buy/">Buy It Now!</a></p>
+				<div class="conectate-left" style="width:550px !important;">
+					<p class="no-top">
+						Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language 
+						and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, 
+						cultural interactions and integrated technology.
+					</p>
+					<img src="<?php echo $server; ?>lib/images/da-cover_new.png" alt="Deutsch Aktuell German Program" /><br />
+					
+                    <p>
+						<a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Deutsch Aktuell in Passport</a><br />
+						<a class="learn-more-link smaller-link" href="buy/">Buy It Now!</a>
+					</p>
 				</div>
-				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/da-cover_new.png" alt="Deutsch Aktuell German Program" />
+				<div class="conectate-right" style="text-align:center;">
+					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/da-passport-desktop.png" alt="Deutsch Aktuell German Program" /></a><br />
+					<a href="<?php echo $server; ?>technology/passport/"><strong>Learn more about Passport</strong></a>
 				</div>
 				<div class="clearfix"></div>
 			</div>

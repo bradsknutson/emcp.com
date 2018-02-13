@@ -60,7 +60,7 @@ RewriteRule ^amgovtCDsampler(.*)	http://www.emcp.com/amgovtcdsampler$1 [R]
 RewriteRule ^biotechnology(.*)	http://www.emcp.com/product_catalog/index.php?GroupID=684$1 [R]
 
 RewriteRule ^zhenbang(.*)		http://www.emcp.com/world-languages/chinese/zhen-bang/ [R=301,L]
-#RewriteRule ^zb(.*)		http://www.emcp.com/world-languages/chinese/zhen-bang/ [R=301,L]
+RewriteRule ^zb(.*)		http://www.emcp.com/world-languages/chinese/zhen-bang/ [R=301,L]
 
 RewriteRule ^deutschaktuell(.*)		http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
 RewriteRule ^deutschaktuel(.*)	http://www.emcp.com/world-languages/german/deutsch-aktuell/ [R=301,L]
@@ -105,6 +105,7 @@ RewriteRule ^teb/comingsoon.php$   http://www.emcp.com/world-languages/french/te
 RewriteRule ^teb/message.php$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
 RewriteRule ^teb/movie.php$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
 RewriteRule ^teb/teb.php$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
+RewriteRule ^TEB$   http://www.emcp.com/world-languages/french/tes-branche/ [R=301,L]
 
 RewriteRule ^returns  http://store.emcp.com/policies-and-order-information/ [R=301,L]
 

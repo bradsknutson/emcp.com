@@ -4,8 +4,13 @@
 	include '../includes/header.php';
 ?>
 	<div id="container" class="texas-landing-ela">
+		<div class="vimeo-modal"></div>
 		<div class="header-background-image texas-landing-bg">
 			<div id="topImg">
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
+				<div class="header-hero-hover"></div>
 				<!--
 					<div style="padding-top:525px;"><a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea34e9212ae851742777d6f33a2e3ce90d16c89036f0eaf1aa" target="_blank">Sample</a></div>
 				-->
@@ -15,8 +20,7 @@
 			<?php include '../includes/nav.php'; ?>
 		</div>
 		<div class="secondary-first">
-			<div class="ninesixty">
-				<p><img src="/lib/images/texas_ela_banner.gif" width="900" border="0" alt="" /></p>
+			<div class="ninesixty" style="padding:20px 0 40px;">
                 <h2 class="purple" style="display:inline !important;">INTRODUCING</h2> <span class="mwtitle">Mirrors &amp; Windows</span>
                 <p style="line-height:1.6;"><img src="/lib/images/texasela-hero.png" style="float:right;margin-left:20px;" />
 				<strong>EMC School</strong> is proud to present its exciting literature and language arts program, <span class="italic">Mirrors &amp; Windows</span>. 
@@ -129,5 +133,48 @@
             </div>
 			<div class="clearfix"></div>
         </div>
+		<div class="paddingtop40">
+			<div class="seveneighty">
+                <h2 class="margintop0">Support</h2>
+                <p>Contact your Account Manager anytime!</p>
+                <div class="one-fourth-col">
+                    <div class="rep-container textleft">
+                        <p><strong>Phil Neill</strong><br />
+						ESC Regions 7, 8 ,10, 11, 14, 15, 18, 19<br />
+                        817-637-7445<br />
+                        <a href="mailto:pneill@emcp.com">pneill@emcp.com</a></p>
+                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-1.png" />
+                    </div>
+                </div>                
+                <div class="one-fourth-col">
+                    <div class="rep-container textleft">
+                        <p><strong>Vicki Robinson</strong><br />
+						ESC Regions 3, 9, 12, 13, 16, 17<br />
+                        405-426-7245<br />
+                        <a href="mailto:vrobinson@emcp.com">vrobinson@emcp.com</a></p>
+                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-2.png" />
+                    </div>
+                </div>                
+                <div class="one-fourth-col">
+                    <div class="rep-container textleft">
+                        <p><strong>Joni Dodson</strong><br />
+						 ESC Regions 4, 5, 6<br />
+                        281-799-8133<br />
+                        <a href="mailto:jdodson@emcp.com">jdodson@emcp.com</a></p>
+                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-3.png" style="margin-top:24px;" />
+                    </div>
+                </div>                
+                <div class="one-fourth-col">
+                    <div class="rep-container textleft">
+                        <p><strong>Nancy Welch</strong><br />
+						ESC Regions 1, 2, 20<br />
+                        201-865-5467<br />
+                        <a href="mailto:nwelch@emcp.com">nwelch@emcp.com</a></p>
+                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-4.png" style="margin-top:24px;" />
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+		</div>
     </div>
 <?php include '../includes/footer.php'; ?>

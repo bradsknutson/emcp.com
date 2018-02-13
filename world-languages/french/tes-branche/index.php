@@ -43,7 +43,7 @@
                 <div class="aligncenter">
 					<h2><strong>New</strong> <span class="italic">T'es branch&eacute;?</span> Second Editon &copy;2019</h2>
 				</div>
-				<div class="conectate-left margintop40" style="padding-right:50px !important;">
+				<div class="conectate-left margintop40" style="padding-right:50px !important; width:550px !important;">
 					<p class="no-top">EMC is proud to present <span class="italic">T'es branché?</span> Second Edition ©2019: The newest French program on the market. 
 					<span class="italic">T'es branché?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative 
 					practice. We bundle <span class="italic">T'es branché?</span> eBooks with i-Culture™, immersing students in French culture through authentic news articles, 
@@ -51,13 +51,15 @@
 					ACTFL-aligned, <span class="italic">T'es branché?</span> is the best choice for your French classroom–with the freshest 
 					digital resources, award-wining authors, and AP* preparation throughout all four levels.
 					</p>
+					<img src="<?php echo $server; ?>lib/images/teb-cover_new.png" alt="T'es branch&eacute;? French Program" />
 				<!--
                     <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover T'es branch&eacute;? in Passport</a></p>
                     <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a></p>
 				-->
 				</div>
-				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/teb-cover_new.png" alt="T'es branch&eacute;? French Program" />
+				<div class="conectate-right" style="text-align:center;">
+					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/da-passport-desktop.png" alt="T'es branch&eacute;? French Program" /></a><br />
+					<a href="<?php echo $server; ?>technology/passport/"><strong>Learn more about Passport</strong></a>
 				</div>
 				<div class="clearfix"></div>
 			</div>

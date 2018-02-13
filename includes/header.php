@@ -40,6 +40,20 @@
 	<!-- Google Map -->
 	<script src="https://maps.googleapis.com/maps/api/js"></script>
 	
+	<!-- BX Slider -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$('.bxslider').bxSlider({
+				minSlides: 4,
+				maxSlides: 4,
+				slideMargin: 20,
+				slideWidth: 200
+			});
+		});
+	</script>
+	
 	<?php if(!empty($custom_js)) {
 		echo '<!-- Custom Javascript -->';
 		echo '<script src="'. $custom_js .'" type="text/javascript"></script>';

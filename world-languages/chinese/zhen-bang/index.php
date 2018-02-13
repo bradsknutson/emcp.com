@@ -44,17 +44,20 @@
                 <div class="aligncenter">
 					<h2>A Chinese program for the 21st-century student</h2>
 				</div>
-				<div class="conectate-left margintop40">
+				<div class="conectate-left margintop40" style="width:550px !important;">
 					<p class="no-top">
 						Welcome to EMC's Zh<span class="font-weight:normal;">ē</span>n B&aacute;ng! program, where students interact with Chinese language and culture in awesome, everyday ways. Get students talking 
 						about family, friends, school, home, meals, shopping and more&ndash;conversing in pairs and groups. Zhēn B&aacute;ng! integrates language and culture 
-						seamlessly and provides technology resources that are easy to use for students and teachers. What an awesome way to learn the Chinese language!
+						seamlessly and provides technology resources that are easy to use for students and teachers. What an awesome way to learn the Chinese language!<br /><br />
+					
+						<img src="<?php echo $server; ?>lib/images/zb-cover_new.png" alt="Zh&#275;n B&agrave;ng Chinese Program" /><br />
+						<a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Zh&#275;n B&aacute;ng! in Passport</a><br />
+						<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?emc_product_type=590&language=364&q=zhen">Buy It Now!</a>
 					</p>
-                    <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Zh&#275;n B&aacute;ng! in Passport</a></p>
-                    <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?emc_product_type=590&language=364&q=zhen">Buy It Now!</a></p>
 				</div>
-				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/zb-cover_new.png" alt="Zh&#275;n B&agrave;ng Chinese Program" />
+				<div class="conectate-right" style="text-align:center;">
+					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/zb-passport-desktop.png" alt="Zh&#275;n B&agrave;ng Chinese Program" /></a><br />
+					<a href="<?php echo $server; ?>technology/passport/"><strong>Learn more about Passport</strong></a>
 				</div>
 				<div class="clearfix"></div>
 			</div>

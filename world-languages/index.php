@@ -8,12 +8,16 @@
 			<?php include '../includes/nav.php'; ?>
 		</div>
 		<div class="world-languages-title">
-			<div class="ninehundred onesix fonttwenty">
-				<h3>EMC World Language Programs</h3>
+			<div class="ninehundred onesix fonttwenty" style="padding-bottom:90px !important;">
+				<h3>Discover our world language programs in Passport&reg;</h3>
 				
-                <p>Meet our world language programs, supported by <a href="<?php echo $server; ?>technology/passport/"><img src="http://www.emcp.com/lib/images/passport-logo-150.png" alt="Passport" style="height: 38px;margin: 0px 0px 0px 5px;padding: 0;line-height: 0;vertical-align: bottom;"/></a>, our award-winning digital learning environment.</p>
+                <p style="margin-bottom: 0px;">
+					<img src="<?php echo $server; ?>lib/images/wl-landing-passport-desktop.png" border="0" style="float:right;margin-left:20px;" />
+					Built from the ground up, EMC School has uniquely designed Passport&reg; for your world language classroom.
+					<a href="http://www.emcp.com/technology/passport/">Learn more</a> about Passport.<br /><br />
 				
-				<p style="margin-bottom: 0px;">View our award-winning lineups by selecting your target language below:</p>
+					View our award-winning lineups by selecting your target language below:
+				</p>
 			</div>
 		</div>
 		<div class="world-languages-right spanish">		

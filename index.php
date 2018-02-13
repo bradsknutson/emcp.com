@@ -35,11 +35,16 @@
 		</div>
         <div class="about-emc">
             <div class="ninehundred">
-                <h2 class="home-mission-h2">About EMC</h2>
-                <p class="home-mission">EMC is revolutionizing the way students are taught and learn, both in and out of the classroom. 
-				Through its innovative learning environment, Passport, EMC delivers digital learning solutions, marrying interactive 
-				curriculum with unique video based collaboration and assessment tools to promote student engagement, proficiency. 
-				EMC  &mdash; improving how teachers teach and students learn.</p>
+                <h2 class="home-mission-h2" style="text-align:center;">EMC School has acquired a cutting edge Computer Science Language Learning Solution—Zulama!</h2>
+                <p class="home-mission">Zulama uses engaging game design projects to teach students the same programming languages that 
+				professionals use in high-tech workplaces. The expertise of EMC School in building digital competency and communications skills, 
+				coupled with the curriculum Zulama developed with faculty from Carnegie Mellon University, has meshed to form a rigorous yet 
+				easy-to-use Computer Science and Game Design product line. Zulama modules, courses and certifications are available for sale 
+				immediately as part of EMC's computer literacy product line, and ultimately available through EMC's immersive learning environment Passport&reg;.
+				</p>
+				<p>
+				<a class="zulama-buttons da-demo transition" href="/applied-learning/zulama/" onclick="ga('send', 'event', 'Call To Action Button','click','Zulama');">Learn More</a>
+				</p>
             </div>
         </div>
         <div class="connect-slice">

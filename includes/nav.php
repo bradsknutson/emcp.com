@@ -14,7 +14,8 @@
 			
 			<ul id="sf" class="sf-menu">
 
-                <li<?php echo get_current('technology',$current); ?>><a href="<?php echo $server; ?>technology/">Technology</a>
+                <!--
+				<li<?php echo get_current('technology',$current); ?>><a href="<?php echo $server; ?>technology/">Technology</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>technology/passport/">Passport</a></li>
 						<li><a href="<?php echo $server; ?>technology/ebooks/">eBooks</a></li>
@@ -23,6 +24,7 @@
 						<li><a href="<?php echo $server; ?>technology/elpac/">ELPAC</a></li>
 					</ul>                
                 </li>
+				-->
 				<li<?php echo get_current('world-languages',$current); ?>><a href="<?php echo $server; ?>world-languages/">World Languages</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>world-languages/spanish/quechevere/">Spanish</a></li>
@@ -31,6 +33,7 @@
 						<li><a href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/">German</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/">Chinese</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/italian/">Italian</a></li>
+						<li><a href="<?php echo $server; ?>technology/iculture/">i-Culture</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/readers/">Readers</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/spanish/mimundo/index.php">Mi Mundo</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/symtalk/">Symtalk</a></li>
@@ -43,12 +46,12 @@
 						<li><a href="<?php echo $server; ?>language-arts/expository-composition/">Expository Composition</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/access-editions/">Access Editions</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/write-in-readers/">Write-in Readers</a></li>
+						<li><a href="<?php echo $server; ?>texasela/">Texas ELA Proclamation 2018</a></li>
                     </ul>
                 </li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>applied-learning/business-education/">Business Education &<br />Computer Skills</a></li>
-						<li><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Applications</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/applied-science/">Applied Science</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/financial-literacy/">Financial Literacy</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/career-life-skills/">Career & Life Skills</a></li>
@@ -56,8 +59,9 @@
                 
                 </li>
 				<li<?php echo get_current('store',$current); ?>><a href="http://store.emcp.com" title="Home">Store</a></li>
-				<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Sciences</a>
+				<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>applied-learning/zulama/">Computer Literacy</a>
 					<ul>
+						<li><a href="<?php echo $server; ?>applied-learning/zulama/">Computer Science</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/business-education/">Business Education &<br />Computer Skills</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Applications</a></li>
 					</ul>

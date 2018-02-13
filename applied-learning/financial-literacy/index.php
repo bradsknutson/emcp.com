@@ -12,14 +12,18 @@
 		</div>
 		<div class="white-slice al-top-content">
 			<div class="ninesixty">
-                <div class="left-slice">
-                    <img src="<?php echo $server; ?>lib/images/al-ss-econ.png" alt="Economics" />
+                <div class="left-slice" style="width:300px !important;text-align:center;">
+                    <a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/econ-passport-desktop.png" alt="Personal Finance Program" style="margin:0 !important;" /></a><br />
+					<a href="<?php echo $server; ?>technology/passport/"><strong>Learn more about Passport</strong></a>
                 </div>
-                <div class="right-slice">
-                    <h1 style="display:inline !important;">Economics</h1> <img src="<?php echo $server; ?>lib/images/powered-by-passport-300.png" width="200" alt="Powered by Passport" style="float:right;margin:0 !important;" />
+				<div class="left-slice" style="width:234px !important;">
+					<img src="<?php echo $server; ?>lib/images/al-ss-econ.png" alt="Economics" style="margin:0 !important;" />
+				</div>
+                <div class="right-slice" style="width:390px !important;">
+                    <h1 style="display:inline !important;">Economics</h1> <!-- <img src="<?php //echo $server; ?>lib/images/powered-by-passport-300.png" width="200" alt="Powered by Passport" style="float:right;margin:0 !important;" /> -->
                     <p>The learning environment of tomorrow's Economics classroom. Show students how to find economics in usual and surprising place with <em>Economics: New Ways of Thinking.</em></p>
                     <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/financial-literacy/economics/">Learn More!</a>&nbsp;&nbsp;
-                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/financial-literacy/economics/buy/">Buy It Now!</a>
+                    <a class="learn-more-link" href="https://store.emcp.com/econ2e.html">Buy It Now!</a>
                 </div>
                 <div class="clearfix"></div>
             </div>
