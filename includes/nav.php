@@ -46,7 +46,7 @@
 						<li><a href="<?php echo $server; ?>language-arts/expository-composition/">Expository Composition</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/access-editions/">Access Editions</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/write-in-readers/">Write-in Readers</a></li>
-						<li><a href="<?php echo $server; ?>texasela/">Texas ELA Proclamation 2018</a></li>
+						<li><a href="<?php echo $server; ?>texasela/">Texas ELA Proclamation 2019</a></li>
                     </ul>
                 </li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a>
