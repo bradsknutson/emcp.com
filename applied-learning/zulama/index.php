@@ -39,6 +39,66 @@
 		<div class="grey-slice" style="padding-top:20px !important;">
 			<div class="ninesixty">
 				<div>
+                    <h2>Zulama Course Packages</h2>
+					<p style="line-height:1.4;">
+						Zulama offers three extremely affordable packages of courses, which all include access to digital curriculum, comprehensive teacher resources, training and implementation support.
+					</p>
+                </div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="white-slice" style="padding-top:20px !important;">
+			<div class="ninesixty">
+				<div>
+					<h3><strong><a href="/applied-learning/zulama/mlcs.php" style="font-size:24px;color:#5fbedf;">Modern Learning Computer Science Platform</a></strong></h3>
+					<h4 style="color:#70b529;"><strong>HIGH SCHOOL</strong></h3>
+                    <p style="line-height:1.4;">
+						The Modern Learning Computer Science Platform helps schools integrate computer science and game design across their schools with our 
+						<a href="http://zulama.com/our-program/short-courses/" style="font-size:18px;color:#5fbedf;font-weight:bold;">Short Courses</a>, 
+						<a href="http://zulama.com/our-program/courses/" style="font-size:18px;color:#5fbedf;font-weight:bold;">Long Courses</a>, and 
+						<a href="http://zulama.com/how-it-works/computer-science/" style="font-size:18px;color:#5fbedf;font-weight:bold;">Computer Science Courses</a>. 
+						Together they're perfect for introducing or expanding computer science, replacing outdated electives or 
+						creating your own Computer Science and Game Design Academy.
+					</p>
+                </div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="grey-slice" style="padding-top:20px !important;">
+			<div class="ninesixty">
+				<div>
+					<h3><strong><a href="/applied-learning/zulama/csgdf.php" style="font-size:24px;color:#5fbedf;">Computer Science and Game Design Fundamentals</a></strong></h3>
+					<h4 style="color:#70b529;"><strong>MIDDLE &amp; HIGH SCHOOL</strong></h3>
+                    <p style="line-height:1.4;">
+						The Computer Science and Game Design Fundamentals package gets schools started with computer science and game design quickly and easily. 
+						This package includes nine <a href="http://zulama.com/our-program/short-courses" style="font-size:18px;color:#5fbedf;font-weight:bold;">Short Courses</a>, 
+						which can be completed in 20 hours or less, as well as the <a href="http://zulama.com/our-program/courses/evolution-of-games/" style="font-size:18px;color:#5fbedf;font-weight:bold;">Evolution of Games Long Course</a>. 
+						These rigorous, engaging educational experiences are perfect for use in rotational blocks, embedding into existing courses, or using in 
+						summer camps and after school programs.
+					</p>
+                </div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="white-slice" style="padding-top:20px !important;">
+			<div class="ninesixty">
+				<div>
+					<h3><strong><a href="/applied-learning/zulama/apcsp.php" style="font-size:24px;color:#5fbedf;">Advanced Placement Computer Science Principles Modern Learning Platform</a></strong></h3>
+					<h4 style="color:#70b529;"><strong>HIGH SCHOOL</strong></h3>
+                    <p style="line-height:1.4;">
+						The Zulama Advanced Placement Computer Science Principles Modern Learning Platform includes the 
+						<a href="http://zulama.com/how-it-works/computer-science/ap-computer-science-principles/" style="font-size:18px;color:#5fbedf;font-weight:bold;">Advanced Placement (AP) Computer Science Principles</a> course. 
+						This 160-240 hour course teaches students to use computational thinking, solve problems, analyze innovations in computing, and deeply understand the global 
+						impact of the Internet. Students who successfully complete this course will be prepared to take the 
+						<a href="https://apstudent.collegeboard.org/takingtheexam/registering-for-exams" style="font-size:18px;color:#5fbedf;font-weight:bold;">AP CS Principles Exam</a>.
+					</p>
+                </div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="grey-slice" style="padding-top:20px !important;">
+			<div class="ninesixty">
+				<div>
                     <p style="line-height:1.4;"><span class="italic">
 						"The Zulama course has given students the opportunity to immerse themselves in 21st Century skills. 
 						Students have learned to work independently, 
