@@ -64,7 +64,7 @@
                 <div class="right-block">
                     <h3>Expository Composition</h3>
                     <p>EMC’s Expository Composition: Discovering Your Voice includes a complete chapter devoted to online writing, with descriptions and student and professional writing models of digital writing types such as blogs, micro-blogs, social networks, texting, e-mail, and e-mags. The new Expository Composition Internet Resource Center provides additional support materials and links to the interactive Discovering Your Voice online companion with additional writing models, journal topics, writing activities and tips, videos, and community forums.</p>
-                    <a class="learn-more-link smaller-link" href="http://store.emcp.com/expository-composition-discovering-your-voice-revised-edition.html">Buy It Now!</a>
+                    <a class="learn-more-link smaller-link" href="https://store.emcp.com/expository-composition-discovering-your-voice-revised-edition.html">Buy It Now!</a>
 
                 </div>
                 <div class="clearfix"></div>
@@ -80,7 +80,7 @@
                     <li>Close reading support ensures understanding and enjoyment.</li>
                     <li>Thought-provoking questions and activities invite students to connect their lives to those of the characters.</li>
                 </ul>
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts.html?emc_product_series=395">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/english-language-arts.html?emc_product_series=395">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/ela-reader.jpg" alt="Write-In Readers" />
@@ -94,7 +94,7 @@
                     <li>Standardized test practice! Students learn how to demonstrate essential reading skills and gain confidence in testing situations.</li>
                     <li>Vocabulary builders! Student vocabulary is increased through Word Workshops and strategy instruction in deciphering difficult words.</li>                
                 </ul>
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts/the-emc-write-in-reader.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/english-language-arts/the-emc-write-in-reader.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>

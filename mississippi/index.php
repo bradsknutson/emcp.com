@@ -42,7 +42,7 @@
                 </div>
                 <div class="right-block">
                     <p>Provide 21st century experiences that will help students build relationships and prepare them for what lies far beyond your classroom walls.
-					For a self-guided Passport tour, click <a href="http://www.emcp.com/passport/tour/" target="_blank" style="font-size:20px;color:#fff;text-decoration:underline;">here</a>.
+					For a self-guided Passport tour, click <a href="https://www.emcp.com/passport/tour/" target="_blank" style="font-size:20px;color:#fff;text-decoration:underline;">here</a>.
 					</p>
                 </div>
                 <div class="clearfix"></div>
@@ -480,7 +480,7 @@
         <div class="connect-slice">
             <div class="ninesixty">
                 <div class="emc-connect-logo emc-connect-content">
-                    <a href="http://connect.emcp.com" target="_blank"><img src="<?php echo $server; ?>lib/images/emc-connect-black.png" alt="EMC Connect" class="paddingtop40" /></a>
+                    <a href="https://connect.emcp.com" target="_blank"><img src="<?php echo $server; ?>lib/images/emc-connect-black.png" alt="EMC Connect" class="paddingtop40" /></a>
                     <p class="emc-connect-content">Tips, resources, trends, and more!</p>
                 </div>
                 <div class="emc-connect-posts">

@@ -7,7 +7,7 @@
 		<div class="header-background-image thank-you-page">
 			<div id="topImg">
                 <h1>Thank You!</h1>
-                <a class="technology-buttons ty-download transition" href="http://www.emcp.com/lib/assets/EMC-CharlesMiller-F.pdf" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Thank You Download');">Download Your Case Study</a>
+                <a class="technology-buttons ty-download transition" href="https://www.emcp.com/lib/assets/EMC-CharlesMiller-F.pdf" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Thank You Download');">Download Your Case Study</a>
 			</div>
 		</div>
 		<div class="header-top">

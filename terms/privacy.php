@@ -82,7 +82,7 @@
 				
 				<p>Once a School District User is registered to use the Website, a user ID will be created for the School District User and Personal Information will be collected for such User, *[[including name and email 
 				address]]*. You do not have an option to hide your user ID from others. All use of user IDs must conform to any requirements set out in the Website's 
-				<a href="http://www.emcp.com/terms-of-use" target="_blank">Terms and Conditions of Use</a>. Personal Information may 
+				<a href="https://www.emcp.com/terms-of-use" target="_blank">Terms and Conditions of Use</a>. Personal Information may 
 				also be provided when a School District User uploads certain materials to the Website, such as videos of the School District User.</p>
 				
 				<p><strong>Use of Cookies and Plug-ins</strong></p>

@@ -22,7 +22,7 @@
 					<h2 class="no-bottom">T'es branch&eacute;?</h2>
                     <p class="no-top">Middle and High School</p>
                     <p><span class="italic">T'es branch&eacute;?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative practice, all incorporating authentic language. The vast digital resources of our new learning environment, <a href="<?php echo $server; ?>technology/passport/" class="white-link">Passport</a><sup>&reg;</sup>, are fully integrated into <span class="italic">T'es branch&eacute;?</span> and at your finger tips. </p>
-					<a class="learn-more-link smaller-link" href="http://www.emcp.com/teb">Learn more</a>
+					<a class="learn-more-link smaller-link" href="https://www.emcp.com/teb">Learn more</a>
 				</div>
 			</div>
 		</div>
@@ -32,14 +32,14 @@
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=362&q=symtalk">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?language=362&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-french.jpg" alt="Exploring French" />
 				<h3>Exploring French</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-french-third-edition-softcover-edition.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/exploring-french-third-edition-softcover-edition.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>

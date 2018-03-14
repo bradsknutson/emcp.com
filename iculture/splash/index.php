@@ -6,7 +6,7 @@
 <head>
     <title>Welcome to the new and improved i-Culture!</title>
     <link href="style.css" media="all" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="http://www.emcp.com/lib/images/favicon.ico" type="image/x-icon" >
+    <link rel="shortcut icon" href="https://www.emcp.com/lib/images/favicon.ico" type="image/x-icon" >
     
     <!-- Typekit -->
 	<script type="text/javascript" src="//use.typekit.net/tvi6hef.js"></script>
@@ -31,7 +31,7 @@
             
             <p>-Your EMC World Languages team.</p>
             
-            <a class="button" href="http://www.emcp.com/ilife/iculturenew">Continue</a>
+            <a class="button" href="https://www.emcp.com/ilife/iculturenew">Continue</a>
         </div>
         <div class="footer">
             <img src="footer-logo.jpg" alt="EMC School" />
@@ -40,7 +40,7 @@
                     <p>Toll Free: (800) 328-1452 (Press 1 for Customer Service, Press 2 for Technical Support)<br />
                         Customer Service: <a href="mailto:educate@emcp.com">educate@emcp.com</a><br />
                         Technical Support: <a href="mailto:support@emcp.com">support@emcp.com</a><br />
-                        Website: <a href="http://www.emcp.com">www.emcp.com</a></p>
+                        Website: <a href="https://www.emcp.com">www.emcp.com</a></p>
                 </div>            
             </div>
         </div>

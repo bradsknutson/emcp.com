@@ -66,7 +66,7 @@
 							<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer and Langston Hughes</li>
 							<li>Local California authors such as Francisco Jimenez, Gary Soto, Cherylene Lee, Janet S. Wong, William Saroyan, and Fae Myenne Ng</li>
 						</ul>
-						<p><a href="http://www.emcp.com/lib/assets/Mirrors-Windows-Range-of-Reading.pdf" target="_blank"><strong>Download the complete range of texts in grades 6-12</strong></a></p>
+						<p><a href="https://www.emcp.com/lib/assets/Mirrors-Windows-Range-of-Reading.pdf" target="_blank"><strong>Download the complete range of texts in grades 6-12</strong></a></p>
 					</div>
 			<!-- 2 -->
 					<h3 class="showSingle" target="2"><strong>2. Digital Learning Technologies</strong></h3>

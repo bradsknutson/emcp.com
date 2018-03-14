@@ -61,9 +61,9 @@
 			<div class="ninehundred no-top">
 				<p>New Mountain Learning currently publishes print and electronic educational materials under three imprints:</p>
 				
-				<p><a href="http://www.emcp.com" target="_blank" class="learn-more-link">EMC School</a> offers K-12 textbook programs in World Languages, Business Education, Literature and Language Arts, and Financial Literacy with supplementary and multimedia materials.</p>
+				<p><a href="https://www.emcp.com" target="_blank" class="learn-more-link">EMC School</a> offers K-12 textbook programs in World Languages, Business Education, Literature and Language Arts, and Financial Literacy with supplementary and multimedia materials.</p>
 				
-				<p><a href="http://paradigm.emcp.com" target="_blank" class="learn-more-link">Paradigm Education</a> specializes in post-secondary publishing, offering textbook programs in Computer Technology, Health Careers, Biotechnology Accounting, Business Technology, Distance Learning, and Career Management with supplementary and multimedia materials.<p>
+				<p><a href="https://paradigm.emcp.com" target="_blank" class="learn-more-link">Paradigm Education</a> specializes in post-secondary publishing, offering textbook programs in Computer Technology, Health Careers, Biotechnology Accounting, Business Technology, Distance Learning, and Career Management with supplementary and multimedia materials.<p>
 				
 				<p><a href="http://jist.emcp.com" target="_blank" class="learn-more-link">JIST Publishing</a> is the leading publisher of award-winning materials on job-search, career exploration, occupational information, life skills, and character education.</p>
 				

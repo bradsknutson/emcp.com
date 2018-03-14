@@ -62,7 +62,7 @@
 				
 				<p><strong>Privacy</strong></p>
 				
-				<p>Please see EMC's Privacy Policy http://www.emcp.com/privacy-policy for information concerning the collection and use of Personal Information from this Website.</p>
+				<p>Please see EMC's Privacy Policy https://www.emcp.com/privacy-policy for information concerning the collection and use of Personal Information from this Website.</p>
 
 				<p>From time to time, this Website may contain links to other websites that are not controlled and/or maintained by EMC. Access to and use of such other websites is at your own 
 				risk and subject to any terms and conditions of use that govern such websites. By providing such links, EMC shall not be deemed to endorse, recommend, approve, guarantee or 

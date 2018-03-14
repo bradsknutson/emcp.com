@@ -67,7 +67,7 @@
 							<li>Listening Activities (digital)</li>
 						</ul>
 					</div>
-					<div><img src="http://www.emcp.com/lib/images/texas/qc-hero.jpg" border="0" /></div>
+					<div><img src="https://www.emcp.com/lib/images/texas/qc-hero.jpg" border="0" /></div>
 				</div>
 				<div class="clearfix"></div>
 				
@@ -198,7 +198,7 @@
 								<li>Listening Activities (digital)</li>
 							</ul>
 						</div>
-						<div><img src="http://www.emcp.com/lib/images/texas/tb-hero.jpg" border="0" /></div>
+						<div><img src="https://www.emcp.com/lib/images/texas/tb-hero.jpg" border="0" /></div>
 					</div>
 					<div class="clearfix"></div>
 					
@@ -295,7 +295,7 @@
 							<li><strong>TPR Storytelling Manual</strong> includes Step-by-step instructions for basic and advanced stories. (Level 1 only)</li>
 						</ul>
 					</div>
-					<div><img src="http://www.emcp.com/lib/images/texas/da-hero.jpg" border="0" /></div>
+					<div><img src="https://www.emcp.com/lib/images/texas/da-hero.jpg" border="0" /></div>
 				</div>
 				<div class="clearfix"></div>
 				
@@ -356,7 +356,7 @@
 							<li>Unit Review Lessons </li>
 						</ul>
 					</div>
-					<div><img src="http://www.emcp.com/lib/images/texas/zb-hero.jpg" border="0" /></div>
+					<div><img src="https://www.emcp.com/lib/images/texas/zb-hero.jpg" border="0" /></div>
 				</div>
 				<div class="clearfix"></div>
 

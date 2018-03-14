@@ -43,7 +43,7 @@
                         <li>Multiplatform eBooks & interactive eWorkbooks</li>
                         <li>The latest digital learning technologies</li>
                     </ul>
-					<a class="learn-more-link smaller-link" href="http://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
+					<a class="learn-more-link smaller-link" href="https://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
 					<img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Mirrors and Windows - Passport" />

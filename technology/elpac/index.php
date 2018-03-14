@@ -8,11 +8,11 @@
                 <div class="tech-button-container">
                     <a class="technology-buttons elpac-login transition" href="http://emcp.onlinemlpa.com/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Login');">Login</a>
                     <img src="<?php echo $server; ?>lib/images/elpac-screen.png" alt="ELPAC" class="elpac-lp-img" />
-                    <a class="elpac-button eb1 transition" href="http://store.emcp.com/elpac-cora-sample-task-french-1" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Reading Sample');" >Sample Reading Proficiency Assessment Task</a>
-                    <a class="elpac-button eb2 transition" href="http://store.emcp.com/elpac-contextualized-listening-assessment" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Listening Sample');" >Sample Listening Proficiency Assessment Activity</a>
-                    <a class="elpac-button eb3 transition" href="http://store.emcp.com/elpac-contextualized-writing-assessment-sample" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Writing Sample');" >Sample Writing Proficiency Aasessment Task</a>
-                    <a class="elpac-button eb4 transition" href="http://store.emcp.com/elpac-contextualized-speaking-assessment-sample" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Speaking Sample');" >Sample Speaking Proficiency Assessment Activity</a>
-                    <a class="elpac-button eb5 transition" href="http://store.emcp.com/contact-us/local-account-manager-locator">Contact Your Local Account Manager</a>
+                    <a class="elpac-button eb1 transition" href="https://store.emcp.com/elpac-cora-sample-task-french-1" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Reading Sample');" >Sample Reading Proficiency Assessment Task</a>
+                    <a class="elpac-button eb2 transition" href="https://store.emcp.com/elpac-contextualized-listening-assessment" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Listening Sample');" >Sample Listening Proficiency Assessment Activity</a>
+                    <a class="elpac-button eb3 transition" href="https://store.emcp.com/elpac-contextualized-writing-assessment-sample" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Writing Sample');" >Sample Writing Proficiency Aasessment Task</a>
+                    <a class="elpac-button eb4 transition" href="https://store.emcp.com/elpac-contextualized-speaking-assessment-sample" onClick="ga('send', 'event', 'Call To Action Button','click','ELPAC Speaking Sample');" >Sample Speaking Proficiency Assessment Activity</a>
+                    <a class="elpac-button eb5 transition" href="https://store.emcp.com/contact-us/local-account-manager-locator">Contact Your Local Account Manager</a>
                 </div>
             </div>
 		</div>

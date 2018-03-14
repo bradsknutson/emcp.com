@@ -31,7 +31,7 @@
                 <div class="left-slice">
                     <h1>Anatomy & Physiology</h1>
                     <p><em>Applied Anatomy & Physiology</em> is a fresh approach to teaching the fundamental principles and the practical application of those principles to your high school students.</p>
-                    <a class="learn-more-link" href="http://store.emcp.com/applied-science.html">Buy It Now!</a>
+                    <a class="learn-more-link" href="https://store.emcp.com/applied-science.html">Buy It Now!</a>
                 </div>
                 <div class="right-slice">
                     <img src="<?php //echo $server; ?>lib/images/al-as-anat.png" alt="Anatomy & Physiology" />

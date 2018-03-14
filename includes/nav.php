@@ -58,7 +58,7 @@
 					</ul>
                 
                 </li>
-				<li<?php echo get_current('store',$current); ?>><a href="http://store.emcp.com" title="Home">Store</a></li>
+				<li<?php echo get_current('store',$current); ?>><a href="https://store.emcp.com" title="Home">Store</a></li>
 				<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>applied-learning/zulama/">Computer Literacy</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>applied-learning/zulama/">Computer Science</a></li>

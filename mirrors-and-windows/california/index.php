@@ -155,7 +155,7 @@
                 Teachers create grids of short discussion-style questions that students respond to online through recorded videos. Integrate Mirrors & Windows essential questions with Flipgrid to develop students’ speaking and listening skills and social media presence.</p>
 
                 <img src="<?php echo $server; ?>lib/images/emc-ela-logo.png" alt="EMC English Language Arts" />
-                <p>Visit <a href="http://www.emcp.com">www.emcp.com</a> to learn more and request samples!</p>
+                <p>Visit <a href="https://www.emcp.com">www.emcp.com</a> to learn more and request samples!</p>
 
                 <div class="left-slice">
                     <p>Call: 800-328-1452<br />
@@ -163,7 +163,7 @@
                 </div>
                 <div class="left-slice">
                     Email: <a href="mailto:educate@emcp.com">educate@emcp.com</a><br />
-                    Visit: <a href="http://www.emcp.com">www.emcp.com</a></p>	
+                    Visit: <a href="https://www.emcp.com">www.emcp.com</a></p>	
                 </div>
                 <div class="clearfix"></div>
 

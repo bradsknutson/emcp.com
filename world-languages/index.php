@@ -14,7 +14,7 @@
                 <p style="margin-bottom: 0px;">
 					<img src="<?php echo $server; ?>lib/images/wl-landing-passport-desktop.png" border="0" style="float:right;margin-left:20px;" />
 					Built from the ground up, EMC School has uniquely designed Passport&reg; for your world language classroom.
-					<a href="http://www.emcp.com/technology/passport/">Learn more</a> about Passport.<br /><br />
+					<a href="https://www.emcp.com/technology/passport/">Learn more</a> about Passport.<br /><br />
 				
 					View our award-winning lineups by selecting your target language below:
 				</p>

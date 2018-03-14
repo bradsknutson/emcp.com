@@ -49,7 +49,7 @@
 					<img src="<?php echo $server; ?>lib/images/QCcover_new.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /><br />
                     <a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover &iexcl;Qu&eacute; ch&eacute;vere! in Passport</a><br />
 					<a class="learn-more-link smaller-link" href="https://vimeo.com/200376096" target="_blank">Click here to see a unit tour</a><br />
-					<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
+					<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
 				</div>
 				<div class="conectate-right" style="text-align:center;">
 					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/qc-passport-desktop.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /></a><br />
@@ -107,7 +107,7 @@
                             <p class="disclaimer">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
                         </div>
                         <div class="conectate-right">
-                            <img class="margintop80" src="http://www.emcp.com/lib/images/QC5cover.jpg" alt="Que Chevere! Level 5" style="margin:100px 0 -200px 0;">
+                            <img class="margintop80" src="https://www.emcp.com/lib/images/QC5cover.jpg" alt="Que Chevere! Level 5" style="margin:100px 0 -200px 0;">
                         </div>
                         <div class="clearfix"></div>
 					</div>
@@ -178,7 +178,7 @@
 				<p>Espa&ntilde;ol para hispanohablantes nativos is a digital supplement designed to address the needs of heritage and native speakers, 
 				as well as provide practice for the AP* Spanish Language and Culture Exam. With 42 levels in each of the two levels, this is a perfect 
 				companion piece to ¡Qu&eacute; ch&eacute;vere!<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages/espanol-para-hispanohablantes-nativos.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/heritage">Learn More</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/world-languages/espanol-para-hispanohablantes-nativos.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/heritage">Learn More</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -188,14 +188,14 @@
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=357&q=symtalk">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?language=357&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-spanish.jpg" alt="Exploring Spanish" />
 				<h3>Exploring Spanish</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages/exploring-spanish-third-edition-revised.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/exploringspanish">Learn More</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/world-languages/exploring-spanish-third-edition-revised.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/exploringspanish">Learn More</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -212,7 +212,7 @@
 				<h3>Speaking Spanish Confidently!</h3>
 				<p>High School</p>
 				<p><span class="italic">Speaking Spanish Confidently</span> teaches 20 of the most common and difficult Spanish grammar structures. At the core of this method are symbol cards, which are self-explanatory images that represent words for all parts of speech. The symbol cards facilitate the visualization of grammar structures for students to easily identify syntax. Get your students speaking confidently today!<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/speaking-spanish-confidently.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/speaking-spanish-confidently.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -311,7 +311,7 @@
                     <h3 class="conectate">i-Culture</h3>
 					<p class="no-top">Watch authentic culture come alive for your students as they immerse themselves in engaging and varied media: videos, news articles, and songs. i-Passport, i-Videos, and i-Songs bring cultural experiences into the classroom and into your students'  lives.</p>
 
-					<p class="no-bottom"><a href="http://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
+					<p class="no-bottom"><a href="https://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
 				</div>
 				<div class="clearfix"></div>
 			</div>

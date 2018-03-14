@@ -30,22 +30,22 @@
 			<div class="ninesixty">
 				<div class="footer-nav">
 					<ul id="nf" class="nf-menu">
-						<li><a href="http://store.emcp.com/about-emcp/news-and-events/">News</a></li>
+						<li><a href="https://store.emcp.com/about-emcp/news-and-events/">News</a></li>
 						<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>about/">About</a>
 							<ul>
 								<li><a href="<?php echo $server; ?>contact/" class="footerlink">Contact</a></li>
-								<li><a href="http://store.emcp.com/about-emcp/career-opportunities" class="footerlink">Career Opportunities</a></li>
+								<li><a href="https://store.emcp.com/about-emcp/career-opportunities" class="footerlink">Career Opportunities</a></li>
 								<li><a href="<?php echo $server; ?>catalog/" class="footerlink">Catalog</a></li>
 							</ul>
 						</li>
 						<!-- <li><a href="<?php echo $server; ?>contact/">Contact</a></li> -->
-						<li><a href="http://store.emcp.com/customer-service">Customer Service</a></li>
-						<li><a href="http://store.emcp.com/local-account-manager-locator/">Sales</a></li>
-						<li><a href="http://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>
+						<li><a href="https://store.emcp.com/customer-service">Customer Service</a></li>
+						<li><a href="https://store.emcp.com/local-account-manager-locator/">Sales</a></li>
+						<li><a href="https://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>
 					</ul>
 				</div>
 				<p>&copy; <?php echo date("Y"); ?> EMC School. All Rights Reserved.<br />
-				EMC is a division of <a class="nostyle" href="http://newmountainlearning.com" target="_blank"><img src="<?php echo $server; ?>lib/images/NML_logo.png" alt="New Mountain Learning" /> New Mountain Learning, LLC</a><br />
+				EMC is a division of <a class="nostyle" href="https://newmountainlearning.com" target="_blank"><img src="<?php echo $server; ?>lib/images/NML_logo.png" alt="New Mountain Learning" /> New Mountain Learning, LLC</a><br />
 				EMC School, 875 Montreal Way, St. Paul, MN 55102 &bull; 800-328-1452 &bull; Fax: 800-328-4564</p>
 			</div>
 		</div>

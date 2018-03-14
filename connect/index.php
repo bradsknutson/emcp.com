@@ -7,7 +7,7 @@
 		<div class="header-top-dark">
 			<?php include '../includes/nav.php'; ?>
 		</div>
-		<div style="text-align:center;"><img src="http://www.emcp.com/lib/images/connect-header.jpg" border="0" alt="EMC Connect" /></div>
+		<div style="text-align:center;"><img src="https://www.emcp.com/lib/images/connect-header.jpg" border="0" alt="EMC Connect" /></div>
 		<div class="white contact">
 			<div class="ninehundred no-bottom">
 				<h2 style="text-align:center;" class="connect-title">
@@ -24,11 +24,11 @@
 				</p>
 				
 				<p style="text-align:center;">
-					<img src="http://www.emcp.com/lib/images/connect-globe.png" border="0" alt="support.emcp.com" style="margin-bottom:-6px;" />
+					<img src="https://www.emcp.com/lib/images/connect-globe.png" border="0" alt="support.emcp.com" style="margin-bottom:-6px;" />
 					<a href="http://support.emcp.com" target="_blank" class="connect-link">support.emcp.com</a>&nbsp;&nbsp;
-					<img src="http://www.emcp.com/lib/images/connect-twitter.png" border="0" alt="support.emcp.com" style="margin-bottom:-6px;" />
+					<img src="https://www.emcp.com/lib/images/connect-twitter.png" border="0" alt="support.emcp.com" style="margin-bottom:-6px;" />
 					<a href="https://twitter.com/emcpassport" target="_blank" class="connect-link">@emcpassport</a>&nbsp;&nbsp;
-					<img src="http://www.emcp.com/lib/images/connect-mail.png" border="0" alt="support.emcp.com" style="margin-bottom:-6px;" />
+					<img src="https://www.emcp.com/lib/images/connect-mail.png" border="0" alt="support.emcp.com" style="margin-bottom:-6px;" />
 					<a href="mailto:connect@emcschool.com" target="_blank" class="connect-link">connect@emcschool.com</a>
 				
 				<p style="text-align:center;"><span class="connect-subtitle">Onboarding, Training, Support, &amp; Development</span></p>
@@ -58,7 +58,7 @@
 				<div>
 					<div style="clear:both;margin:10px 0 20px;"><span class="connect-header">We will work with you to...</span></div>
 					<div style="float:left;width:225px;margin:0;padding:0;">
-						<img src="http://www.emcp.com/lib/images/connect-1.png" border="0" alt="" />
+						<img src="https://www.emcp.com/lib/images/connect-1.png" border="0" alt="" />
 						<p>
 							<ul style="font-size:14px;padding-right:10px;line-height:20px;">
 								<li>enable the smooth setup of accounts and onboarding of users.</li>
@@ -68,7 +68,7 @@
 						</p>
 					</div>
 					<div style="float:left;width:225px;margin:0;padding:0;">
-						<img src="http://www.emcp.com/lib/images/connect-2.png" border="0" alt="" />
+						<img src="https://www.emcp.com/lib/images/connect-2.png" border="0" alt="" />
 						<p>
 							<ul style="font-size:14px;padding-right:10px;line-height:20px;">
 								<li>provide tailor-made training to implement EMC's products and services. We work with you to tailor a unique blended approach, which will include all or a combination of of the following:<br />
@@ -80,7 +80,7 @@
 						</p>
 					</div>
 					<div style="float:left;width:225px;margin:0;padding:0;">
-						<img src="http://www.emcp.com/lib/images/connect-3.png" border="0" alt="" />
+						<img src="https://www.emcp.com/lib/images/connect-3.png" border="0" alt="" />
 						<p>
 							<ul style="font-size:14px;padding-right:10px;line-height:20px;">
 								<li>after implementation training, EMC's outreach specialists will contact users to follow-up and provide support, guidance on integration, suggestions on usage, and to facilitate further group or individual training if necessary.</li>
@@ -89,7 +89,7 @@
 						</p>
 					</div>
 					<div style="float:left;width:225px;margin:0;padding:0;">
-						<img src="http://www.emcp.com/lib/images/connect-4.png" border="0" alt="" />
+						<img src="https://www.emcp.com/lib/images/connect-4.png" border="0" alt="" />
 						<p>
 							<ul style="font-size:14px;padding-right:10px;line-height:20px;">
 								<li>help teachers easily integrate EMC programs into their classroom. Whether it be regular webinars on specific topics, live Q&amp;A sessions, or Lesson Plans for use in class, our product experts are continuously creating resources and materials for all of our programs that are available to you for free on our support site.</li>

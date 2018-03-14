@@ -42,8 +42,8 @@
 					authentic cultural immersion, and a video capture and collaboration tool. The bundle includes both <span class="italic">Espa&ntilde;ol para hispanohablantes 
 					nativos</span> eBooks our digital supplement designed to address the needs of heritage and native speakers, as well as provide practice 
 					for the AP* Spanish Language and Culture Exam, our authentic visual culture immersion tool (continuously updated throughout the 
-					school year) <a class="learn-more-link" href="http://www.emcp.com/technology/iculture/">iCulture</a>, as well as our video 
-					capture and collaboration tool called <a class="learn-more-link" href="http://www.emcp.com/flipgrid/new/">Flipgrid</a>.
+					school year) <a class="learn-more-link" href="https://www.emcp.com/technology/iculture/">iCulture</a>, as well as our video 
+					capture and collaboration tool called <a class="learn-more-link" href="https://www.emcp.com/flipgrid/new/">Flipgrid</a>.
 					</p>
 				</div>
 				<div class="clearfix"></div>

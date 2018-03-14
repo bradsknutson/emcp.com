@@ -52,7 +52,7 @@
             <div class="ninesixty">
                 <h2>Georgia Standards of Excellence/ CCSS Correlations</h2>
                 <p>These standards map correlations list how our program aligns 100% with the Georgia Standards of Excellence Common Core State Standards.<br /><br />
-					Click <a href="http://store.emcp.com/georgia" target="_blank" class="learn-more-link">here</a> to see the GSE Correlations
+					Click <a href="https://store.emcp.com/georgia" target="_blank" class="learn-more-link">here</a> to see the GSE Correlations
 				</p>
                 <div class="clearfix"></div>
             </div>

@@ -28,7 +28,7 @@
 		</div>
         <div class="f65-header">
             <div class="f65-container">
-                <a class="technology-buttons f65-buy transition" href="http://edu.emcp.com/classroom-technology/flipgrid.html" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Flipgrid 65 Buy');">Buy</a>
+                <a class="technology-buttons f65-buy transition" href="https://edu.emcp.com/classroom-technology/flipgrid.html" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Flipgrid 65 Buy');">Buy</a>
             </div>
         </div>
         <div class="f65 grey-slice">

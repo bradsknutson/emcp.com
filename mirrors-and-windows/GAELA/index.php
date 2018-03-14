@@ -65,7 +65,7 @@
 								<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer and Langston Hughes</li>
 								<li>Students read a diverse array of classic and contemporary literature as well as challenging informational texts in a range of subjects, including classical myths and stories from around the world, foundational U.S. documents, seminal works of American literature, and the writings of Shakespeare</li>
 							</ul>
-							<p><a href="http://www.emcp.com/lib/assets/Mirrors-Windows-Range-of-Reading.pdf" target="_blank"><strong>Download the complete range of texts in grades 6-12</strong></a></p>
+							<p><a href="https://www.emcp.com/lib/assets/Mirrors-Windows-Range-of-Reading.pdf" target="_blank"><strong>Download the complete range of texts in grades 6-12</strong></a></p>
 						</div>
 					</div>
 				</div>

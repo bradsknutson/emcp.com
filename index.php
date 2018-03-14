@@ -28,7 +28,7 @@
                     <a href="<?php echo $server; ?>applied-learning/" class="learn-more-link"><h3>Applied Learning</h3></a>
 				</div>
 				<div class="one-fourth last">
-                    <a href="http://store.emcp.com" class="learn-more-link"><h3>Store</h3></a>
+                    <a href="https://store.emcp.com" class="learn-more-link"><h3>Store</h3></a>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -50,7 +50,7 @@
         <div class="connect-slice">
             <div class="ninesixty">
                 <div class="emc-connect-logo emc-connect-content">
-                    <a href="http://connect.emcp.com" target="_blank"><img src="<?php echo $server; ?>lib/images/emc-connect-black.png" alt="EMC Connect" /></a>
+                    <a href="https://connect.emcp.com" target="_blank"><img src="<?php echo $server; ?>lib/images/emc-connect-black.png" alt="EMC Connect" /></a>
                     <p class="emc-connect-content">Tips, resources, trends, and more!</p>
                 </div>
                 <div class="emc-connect-posts">

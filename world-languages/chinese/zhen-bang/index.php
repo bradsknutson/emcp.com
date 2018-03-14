@@ -52,7 +52,7 @@
 					
 						<img src="<?php echo $server; ?>lib/images/zb-cover_new.png" alt="Zh&#275;n B&agrave;ng Chinese Program" /><br />
 						<a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Zh&#275;n B&aacute;ng! in Passport</a><br />
-						<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?emc_product_type=590&language=364&q=zhen">Buy It Now!</a>
+						<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?emc_product_type=590&language=364&q=zhen">Buy It Now!</a>
 					</p>
 				</div>
 				<div class="conectate-right" style="text-align:center;">
@@ -151,14 +151,14 @@
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=364&q=symtalk">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?language=364&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-chinese.jpg" alt="Exploring French" />
 				<h3>Exploring Chinese</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-chinese-5116.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/exploring-chinese-5116.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>

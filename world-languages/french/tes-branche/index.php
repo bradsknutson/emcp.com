@@ -54,7 +54,7 @@
 					<img src="<?php echo $server; ?>lib/images/teb-cover_new.png" alt="T'es branch&eacute;? French Program" />
 				<!--
                     <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover T'es branch&eacute;? in Passport</a></p>
-                    <p><a class="learn-more-link smaller-link" href="http://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a></p>
+                    <p><a class="learn-more-link smaller-link" href="https://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a></p>
 				-->
 				</div>
 				<div class="conectate-right" style="text-align:center;">
@@ -111,7 +111,7 @@
                             <p class="disclaimer">*AP is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.</p>
                         </div>
                         <div class="conectate-right" style="margin-left:125px;">
-                            <img src="http://www.emcp.com/lib/images/teb4-cover.jpg" alt="T'es branché? Level 4">
+                            <img src="https://www.emcp.com/lib/images/teb4-cover.jpg" alt="T'es branché? Level 4">
                         </div>
                         <div class="clearfix"></div>
 					</div>
@@ -170,14 +170,14 @@
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/catalogsearch/result/index/?language=362&q=symtalk">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?language=362&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-french.jpg" alt="Exploring French" />
 				<h3>Exploring French</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="http://store.emcp.com/exploring-french-third-edition-softcover-edition.html">Buy It Now!</a></p>
+				<a class="learn-more-link smaller-link" href="https://store.emcp.com/exploring-french-third-edition-softcover-edition.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -274,7 +274,7 @@
                     <h3 class="conectate">i-Culture</h3>
 					<p class="no-top">Watch authentic culture come alive for your students as they immerse themselves in engaging and varied media: videos, news articles, and songs. i-Passport, i-Videos, and i-Songs bring cultural experiences into the classroom and into your students'  lives.</p>
 
-					<p class="no-bottom"><a href="http://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
+					<p class="no-bottom"><a href="https://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
