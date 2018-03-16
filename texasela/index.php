@@ -23,7 +23,7 @@
 			<div class="ninesixty" style="padding:20px 0 40px;">
                 <h2 class="purple" style="display:inline !important;">INTRODUCING</h2> <span class="mwtitle">Mirrors &amp; Windows</span>
 				<div class="one-half first">
-					<p style="line-height:1.6;">
+					<p style="line-height:1.6;margin-bottom:25px;">
 					<strong>EMC School</strong> is proud to present its exciting literature and language arts program, <span class="italic">Mirrors &amp; Windows</span>. 
 					This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.<br /><br />
 				
@@ -35,7 +35,7 @@
 				</div>
 				<div class="one-half last">
 					<a class="technology-buttons mimundo-sample transition" href="/texasela/resources.php" target="_blank" style="position:relative;display:inline;left:0;bottom:0;margin-left:130px;">Resources</a><br />
-					<img src="/lib/images/texasela-hero.png" style="float:right;margin-left:20px;" />
+					<img src="/lib/images/texasela-hero-new.png" style="float:right;margin-left:20px;" />
 				</div>
             </div>
 			<div class="clearfix"></div>
