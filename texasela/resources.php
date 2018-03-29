@@ -15,7 +15,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty" style="padding:20px 0 10px;">
                <h1 style="text-align:center;">Mirrors &amp; Windows Resources</h1>
-                <h2>Hello, Texas Teachers. Welcome to our Proclamation 2020 Resources site. EMC offers its ©2020 Mirrors &amp; Windows English Language Arts Program 
+                <h2>Hello, Texas Teachers. Welcome to our Proclamation 2019 Resources site. EMC offers its ©2019 Mirrors &amp; Windows English Language Arts Program 
 					supported by our award winning digital platform Passport<sup>&reg;</sup>. 
 				</h2>
             </div>

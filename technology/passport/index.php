@@ -2,7 +2,7 @@
 	$custom_title = 'Passport | The Future of Fluency Is Here | ';
 	include '../../includes/header.php';
 ?>
-	<div id="container" class="passport-landing">
+	<div id="container">
         <div class="vimeo-modal"></div>
         <div class="header-hero-hover-2"></div>
 		<div class="header-secondary-page"></div>
