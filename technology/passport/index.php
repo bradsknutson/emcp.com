@@ -11,13 +11,13 @@
 		</div>
         <div class="fofih">
             <div class="fofih-container">
-                <h2>The future of fluency is here.</h2>
+                <!-- <h2>The future of fluency is here.</h2> -->
                 <div class="play-button">
 					<div class="icon-play"></div>
 				</div>
-                <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Sample');">Sample</a>
+                <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Sample');" style="bottom:-55px !important;">Sample</a>
 				&nbsp;&nbsp;
-				 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>passport/tour/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Tour');" style="margin-left:175px;">Self-guided Passport Tour</a>
+				 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>passport/tour/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Tour');" style="margin-left:175px;bottom:-55px !important;">Self-guided Passport Tour</a>
             </div>
         </div>
         <div class="fofih">
@@ -70,52 +70,72 @@
                 </div>
                 <div class="right-block">
                     <h3 class="paddingtop20">Keep discovering</h3>
-                    <p class="no-top no-bottom">The Passport<sup>&reg;</sup>  learning environment seamlessly delivers EMC's leading world language content and assets with the latest performance–based learning technologies.</p>
-                    
                     <div class="passport-icons-container">
                         <div class="icons-left">
-                            <img src="<?php echo $server; ?>lib/images/passport-icons-bookshelf.png" alt="Passport - Discover" />
+                            <img src="<?php echo $server; ?>lib/images/passport-icons-assess.png" alt="Passport - Assess" />
                         </div>
                         <div class="icons-right">
-                            <p>Discover &mdash; Students connect to core curriculum via their textbook, workbook, video and audio.</p>
+                            <p style="line-height:1.1;">Assess &mdash; Students take formative surveys and selection and unit chapter tests online.</p>
                         </div>
                         <div class="clearfix"></div>
                         <div class="icons-left">
-                            <img src="<?php echo $server; ?>lib/images/passport-icons-module.png" alt="Passport - Create" />                        
+                            <img src="<?php echo $server; ?>lib/images/passport-icons-discover.png" alt="Passport - Discover" />                        
                         </div>
                         <div class="icons-right">
-                            <p>Create &mdash; Students acquire a deeper understanding of language and culture through dynamic, fun projects.</p>
+                            <p style="line-height:1.1;">Discover &mdash; Students connect to core curriculum via their eBooks and other supplemental materials.</p>
                         </div>
                         <div class="clearfix"></div>
                         <div class="icons-left">
-                            <img src="<?php echo $server; ?>lib/images/passport-icons-iculture.png" alt="Passport - Expand" /> 
+                            <img src="<?php echo $server; ?>lib/images/passport-icons-expand.png" alt="Passport - Expand" /> 
                         </div>
                         <div class="icons-right">
-                            <p>Expand &mdash; Students explore culture through virtual tours, news articles, video documentaries, and music</p>
+                            <p style="line-height:1.1;">Expand &mdash; Students explore close reading and media literacy skills in 42+ novels with new novels added regularly.</p>
                         </div>
                         <div class="clearfix"></div>
                         <div class="icons-left">
-                            <img src="<?php echo $server; ?>lib/images/passport-icons-flipgrid.png" alt="Passport - Share" /> 
+                            <img src="<?php echo $server; ?>lib/images/passport-icons-create.png" alt="Passport - Create" /> 
                         </div>
                         <div class="icons-right">
-                            <p>Share &mdash; Students engage in video-based discussions with peers</p>
+                            <p style="line-height:1.1;">Create &mdash; Students practice reading, writing, speaking and listening, and language skills through project-based learning.</p>
                         </div>
                         <div class="clearfix"></div>
                         <div class="icons-left">
-                            <img src="<?php echo $server; ?>lib/images/passport-icons-avenue.png" alt="Passport - Perform" /> 
+                            <img src="<?php echo $server; ?>lib/images/passport-icons-explore.png" alt="Passport - Explore" /> 
                         </div>
                         <div class="icons-right">
-                            <p>Perform &mdash; Students demonstrate oral proficiency level through video evaluation</p>
+                            <p style="line-height:1.1;">Explore &mdash; Students learn the close reading process through interactive videos.</p>
+                        </div>
+                        <div class="clearfix"></div>
+						 <div class="icons-left">
+                            <img src="<?php echo $server; ?>lib/images/passport-icons-share.png" alt="Passport - Share" /> 
+                        </div>
+                        <div class="icons-right">
+                            <p style="line-height:1.1;">Share &mdash; Students post their opinions, ideas, stories, and more, in a social media format using Flipgrid.</p>
+                        </div>
+                        <div class="clearfix"></div>
+						 <div class="icons-left">
+                            <img src="<?php echo $server; ?>lib/images/passport-icons-perform.png" alt="Passport - Perform" /> 
+                        </div>
+                        <div class="icons-right">
+                            <p style="line-height:1.1;">Perform &mdash; Students demonstrate oral proficiency through video assessment tasks and can create a video performance portfolio.</p>
                         </div>
                         <div class="clearfix"></div>
                     </div>
-                    <h3>Passport<sup>&reg;</sup> features:</h3>
-                    <ul class="no-top">
-                        <li>Single layer interaction (Access content and features with only one click.)</li>
-                        <li>Adaptable slices (Customize your students' view.)</li>
-                        <li>Horizontal sliding navigation (Think Netflix&trade;: easy left-to-right, mobile-friendly navigation.)</li>
-                        <li>System check (Passport conveniently analyzes your system and lets you know if you’re meeting tech requirements.)</li>
-                    </ul>
+					<div>
+						<h3 class="paddingtop20">Passport&reg; features</h3>
+						<ul>
+							<li>all program resources 
+							<li>project-based learning modules (IPAs) 
+							<li>up-to-date cultural assets 
+							<li>video-based performance assessments 
+							<li>collaborative video discussions with Flipgrid<sup style="font-size:12px;">TM</sup> 
+							<li>assigning and grading capabilities 
+							<li>detailed student data 
+							<li>portfolio capabilities 
+							<li>opportunities for differentiated instruction 
+							<li>custom lesson creation 
+						</ul>
+					</div>
                 </div>
                 <div class="clearfix"></div>
             </div>

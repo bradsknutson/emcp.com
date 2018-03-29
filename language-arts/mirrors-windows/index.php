@@ -22,7 +22,7 @@
 			<div class="ninesixty">
                 <h3>Your Best Resource for Meeting College and Career Readiness Standards in English Language Arts</h3>
 				<div class="conectate-left">
-                    <p class="no-top"><span class="bold">EMC School</span> is proud to present its exciting literature program, <span class="italic">Mirrors & Windows</span>. 
+                    <p class="no-top"><span class="bold">EMC School</span> is proud to present its exciting literature program, <span class="italic">Mirrors &mp; Windows</span>. 
 					This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.
 					<a class="learn-more-link smaller-link" href="https://vimeo.com/138627634" target="_blank">Watch the video</a>.</p>
                     <p><span class="italic">Mirrors &amp; Windows</span> <span class="bold">challenges students</span> to reach their maximum potential while differentiating instruction for individual learners. Using a <span class="bold">gradual release approach to reading</span>, students will achieve a deep comprehension of the material and a greater appreciation of the literary genres. They will learn to <span class="bold">recognize and make connections</span> between the selections, the world, and themselves. Along the way, they will discover a love of literature that will grow throughout their lives. Truly, literature will turn mirrors into windows for your students.</p>

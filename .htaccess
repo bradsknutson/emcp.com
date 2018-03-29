@@ -341,5 +341,7 @@ RewriteRule ^ElementaryCorner$ http://response.emcp.com/promo/elementary-corner/
 
 RewriteRule ^flipgrid/new/$ https://info.flipgrid.com/ [R=301,L]
 RewriteRule ^zulama$  https://www.emcp.com/applied-learning/zulama/   [R=301,L]
+RewriteRule ^accesseditions$  https://www.emcp.com/language-arts/access-editions/   [R=301,L]
+RewriteRule ^california-econ$  https://www.emcp.com/applied-learning/financial-literacy/economics/author/   [R=301,L]
 
 ErrorDocument 404 /error.php
