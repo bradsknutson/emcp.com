@@ -28,8 +28,8 @@
                     </a>
                 </div>
                 <div class="catalog-img">
-                    <a href="https://drive.google.com/file/d/0B2BRD_gaMsOKNjhLRmdOblVXQVU/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/2017-CompTechCover.jpg" alt="Computer Technology 2016" class="animated" />
+                    <a href="https://drive.google.com/file/d/1oistpuPBntpKz6p5-MMy_AKQD_pU7p25/view?usp=sharing" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/2018-CompTechCover.jpg" alt="Computer Technology 2018" class="animated" />
                     </a>
                 </div>
                 <div class="clearfix"></div>

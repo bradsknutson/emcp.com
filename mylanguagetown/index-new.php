@@ -42,10 +42,9 @@
 		<div>
 			<div class="ninesixty" style="padding-top:730px;">
                 <p style="margin:15px 0 40px;">
-					<a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:10px !important;" href="https://store.emcp.com/world-languages.html?emc_product_series=615" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Buy or View Sample Pages');">Buy now or view sample pages</a> &nbsp; 
-					<a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:10px !important;" href="https://soundcloud.com/emc-587353640/sets/my-language-town-albums-1-5" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Listen to Sample Songs');">Listen to sample songs</a>
+					<a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:10px !important;" href="https://www.emcp.com/catalog/mlt-request.php" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MLT Buy or View Sample Pages');">Request a demo account</a> &nbsp; 
+					<a class="technology-buttons transition" style="display:inline !important;position:relative !important;bottom:10px !important;" href="http://edu.emcp.com/world-languages.html?emc_product_series=615" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Listen to Sample Songs');">Buy now!</a>
 				</p>
-                <h2 style="text-align:center;">DIGITAL LIBRARIES (BOOKS/SONGS) TO LEARN SPANISH K-12+</h2>
 				<div>
 					<div style="float:left;width:25%;">
 						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-elementary-icon.png" alt="My Language Town eReaders - Elementary" /></a>
@@ -69,11 +68,12 @@
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/TUiHQ8q6uZ8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				</div>
 				<div style="float:left;width:320px;">
-					<ul style="margin:80px 0 0 0;line-height:1.7;">
+					<ul style="margin:20px 0 0 0;line-height:1.7;font-size:20px;">
 						<li>CONNECTIONS TO OTHER DISCIPLINES</li>
 						<li>PROJECT BASED LEARNING</li>
 						<li>DIFFERENTIATED INSTRUCTION</li>
 						<li>SAVE TIME CREATING LESSONS</li>
+						<li>KARAOKE SING-ALONG VERSIONS INCLUDED</li>
 					</ul>
 				</div>
 			</div>
