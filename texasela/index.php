@@ -143,40 +143,53 @@
 			<div class="seveneighty">
                 <h2 class="margintop0">Support</h2>
                 <p>Contact your Account Manager anytime!</p>
-                <div class="one-fourth-col">
-                    <div class="rep-container textleft">
-                        <p><strong>Phil Neill</strong><br />
-						ESC Regions 7, 8 ,10, 11, 14, 15, 18, 19<br />
+               <div class="one-fourth-col" style="width:20% !important;">
+                    <div class="rep-container textleft" style="padding:5px !important;">
+                        <p style="font-size:14px !important;"><strong>Phil Neill</strong><br />
+						ESC Regions<br />
+						7, 8 ,10, 11, 14, 15, 18, 19<br />
                         817-637-7445<br />
-                        <a href="mailto:pneill@emcp.com">pneill@emcp.com</a></p>
+                        <a href="mailto:pneill@emcp.com" style="font-size:14px !important;">pneill@emcp.com</a></p>
                         <img src="<?php echo $server; ?>lib/images/texas-rep-map-1.png" />
                     </div>
                 </div>                
-                <div class="one-fourth-col">
-                    <div class="rep-container textleft">
-                        <p><strong>Vicki Robinson</strong><br />
-						ESC Regions 3, 9, 12, 13, 16, 17<br />
+                <div class="one-fourth-col" style="width:20% !important;">
+                    <div class="rep-container textleft" style="padding:5px !important;">
+                        <p style="font-size:14px !important;"><strong>Vicki Robinson</strong><br />
+						ESC Regions<br />
+						3, 9, 12, 13, 16, 17<br />
                         405-426-7245<br />
-                        <a href="mailto:vrobinson@emcp.com">vrobinson@emcp.com</a></p>
+                        <a href="mailto:vrobinson@emcp.com" style="font-size:14px !important;">vrobinson@emcp.com</a></p>
                         <img src="<?php echo $server; ?>lib/images/texas-rep-map-2.png" />
                     </div>
                 </div>                
-                <div class="one-fourth-col">
-                    <div class="rep-container textleft">
-                        <p><strong>Joni Dodson</strong><br />
-						 ESC Regions 4, 5, 6<br />
+                <div class="one-fourth-col" style="width:20% !important;">
+                    <div class="rep-container textleft" style="padding:5px !important;">
+                        <p style="font-size:14px !important;"><strong>Joni Dodson</strong><br />
+						ESC Regions<br />
+						4, 5, 6<br />
                         281-799-8133<br />
-                        <a href="mailto:jdodson@emcp.com">jdodson@emcp.com</a></p>
-                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-3.png" style="margin-top:24px;" />
+                        <a href="mailto:jdodson@emcp.com" style="font-size:14px !important;">jdodson@emcp.com</a></p>
+                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-3.png" />
                     </div>
                 </div>                
-                <div class="one-fourth-col">
-                    <div class="rep-container textleft">
-                        <p><strong>Nancy Welch</strong><br />
-						ESC Regions 1, 2, 20<br />
+                <div class="one-fourth-col" style="width:20% !important;">
+                    <div class="rep-container textleft" style="padding:5px !important;">
+                        <p style="font-size:14px !important;"><strong>Nancy Welch</strong><br />
+						ESC Regions<br />
+						1, 2, 20<br />
                         201-865-5467<br />
-                        <a href="mailto:nwelch@emcp.com">nwelch@emcp.com</a></p>
-                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-4.png" style="margin-top:24px;" />
+                        <a href="mailto:nwelch@emcp.com" style="font-size:14px !important;">nwelch@emcp.com</a></p>
+                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-4.png" />
+                    </div>
+                </div>
+				<div class="one-fourth-col" style="width:20% !important;">
+                    <div class="rep-container textleft" style="padding:5px !important;">
+                        <p style="font-size:14px !important;"><strong>David Irons </strong><br />
+						Sales Manager, Texas<br /><br />
+                        855-213-0741<br />
+                        <a href="mailto:dirons@emcp.com" style="font-size:14px !important;">dirons@emcp.com</a></p>
+                        <img src="<?php echo $server; ?>lib/images/texas-rep-map-5.png" />
                     </div>
                 </div>
                 <div class="clearfix"></div>
