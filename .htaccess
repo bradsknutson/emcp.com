@@ -346,5 +346,6 @@ RewriteRule ^california-econ$  https://www.emcp.com/applied-learning/financial-l
 RewriteRule ^access-editions$  https://www.emcp.com/language-arts/access-editions/   [R=301,L]
 
 RewriteRule ^mwpresentation$  https://drive.google.com/open?id=1fV6VxE61d0GqRFgTWXgdLfkHdaWd-FGc   [R=301,L]
+RewriteRule ^idahopresentation$ https://vimeo.com/263932560  [R=301,L]
 
 ErrorDocument 404 /error.php
