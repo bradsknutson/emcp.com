@@ -14,13 +14,13 @@
                     <a href="https://www.facebook.com/EMCPublishing" target="_blank">
                             <img src="<?php echo $server; ?>lib/images/social-facebook.png" alt="Facebook" />
                     </a>
-                    <a href="https://twitter.com/EMCPublishing" target="_blank">
+                    <a href="https://twitter.com/EMCSCHOOL" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/social-twitter.png" alt="Twitter" />
                     </a>
                     <a href="https://www.linkedin.com/company/emc-publishing-llc" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/social-linkedin.png" alt="Linkedin" />
                     </a>
-                    <a href="https://vimeo.com/emcpublishing" target="_blank">
+                    <a href="https://vimeo.com/emcschool" target="_blank">
                         <img src="<?php echo $server; ?>lib/images/social-vimeo.png" alt="Vimeo" />
                     </a>
                 </div>

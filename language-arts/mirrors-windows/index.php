@@ -46,7 +46,7 @@
 					<a class="learn-more-link smaller-link" href="https://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
 				</div>
 				<div class="conectate-right">
-					<img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Mirrors and Windows - Passport" />
+					<!-- <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Mirrors and Windows - Passport" /> -->
 					<img src="<?php echo $server; ?>lib/images/mw-passport.png" alt="Mirrors and Windows - Passport" />
 					<img src="<?php echo $server; ?>lib/images/mw-cover.png" alt="Mirrors and Windows Level 1" />
 					<img src="<?php echo $server; ?>lib/images/mw-cover-collage.png" alt="Mirrors and Windows" />
