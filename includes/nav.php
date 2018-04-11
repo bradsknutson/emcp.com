@@ -33,6 +33,7 @@
 						<li><a href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/">German</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/chinese/zhen-bang/">Chinese</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/italian/">Italian</a></li>
+						<li><a href="<?php echo $server; ?>technology/passport/">Passport</a></li>
 						<li><a href="<?php echo $server; ?>technology/iculture/">i-Culture</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/readers/">Readers</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/spanish/mimundo/index.php">Mi Mundo</a></li>
@@ -43,6 +44,7 @@
 				<li<?php echo get_current('language-arts',$current); ?>><a href="<?php echo $server; ?>language-arts/">Language Arts</a>
 					<ul>
 						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/">Mirrors & Windows</a></li>
+						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/passport/">Passport</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/expository-composition/">Expository Composition</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/access-editions/">Access Editions</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/write-in-readers/">Write-in Readers</a></li>

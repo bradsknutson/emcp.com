@@ -17,16 +17,16 @@
 				</div>
                 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Sample');" style="bottom:-55px !important;">Sample</a>
 				&nbsp;&nbsp;
-				 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>passport/tour/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Tour');" style="margin-left:175px;bottom:-55px !important;">Self-guided Passport Tour</a>
+				 <a class="technology-buttons passport-demo transition" href="https://support.emcschool.com/welcome-to-passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Demo Account');" style="margin-left:175px;bottom:-55px !important;">Passport Demo Account</a>
             </div>
         </div>
         <div class="fofih">
             <div class="ninehundred">
-                <h3 class="textcenter">The learning environment for the world language classroom of tomorrow&mdash;today</h3>
+                <h2 class="textcenter"><br />The learning environment for the world language classroom of tomorrow&mdash;today</h2>
                 <div class="left-block">
                     <p>Passport<sup>&reg;</sup> is an innovative world language learning environment that allows teachers to easily assign classwork, track student progress, and report results to parents or school districts – all within a single application.</p>
 
-                    <p>Passport<sup>&reg;</sup> seamlessly delivers EMC’s leading world language content and assets in a research-based platform developed by the Institute for Design Innovation at the University of Minnesota.</p>
+                    <p>Passport<sup>&reg;</sup> seamlessly delivers EMC's leading world language content and assets in a research-based platform developed by the Institute for Design Innovation at the University of Minnesota.</p>
 
                     <p>With Passport<sup>&reg;</sup> students are immersed in their target language and culture, while teachers capture and measure progress with performance-based tasks and assessments.</p>
                 </div>
