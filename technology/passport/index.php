@@ -30,7 +30,7 @@
 
                     <p>With Passport<sup>&reg;</sup> students are immersed in their target language and culture, while teachers capture and measure progress with performance-based tasks and assessments.</p>
                 </div>
-                <div class="right-block">
+                <div class="right-block" style="width:50%;">
                     <img src="<?php echo $server; ?>lib/images/passport-landing-1.jpg" />
                 </div>
                 <div class="clearfix"></div>
