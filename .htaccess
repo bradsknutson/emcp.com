@@ -348,4 +348,6 @@ RewriteRule ^access-editions$  https://www.emcp.com/language-arts/access-edition
 RewriteRule ^mwpresentation$  https://drive.google.com/open?id=1fV6VxE61d0GqRFgTWXgdLfkHdaWd-FGc   [R=301,L]
 RewriteRule ^idahopresentation$ https://vimeo.com/263932560  [R=301,L]
 
+RewriteRule ^icdemo$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eaa8562502721d0f115614fb3cd967f9e8d25266f38f142e1c [R=301,L]
+
 ErrorDocument 404 /error.php
