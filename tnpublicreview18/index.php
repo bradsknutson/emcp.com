@@ -22,13 +22,13 @@
 				then click "Login" and using the respective usernames and passwords provided below. For System Requirements and User-Guides, please click 
 				<a href="http://support.emcp.com/support/emc-multiplatform-ebooks/#requirements-entries-tab" target="_blank" class="learn-more-link" style="font-size:24px;">here</a>.<br /><br />
 				Usernames and Passwords are:
-				<ul>
-					<li>Spanish: tnspanish/tnspanish</li>
-					<li>French: tnfrench/tnfrench</li>
-					<li>German: tngerman/tngerman</li>
-					<li>Chinese: tnchinese/tnchinese</li>
-					<li>Economics: tnecon/tnecon</li>
-					<li>Computer Applications: tnca/tnca</li>
+				<ul style="font-size:24px;">
+					<li><strong>Spanish:</strong> tnspanish/tnspanish</li>
+					<li><strong>French:</strong> tnfrench/tnfrench</li>
+					<li><strong>German:</strong> tngerman/tngerman</li>
+					<li><strong>Chinese:</strong> tnchinese/tnchinese</li>
+					<li><strong>Economics:</strong> tnecon/tnecon</li>
+					<li><strong>Computer Applications:</strong> tnca/tnca</li>
 				</ul>
 				</p>
             </div>            
