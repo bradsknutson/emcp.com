@@ -58,7 +58,7 @@
 		<div class="redefining no-bottom">
             <div class="ninesixty paddingtop40 paddingbottom40">
 				<div class="one-half first">
-					<h2>Sample Lesson</h2>
+					<h2>Sample Unit</h2>
 					<p style="line-height:1.6;">
 						Middle school Mirrors &amp; Windows English Language Arts Program<br /><br />
 					</p>
