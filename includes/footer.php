@@ -69,6 +69,12 @@ setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/5572.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>  
+</script>
+<!-- Marketing Cloud -->
+<script type="text/javascript" src="http://2462.collect.igodigital.com/collect.js"></script>
+<script type="text/javascript">
+_etmc.push(["setOrgId", "2462"]);
+_etmc.push(["trackPageView"]);
+</script>
 </body>
 </html>

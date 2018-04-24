@@ -54,13 +54,6 @@
 		});
 	</script>
 	
-	<!-- Marketing Cloud -->
-	<script type="text/javascript" src="http://2462.collect.igodigital.com/collect.js"></script>
-	<script type="text/javascript">
-	_etmc.push(["setOrgId", "2462"]);
-	_etmc.push(["trackPageView"]);
-	</script>
-	
 	<?php if(!empty($custom_js)) {
 		echo '<!-- Custom Javascript -->';
 		echo '<script src="'. $custom_js .'" type="text/javascript"></script>';
