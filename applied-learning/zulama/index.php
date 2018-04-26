@@ -5,7 +5,12 @@
 	<div id="container" class="al-ca">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image zulama-bg">
-			<div id="topImg"></div>
+			<div id="topImg">
+				<div class="play-button">
+					<div class="icon-play"></div>
+				</div>
+                <div class="header-hero-hover"></div>
+			</div>
 		</div>
 		<div class="header-top-dark">
 			<?php include '../../includes/nav.php'; ?>
@@ -20,7 +25,7 @@
                     <p style="line-height:1.4;">Does your district struggle to get students (and teachers) excited about STEM subjects and Computer Science? You are not alone!<br /><br />
 					
 					Today's students need to learn computer skills for tomorrow's jobs. Yet teaching technology is the very thing that most schools are struggling 
-					to provide, because: #1: schools can’t find technology curriculum and  #2: most teachers aren’t certified to teach computer science.
+					to provide, because: #1: schools can’t find technology curriculum and  #2: most teachers aren't certified to teach computer science.
 					Zulama has solved both problems!<br /><br />
 					
 					<span style="color:#f00;font-weight:bold;">#1:</span> Zulama has developed an unprecedented way to engage teenagers in programming and STEM subjects—through game design. Our expert instructional 
