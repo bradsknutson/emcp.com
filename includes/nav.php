@@ -53,7 +53,6 @@
                 </li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a>
 					<ul>
-						<li><a href="<?php echo $server; ?>applied-learning/business-education/">Business Education &<br />Computer Skills</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/applied-science/">Applied Science</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/financial-literacy/">Financial Literacy</a></li>
 						<li><a href="<?php echo $server; ?>applied-learning/career-life-skills/">Career & Life Skills</a></li>

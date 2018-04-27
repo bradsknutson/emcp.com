@@ -476,7 +476,24 @@ h2, h3 {
 .one-fourth.last {
     width: 15%;
 }
+.one-fifth {
+	float: left;
+	width: 20%;
+	padding: 0% 0.83333333333%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.one-fifth h3 {
+    font-size: 22px !important;
+}
+.one-fifth.last {
+    width: 15%;
+}
+
 .home-new .one-fourth.first, .home-new .one-fourth.second, .home-new .one-fourth.third {
+    border-right: 2px solid #000;
+}
+.home-new .one-fifth.first, .home-new .one-fifth.second, .home-new .one-fifth.third {
     border-right: 2px solid #000;
 }
 .home-new .one-third.first {

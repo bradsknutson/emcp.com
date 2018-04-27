@@ -18,16 +18,19 @@
 		</div>
 		<div class="home-first emc-cats">
 			<div class="ninesixty paddingtop40 paddingbottom40 cleafix">
-				<div class="one-fourth first">
+				<div class="one-fifth first">
                     <a href="<?php echo $server; ?>world-languages/" class="learn-more-link"><h3>World Languages</h3></a>
 				</div>
-				<div class="one-fourth second">
+				<div class="one-fifth second">
                     <a href="<?php echo $server; ?>language-arts/" class="learn-more-link"><h3>Language Arts</h3></a>
 				</div>
-				<div class="one-fourth third">
+				<div class="one-fifth third">
                     <a href="<?php echo $server; ?>applied-learning/" class="learn-more-link"><h3>Applied Learning</h3></a>
 				</div>
-				<div class="one-fourth last">
+				<div class="one-fifth third">
+                    <a href="<?php echo $server; ?>applied-learning/zulama" class="learn-more-link"><h3>Computer Literacy</h3></a>
+				</div>
+				<div class="one-fifth last">
                     <a href="https://store.emcp.com" class="learn-more-link"><h3>Store</h3></a>
 				</div>
 				<div class="clearfix"></div>
