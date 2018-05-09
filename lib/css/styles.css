@@ -4049,6 +4049,52 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 .zulama-bg #topImg{
 	background: url('../images/zulama-header.jpg') no-repeat 50% 100%;
 }
+/* New version */
+.zulama-new-bg, .zulama-new-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top:68px;
+}
+/* AP version */
+.zulama-ap-bg, .zulama-ap-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top:68px;
+}
+.zulama-ap-bg #topImg{
+	background: url('../images/zulama-header-ap.jpg') no-repeat 50% 100%;
+}
+/* GDF version */
+.zulama-gdf-bg, .zulama-gdf-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top:68px;
+}
+.zulama-gdf-bg #topImg{
+	background: url('../images/zulama-header-gdf.jpg') no-repeat 50% 100%;
+}
+/* MLP version */
+.zulama-mlp-bg, .zulama-mlp-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top:68px;
+}
+.zulama-mlp-bg #topImg{
+	background: url('../images/zulama-header-mlp.jpg') no-repeat 50% 100%;
+}
+/* PL version */
+.zulama-pl-bg, .zulama-pl-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top:68px;
+}
+.zulama-pl-bg #topImg{
+	background: url('../images/zulama-header-pl.jpg') no-repeat 50% 100%;
+}
+/* End new */
+.zulama-new-bg #topImg{
+	background: url('../images/zulama-header-new.jpg') no-repeat 50% 100%;
+}
 .zulama-buttons {
     padding: 10px 20px;
     color: #BD0006 !important;
