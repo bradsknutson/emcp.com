@@ -354,4 +354,6 @@ RewriteRule ^TexasELA/ https://www.emcp.com/texasela/ [R=301,L]
 
 RewriteRule ^montgomeryela$  https://vimeo.com/267813386   [R=301,L]
 
+RewriteRule ^welcome-to-passport$  https://support.emcschool.com/welcome-to-passport/ [R=301,L]
+
 ErrorDocument 404 /error.php
