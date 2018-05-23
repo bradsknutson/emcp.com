@@ -19,7 +19,7 @@
             <div class="elap-container" style="height:724px !important;margin-top:140px;">
                 <a class="technology-buttons passport-demo transition" href="http://support.emcschool.com/welcome-to-passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Demo Account');" style="margin-left:-180px !important;margin-bottom:10px !important; bottom:-80px !important;">Passport Demo Account</a>
 				&nbsp;&nbsp;
-				<a class="technology-buttons passport-demo transition" href="https://calendly.com/emcschool/passportwebinarela" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Register for Passport Webinar');" style="margin-left:230px !important;margin-bottom:10px !important; bottom:-80px !important;">Register for Passport Webinar</a>
+				<a class="technology-buttons passport-demo transition" href="http://support.emcschool.com/summer-academy/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Register for Passport Webinar');" style="margin-left:230px !important;margin-bottom:10px !important; bottom:-80px !important;">Register for Passport Webinar</a>
 			</div>
         </div>
         <div class="fofih" style="margin-top:20px;">
@@ -53,29 +53,22 @@
 			</div>
 		</div>
 		<div class="grey-slice" style="padding:0 !important;">
-			<div class="ninehundred">
-                <div class="left-block">
-					<p class="no-bottom" style="font-size:23px;line-height:1.4;">Passport<sup>&reg;</sup> allows teachers to:</p>
-                    <ul>
-                        <li>Assign homework and tasks</li>
-						<li>Track progress of students with graphs and charts</li>
-						<li>Provide feedback</li>
-						<li>Access all program resources</li>
-						<li>Incorporate blended learning</li>
-                    </ul>
-				</div>
-				<div class="right-block">
-					<p class="no-bottom" style="font-size:23px;line-height:1.4;">Passport<sup>&reg;</sup> allows students to:</p>
-                    <ul>
-                        <li>Access materials anytime, anywhere</li>
-						<li>Complete assignments and practice activities interactively</li>
-						<li>Work on project-based tasks</li>
-						<li>Submit work</li>
-						<li>Receive immediate feedback</li>
-						<li>Track progress</li>
-                    </ul>
-				</div>
+			<div class="ninehundred" style="padding:10px 0 30px !important;">
+				<div style="margin:10px 0;text-align:center;"><h2 class="no-bottom">Get to know Passport<sup>&reg;</sup> through our summer academy</h2></div>
 				<div class="clearfix"></div>
+                <div style="text-align:center;">
+                    <img src="<?php echo $server; ?>lib/images/PassportWebinar_700px.gif" style="margin-top:10px;" /><br />
+                </div>
+				<div class="clearfix"></div>
+                <div style="text-align:center;">
+                    <p class="no-top" style="line-height:1.4;"><br />
+						Get to know the engaging Passport<sup>&reg;</sup> digital environment for middle and high school learners! 
+						Pick a course , or multiple courses, to meet your specific needs and skills. For every completed course, 
+						you will receive a Professional Development Certificate.
+					</p>
+					<p style="text-align:center;"><a href="https://support.emcschool.com/summer-academy/" style="background:#FF7F27;padding:10px;border-radius:5px;color:#fff;font-size:23px;" target="_blank">Sign up for a free course</a>
+                </div>
+                <div class="clearfix"></div>
             </div>
         </div>
 	<!-- New -->
@@ -140,6 +133,32 @@
                     </div>
                 </div>
                 <div class="clearfix"></div>
+            </div>
+        </div>
+		<div class="grey-slice" style="padding:0 !important;">
+			<div class="ninehundred" style="padding-top:10px !important;">
+                <div class="left-block">
+					<p class="no-bottom" style="font-size:23px;line-height:1.4;">Passport<sup>&reg;</sup> allows teachers to:</p>
+                    <ul>
+                        <li>Assign homework and tasks</li>
+						<li>Track progress of students with graphs and charts</li>
+						<li>Provide feedback</li>
+						<li>Access all program resources</li>
+						<li>Incorporate blended learning</li>
+                    </ul>
+				</div>
+				<div class="right-block">
+					<p class="no-bottom" style="font-size:23px;line-height:1.4;">Passport<sup>&reg;</sup> allows students to:</p>
+                    <ul>
+                        <li>Access materials anytime, anywhere</li>
+						<li>Complete assignments and practice activities interactively</li>
+						<li>Work on project-based tasks</li>
+						<li>Submit work</li>
+						<li>Receive immediate feedback</li>
+						<li>Track progress</li>
+                    </ul>
+				</div>
+				<div class="clearfix"></div>
             </div>
         </div>
 	

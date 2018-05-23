@@ -59,7 +59,7 @@
 	<!-- New grey slice -->
 		<div class="grey-slice" style="padding:10px 0 20px !important;">
             <div class="ninehundred" style="padding:0 !important;">
-				<div style="margin:10px 0;text-align:center;"><h2 class="no-bottom">Get to Know Passport<sup>&reg;</sup> Weekly Webinar Series</h2></div>
+				<div style="margin:10px 0;text-align:center;"><h2 class="no-bottom">Get to know Passport<sup>&reg;</sup> through our summer academy</h2></div>
 				<div class="clearfix"></div>
                 <div style="text-align:center;">
                     <img src="<?php echo $server; ?>lib/images/PassportWebinar_700px.gif" style="margin-top:10px;" /><br />
@@ -67,10 +67,11 @@
 				<div class="clearfix"></div>
                 <div style="text-align:center;">
                     <p class="no-top" style="line-height:1.4;"><br />
-						Get the most out of your demo by getting to know the engaging<br /> 
-						Passport<sup>&reg;</sup> digital environment for middle and high school learners!
+						Get to know the engaging Passport<sup>&reg;</sup> digital environment for middle and high school learners! 
+						Pick a course , or multiple courses, to meet your specific needs and skills. For every completed course, 
+						you will receive a Professional Development Certificate.
 					</p>
-					<p style="text-align:center;"><a href="https://calendly.com/emcschool/passportwebinarwl/" style="background:#FF7F27;padding:10px;border-radius:5px;color:#fff;font-size:23px;" target="_blank">Sign up for a webinar</a>
+					<p style="text-align:center;"><a href="https://support.emcschool.com/summer-academy/" style="background:#FF7F27;padding:10px;border-radius:5px;color:#fff;font-size:23px;" target="_blank">Sign up for a free course</a>
                 </div>
                 <div class="clearfix"></div>
             </div>

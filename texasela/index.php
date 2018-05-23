@@ -34,8 +34,11 @@
 					</p>
 				</div>
 				<div class="one-half last">
-					<a class="technology-buttons mimundo-sample transition" href="/texasela/resources.php" target="_blank" style="position:relative;display:inline;left:0;bottom:0;margin-left:130px;">Resources</a><br />
-					<img src="/lib/images/texasela-hero-new.png" style="float:right;margin-left:20px;" />
+					<!--
+						<a class="technology-buttons mimundo-sample transition" href="/texasela/resources.php" target="_blank" style="position:relative;display:inline;left:0;bottom:0;margin-left:130px;">Resources</a><br />
+					-->
+					<a href="/texasela/resources.php" target="_blank"><img src="/lib/images/texas-ela-resources-button.png" style="float:right;margin-left:20px;" /></a><br />
+					<img src="/lib/images/texasela-hero-new.png" style="margin-left:130px;" />
 				</div>
             </div>
 			<div class="clearfix"></div>
