@@ -36,6 +36,7 @@
 								<li><a href="<?php echo $server; ?>contact/" class="footerlink">Contact</a></li>
 								<li><a href="https://store.emcp.com/about-emcp/career-opportunities" class="footerlink">Career Opportunities</a></li>
 								<li><a href="<?php echo $server; ?>catalog/" class="footerlink">Catalog</a></li>
+								<li><a href="<?php echo $server; ?>terms/privacy.php" class="footerlink">Privacy Policy</a></li>
 							</ul>
 						</li>
 						<!-- <li><a href="<?php echo $server; ?>contact/">Contact</a></li> -->
