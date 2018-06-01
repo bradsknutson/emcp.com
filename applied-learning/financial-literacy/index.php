@@ -33,7 +33,7 @@
                 <div class="left-slice">
                     <h1>Personal Finance</h1>
                     <p><em>Personal Finance: A Lifetime Responsibility</em> covers current and relevant topics, including identity theft, buying a car, and using debit cards. It presents hundreds of real-life examples, documents, and forms to capture the interest and imagination of today's consumer-oriented teens.</p>
-                    <a class="learn-more-link" href="<?php echo $server; ?>applied-learning/financial-literacy/personal-finance/">Learn more</a>
+                    <a class="learn-more-link" href="https://store.emcp.com/personal-finance-a-lifetime-responsibility.html" target="_blank">Learn more</a>
                 </div>
                 <div class="right-slice">
                     <img src="<?php echo $server; ?>lib/images/al-ss-pf.png" alt="Personal Finance" />
