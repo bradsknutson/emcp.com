@@ -356,4 +356,6 @@ RewriteRule ^montgomeryela$  https://vimeo.com/267813386   [R=301,L]
 
 RewriteRule ^welcome-to-passport$  https://support.emcschool.com/welcome-to-passport/ [R=301,L]
 
+RewriteRule ^demo$  https://www.emcp.com/catalog/request.php
+
 ErrorDocument 404 /error.php
