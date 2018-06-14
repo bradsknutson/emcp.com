@@ -193,8 +193,8 @@
 				<div class="clearfix"></div>
 				<div>
 					<p>
-						<a class="learn-more-link" href="" target="_blank">Request a demo!</a>&nbsp;&nbsp;
-						<a class="learn-more-link" href="" target="_blank">Buy it now!</a>
+						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+						<a class="learn-more-link" href="http://zulama.com/how-it-works/mlp-package/#.WvDTQ4gvxPY" target="_blank">Buy it now!</a>
 					</p>
 				</div>
 			</div>
@@ -338,8 +338,8 @@
 				<div class="clearfix"></div>
 				<div>
 					<p>
-						<a class="learn-more-link" href="" target="_blank">Request a demo!</a>&nbsp;&nbsp;
-						<a class="learn-more-link" href="" target="_blank">Buy it now!</a>
+						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+						<a class="learn-more-link" href="http://zulama.com/how-it-works/mlp-package/#.WvDTQ4gvxPY" target="_blank">Buy it now!</a>
 					</p>
 				</div>
 			</div>
@@ -390,7 +390,7 @@
 						<div class="clearfix"></div>
 						<div>
 							<p>
-								<a class="learn-more-link" href="" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+								<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
 								<a class="learn-more-link" href="http://zulama.com/how-it-works/mlp-package/#.WvDTQ4gvxPY" target="_blank">Buy it now!</a>
 							</p>
 						</div>
@@ -453,8 +453,8 @@
 						Access to your Zulama curriculum is granted during the training.
 					</p>
 					<p style="line-height:1.4;">
-						<a class="learn-more-link" href="" target="_blank">Request a demo!</a>&nbsp;&nbsp;
-						<a class="learn-more-link" href="" target="_blank">Buy it now!</a>
+						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+						<a class="learn-more-link" href="http://zulama.com/how-it-works/mlp-package/#.WvDTQ4gvxPY" target="_blank">Buy it now!</a>
 					</p>
 				</div>
 				<div class="clearfix"></div>
