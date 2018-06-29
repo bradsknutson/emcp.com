@@ -358,4 +358,6 @@ RewriteRule ^welcome-to-passport$  https://support.emcschool.com/welcome-to-pass
 
 RewriteRule ^demo$  https://www.emcp.com/catalog/request.php
 
+RewriteRule ^icultureaccess$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea210f564f49be1f5bad90bd8ffa7c07d404033b7af6347e20 [R=301,L]
+
 ErrorDocument 404 /error.php

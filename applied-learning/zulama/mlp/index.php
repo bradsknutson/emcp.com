@@ -194,7 +194,8 @@
 				<div>
 					<p>
 						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
-						<a class="learn-more-link" href="http://zulama.com/how-it-works/mlp-package/#.WvDTQ4gvxPY" target="_blank">Buy it now!</a>
+					<!--<a class="learn-more-link" href="http://zulama.com/how-it-works/mlp-package/#.WvDTQ4gvxPY" target="_blank">Buy it now!</a> -->
+						<a class="learn-more-link" href="http://edu.emcp.com/computer-science/modern-learning-computer-science-and-game-design-platform.html" target="_blank">Buy it now!</a>
 					</p>
 				</div>
 			</div>
