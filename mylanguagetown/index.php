@@ -47,16 +47,16 @@
 				</p>
 				<div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-elementary-icon.png" alt="My Language Town eReaders - Elementary" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-elementary-icon.png" alt="My Language Town eReaders - Elementary" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-beginner-icon.png" alt="My Language Town eReaders - Beginner" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-beginner-icon.png" alt="My Language Town eReaders - Beginner" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-intermediate-icon.png" alt="My Language Town eReaders - Intermediate" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-intermediate-icon.png" alt="My Language Town eReaders - Intermediate" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-albums-library.html"><img src="<?php echo $server; ?>lib/images/mlt-albums-icon.png" alt="My Language Town eReaders - Albums" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-albums-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-albums-icon.png" alt="My Language Town eReaders - Albums" /></a>
 					</div>
 				</div>
             </div>
@@ -85,113 +85,113 @@
 				<div class="bxslider">
 				<!-- 
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-1.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-1.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-2.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-2.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 				-->
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-3.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-3.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-4.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-4.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-5.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-5.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-6.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-6.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-7.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-7.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-8.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-8.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-10.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-10.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-11.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-11.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-12.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-12.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-13.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-13.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-14.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-14.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-15.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-15.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-16.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-16.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-17.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-17.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-18.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-18.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-19.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-19.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-20.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-20.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-21.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-21.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-22.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-22.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-23.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-23.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-24.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-24.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-25.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-25.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-26.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-26.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-27.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-27.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-28.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-28.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-29.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-29.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-30.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-30.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-31.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-31.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-32.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-32.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-33.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-33.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-34.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-34.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-35.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-35.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-36.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-36.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-elementary-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-37.jpg" alt="Elementary eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-elementary-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/elementary/elementary-37.jpg" alt="Elementary eReader Library" /></a>
 					</div>
 				</div>
             </div>
@@ -202,85 +202,85 @@
                 <h2>BEGINNER eREADERS LIBRARY</h2>
 				<div class="bxslider">
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-1.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-1.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-2.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-2.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-3.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-3.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-4.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-4.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-5.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-5.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-6.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-6.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-7.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-7.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-8.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-8.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-9.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="http://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-9.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-10.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-10.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-11.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-11.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-12.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-12.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-13.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-13.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-14.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-14.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-15.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-15.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-16.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-16.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-17.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-17.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-18.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-18.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-19.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-19.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-20.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-20.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-21.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-21.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-22.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-22.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-23.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-23.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-24.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-24.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-25.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-25.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-26.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-26.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-beginner-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-27.jpg" alt="Beginner eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-beginner-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/beginner/beginner-27.jpg" alt="Beginner eReader Library" /></a>
 					</div>
 				</div>
             </div>
@@ -291,79 +291,79 @@
                 <h2>INTERMEDIATE eREADERS LIBRARY</h2>
 				<div class="bxslider">
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-1.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-1.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-2.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-2.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-3.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-3.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-4.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-4.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-5.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-5.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-6.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-6.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-7.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-7.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-8.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-8.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-9.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-9.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-10.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-10.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-11.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-11.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-12.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-12.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-13.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-13.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-14.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-14.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-15.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-15.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-16.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-16.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-17.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-17.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-18.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-18.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-19.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-19.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-20.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-20.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-21.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-21.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-22.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-22.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-23.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-23.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-24.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-24.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-intermediate-library.html"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-25.jpg" alt="Intermediate eReader Library" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-intermediate-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-covers/intermediate/intermediate-25.jpg" alt="Intermediate eReader Library" /></a>
 					</div>
 				</div>
             </div>
@@ -374,22 +374,22 @@
                 <h2>SONG ALBUM eLIBRARY</h2>
 				<div class="bxslider">
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-albums-library.html"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-elementary.jpg" alt="Song Album eLibrary" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-albums-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-elementary.jpg" alt="Song Album eLibrary" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-albums-library.html"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-beginner.jpg" alt="Song Album eLibrary" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-albums-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-beginner.jpg" alt="Song Album eLibrary" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-albums-library.html"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-cultureinspanish.jpg" alt="Song Album eLibrary" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-albums-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-cultureinspanish.jpg" alt="Song Album eLibrary" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-albums-library.html"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-intermediate.jpg" alt="Song Album eLibrary" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-albums-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-intermediate.jpg" alt="Song Album eLibrary" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-albums-library.html"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-scienceinspanish.jpg" alt="Song Album eLibrary" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-albums-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-scienceinspanish.jpg" alt="Song Album eLibrary" /></a>
 					</div>
 					<div style="float:left;width:25%;">
-						 <a href="https://edu.emcp.com/world-languages/my-language-town-albums-library.html"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-elementary-v2.jpg" alt="Song Album eLibrary" /></a>
+						 <a href="https://store.emcp.com/world-languages/my-language-town-albums-library.html" target="_blank"><img src="<?php echo $server; ?>lib/images/mlt-cover-song-elementary-v2.jpg" alt="Song Album eLibrary" /></a>
 					</div>
 				</div>
             </div>
