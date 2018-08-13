@@ -4129,3 +4129,12 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 .bx-wrapper .bx-next {
     right: -50px !important;
 }
+/* Insider Savings landing page */
+.insider-savings-bg, .insider-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+	margin-top:-34px;
+}
+.insider-savings-bg #topImg{
+	background: url('../images/insider-savings-bg.jpg') no-repeat 50% 100%;
+}

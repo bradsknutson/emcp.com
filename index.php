@@ -36,6 +36,19 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
+		<div class="light-grey-slice">
+            <div class="ninehundred">
+                <h2 class="home-mission-h2" style="text-align:center;">Upgrade your classroom in time for school with exclusive savings on EMC products!</h2>
+                <p class="home-mission">Set your students on a path to discovering and learning languages with EMC's Exploring Series! Explore French, Spanish 
+				and German culture through authentic news articles, documentary-style videos, and songs with i-Culture<sup style="font-size:10px;">TM</sup>. Give all students access to great 
+				literature with EMC Access Editions&mdash;hardcover or digital books that include the complete literary work and study guide! And enhance all your 
+				current EMC programs with Passport<sup>&reg;</sup>, EMC's immersive online learning environment. Now is the perfect time to upgrade for the new year!
+				</p>
+				<p>
+					<a class="zulama-buttons da-demo transition" href="/savings" onclick="ga('send', 'event', 'Call To Action Button','click','Zulama');">Learn More</a>
+				</p>
+            </div>
+        </div>
         <div class="about-emc">
             <div class="ninehundred">
                 <h2 class="home-mission-h2" style="text-align:center;">EMC School has acquired a cutting edge Computer Science Language Learning Solution—Zulama!</h2>
