@@ -149,11 +149,11 @@
 					<!-- #7 -->
 						<div style="margin:0 15px 5px;border-bottom:1px solid #999;">
 							<div style="float:left;width:125px;padding:10px 0;margin:0;color:#70B529;font-weight:bold;font-size:16px;">
-								Unity<sup>&reg;</sup> Programming
+								Unity<sup>&reg;</sup> Programming I
 							</div>
 							<div style="float:left;width:700px;padding:10px;">
 								<p style="font-size:13px;line-height:1.2;margin:0;">
-									Using Unity<sup>&reg;</sup>, the most widely-used professional 3D game engine, students build games that can be played on a wide variety of game consoles and VR headsets. 
+									Using all-new Unity<sup>&reg;</sup> 2018, the most widely-used professional 3D game engine, students build games that can be played on a wide variety of game consoles and VR headsets. 
 									This course prepares students to take the Unity<sup>&reg;</sup> Certified Developer Exam.  
 									<span style="color:#70B529;font-weight:bold;">Length: 80-120 hours</span>
 								</p>
