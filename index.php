@@ -37,17 +37,26 @@
 			</div>
 		</div>
 		<div class="light-grey-slice">
+	<!-- NEW Press Release 9/6/18 -->
             <div class="ninehundred">
-                <h2 class="home-mission-h2" style="text-align:center;">Upgrade your classroom in time for school with exclusive savings on EMC products!</h2>
-                <p class="home-mission">Set your students on a path to discovering and learning languages with EMC's Exploring Series! Explore French, Spanish 
-				and German culture through authentic news articles, documentary-style videos, and songs with i-Culture<sup style="font-size:10px;">TM</sup>. Give all students access to great 
-				literature with EMC Access Editions&mdash;hardcover or digital books that include the complete literary work and study guide! And enhance all your 
-				current EMC programs with Passport<sup>&reg;</sup>, EMC's immersive online learning environment. Now is the perfect time to upgrade for the new year!
+                <h2 class="home-mission-h2" style="text-align:center;">
+					Carnegie Learning and New Mountain Learning Merge to
+					Create a Comprehensive, Dynamic, and Progressive Learning Technology Company
+				</h2>
+				<p style="font-size:26px;line-height:1.2;">Combining unparalleled digital learning technology with world-class content and professional learning services, the new company seeks to re-define the
+					role of technology across the K-16 landscape.
+				</p>
+                <p class="home-mission"><strong>New York, September 6, 2018</strong> – CIP Capital today officially announced that it has completed an
+				investment in Carnegie Learning, a leading provider of innovative, research-proven math products and
+				services, and will be merging it with recently acquired New Mountain Learning (NML), a leading provider
+				of literacy, language and digital competency skills to create a <strong>comprehensive, dynamic</strong>, and
+				<strong>progressive</strong> learning technology company. The new company will be called Carnegie Learning, Inc.(CL).
 				</p>
 				<p>
-					<a class="zulama-buttons da-demo transition" href="/savings" onclick="ga('send', 'event', 'Call To Action Button','click','Zulama');">Learn More</a>
+					<a class="zulama-buttons da-demo transition" href="/merger" onclick="ga('send', 'event', 'Call To Action Button','click','Merge');">Learn More</a>
 				</p>
             </div>
+	<!-- END New -->
         </div>
         <div class="about-emc">
             <div class="ninehundred">
