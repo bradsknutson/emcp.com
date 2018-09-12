@@ -4138,3 +4138,13 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 .insider-savings-bg #topImg{
 	background: url('../images/insider-savings-bg.jpg') no-repeat 50% 100%;
 }
+
+/* Elementary PD landing page */
+.elementary-pd-bg, .elementary-pd #topImg{
+	height: 492px;
+	background-color: #FFF;
+	margin-top:-148px;
+}
+.elementary-pd-bg #topImg{
+	background: url('../images/elementary-pd-bg.jpg') no-repeat 50% 100%;
+}

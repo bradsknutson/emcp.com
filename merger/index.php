@@ -29,7 +29,7 @@
 				<a href="https://www.longlivemath.com/" target="_blank" class="learn-more-link">LONG + LIVE + MATH<sup style="font-size:10px;">TM</sup> Movement</a>, Carnegie Learning is 
 				uniquely positioned to help teachers cultivate strong cultures of collaborative learning, not just around math, but across STEM and literacy. Advocating 
 				a belief in teaching and an unwavering optimism in smart technology to serve students as learners and thinkers, LONG + LIVE + MATH will drive CL's expansive, 
-				new LONG + LIVE + LEARNING<sup style="font-size:10px;">TM</sup> Movement.
+				new <strong>LONG + LIVE + LEARNING<sup style="font-size:10px;">TM</sup> Movement</strong>.
 				</p>
 
 				<p style="line-height:1.3;">More specifically, by leveraging the distinct competencies of each organization, the new CL will now serve K-12 customers with both core and supplemental 
