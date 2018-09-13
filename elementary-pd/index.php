@@ -5,7 +5,11 @@
 	<div id="container" class="al-ca al-ss">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image elementary-pd-bg">
-			<div id="topImg" style="height:492px !important;"></div>
+			<div id="topImg" style="height:492px !important;">
+				<div class="tech-button-container">
+                    <a class="technology-buttons teb-demo transition" href="http://bit.ly/2N8GDX7" onclick="ga('send', 'event', 'Call To Action Button','click','Register Now');" target="_blank" style="margin:0 0 0 300px !important;">Register Now</a>
+                </div>
+			</div>
 		</div>
 		<div class="header-top">
 			<?php include '../includes/nav.php'; ?>
@@ -37,7 +41,6 @@
 						elementary students. In this webinar, we’ll explore the steps for creating a target language-friendly environment so all 
 						participants are not only comfortable with using the target language, but compelled to use it.  
 					</p>
-					<p><a class="zulama-buttons da-demo transition" href="http://bit.ly/2N8GDX7" onclick="ga('send', 'event', 'Call To Action Button','click','Merge');">Register Now</a></p>
                 </div>
                 <div class="clearfix"></div>
             </div>

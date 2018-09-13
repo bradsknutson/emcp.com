@@ -37,8 +37,31 @@
 			</div>
 		</div>
 		<div class="light-grey-slice">
-	<!-- NEW Press Release 9/6/18 -->
+	<!-- NEW Press Release 9/13/18 -->
             <div class="ninehundred">
+                <h2 class="home-mission-h2" style="text-align:center;">
+					Carnegie Learning Expands ELA Portfolio through EMC
+					School's Acquisition of Mondo Publishing
+				</h2>
+				<p style="font-size:26px;line-height:1.2;">Signifies company's entry into K-5 and commitment to delivering print,
+					digital, and blended literacy learning solutions across the K-12 spectrum.
+				</p>
+                <p class="home-mission"><strong>St. Paul, MN, September 13, 2018</strong> – 
+				Carnegie Learning's EMC School (EMC) division, a leading
+				provider of digital and blended literacy solutions, today announced its acquisition of Mondo
+				Publishing, a company celebrated for its K-5 literacy resources and professional learning services.
+				With the addition of Mondo, EMC is realizing its goal of providing a comprehensive K-12 English
+				language arts collection.CL).
+				</p>
+				<p>
+					<a class="zulama-buttons da-demo transition" href="/merger-mondo" onclick="ga('send', 'event', 'Call To Action Button','click','Merge');">Learn More</a>
+				</p>
+            </div>
+		</div>
+	<!-- END New -->
+	<!-- NEW Press Release 9/6/18 -->
+		<div class="white-slice" style="padding:20px 0 0 !important;">
+            <div class="ninehundred" style="padding-top:10px !important;">
                 <h2 class="home-mission-h2" style="text-align:center;">
 					Carnegie Learning and New Mountain Learning Merge to
 					Create a Comprehensive, Dynamic, and Progressive Learning Technology Company

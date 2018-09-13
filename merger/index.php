@@ -1,5 +1,5 @@
  <?php
-	$custom_title = '2018 Catalogs | ';
+	$custom_title = 'Carnegie Learning and New Mountain Learning Merge to Create a Comprehensive, Dynamic, and Progressive Learning Technology Company | ';
 	include '../includes/header.php';
 ?>
 	<div id="container">
