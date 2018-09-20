@@ -30,7 +30,7 @@
 				president at EMC. "In addition to continuing to offer the ELA collections Mondo’s customers have
 				come to love, we’ll be expanding its digital offerings through EMC School's Mirrors &amp; Windows
 				environment, eventually delivering a comprehensive K-12 ELA experience through our immersive
-				Passport<sup style="font-size:10px;">&reg;</sup> platform. More immediately, we can serve teachers and students in the elementary
+				Passport<sup style="font-size:12px;">&reg;</sup> platform. More immediately, we can serve teachers and students in the elementary
 				grades with a fully integrated and articulated literacy program, with both English and Spanish
 				collections."
 				</p>

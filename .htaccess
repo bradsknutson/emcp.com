@@ -361,4 +361,6 @@ RewriteRule ^demo$  https://www.emcp.com/catalog/request.php
 
 RewriteRule ^icultureaccess$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea210f564f49be1f5bad90bd8ffa7c07d404033b7af6347e20 [R=301,L]
 
+RewriteRule ^txmwaccess$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea34cacf9bd19fb8ed5575a58ac5a0602ea7b66050d655ff21  [R=301,L]
+
 ErrorDocument 404 /error.php
