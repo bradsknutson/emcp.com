@@ -20,149 +20,363 @@
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty">
-                <h3>Your Best Resource for Meeting College and Career Readiness Standards in English Language Arts</h3>
+                <h3>Mirrors &amp; Windows: Connecting with Literature</h3>
 				<div class="conectate-left">
-                    <p class="no-top"><span class="bold">EMC School</span> is proud to present its exciting literature program, <span class="italic">Mirrors &amp; Windows</span>. 
-					This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.
-					<a class="learn-more-link smaller-link" href="https://vimeo.com/138627634" target="_blank">Watch the video</a>.</p>
-                    <p><span class="italic">Mirrors &amp; Windows</span> <span class="bold">challenges students</span> to reach their maximum potential while differentiating instruction for individual learners. Using a <span class="bold">gradual release approach to reading</span>, students will achieve a deep comprehension of the material and a greater appreciation of the literary genres. They will learn to <span class="bold">recognize and make connections</span> between the selections, the world, and themselves. Along the way, they will discover a love of literature that will grow throughout their lives. Truly, literature will turn mirrors into windows for your students.</p>
-                    <p>The <span class="bold">finest literature, timeless authors, topics and themes that spotlight big ideas</span> &mdash; these are just a few of the compelling reasons to make Mirrors & Windows a part of your curriculum. </p>
-                    <p class="no-bottom bold">Mirrors and Windows key features:</p>
-                    <ul class="no-top">
-                        <li>Three levels of reading support, from guided to directed to independent</li>
-                        <li>Mix of easy, moderate, and challenging selections</li>
-                        <li>Cross-curricular and text-to-text connections</li>
-                        <li>In-depth workshops for skills mastery</li>
-                        <li>A full correlation to the Common Core State Standards</li>
-                        <li>Aligned with College & Career Readiness Standards</li>
-                        <li>Multiple Resources such as Meeting the Standards, Exceeding the Standards, Differentiated Instructions, Program Planning Guide, Assessment Guide, and CCSS Assessment Practice</li>
-                        <li>Great literature and current informational texts</li>
-                        <li>Qualitative and quantitative text complexity measures</li>
-                        <li>Close reading models and practice</li>
-                        <li>Text-dependent questions & writing to sources</li>
-                        <li>Multiplatform eBooks & interactive eWorkbooks</li>
-                        <li>The latest digital learning technologies</li>
-                    </ul>
-					<a class="learn-more-link smaller-link" href="https://store.emcp.com/english-language-arts.html?emc_product_series=561">Buy It Now!</a>
+                    <p class="no-top">
+					Mirrors &amp; Windows challenges students to reach their maximum potential while differentiating instruction for individual learners. 
+					Using a gradual release approach to reading, students will develop close reading skills to achieve deep comprehension and greater 
+					appreciation of the literary genres. They will learn to recognize and make connections between the texts, themselves, and the world. 
+					Along the way, they will respond to texts from multiple genres and discover a love of literature that will grow throughout their lives. 
+					Truly, literature will turn mirrors into windows for your students.
+					</p>
 				</div>
 				<div class="conectate-right">
-					<!-- <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Mirrors and Windows - Passport" /> -->
-					<img src="<?php echo $server; ?>lib/images/mw-passport.png" alt="Mirrors and Windows - Passport" />
+					<img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Mirrors and Windows - Passport" />
+					<img src="<?php echo $server; ?>lib/images/mw-passport-new.png" alt="Mirrors and Windows - Passport" height="247" />
+				<!--
 					<img src="<?php echo $server; ?>lib/images/mw-cover.png" alt="Mirrors and Windows Level 1" />
 					<img src="<?php echo $server; ?>lib/images/mw-cover-collage.png" alt="Mirrors and Windows" />
+				-->
 				</div>
 				<div class="clearfix"></div>
+				<div style="text-align:center;">
+					<img src="<?php echo $server; ?>lib/images/passport_banner.png" alt="Mirrors and Windows - Passport" />
+				</div>
 			</div>
 		</div>
         
         
         
-        <div class="redefining no-bottom">
-            <div class="ninesixty paddingtop40 paddingbottom40">
-                <h2>Top Reasons</h2>
-                <ol class="lineheight1p75">
-                    <li>Meets ALL English Language Arts College and Career Readiness Standards</li>
-                    <li>Truly scaffolded, gradual release of responsibility instruction with three levels of reading support and fully integrated task-based activities</li>
-                    <li>Most comprehensive range and diversity of classic and contemporary literature and informational texts</li>
-                    <li>Provides 100% of CCSS text types and range of texts within grade level text complexity levels – all in student textbook</li>
-                    <li>Common Core PARCC & SBA practice assessments online</li>
-                </ol>
-            </div>
-        </div>
-        <div class="redefining no-bottom">
-            <div class="ninesixty paddingbottom40">
-                <h2>Love of Literature</h2>
-                <p class="lineheight1p75">Mirrors & Windows (grades 6-12) exposes students to <span class="bold">literature</span> from a long list of <span class="bold">award-winning classic and contemporary</span> authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Annie Dillard, Ernest Hemingway, and Elizabeth Bishop.</p>
-                <p class="lineheight1p75">We also feature <span class="bold">multicultural selections</span> from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer, and Langston Hughes.</p>
-            </div>
-        </div>
-        <div class="redefining paddingtop40 light-grey-slice">
-            <div class="ninesixty">
-                <h2>Components</h2>
-                <div class="one-half first textalignleft">
-                    <p class="bold">For students:</p>
-                    <ul class="lineheight1p75">
-                        <li>Textbook & eBook</li>
-                        <li>Meeting the Standards eWorkbook</li>
-                        <li>Exceeding the Standards eWorkbook</li>
-                        <li>Differentiated Instruction eWorkbook with Spanish Summaries</li>
-                        <li>Common Core Assessment Practice</li>
-                        <li>Criterion Online Essay Grader</li>
-                        <li>Audio program in eBook</li>
-                        <li>Access Editions (17 eBooks)</li>
-                    </ul>
-                </div>
-                <div class="one-half last textalignleft">
-                    <p class="bold">For teachers:</p>
-                    <ul class="lineheight1p75">
-                        <li>Teacher’s Edition Textbook</li>
-                        <li>Enhanced Teacher’s Edition eBook</li>
-                        <li>Program Planning Guide</li>
-                        <li>Assessment Guide with <span class="bold">EXAM</span>VIEW<sup>&reg;</sup></li>
-                        <li>Meeting the Standards, Exceeding the Standards, & Differentiated Instruction</li>
-                        <li>Criterion Online Essay Grader</li>
-                        <li>Teaching the Common Core</li>
-                        <li>Common Core Assessment Practice</li>
-                        <li>Access Editions Assessment Manuals</li>
-                    </ul>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-        
-        
-        <div class="mw-mp-ebook paddingtop40 paddingbottom40">
-			<div class="ninesixty">
-				<div class="conectate-iculture-first">				
-                    <img src="<?php echo $server; ?>lib/images/mw-mp-ebooks.jpg" alt="Mirrors & Windows Multiplatform eBooks" />
-				</div>
-				<div class="conectate-iculture-second">
-                    <h3 class="conectate">Multiplatform eBooks on Bookshelf</h3>
-                    <p class="no-top">EMC's multiplatform eBooks connect students to literature and language arts in and out of the classroom.  With a touch of the finger, students are able to access every page of their textbooks.  Our eBooks are available for delivery on all laptops, desktops, and mobile devices, including the iPad<sup>&copy;</sup>.</p>
-				</div>
-				<div class="clearfix"></div>
-			</div>        
-        </div>
-		<div class="redefining light-grey-slice">
-			<div class="ninehundred no-bottom">
-				<div class="aligncenter">
-					<h2>Redefining seamless learning through technology</h2>
-				</div>
-				
-				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
-			</div>
-			<div class="redefining-bg">
-				<div class="vimeo-modals-container">
-					<div class="avenue-play-button">
-						<div class="play-button">
-							<div class="icon-play"></div>
+       <div class="redefining no-bottom">
+            <div class="ninesixty paddingbottom40" style="margin-top:15px;">
+				<div id="accordion" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
+			<!-- 1 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="1" role="tab" id="ui-id-1" aria-controls="div1" aria-selected="false" aria-expanded="false" tabindex="0">
+					<span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Program Components</strong></h3>
+					<div id="div1" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display:none;height:1080px !important;" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true">
+                        <div>
+							<table border="0" cellpadding="5" cellspacing="0">
+								<tr>
+									<td style="width:70%;"><strong>Resource Title</strong></td>
+									<td style="width:15%;text-align:center;"><strong>Available in Print</strong></td>
+									<td style="width:15%;text-align:center;"><strong>Available Digitally</strong></td>
+								</tr>
+								<tr>
+									<td>Student Edition</td>
+									<td style="text-align:center;">X</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Student Edition eBook Digital Selections</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Teacher Edition</td>
+									<td style="text-align:center;">X</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Teacher Edition eBook Digital Selections</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Close Reading</td>
+									<td style="text-align:center;">X</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Writing &amp; Grammar</td>
+									<td style="text-align:center;">X</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Differentiated Instruction: English Language Learning Support
+										<ul style="margin:0 !important;">
+											<li>Literacy &amp; Reading Support</li>
+											<li>English Language Development</li>
+											<li>Foundational Literacy Skills</li>
+										</ul>
+									</td>
+									<td style="text-align:center;">X</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Differentiated Instruction: Reading Strategies & Skills</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Differentiated Instruction: Enrichment Projects & Activities
+										<ul style="margin:0 !important;">
+											<li>Literature &amp; Reading</li>
+										</ul> 
+									</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Unit &amp; Selection Resources</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Extension Activities</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Speaking &amp; Listening</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Vocabulary &amp; Spelling</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>College &amp; Career Readiness</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Test Practice</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Program Planning Guide</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>Assessment Guide</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>EXAMVIEW</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+								<tr>
+									<td>ETS Criterion (separate purchase)</td>
+									<td style="text-align:center;">&nbsp;</td>
+									<td style="text-align:center;">X</td>
+								</tr>
+							</table>
 						</div>
+						<div class="clearfix"></div>
 					</div>
-					<div class="avenue-play-button-hover-background"></div>
-					<div class="flipgrid-play-button">
-						<div class="play-button">
-							<div class="icon-play"></div>
+			<!-- 2 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="2" role="tab" id="ui-id-2" aria-controls="div2" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Help All Students Master Foundational Skills</strong></h3>
+					<div id="div2" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true">
+                        <div>
+							<h4>Unit &amp; Selection Resources</h4>
+							<h5 style="margin:0;">Strategies and Skills for ELA Standards Mastery Unit Study Guide with Practice Test</h5>
+							<ul style="margin:0;">
+								<li>Close Reading Model Lessons</li> 
+								<li>Guided Reading Lessons</li> 
+								<li>Directed Reading Lessons</li> 
+								<li>Comparing Texts Lessons</li> 
+								<li>Independent Reading Lessons</li> 
+								<li>Cumulative Vocabulary Lists</li> 
+							</ul>
+							
+							<h4>Differentiated Instruction</h4> 
+							<h5 style="margin:0;">English Language Learning Support</h5>
+							<ul style="margin:0;">
+								<li>Guided reading support for ELs and developing readers</li> 
+								<li>Authentic texts from the student edition</li> 
+								<li>Vocabulary development lessons</li> 
+								<li>Additional leveled ELD Lessons</li>
+								<li>Foundational Literacy Skills Lessons</li> 
+								<li>Selection summaries in Spanish with audio</li> 
+								<li>Literary Terms Handbook in Spanish</li> 
+							</ul>
+							
+							<h5 style="margin:15px 0 0;">Reading Strategies &amp; Skills</h5>
+							<ul style="margin:0;">
+								<li>Guided Reading questions</li>
+								<li>Student worksheets with graphic organizers</li>
+								<li>Fix-Up Strategies for reading skills</li> 
+							</ul>
+							
+							<h5 style="margin:15px 0 0;">Enrichment Projects & Activities</h5>
+							<ul style="margin:0;">
+								<li>Challenging activities based on selections from the student edition higher level activities engage critical thinking skills</li>
+							</ul>
 						</div>
+						<div class="clearfix"></div>
 					</div>
-					<div class="flipgrid-play-button-hover-background"></div>
-				</div>            
-            </div>
-			<div class="ninesixty">
-				<div class="avenue-flipgrid">
-					<div class="one-half first">
-						<p><span class="bold">Avenue&trade;</span> is an innovative e-assessment platform for building custom speaking and listening tasks to capture, evaluate, archive, and visualize progress of video-based learner performances in your language arts classroom.</p>
-						
-						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
-					</div>
-					<div class="one-half last">
-						<p><span class="bold">Flipgrid&trade;</span> allows teachers to create grids of short discussion-style questions that students respond to through recorded videos. Use Mirrors & Windows essential questions to practice speaking and listening skills. Flipgrid boosts community and social presence in face-to-face, hybrid, and online classrooms.</p>
-						
-						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>	
+			<!-- 3 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="3" role="tab" id="ui-id-3" aria-controls="div3" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Integrated Literacy and Language Resources</strong></h3>
+					<div id="div3" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true">
+                        <h3><strong>Integrated Literacy and Language Resources</strong></h3>
+						<div>
+							<h4>Close Reading</h4> 
+							<p>Guided Close Reading Model selections in a workbook format available in both print and digital formats.</p>
 
-	
+							<h4>Writing &amp; Grammar</h4>
+							<ul style="margin:0;">
+								<li>In-depth lessons to be used as extensions of the Writing Workshops in the student text.</li>
+								<li>Developmental, in-depth writing lessons for each of the major writing modes — argumentative, narrative, informative/ explanatory, and descriptive.</li> 
+								<li>Lessons include models, examples, guidelines, writing checklist, and writing rubric.</li> 
+								<li>Writing lessons integrate grammar instruction.</li> 
+								<li>Available in both print and digital formats.</li>
+							</ul>
+
+							<h4>Extension Activities</h4> 
+							<p>Extended lessons for each of the following categories:</p>
+							<ul style="margin:0;">
+								<li>Collaborative Learning</li> 
+								<li>Lifelong Learning</li> 
+								<li>Media Literacy</li> 
+								<li>Critical Literacy</li>
+							</ul>
+
+							<h4>Vocabulary &amp; Spelling</h4> 
+							<ul style="margin:0;">
+								<li>Comprehensive developmental Vocabulary and Spelling lessons build word study skills.</li> 
+								<li>In-depth instruction is modeled using words from the selections in each unit.</li>
+							</ul>
+
+							<h4>Speaking &amp; Listening</h4> 
+							<p>Detailed lessons with explicit instruction expand on the Speaking and Listening Workshops at the end of each unit to 
+							further develop speaking and listening skills.</p>
+
+							<h4>College &amp; Career Readiness</h4> 
+							<p>Extended lessons in technology, personal development, and career awareness provide students real-life, practical experience 
+							in applied communication skills.</p> 
+
+							<h4>Test Practice</h4> 
+							<p>Timed, unit-based practice tests in formats most commonly found in standard achievement, state-specific, and high-stakes 
+							tests and exams. ACT and SAT format practice tests are included at each level.</p>
+						</div>
+                        <div class="clearfix"></div>
+					</div>
+			<!-- 4 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="4" role="tab" id="ui-id-4" aria-controls="div4" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Teacher Resources for Planning and Assessment</strong></h3>
+					<div id="div4" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true">
+                        <div>
+							<h4>Teacher's Edition (TE) and eBook</h4>
+							<p>One location for accessing, previewing, and planning your use of all program resources. The Teacher's Edition eBook links to all student 
+							and teacher resources.</p>
+							<ul style="margin:0;">
+								<li>Visual Unit Planning Guides</li> 
+								<li>Complete lesson plans for all selections</li> 
+								<li>Differentiated instruction for all learners</li>
+								<li>Teacher Notes add valuable information</li>
+							</ul>
+
+							<h4>Assessment Guide</h4> 
+							<p>The Assessment Guide contains the following:</p>
+							<ul style="margin:0;">
+								<li>Formative Surveys</li> 
+								<li>Lesson Tests</li> 
+								<li>Unit Exams</li> 
+								<li>Reading Fluency Assessments</li> 
+								<li>Alternative Assessment Options</li> 
+								<li>Remediation Rubrics</li>
+							</ul>
+
+							<h4>EXAMView<sup>&reg;</sup> Assessment Suite</h4> 
+							<p>Easy-to-use and Manage Testing Program</p>
+							<ul style="margin:0;">
+								<li>Leveled multiple choice, short answer, and essay questions</li> 
+								<li>Ability to select, create, and edit questions to create personalized tests and exams</li> 
+								<li>Formative Survey test items keyed to ELA Standards with customizable formats</li>
+							</ul>
+							
+							<h4>Program Planning Guide</h4>
+							<ul style="margin:0;">
+								<li>Lesson Plans for all the selections in the unit</li> 
+								<li>College & Career Readiness Curriculum Guide</li> 
+								<li>Reading Log and Evaluation Forms</li>
+							</ul>
+							
+							<h4>Visual Teaching Package</h4> 
+							<p>Unit-based lectures, games, critical viewing art activities, writing workshops, and more, in PowerPoint format, 
+							available in the Enhanced Teacher’s Edition eBook and in Passport<sup>&reg;</sup>.</p>
+
+							<h4>Writing Mentor Workshops and Lessons (Grades 6-12)</h4>
+							<p>EMC's unique approach blends real world applications such as Google Docs and Writing Mentor to get students writing more regularly. 
+							Students are provided with real time feedback using the latest in AI and Natural Language Processing technologies to improve their writing 
+							and help teachers more efficiently manage their time reviewing student work. Using real-world applications gets students the experience 
+							they need to develop College and Career Readiness skills.</p>
+						</div>
+                        <div class="clearfix"></div>
+					</div>
+			<!-- 5 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="5" role="tab" id="ui-id-5" aria-controls="div5" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Passport<sup>&reg;</sup> For English Language Arts</strong></h3>
+					<div id="div5" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display:none;height:650px;" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true">
+                        <div>
+							<p>Passport<sup>&reg;</sup>, EMC's state-of-the-art learning environment, is uniquely designed for your language arts classroom. 
+							Engage students in language arts with relevant content, communication, and media literacy. Develop students' online collaboration 
+							and communication skills so they can succeed in work and life in the 21st century.</p>
+
+							<h4>Passport<sup>&reg;</sup> Features:</h4>
+							<ul style="margin:0;">
+								<li>Project-based learning</li> 
+								<li>Extended reading and media connections</li> 
+								<li>Video-based performance assessments</li> 
+								<li>Close Reading video models for each genre</li> 
+								<li>All selections and program resources for all levels</li> 
+								<li>Assigning and grading capabilities to personalize instruction</li> 
+								<li>Detailed student data</li> 
+								<li>Portfolio capabilities</li> 
+								<li>Opportunities for differentiated instruction</li> 
+								<li>Custom lesson creation</li>
+							</ul>
+
+							<h4>New features this year</h4>
+							<ul style="margin:0;">
+								<li>Custom Lesson Builder: a new technology feature allowing teachers to develop and upload their own content into Passport<sup>&reg;</sup>.</li> 
+								<li>Story Shares Leveled Library: a leveled library of high-interest, age-appropriate original writings designed to drive student engagement in reading.</li> 
+								<li>Artificial-Intelligence-enabled online search engine: a new technology tool providing the ability to search, find, and offer curated, leveled OER content in Passport<sup>&reg;</sup>.</li> 
+								<li>Writing Mentor Workshops and Lessons: a new technology module that utilizes real-world tools such as Google Docs, advanced AI, and natural language processing technology to put students in control of their learning while increasing teacher efficiency.</li>
+							</ul>
+							
+							<h4>Passport<sup>&reg;</sup> allows teachers to:</h4>
+							<ul style="margin:0;">							
+								<li>Assign homework and tasks</li> 
+								<li>Track progress of students with graphs and charts</li> 
+								<li>Provide feedback</li> 
+								<li>Personalize instruction</li> 
+								<li>Access all program resources</li> 
+								<li>Incorporate blended learning</li>
+							</ul>
+
+							<h4>Passport<sup>&reg;</sup> allows students to:</h4>
+							<ul style="margin:0;">		
+								<li>Access materials anytime, anywhere</li> 
+								<li>Complete assignments and practice activities interactively</li>
+								<li>Work on project-based tasks</li> 
+								<li>Submit work</li> 
+								<li>Receive immediate feedback</li> 
+								<li>Track progress</li> 
+								<li>Develop digital literacy</li> 
+								<li>Interact with text using tools for annotation, highlighting, audio and video recording</li> 
+								<li>Access authentic audio of selections with variable rate</li> 
+								<li>Collaborate online through class annotation and highlighting tools</li>
+							</ul>
+						</div>
+                        <div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      collapsible: true,
+	  active: false
+    });
+  });
+</script>	
 <?php include '../../includes/footer.php'; ?>
