@@ -4148,3 +4148,17 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 .elementary-pd-bg #topImg{
 	background: url('../images/elementary-pd-bg.jpg') no-repeat 50% 100%;
 }
+
+/* -------- Start TN Page ------------- */
+
+.tn-landing #topImg {
+    background: #FFF url('../images/tn-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
+.tn-landing .top-slice {
+    padding: 500px 0 20px;
+}
+.tn-landing .top-slice a {
+    font-size: 22px;
+    text-transform: uppercase;
+}
