@@ -19,17 +19,17 @@
 			<div class="ninesixty">
                 <div class="catalog-img-lang">
                     <a href="https://drive.google.com/file/d/1srjOMidGo1Md_poAjCQaKh9HlMv-Zare/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/catalog-wl-2018-2019.png" alt="World Languages Catalog" class="animated" />
+                        <img src="<?php echo $server; ?>lib/images/catalog-wl-2018-2019.png" alt="World Languages 2018-2019 Catalog" class="animated" />
                     </a>
                 </div>
                 <div class="catalog-img-lang">
                     <a href="https://drive.google.com/file/d/1-XxNj_HhQCUlM6twmgnnus07Rhw-1Fei/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/catalog-ela-2018-2019.png" alt="English Language Arts Catalog" class="animated" />
+                        <img src="<?php echo $server; ?>lib/images/catalog-ela-2018-2019.png" alt="English Language Arts 2018-2019 Catalog" class="animated" />
                     </a>
                 </div>
-                <div class="catalog-img">
-                    <a href="https://drive.google.com/file/d/1oistpuPBntpKz6p5-MMy_AKQD_pU7p25/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/2018-CompTechCover.jpg" alt="Computer Technology 2018" class="animated" />
+                <div class="catalog-img-lang">
+                    <a href="https://drive.google.com/file/d/1opUYhm1TMzOPTS8VK8QW0DGmsxmVVByw/view?usp=sharing" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/catalog-cs-2018.png" alt="Computer Technology 2018 Catalog" class="animated" />
                     </a>
                 </div>
                 <div class="clearfix"></div>
