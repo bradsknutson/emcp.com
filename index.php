@@ -36,9 +36,34 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-		<div class="light-grey-slice">
+	<!-- NEW Press Release 10/3/18 -->
+		<div class="light-grey-slice" style="padding:20px 0 0 !important;">
+            <div class="ninehundred" style="padding-top:10px !important;">
+                <h2 class="home-mission-h2" style="text-align:center;">
+					Carnegie Learning to Deliver Choosito! through its EMC
+					School Passport Platform
+				</h2>
+				<p style="font-size:26px;line-height:1.2;">Choosito!'s artificial intelligence, machine learning, and natural language
+				processing help teachers to curate OER and other Web-based libraries and
+				build custom lessons, while empowering students to do targeted Web
+				searches by reading level.
+				</p>
+                <p class="home-mission"><strong>St. Paul, MN, October 2, 2018</strong> – Carnegie Learning, a comprehensive, dynamic, and progressive
+				learning technology company, today announced that its EMC School division has signed an
+				agreement with Choosito!, a curator of open Web content for learning and a National Science
+				Foundation (NSF) Business Innovation Award winner. The agreement ensures that EMC School’s
+				Passport will be the only comprehensive learning technology platform on the market offering this
+				next-generation Web search and indexing.
+				</p>
+				<p>
+					<a class="zulama-buttons da-demo transition" href="/choosito" onclick="ga('send', 'event', 'Call To Action Button','click','Merge');">Learn More</a>
+				</p>
+            </div>
+		</div>
+	<!-- END New -->
+		<div class="white-slice">
 	<!-- NEW Press Release 9/13/18 -->
-            <div class="ninehundred">
+            <div class="ninehundred" style="padding:0 0 10px !important;">
                 <h2 class="home-mission-h2" style="text-align:center;">
 					Carnegie Learning Expands ELA Portfolio through EMC
 					School's Acquisition of Mondo Publishing
@@ -58,9 +83,8 @@
 				</p>
             </div>
 		</div>
-	<!-- END New -->
 	<!-- NEW Press Release 9/6/18 -->
-		<div class="white-slice" style="padding:20px 0 0 !important;">
+		<div class="light-grey-slice" style="padding:20px 0 0 !important;">
             <div class="ninehundred" style="padding-top:10px !important;">
                 <h2 class="home-mission-h2" style="text-align:center;">
 					Carnegie Learning and New Mountain Learning Merge to

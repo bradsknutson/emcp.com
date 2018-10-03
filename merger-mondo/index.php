@@ -1,5 +1,5 @@
  <?php
-	$custom_title = '2018 Catalogs | ';
+	$custom_title = 'Carnegie Learning Expands ELA Portfolio through EMC School\'s Acquisition of Mondo Publishing | ';
 	include '../includes/header.php';
 ?>
 	<div id="container">
@@ -25,7 +25,7 @@
 				language arts collection.CL).
 				</p>
 				
-				<p style="line-height:1.3;">“Mondo's values align perfectly with Carnegie Learning's, as both companies share an
+				<p style="line-height:1.3;">"Mondo's values align perfectly with Carnegie Learning's, as both companies share an
 				unwavering faith in teaching and the potential of all students," said Mick Demakos, division
 				president at EMC. "In addition to continuing to offer the ELA collections Mondo’s customers have
 				come to love, we’ll be expanding its digital offerings through EMC School's Mirrors &amp; Windows
