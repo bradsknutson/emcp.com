@@ -45,7 +45,7 @@
 			<div class="ninehundred no-top no-bottom">
 				<p>Over the years, EMC has grown steadily into one of the nation's leading producers and marketers 
 				of programs for K-12 and post-secondary schools throughout the country. 
-				EMC is a division of <a href="http://newmountainlearning.com" class="learn-more-link" target="_blank">New Mountain Learning</a>&mdash;a 
+				EMC is a division of Carnegie Learning, Inc.&mdash;a 
 				diversified education company devoted to overseeing the continued development and growth of five prominent and established brands: 
 				EMC School, Paradigm Publishing and JIST Publishing. Each brand provides traditional print and 
 				technology products and services for a wide range of learning needs including world language, secondary and post 

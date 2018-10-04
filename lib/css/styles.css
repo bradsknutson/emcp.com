@@ -4162,3 +4162,12 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
     font-size: 22px;
     text-transform: uppercase;
 }
+
+/* ----------- New QC Image ------------ */
+.conectate-bg-new #topImg{
+	background: url('../images/qc-banner-new.jpg') no-repeat 50% 100%;
+}
+.conectate-bg-new, .conectate-bg-new #topImg{
+	height: 600px;
+	background-color: #FFF;
+}

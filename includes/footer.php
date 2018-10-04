@@ -46,7 +46,7 @@
 					</ul>
 				</div>
 				<p>&copy; <?php echo date("Y"); ?> EMC School. All Rights Reserved.<br />
-				EMC is a division of <a class="nostyle" href="https://newmountainlearning.com" target="_blank"><img src="<?php echo $server; ?>lib/images/NML_logo.png" alt="New Mountain Learning" /> New Mountain Learning, LLC</a><br />
+				EMC is a division of Carnegie Learning, Inc.</a><br />
 				EMC School, 875 Montreal Way, St. Paul, MN 55102 &bull; 800-328-1452 &bull; Fax: 800-328-4564</p>
 			</div>
 		</div>
