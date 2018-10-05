@@ -4,7 +4,7 @@
 ?>
 	<div id="container" class="mw">
 		<div class="vimeo-modal"></div>
-		<div class="header-background-image mw-bg">
+		<div class="header-background-image mw-new-bg">
 			<div id="topImg">
 				<div class="play-button">
 					<div class="icon-play"></div>
@@ -21,16 +21,15 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
                 <h3>Mirrors &amp; Windows: Connecting with Literature</h3>
+				<h4>A 6-12 Grade, 7-Level Language Arts Program</h4>
 				<div class="conectate-left">
                     <p class="no-top">
-					Mirrors &amp; Windows challenges students to reach their maximum potential while differentiating instruction for individual learners. 
-					Using a gradual release approach to reading, students will develop close reading skills to achieve deep comprehension and greater 
-					appreciation of the literary genres. They will learn to recognize and make connections between the texts, themselves, and the world. 
-					Along the way, they will respond to texts from multiple genres and discover a love of literature that will grow throughout their lives. 
-					Truly, literature will turn mirrors into windows for your students.
+					"Children have the right to read texts that mirror their experiences and languages, provide windows into the lives of others, 
+					and open doors into our diverse world."
 					</p>
+					<p style="text-align:right;" class="italics">— The International Literacy Association</p>
 				</div>
-				<div class="conectate-right">
+				<div class="conectate-right" style="margin-top:-50px;">
 					<img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Mirrors and Windows - Passport" />
 					<img src="<?php echo $server; ?>lib/images/mw-passport-new.png" alt="Mirrors and Windows - Passport" height="247" />
 				<!--
@@ -43,9 +42,120 @@
 					<img src="<?php echo $server; ?>lib/images/passport_banner.png" alt="Mirrors and Windows - Passport" />
 				</div>
 			</div>
+			<div class="ninesixty" style="padding-top:0px;">
+				<h4>The Mirrors &amp; Windows Advantage</h4>
+				<p><span class="italic">Mirrors &amp; Windows: Connecting with Literature</span> challenges students to reach their maximum potential while differentiating instruction for 
+				individual learners. Using a gradual release approach to reading, students will develop close reading skills to achieve deep comprehension and 
+				greater appreciation of the literary genres.
+				</p>
+				
+				<ul>
+					<li><strong>EL Support</strong><br />
+						The <span class="italic">Mirrors &amp; Windows</span> program provides extensive EL support, including...<a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<ul class="hideme">
+							<li>Vocabulary, spelling, grammar, and style language development workshops within each unit</li>
+							<li>Exclusive gradual release approach, providing additional modeling for EL students within every unit</li>
+							<li>EL strategies at point of use, including differentiation strategies, text complexity notes, and cultural awareness notes</li>
+							<li>Differentiated Instruction: English Language Learning Support resource, available in print and online, that provides activities to increase students’ comprehension, vocabulary, oral language development, and English language skills.</li>
+							<li>Adjustable rate audio recordings of selections</li>
+							<li>Alternative assessment strategies for ELs and Developing Readers</li>
+							<li>Story Shares custom library with over 150 leveled texts</li>
+						</ul>
+					</li>
+					<li><strong>Balanced Approach</strong><br />
+					The <span class="italic">Mirrors &amp; Windows</span> program offers a balanced approach with multiple genres. Each thematic unit includes...<a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<ul class="hideme">
+							<li>Texts from multiple genres, with opportunities to make comparisons within and across genres</li> 
+							<li>A focus on how to read closely for each genre, supported by Close Reading videos</li>
+							<li>Balance of traditional, contemporary, classic and diverse selections as called for in the TEKS:
+								<ul>
+									<li>Most comprehensive range and diversity of classic and contemporary literature and informational texts</li>
+									<li>100% of CCSS text types and range of texts within grade level text complexity levels</li>
+									<li>Literature from a long list of award-winning classic and contemporary authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Annie Dillard, Ernest Hemingway, and Elizabeth Bishop.</li>
+									<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer, and Langston Hughes.</li>
+									<li>Selections from Texas authors such as Carmen Tafolla, Pat Mora, and Naomi Shihab Nye. See a full list of our Texas authors here!</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><strong>Gradual Release Model</strong><br />
+					The <span class="italic">Mirrors &amp; Windows</span> program offers an exclusive gradual release approach...<a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<div class="hideme">
+							Each unit in M&amp;W provides for a gradual release of responsibility, moving from guided to directed to independent reading:
+							<ul>
+								<li><strong>Guided Reading:</strong> extensive support before, during, and after reading
+									<ul>
+										<li>Full length, genre-specific close reading models in each unit, supported by video models, provide the framework for the teacher to guide students through the reading process</li> 
+										<li>Models walk students through the selections and demonstrate how to analyze literature and apply reading skills and strategies to each genre.</li>
+									</ul>
+								</li>
+								<li><strong>Directed Reading:</strong> extensive support before and after reading; less support during reading
+									<ul>
+										<li>Model gradually removes scaffolds with additional teacher-directed instructional support, beginning the release of responsibility from teacher to students</li>
+										<li>Students continue to be supported with before-and after-reading activities, but they begin to apply the during-reading comprehension skills on their own</li>
+									</ul>
+								</li>
+								<li><strong>Independent Reading:</strong> minimal support before and after reading; self-monitoring during reading
+									<ul>
+										<li>Model in each unit as digital connections completes the release of responsibility to the students, who can apply the skills and strategies required to read increasingly more difficult selections on their own.</li>
+										<li>Independent Readings appear more frequently as students advance through the program</li>
+										<li>Options for extending independent reading with Access Edition novels  available online and in print</li>
+									</ul>
+								</li>
+							</ul>
+							<span class="italic">Only EMC builds student independence with close reading skills using a gradual release model so they will be prepared for the text complexity of the <a href="https://www.emctxela.com/new-page">STAAR</a>.</span>
+						</div>
+					</li>
+					<li><strong>Flexibility for any Instructional Model</strong><br />
+					The <span class="italic">Mirrors &amp; Windows</span> program offers more choices and greater flexibility...<a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<div class="hideme">
+							<ul>
+								<li>Choice of print, digital, or blended print + digital</li>
+								<li>Support for whole group, small group, and independent instruction</li>
+								<li>Customizable lesson plans, scope and sequence of instruction, and scaffolds for students</li>
+							</ul>
+							No matter what resources you have in your classroom, no matter what resources best support your teaching and your students' 
+							learning, you can choose the perfect blend of print and technology from EMC.
+						</div>
+					</li>
+					<li><strong>TEKS and STAAR/EOC</strong><br />
+					The <span class="italic">Mirrors &amp; Windows</span> program is 100% aligned with the TEKS and ELPS...<a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<div class="hideme">
+							<ul>
+								<li>Every lesson and unit integrates all 7 strands of the TEKS within the literacy domains of listening, speaking, reading, writing, and thinking</li>
+								<li>STAAR and TELPAS Assessment Practice reviewed and edited by Victoria Young, former TEA STAAR Assessment Director</li>
+								<li>Differentiated instruction designed to provide support for English language learners to gain proficiency in a range of English language skills
+								– Learn more <a href="https://www.emctxela.com/new-page" class="learn-more-link">here</a>!</li>
+							</ul>
+							<p span class="italic">"Mirrors &amp; Windows offers teachers and students a great deal of support, including special support for the 
+							English language learner. The vast array of literary selections, exercises before, during, and after reading, and the distribution of 
+							instructional activities throughout the student edition and other components ensure that the student receives regular reinforcement 
+							and support for developing language skills. The selections reflect cultures and traditions that can offer students an exciting glimpse 
+							into worlds that many have never known about."</p>
+							<p style="text-align:right;">
+							— Robert H. Leos, Ph.D.<br />
+							Former TEA Senior Director for Textbook Administration
+							</p>
+						</div>
+					</li>
+					<li><strong>Innovative Technology</strong><br />
+					The <span class="italic">Mirrors &amp; Windows</span> is fully integrated into Passport&reg;, EMC's innovative learning environment, Passport&reg;...<a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<div class="hideme">
+							<p>Engage students in language arts with relevant content, communication, and media literacy. Develop students' online collaboration and 
+							communication skills so they can succeed in work and life in the 21st century.</p>
+							<ul>
+								<li>Lesson plans covering 100% of the TEKS</li>
+								<li>Collaborative video discussions with exclusive integrated Flipgrid&reg; capability</li>
+								<li>Project-based learning</li>
+								<li>Extended reading and media connections</li>
+								<li>Opportunities for differentiated and personalized instruction</li>
+								<li><span class="italic"><a href="https://www.emctxela.com/meet-passport" class="learn-more-link">And much more!</a></span></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
 		</div>
-        
-        
         
        <div class="redefining no-bottom">
             <div class="ninesixty paddingbottom40" style="margin-top:15px;">
@@ -368,7 +478,6 @@
 				</div>
 			</div>
 		</div>
-
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>
@@ -378,5 +487,24 @@
 	  active: false
     });
   });
-</script>	
+</script>
+<script type="text/javascript">
+$('.showLink').click(function() {
+  //$('.hideme').hide();  
+  if ($(this).hasClass('active')) {    
+    $(this).removeClass('active');
+    $('.hideme').slideUp();
+  } else {
+    $('.hideme').slideUp();
+    $('.showBtn').removeClass('active');
+    $(this).addClass('active');
+    $(this).next().filter('.hideme').slideDown();
+  }
+});
+</script>
+<style>
+.hideme {
+  display: none;  
+}
+</style>
 <?php include '../../includes/footer.php'; ?>

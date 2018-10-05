@@ -7,7 +7,7 @@
 		<div class="header-background-image tn-landing-bg">
 			<div id="topImg">
 				<div style="padding-top:390px;">
-					<a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea34e9212ae851742777d6f33a2e3ce90d16c89036f0eaf1aa" target="_blank">Sample</a>
+					<a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eaade9cb39b2e34aa7f23982ec0b4aaf3ef521d1824bab8a21" target="_blank">Sample</a>
 					&nbsp;&nbsp;
 					<a class="mw-buttons" href="https://drive.google.com/file/d/1s8MiJUU_eQIOigZH0tAvO3lX6Twn9bhv/view?usp=sharing" target="_blank">French Level 2 Correlation</a>
 					&nbsp;&nbsp;

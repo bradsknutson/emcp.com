@@ -4171,3 +4171,13 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 	height: 600px;
 	background-color: #FFF;
 }
+
+/* -------- Start MW Page Styles -------------- */
+
+.mw-new-bg, .mw-new-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.mw-new-bg #topImg{
+	background: url('../images/mw-new-bg.jpg') no-repeat 50% 100%;
+}
