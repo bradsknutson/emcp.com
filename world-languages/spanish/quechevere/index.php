@@ -23,7 +23,7 @@
 </style>
 	<div id="container" class="quechevere">
 		<div class="vimeo-modal"></div>
-		<div class="header-background-image conectate-bg">
+		<div class="header-background-image conectate-bg-new">
 			<div id="topImg">
 				<div class="play-button">
 					<div class="icon-play"></div>
@@ -46,13 +46,13 @@
 						Watch your students connect to the Spanish-speaking world, rapidly develop language proficiency as well as cultural understanding. With our cutting-edge digital 
 						resources, such as video-based tools, authentic cultural videos, eBooks your students will discover the Spanish language in a whole new way.
 					</p>
-					<img src="<?php echo $server; ?>lib/images/QCcover_new.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /><br />
+					<img src="<?php echo $server; ?>lib/images/qc-hero-new.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /><br /><br />
                     <a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover &iexcl;Qu&eacute; ch&eacute;vere! in Passport</a><br />
 					<a class="learn-more-link smaller-link" href="https://vimeo.com/200376096" target="_blank">Click here to see a unit tour</a><br />
 					<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
 				</div>
 				<div class="conectate-right" style="text-align:center;">
-					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/qc-passport-desktop.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /></a><br />
+					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/qc-passport-desktop-new.jpg" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /></a><br />
 					<a href="<?php echo $server; ?>technology/passport/"><strong>Learn more about Passport</strong></a>
 				</div>
 				<div class="clearfix"></div>
@@ -243,57 +243,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-		</div>			
-		<div class="redefining">
-			<div class="ninehundred no-bottom">
-				<div class="aligncenter">
-					<h2>Redefining seamless learning through technology.</h2>
-				</div>
-				
-				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
-			</div>
-			<div class="redefining-bg">
-				<div class="vimeo-modals-container">
-					<div class="avenue-play-button">
-						<div class="play-button">
-							<div class="icon-play"></div>
-						</div>
-					</div>
-					<div class="avenue-play-button-hover-background"></div>
-					<div class="flipgrid-play-button">
-						<div class="play-button">
-							<div class="icon-play"></div>
-						</div>
-					</div>
-					<div class="flipgrid-play-button-hover-background"></div>
-				</div>            
-            </div>
-			<div class="ninesixty">
-				<div class="avenue-flipgrid">
-					<div class="one-half first">
-						<p><span class="bold">Avenue&trade;</span> is a simple, yet powerful e-assessment platform where your students build portfolios of their spoken performances. Educators can create custom tasks or build tasks based on EMC's rich, pre-loaded library of media.</p>
-						
-						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
-					</div>
-					<div class="one-half last">
-						<p><span class="bold">Flipgrid&trade;</span> is a video-based discussion platform where students respond to short, teacher-created questions. Flipgrid brings the back row to the front in your classroom.</p>
-						
-						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>
-        <div class="qc-tech">
-			<div class="ninesixty onesix fonteighteen">
-				<h3 class="adonde">Multiplatform eBooks</h3>
-				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
-				
-				<p>Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad®. The best part is that you can have our multiplatform eBook for one low price!</p>
-                
-                <p><a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">Learn more about eBooks</a></p>
-			</div>
-		</div>                
+		</div>			                
 		<div class="conectate-iculture">
 			<div class="ninesixty">
 				<div class="conectate-iculture-first">

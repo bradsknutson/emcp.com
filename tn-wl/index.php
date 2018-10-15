@@ -8,10 +8,6 @@
 			<div id="topImg">
 				<div style="padding-top:390px;">
 					<a class="mw-buttons" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eaade9cb39b2e34aa7f23982ec0b4aaf3ef521d1824bab8a21" target="_blank">Sample</a>
-					&nbsp;&nbsp;
-					<a class="mw-buttons" href="https://drive.google.com/file/d/1s8MiJUU_eQIOigZH0tAvO3lX6Twn9bhv/view?usp=sharing" target="_blank">French Level 2 Correlation</a>
-					&nbsp;&nbsp;
-					<a class="mw-buttons" href="https://drive.google.com/file/d/1P19FBcTyTCpcKDCutE6EpikDuHC8_lBa/view?usp=sharing" target="_blank">French Level 3 Correlation</a>
 				</div>
 			</div>
 		</div>
@@ -25,7 +21,9 @@
 					<a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; 
 					<a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; 
 					<a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; 
-					<a href="<?php echo $server; ?>tn-wl/resources/" class="bold">Resources</a></p>
+					<a href="#expandable-applications" class="expandable-link">Computer Applications</a> &nbsp; | &nbsp; 
+					<a href="<?php echo $server; ?>tn-wl/resources/" class="bold">Resources</a>
+				</p>
             </div>            
         </div>
 		<div class="grey-slice paddingtop20 paddingbottom20 textcenter">
@@ -57,7 +55,7 @@
                     </div>
                     <div class="expandable-box-content">
                         <div class="hidden-content">
-                            <h2>&iexcl;Qu&eacute; ch&eacute;vere! 5-level Spanish Program &copy;2016</h2>
+                            <h2>&iexcl;Qu&eacute; ch&eacute;vere! 4-level Spanish Program &copy;2016</h2>
 
                             <img src="<?php echo $server; ?>lib/images/texas-spanish.png" alt="Que Chevere" class="img-float-right" />
                             
@@ -143,36 +141,7 @@
 							</ul>
 							
 							<p>*AP is a trademark registered by the College Board, which was not involved in the production of, and does not endorse this product</p>
-							
 						<!-- End SFNS -->
-						
-                            <h2>Exploring Spanish &copy;2017</h2>
-                            <p><em>The journey begins here!</em></p>
-
-                            <img src="<?php echo $server; ?>lib/images/texas-exploring.png" alt="Exploring Spanish" class="img-float-right" />
-
-                            <p>Set your students on a path to discovering and learning languages with EMC's Exploring Spanish, an introductory program intended to present Spanish language and culture to young, beginning language learners. It is perfect for use in middle school FLEX and FLES programs. It can also be used as part of a formal 7th and 8th grade language course or as supplementary material in a first-year high school class. With Exploring Spanish your students will get a taste of the Spanish language and culture through 20 thematic units covering topics of high interest: food, music, art, literature, geography, and so much more! Engage them in listening, speaking, reading, and writing Spanish while using functional and relevant vocabulary.</p>
-
-                            <p>Student and teacher eBooks and eWorkbook are available for delivery on all laptops, desktops, and mobile devices and feature audio and interactive activities.</p>
-
-                            <p>The Exploring Spanish Teacher's Guide eBook also includes access to the following:</p>
-                            <ul>
-                                <li>eWorkbook</li>
-                                <li>Textbook Audio Program files</li>
-                                <li>Check-up Listening Activities Audio files</li>
-                                <li>Symtalk Digital Symbol cards</li>
-                                <li>eVisuals</li>
-                            </ul>
-
-                            <p>The Teacher's Guide Contains:</p>
-                            <ul>
-                                <li>Unit Objectives, Lesson Plans, Teaching Suggestions, and Symtalk Activities</li>
-                                <li>Textbook Answer Key</li>
-                                <li>Workbook Answer Key</li>
-                                <li>Check-up Written Activities Blackline Masters and Answer Key</li>
-                                <li>Check-up Listening Activities Blackline Masters and Answer Key</li>
-                                <li>Textbook Audio Program Script</li>
-                            </ul>
                         </div>
                     </div>
                 </div>
@@ -182,7 +151,7 @@
                     </div>
                     <div class="expandable-box-content">                        
                         <div class="hidden-content">
-                            <h2>T'es branch&eacute;? 4-Level French Program &copy;2014</h2>
+                            <h2>T'es branch&eacute;? 3-Level French Program</h2>
                             <p><em>Make all kinds of new connections for your students</em></p>
 
                             <img src="<?php echo $server; ?>lib/images/texas-french.png" alt="T'es branche?" class="img-float-right" />
@@ -195,7 +164,6 @@
                                 <li>global citizenship.</li>
                                 <li>new experiences and perspectives.</li>
                             </ul>
-
 
                             <p>Why T'es branch&eacute;?</p>
                             <ul>
@@ -331,9 +299,7 @@
                                 <li>Lesson Plans</li>
                                 <li>Passport<sup>&reg;</sup></li>
                             </ul>
-
                         </div>
-                    
                     </div>
                 </div>
                 <div class="expandable-box expandable-chinese">
@@ -389,6 +355,48 @@
                                 <li>Test Manual and Answer Key</li>
                                 <li>Passport<sup>&reg;</sup></li>
                             </ul>
+                        </div>
+                    </div>
+                </div>
+		<!-- Computer Applications -->
+				 <div class="expandable-box expandable-applications">
+                    <div class="expandable-box-label">
+                        <span class="expandable-box-icon">+</span>Computer Applications
+                    </div>
+                    <div class="expandable-box-content">                                          
+                        <div class="hidden-content">
+                            <div style="float:left;width:225px;">
+								<img src="<?php echo $server; ?>lib/images/tn-marq-office.jpg" alt="Marquee" class="img-float-left" />
+							</div>
+							<div style="float:left;width:575px;">
+								<h2 style="margin-top:10px;">Marquee Series 2016</h2>
+								<p>
+								The Marquee Series provides a highly effective, visual approach to learning the essential skills in Word, Excel, Access, and PowerPoint. 
+								Its graduated instruction allows students to move from easy step-by-step learning to validating skills through realistic projects and 
+								facilitates self-paced, accelerated, and traditional learning. New! Students access data files and end-of-chapter exercises and assessments 
+								through the eBook and SNAP.
+								</p>
+							</div>
+							<div style="clear:both;">&nbsp;</div>
+							
+							<div style="float:left;width:225px;">
+								<img src="<?php echo $server; ?>lib/images/tn-comp-concepts.jpg" alt="Computer Concepts" class="img-float-left" />
+							</div>
+							<div style="float:left;width:575px;">
+								<h2 style="margin-top:10px;">Seguin's COMPUTER Concepts &amp; Applications, Second Edition: with Microsoft&reg; Office 2016 </h2>
+								<p>
+								Highly visual and logically organized, this comprehensive program gives instructors and learners a seamless transition from concepts to applications 
+								coverage. Students will: 
+								</p>
+								<ul style="margin-top:0;">
+									<li>Demonstrate how to use computer applications in a way that saves time and makes the best use of the available feature set.</li>
+									<li>Learn about the latest computer concepts, including those related to cloud computing, hardware, software, communications, security, and privacy</li>
+								</ul>
+							</div>
+							<div style="clear:both;">&nbsp;</div>
+							<div style="text-align:center;">
+								<img src="<?php echo $server; ?>lib/images/tn-snap-logo.png" alt="SNAP" />
+							</div>
                         </div>
                     </div>
                 </div>
