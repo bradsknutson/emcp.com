@@ -383,14 +383,22 @@
 								<img src="<?php echo $server; ?>lib/images/tn-comp-concepts.jpg" alt="Computer Concepts" class="img-float-left" />
 							</div>
 							<div style="float:left;width:575px;">
-								<h2 style="margin-top:10px;">Seguin's COMPUTER Concepts &amp; Applications, Second Edition: with Microsoft&reg; Office 2016 </h2>
+								<h2 style="margin-top:10px;">Seguin's COMPUTER Concepts &amp; Applications, Second Edition: with Microsoft&reg; Office 2016</h2>
 								<p>
-								Highly visual and logically organized, this comprehensive program gives instructors and learners a seamless transition from concepts to applications 
-								coverage. Students will: 
+								COMPUTER Concepts, Second Edition is Paradigm's textbook for introduction to computers courses. With this text students will learn 
+								the computer skills they need to succeed in their academic and professional lives. The text provides comprehensive coverage of computer 
+								concepts&mdash;including hardware, software, the Internet, social media, security, and ethics. Challenging end-of-chapter exercises move 
+								students from simple recall to advanced thinking and analysis of IT issues.
+								</p>
+								<p>
+								Using a project-based approach, students will:
 								</p>
 								<ul style="margin-top:0;">
-									<li>Demonstrate how to use computer applications in a way that saves time and makes the best use of the available feature set.</li>
-									<li>Learn about the latest computer concepts, including those related to cloud computing, hardware, software, communications, security, and privacy</li>
+									<li>Learn the need-to-know computer skills to be successful in today's digital world</li>
+									<li>"Do" activities – topics are organized in brief 2- and 4-page spreads that appeal to a variety of learners</li>
+									<li>Refer to visual aids throughout the text, including pictures, diagrams, charts, graphs, etc.</li>
+									<li>Review and reinforce learning through end-of-chapter projects – presented in increasing levels of difficulty</li>
+									<li>Be exposed to the latest concepts, software, and applications – including green computing, ethics, Windows 10, and Microsoft Office 2016!</li>
 								</ul>
 							</div>
 							<div style="clear:both;">&nbsp;</div>

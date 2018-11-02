@@ -1,22 +1,22 @@
 <?php 
 	$custom_title = 'Mirrors & Windows | ';
-	include '../../includes/header.php';
+	include '../includes/header.php';
 ?>
 	<div id="container" class="mw">
 		<div class="vimeo-modal"></div>
-		<div class="header-background-image mw-new-bg">
+		<div class="header-background-image va-header-new">
 			<div id="topImg">
 				<div class="play-button">
 					<div class="icon-play"></div>
 				</div>
                 <div class="header-hero-hover"></div>
-                <a class="technology-buttons passport-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');">Sample</a>
+                <a class="technology-buttons passport-sample transition" href="http://pages.exacttarget.com/elavasr1819/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');" style="bottom:170px !important;left:50%;">Sample</a>
 				&nbsp;&nbsp;
-				<a class="technology-buttons passport-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport');" style="margin-left:200px !important;">New! Passport for ELA</a>
+				<a class="technology-buttons passport-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport');" style="left:62% !important;bottom:170px !important;">New! Passport for ELA</a>
 			</div>
 		</div>
 		<div class="header-top">
-			<?php include '../../includes/nav.php'; ?>
+			<?php include '../includes/nav.php'; ?>
 		</div>
 		<div class="secondary-first">
 			<div class="ninesixty" style="padding-bottom:10px;">
@@ -58,13 +58,14 @@
 					The <span class="italic">Mirrors &amp; Windows</span> program offers a balanced approach with multiple genres. Each thematic unit includes... <a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
 						<ul class="hideme">
 							<li>Texts from multiple genres, with opportunities to make comparisons within and across genres</li> 
-							<li>A focus on how to read closely for each genre, supported by Close Reading videos
+							<li>A focus on how to read closely for each genre, supported by Close Reading videos</li>
+							<li>Balance of traditional, contemporary, classic and diverse selections as called for in the TEKS:
 								<ul>
 									<li>Most comprehensive range and diversity of classic and contemporary literature and informational texts</li>
 									<li>100% of CCSS text types and range of texts within grade level text complexity levels</li>
 									<li>Literature from a long list of award-winning classic and contemporary authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Annie Dillard, Ernest Hemingway, and Elizabeth Bishop.</li>
 									<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer, and Langston Hughes.</li>
-									<li>Selections from authors such as Carmen Tafolla, Pat Mora, and Naomi Shihab Nye.</li>
+									<li>Selections from Texas authors such as Carmen Tafolla, Pat Mora, and Naomi Shihab Nye. See a full list of our Texas authors here!</li>
 								</ul>
 							</li>
 						</ul>
@@ -124,8 +125,7 @@
 					</li>
 				</ul>
 			</div>
-		</div>
-		
+		</div>	
 <!-- NEW -->
 		<div class="grey-slice paddingtop20 paddingbottom20" style="line-height:1.9;">
             <div class="ninesixty">
@@ -246,6 +246,41 @@
 									<td style="text-align:center;">X</td>
 								</tr>
 							</table>
+						</div>
+					</li>
+			<!-- Help All Students Master Foundational Skills -->
+					<li><strong>EL Support</strong><br />
+						Help All Students Master Foundational Skills with Unit &amp; Selection Resources... <a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<div class="hideme">
+							<strong>Strategies and Skills for ELA Standards Mastery Unit Study Guide with Practice Test</strong>
+							<ul>
+								<li>Close Reading Model Lessons</li>
+								<li>Guided Reading Lessons</li>
+								<li>Directed Reading Lessons</li>
+								<li>Comparing Texts Lessons</li>
+								<li>Independent Reading Lessons</li>
+								<li>Cumulative Vocabulary Lists</li>
+							</ul>
+							<strong>Differentiated Instruction English Language Learning Support</strong>
+							<ul>
+								<li>Guided reading support for ELs and developing readers</li>
+								<li>Authentic texts from the student edition</li>
+								<li>Vocabulary development lessons</li>
+								<li>Additional leveled ELD Lessons</li>
+								<li>Foundational Literacy Skills Lessons</li>
+								<li>Selection summaries in Spanish with audio</li>
+								<li>Literary Terms Handbook in Spanish</li>
+							</ul>
+							<strong>Reading Strategies &amp; Skills</strong>
+							<ul>
+								<li>Guided Reading questions</li>
+								<li>Student worksheets with graphic organizers</li>
+								<li>Fix-Up Strategies for reading skills</li>
+							</ul>
+							<strong>Enrichment Projects &amp; Activities</strong>
+							<ul>
+								<li>Challenging activities based on selections from the student edition higher level activities engage critical thinking skills</li>
+							</ul>
 						</div>
 					</li>
 			<!-- Integrated Literacy and Language Resources -->
@@ -415,6 +450,25 @@
 				</ul>
             </div>
         </div>
+	<!-- Correlations -->
+		<div class="white-slice paddingtop20 paddingbottom20" style="line-height:1.9;">
+            <div class="ninesixty">
+                <h4>Virginia ELA Correlations 2018</h4>
+				<p>Mirrors &amp; Windows Correlations to the English Standards of Learning and Curriculum Framework</p>
+				<ul>
+					<li><a href="https://drive.google.com/open?id=1dGqx_XSEzZJJ2igRW_iY1QPqZLN4dpuB" target="_blank" class="showLink learn-more-link">Grade 6 Reading Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1VR-Rtv6sNCWjCP1mTuaAK740aHtgeln-" target="_blank" class="showLink learn-more-link">Grade 6 Writing Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1f-rRcrXYeKk3g8svKRG9NOPuH4Vqvy6b" target="_blank" class="showLink learn-more-link">Grade 7 Reading Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1jVqRNyHK29WTZQuhx7qbBLhYIF4khOX7" target="_blank" class="showLink learn-more-link">Grade 7 Writing Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1PQ4V_tc0_kJFx5HwpFn-Dt7GM83DSeE1" target="_blank" class="showLink learn-more-link">Grade 8 Reading Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1yJ3ruPXFcJIb6nvlSom4Xh7nvhVdQIbP" target="_blank" class="showLink learn-more-link">Grade 8 Writing Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=18In2G62nkz9PJcNipxoWQh-FgF31JHWU" target="_blank" class="showLink learn-more-link">Grade 9 Reading Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1ot-lKV3IuEkVXFBMFxz5tji4wb-EDG2c" target="_blank" class="showLink learn-more-link">Grade 9 Writing Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1D03Tj5pZjzorVb-OvH1hBKa2dnkWLibR" target="_blank" class="showLink learn-more-link">Grade 10 Reading Correlations</a></li>
+					<li><a href="https://drive.google.com/open?id=1t6i6JQoi2YePYcHsLXuJ3IhehD7IDddD" target="_blank" class="showLink learn-more-link">Grade 10 Writing Correlations</a></li>
+				</ul>
+            </div>
+        </div>
 	</div>
 <!-- END NEW-->
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
@@ -446,4 +500,4 @@ $('.showLink').click(function() {
   display: none;  
 }
 </style>
-<?php include '../../includes/footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

@@ -4181,3 +4181,9 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 .mw-new-bg #topImg{
 	background: url('../images/mw-new-bg.jpg') no-repeat 50% 100%;
 }
+
+/* ------- New VA Page 2018 ------------------ */
+.va-header-new #topImg {
+    background: #FFF url('../images/va-header-new.jpg') no-repeat 50% 100%;
+    height: 600px;
+}
