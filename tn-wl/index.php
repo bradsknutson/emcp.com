@@ -414,17 +414,18 @@
             <div class="seveneighty">
                 <h2 class="margintop0">Support</h2>
                 <p>Contact your Account Manager anytime!</p>
-                <div style="text-align:center;width:290px;float:left;margin:0 245px;">
+                <div style="text-align:center;width:350px;float:left;margin:0 245px;">
                     <div class="rep-container textleft" style="padding:5px !important;height:225px !important;margin:0 0 5px !important;">
-                        <img src="<?php echo $server; ?>lib/images/tn-lamchahab.jpg" style="float:right;" />
+                        <img src="<?php echo $server; ?>lib/images/tn-payne.jpg" style="float:right;" />
 						<p style="font-size:14px !important;">
-						<strong>Layla Lamchahab</strong><br />
-						Account Manager - Tennessee <br />
+						<strong>DeNitra Payne, M.Ed.</strong><br />
+						Account Executive<br />
 						EMC School<br />
 						EMC Support 24/7<br />
-                        617-595-9464<br />
-						800-810-6107<br />
-                        <a href="mailto:layla@emcp.com" style="font-size:14px !important;">layla@emcp.com</a>
+                        P: (412) 837-3177<br />
+						C: (901) 867-6257<br />
+						F: (412) 690-2444<br />
+                        <a href="mailto:dpayne@carnegielearning.com" style="font-size:14px !important;">Click here to Email</a>
 						</p>
                     </div>
                 </div>

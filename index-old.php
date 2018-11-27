@@ -36,26 +36,27 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-	<!-- NEW Webinar 11/29/18 -->
+	<!-- NEW Press Release 10/3/18 -->
 		<div class="light-grey-slice" style="padding:20px 0 0 !important;">
             <div class="ninehundred" style="padding-top:10px !important;">
-				<p style="font-size:26px;line-height:1.2;text-align:center;">
-					Please join us for the upcoming webinar<br />
-					<strong><span class="italic">Who's Doing the Work in Guided Reading? Better Books Make Better Readers!</span></strong><br /><br />
-				
-					Thursday, November 29, 2018<br />
-					from 2:00pm - 3:00pm CST<br /><br />
-					
-					<strong>Hosted by Nationally Acclaimed Authors Burkins and Yaris</strong>
+                <h2 class="home-mission-h2" style="text-align:center;">
+					Carnegie Learning to Deliver Choosito! through its EMC
+					School Passport Platform
+				</h2>
+				<p style="font-size:26px;line-height:1.2;">Choosito!'s artificial intelligence, machine learning, and natural language
+				processing help teachers to curate OER and other Web-based libraries and
+				build custom lessons, while empowering students to do targeted Web
+				searches by reading level.
 				</p>
-                <p class="home-mission">
-					About this Webinar...<br />
-					Text selection for Guided Reading is particularly critical. Students are being asked to practice and apply what they have learned 
-					in Read Aloud and Shared Reading as they construct meaning from books. Join Jan Burkins and Kim Yaris, authors of <span class="italic">Who's Doing the Work</span>, 
-					as they share what Guided Reading can look like when "teachers say less so students can do more" of the work.
+                <p class="home-mission"><strong>St. Paul, MN, October 2, 2018</strong> – Carnegie Learning, a comprehensive, dynamic, and progressive
+				learning technology company, today announced that its EMC School division has signed an
+				agreement with Choosito!, a curator of open Web content for learning and a National Science
+				Foundation (NSF) Business Innovation Award winner. The agreement ensures that EMC School’s
+				Passport will be the only comprehensive learning technology platform on the market offering this
+				next-generation Web search and indexing.
 				</p>
-				<p style="text-align:center;">
-					<a class="zulama-buttons da-demo transition" href="https://register.gotowebinar.com/register/4917814639464173314" target="_blank" style="color:#fff !important;background:#333 !important;">Free Registration</a>
+				<p>
+					<a class="zulama-buttons da-demo transition" href="/choosito" onclick="ga('send', 'event', 'Call To Action Button','click','Merge');">Learn More</a>
 				</p>
             </div>
 		</div>
