@@ -4187,3 +4187,48 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
     background: #FFF url('../images/va-header-new.jpg') no-repeat 50% 100%;
     height: 600px;
 }
+
+/* ------- M&W Testimonials Page ------------- */
+
+.mw-testimonials-bg, .mw-testimonials-bg #topImg{
+	height: 478px;
+	background-color: #FFF;
+}
+.mw-testimonials-bg #topImg{
+	background: url('../images/mw-testimonials-bg.jpg') no-repeat 50% 100%;
+}
+
+.mw-testimonials-new-bg, .mw-testimonials-new-bg #topImg{
+	height: 478px;
+	background-color: #FFF;
+}
+.mw-testimonials-new-bg #topImg{
+	background: url('../images/mw-testimonials-new-bg.jpg') no-repeat 50% 100%;
+}
+
+/* -------- Start MW Dec 2018 Page Styles -------------- */
+
+.mw-dec-bg, .mw-dec-bg #topImg{
+	height: 600px;
+	background-color: #FFF;
+}
+.mw-dec-bg #topImg{
+	background: url('../images/mw-dec-bg.jpg') no-repeat 50% 100%;
+}
+
+.mw-link {
+    padding: 15px;
+    color: #BD0006 !important;
+    font-size: 26px !important;
+	font-weight: bold;
+	text-decoration: underline !important;
+}
+	.mw-link:hover {
+		#999 !important;
+	}
+
+/* ------- New FL Page 2018 ------------------ */
+.fl-header #topImg {
+    background: #FFF url('../images/fl-header.jpg') no-repeat 50% 100%;
+    height: 600px;
+}

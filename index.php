@@ -36,28 +36,16 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-	<!-- NEW Webinar 11/29/18 -->
+	<!-- Testimonial Link -->
 		<div class="light-grey-slice" style="padding:20px 0 0 !important;">
             <div class="ninehundred" style="padding-top:10px !important;">
-				<p style="font-size:26px;line-height:1.2;text-align:center;">
-					Please join us for the upcoming webinar<br />
-					<strong><span class="italic">Who's Doing the Work in Guided Reading? Better Books Make Better Readers!</span></strong><br /><br />
-				
-					Thursday, November 29, 2018<br />
-					from 2:00pm - 3:00pm CST<br /><br />
-					
-					<strong>Hosted by Nationally Acclaimed Authors Burkins and Yaris</strong>
-				</p>
-                <p class="home-mission">
-					About this Webinar...<br />
-					Text selection for Guided Reading is particularly critical. Students are being asked to practice and apply what they have learned 
-					in Read Aloud and Shared Reading as they construct meaning from books. Join Jan Burkins and Kim Yaris, authors of <span class="italic">Who's Doing the Work</span>, 
-					as they share what Guided Reading can look like when "teachers say less so students can do more" of the work.
-				</p>
-				<p style="text-align:center;">
-					<a class="zulama-buttons da-demo transition" href="https://register.gotowebinar.com/register/4917814639464173314" target="_blank" style="color:#fff !important;background:#333 !important;">Free Registration</a>
+				<p style="font-size:28px;line-height:1.6;">
+					<a href="/language-arts/mirrors-windows/testimonials"><img src="/lib/images/home-video-screencap.jpg" alt="" border="0" style="float:left;margin-bottom:25px;padding-right:20px;" /></a>
+					<br />
+					Listen to what you your colleagues are saying about their Mirrors &amp; Windows experience and why they chose it for their ELA curriculum.
 				</p>
             </div>
+			<div class="clearfix"></div>
 		</div>
 	<!-- END New -->
 		<div class="white-slice">

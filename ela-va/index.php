@@ -6,21 +6,22 @@
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image va-header-new">
 			<div id="topImg">
-				<div class="play-button">
-					<div class="icon-play"></div>
-				</div>
-                <div class="header-hero-hover"></div>
-                <a class="technology-buttons passport-sample transition" href="http://pages.exacttarget.com/elavasr1819/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');" style="bottom:170px !important;left:50%;">Sample</a>
-				&nbsp;&nbsp;
-				<a class="technology-buttons passport-sample transition" href="<?php echo $server; ?>language-arts/mirrors-windows/passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport');" style="left:62% !important;bottom:170px !important;">New! Passport for ELA</a>
+                <div class="header-hero-hover" onclick="location.href='https://www.emcp.com/language-arts/mirrors-windows/testimonials/virginia';" style="cursor: pointer;"></div>
 			</div>
 		</div>
 		<div class="header-top">
 			<?php include '../includes/nav.php'; ?>
 		</div>
 		<div class="secondary-first">
-			<div class="ninesixty" style="padding-bottom:10px;">
+			<div class="ninesixty" style="padding-bottom:10px;padding-top:15px !important;">
 				<div style="width:700px;margin:0 auto;">
+					<p style="text-align:center;">
+						<a class="mw-link" href="http://pages.exacttarget.com/elavasr1819/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');" style="">Sample</a>
+						&nbsp;&nbsp;
+						<a class="mw-link" href="<?php echo $server; ?>language-arts/mirrors-windows/passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport');" style="">New! Passport for ELA</a>
+						&nbsp;&nbsp;
+						<a class="mw-link mw-landing-text" style="cursor:pointer;">Program Overview</a>
+					</p>
                     <p class="no-top">
 					"Children have the right to read texts that mirror their experiences and languages, provide windows into the lives of others, 
 					and open doors into our diverse world."
