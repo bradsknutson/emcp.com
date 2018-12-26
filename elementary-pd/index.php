@@ -7,14 +7,14 @@
 		<div class="header-background-image elementary-pd-bg">
 			<div id="topImg" style="height:492px !important;">
 				<div class="tech-button-container">
-                    <a class="technology-buttons teb-demo transition" href="http://bit.ly/2N8GDX7" onclick="ga('send', 'event', 'Call To Action Button','click','Register Now');" target="_blank" style="margin:0 0 0 300px !important;">Register Now</a>
+                    <a class="technology-buttons teb-demo transition" href="https://calendly.com/emcschool-webinars/moving-on-up-helping-students-reach-higher-levels-of-p/01-08-2019" onclick="ga('send', 'event', 'Call To Action Button','click','Register Now');" target="_blank" style="margin:0 0 0 300px !important;">Register Now</a>
                 </div>
 			</div>
 		</div>
 		<div class="header-top">
 			<?php include '../includes/nav.php'; ?>
 		</div>
-		<div class="white-slice al-top-content" style="margin-top:310px !important;">
+		<div class="white-slice al-top-content" style="margin-top:310px !important;padding-top:0 !important;">
 			<div class="ninesixty">
                 <div>
                     <h1>Welcome, Elementary Teachers.</h1>
@@ -28,6 +28,25 @@
             </div>
         </div>
 		<div class="grey-slice">
+			<div class="ninesixty slice-odd">
+                <div>
+                    <h1>Webinar #2 – <span class="italic">1 hour</span></h1>
+                    <p><strong>Presenter:</strong> Nathan Lutz, President of NNELL<br />
+						<strong>When:</strong> Tuesday, January 8th, 8-9 pm EST<br />
+						<strong>Topic:</strong> Moving On Up: Helping Elementary World Language Students Reach Higher Proficiency<br />
+						<strong>Description:</strong> Knowing a student's proficiency level is not only how teachers assess their students, 
+						but also how teachers plan for instruction. It also allows students to set personal learning goals for themselves. 
+						In this workshop, we'll explore what language looks like at each of the proficiency levels. We shall also explore 
+						strategies for helping move students from one proficiency level to the next highest one – in all three modes of 
+						communication: interpretive, interpersonal, and presentational. By scaffolding tasks and pushing students out of 
+						their comfort zones, teachers will see students explore new language on their own and give them more ownership 
+						over their own skills and shows them that they can speak and write at a more advanced level than they imagined.  
+					</p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+		<div class="white-slice">
 			<div class="ninesixty slice-odd">
                 <div>
                     <h1>Webinar #1 – <span class="italic">1 hour</span></h1>
@@ -45,7 +64,7 @@
                 <div class="clearfix"></div>
             </div>
         </div>
-		<div class="white-slice">
+		<div class="grey-slice">
 			<div class="ninesixty">
                 <div style="width:25% !important;float:left;margin-top:30px;">
                     <img src="<?php echo $server; ?>lib/images/nathan-lutz.jpg" alt="Nathan Lutz" />
@@ -61,7 +80,7 @@
                 <div class="clearfix"></div>
             </div>
         </div>
-		<div class="grey-slice">
+		<div class="white-slice">
 			<div class="ninesixty slice-odd">
                 <div>
                     <h1>Learn more about EMC's elementary world languages programs</h1>

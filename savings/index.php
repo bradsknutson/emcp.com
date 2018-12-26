@@ -88,8 +88,11 @@
 					These introductory programs present languages and culture to young, beginning learners. Engage 
 					students in listening, speaking, reading, and writing while using functional and relevant vocabulary. 
 					<a href="https://edu.emcp.com/world-languages.html?emc_product_series=386" target=_blank" class="learn-more-link">See our current selections</a>
+					<!--
 					or <a href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea95ac29134a86ce5742d40faca4d666daee93197503b0ef54" target="_blank" class="learn-more-link">request a sample</a> 
-					today!<br /><br />
+					today!
+					-->
+					<br /><br />
 					</p>
                 </div>
 				<div class="one-half last">
@@ -119,8 +122,11 @@
 					i-Culture<sup>TM</sup> offers immersion into French, Spanish and German culture through authentic news articles, 
 					documentary-style videos, and songs. i-Culture<sup>TM</sup> is purposefully leveled and program non-specific. Anybody can enjoy 
 					the materials and demonstrate progress through built-in compre¬hension activities and online enrichment. 
-					<a href="https://www.emcp.com/technology/iculture/" target="_blank" class="learn-more-link">Learn more</a> or 
-					<a href="http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efac66bdf3e575cc56ca6d8a873358c7f9" target="_blank" class="learn-more-link">request a free 90-day demo</a> today!<br /><br />
+					<a href="https://www.emcp.com/technology/iculture/" target="_blank" class="learn-more-link">Learn more</a>.
+					<!-- or 
+					<a href="http://pages.exacttarget.com/page.aspx?QS=3935619f7de112efac66bdf3e575cc56ca6d8a873358c7f9" target="_blank" class="learn-more-link">request a free 90-day demo</a> today!
+					-->
+					<br /><br />
 					</p>
                 </div>
 				<div class="one-half last">

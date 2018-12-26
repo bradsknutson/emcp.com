@@ -39,7 +39,9 @@
                 </div>
 				<div>
 					<p>
+						<!-- Remove 12/21/18 Brian
 						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+						-->
 						<!-- <a class="learn-more-link" href="http://zulama.com/how-it-works/computer-science/ap-computer-science-principles/#.WvDRmYgvxPY" target="_blank">Buy it now!</a> -->
 						<a class="learn-more-link" href="http://edu.emcp.com/computer-science/zulama-s-advanced-placement-computer-science-principles-course.html" target="_blank">Buy it now!</a>
 					</p>
@@ -101,7 +103,9 @@
 							<li>access to webinars, teacher forums, and online video libraries.</li>
 							<li>Technical support via 24/7 live chat and phone support from 8:00am–10:00pm (CST) every day!</li>
 						</uL>
+						<!-- Remove 12/21/18 Brian 
 						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+						-->
 						<a class="learn-more-link" href="http://edu.emcp.com/computer-science/zulama-s-advanced-placement-computer-science-principles-course.html" target="_blank">Buy it now!</a>
 					</p>
                 </div>

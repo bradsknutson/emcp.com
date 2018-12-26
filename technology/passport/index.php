@@ -15,9 +15,11 @@
                 <div class="play-button">
 					<div class="icon-play"></div>
 				</div>
+				<!--
                 <a class="technology-buttons passport-demo transition" href="<?php echo $server; ?>technology/passport/demo/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Sample');" style="bottom:-55px !important;">Sample</a>
 				&nbsp;&nbsp;
-				 <a class="technology-buttons passport-demo transition" href="https://support.emcschool.com/welcome-to-passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Demo Account');" style="margin-left:175px;bottom:-55px !important;">Passport Demo Account</a>
+				-->
+				 <a class="technology-buttons passport-demo transition" href="https://support.emcschool.com/welcome-to-passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport Demo Account');" style="margin-left:50px;bottom:-55px !important;">Passport Demo Account</a>
             </div>
         </div>
         <div class="fofih">

@@ -36,8 +36,42 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-	<!-- Testimonial Link -->
+	<!-- Passport Webinar -->
 		<div class="light-grey-slice" style="padding:20px 0 0 !important;">
+            <div class="ninehundred" style="padding-top:10px !important;">
+				<p style="font-size:20px;line-height:1.6;">
+					<a href="https://calendly.com/emcpassport/demo/01-07-2019" target="_blank"><img src="/lib/images/home-2019-webinar.png" alt="" border="0" style="float:left;margin-bottom:25px;padding-right:20px;" /></a>
+					<br />
+					<strong>Join us for a live webinar:</strong><br />
+					Meet Passport<sup>&reg;</sup>, EMC's Immersive Learning Environment for English Language Arts<br /><br />
+				</p>
+				<p style="font-size:20px;line-height:1.3;" class="clearfix">
+					Join us for a professional development webinar where you will learn more about EMC's innovative learning environment, Passport<sup>&reg;</sup>.
+					In this webinar, we'll explore the tools you can use to engage students in language arts through relevant content, communication, and media literacy.
+				</p>
+				<ul style="font-size:20px;line-height:1.3;">
+					<li>Collaborative video discussions with exclusive integrated Flipgrid<sup>&reg;</sup>access
+					<li>Project-based learning
+					<li>Close Reading videos
+					<li>Extended reading and media connections
+					<li>Opportunities for differentiated and personalized instruction
+				</ul>
+				<p style="font-size:20px;line-height:1.3;">
+					<a class="mw-buttons" href="https://calendly.com/emcpassport/demo/01-07-2019" target="_blank" style="float:right;margin:30px 200px 0 0;">Register</a>
+					<strong>Schedule at a glance</strong><br />
+
+					When: Monday, January 7th, 7:30 pm EST<br />
+					When: Tuesday, January 8th, 4:30 pm EST<br />
+					When: Tuesday, January 15th, 7:30 pm EST<br />
+					When: Wednesday, January 16th, 4:30 pm EST<br />
+					When: Wednesday, January 23rd, 7:30 pm EST
+				</p>
+            </div>
+			<div class="clearfix"></div>
+		</div>
+	<!-- END New -->
+	<!-- Testimonial Link -->
+		<div class="white-slice" style="padding:20px 0 0 !important;">
             <div class="ninehundred" style="padding-top:10px !important;">
 				<p style="font-size:28px;line-height:1.6;">
 					<a href="/language-arts/mirrors-windows/testimonials"><img src="/lib/images/home-video-screencap.jpg" alt="" border="0" style="float:left;margin-bottom:25px;padding-right:20px;" /></a>
@@ -48,7 +82,7 @@
 			<div class="clearfix"></div>
 		</div>
 	<!-- END New -->
-		<div class="white-slice">
+		<div class="light-grey-slice">
 	<!-- NEW Press Release 9/13/18 -->
             <div class="ninehundred" style="padding:0 0 10px !important;">
                 <h2 class="home-mission-h2" style="text-align:center;">
@@ -71,7 +105,7 @@
             </div>
 		</div>
 	<!-- NEW Press Release 9/6/18 -->
-		<div class="light-grey-slice" style="padding:20px 0 0 !important;">
+		<div class="white-slice" style="padding:20px 0 0 !important;">
             <div class="ninehundred" style="padding-top:10px !important;">
                 <h2 class="home-mission-h2" style="text-align:center;">
 					Carnegie Learning and New Mountain Learning Merge to

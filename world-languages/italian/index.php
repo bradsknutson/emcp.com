@@ -29,10 +29,10 @@
 					<div class="icon-play"></div>
 				</div>
                 <div class="tech-button-container">
-                    <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/italian/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','Italian Sample');" target="_blank">Sample</a>
-					&nbsp;&nbsp;
-					<a class="technology-buttons qc-sample transition" href="https://drive.google.com/file/d/0B2BRD_gaMsOKYnJYX1dEWUZubHc/view?usp=sharing" onClick="ga('send', 'event', 'Call To Action Button','click','Sample Chapter');" target="_blank" style="margin-left:200px !important;">Preview a Sample Chapter</a>
-				
+                    <!--
+					<a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/italian/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','Italian Sample');" target="_blank">Sample</a>
+					-->
+					<a class="technology-buttons qc-sample transition" href="https://drive.google.com/file/d/0B2BRD_gaMsOKYnJYX1dEWUZubHc/view?usp=sharing" onClick="ga('send', 'event', 'Call To Action Button','click','Sample Chapter');" target="_blank" style="margin-left:100px !important;">Preview a Sample Chapter</a>
 				</div>
 				<div class="header-hero-hover"></div>                
 			</div>

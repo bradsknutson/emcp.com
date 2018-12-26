@@ -29,9 +29,11 @@
 					<div class="icon-play"></div>
 				</div>
                 <div class="tech-button-container">
-                    <a class="technology-buttons mimundo-sample transition" href="<?php echo $server; ?>world-languages/spanish/mimundo/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','Mi Mundo Sample');" target="_blank" style="margin-bottom:25px;">Sample</a>
+                    <!--
+					<a class="technology-buttons mimundo-sample transition" href="<?php echo $server; ?>world-languages/spanish/mimundo/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','Mi Mundo Sample');" target="_blank" style="margin-bottom:25px;">Sample</a>
 					&nbsp;&nbsp;
-					<a class="technology-buttons mimundo-sample transition" href="https://www.emcp.com/ElementaryCorner" onClick="ga('send', 'event', 'Call To Action Button','click','Mi Mundo Request');" target="_blank" style="margin:0 0 25px 200px;">Request More Info</a>
+					-->
+					<a class="technology-buttons mimundo-sample transition" href="https://www.emcp.com/ElementaryCorner" onClick="ga('send', 'event', 'Call To Action Button','click','Mi Mundo Request');" target="_blank" style="margin:0 0 25px 320px;">Request More Info</a>
 				</div>
 				<div class="header-hero-hover"></div>				
 			</div>

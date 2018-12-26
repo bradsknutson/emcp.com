@@ -29,8 +29,10 @@
 					<div class="icon-play"></div>
 				</div>
                 <div class="tech-button-container">
+					<!--
                     <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/spanish/quechevere/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','QC Sample');" target="_blank">Sample</a>
-                </div>
+					-->
+				</div>
 				<div class="header-hero-hover"></div>                
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>

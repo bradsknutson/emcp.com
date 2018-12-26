@@ -16,8 +16,10 @@
 			<div class="ninesixty" style="padding-bottom:10px;">
 				<div style="width:700px;margin:0 auto;">
 					<p>
+						<!--
 						<a class="mw-link" href="https://www.emcp.com/language-arts/mirrors-windows/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');" style="">Sample</a>
 						&nbsp;&nbsp;
+						-->
 						<a class="mw-link" href="<?php echo $server; ?>language-arts/mirrors-windows/passport/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Passport');" style="">New! Passport for ELA</a>
 						&nbsp;&nbsp;
 						<a class="mw-link mw-landing-text" style="cursor:pointer;">Program Overview</a>

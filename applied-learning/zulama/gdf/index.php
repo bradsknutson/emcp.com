@@ -177,7 +177,9 @@
 				<div class="clearfix"></div>
 				<div>
 					<p>
+						<!-- Remove 12/21/18 Brian 
 						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+						-->
 						<a class="learn-more-link" href="http://edu.emcp.com/computer-science/zulama-s-game-design-fundamentals.html" target="_blank">Buy it now!</a>
 					</p>
 				</div>
@@ -219,7 +221,9 @@
 						Access to your Zulama curriculum is granted during the training.
 					</p>
 					<p style="line-height:1.4;">
-						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a><br />
+						<!-- Remove 12/21/18 Brian 
+						<a class="learn-more-link" href="http://pages.exacttarget.com/zulamasr1718/" target="_blank">Request a demo!</a>&nbsp;&nbsp;
+						-->
 						<a class="learn-more-link" href="http://edu.emcp.com/computer-science/zulama-s-game-design-fundamentals.html" target="_blank">Buy it now!</a>
 					</p>
 				</div>

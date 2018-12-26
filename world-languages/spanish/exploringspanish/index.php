@@ -40,8 +40,10 @@
 				</div>
 				<div class="clearfix"></div>
 				<div class="tech-button-container" style="margin:20px 0 0;">
+					<!-- Remove 12/20/18 Brian 
 					<a class="technology-buttons transition" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea95ac29134a86ce5742d40faca4d666daee93197503b0ef54" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Exploring Spanish Sample');" style="position:relative !important;display:inline !important;">Sample</a>
-                    <p>The Exploring Series is available for Spanish, French, German, Chinese, Italian and Arabic. <a class="learn-more-link" href="https://edu.emcp.com/world-languages.html?emc_product_series=386">Click here to learn more</a> about all of the languages offered.</p>
+                    -->
+					<p>The Exploring Series is available for Spanish, French, German, Chinese, Italian and Arabic. <a class="learn-more-link" href="https://edu.emcp.com/world-languages.html?emc_product_series=386">Click here to learn more</a> about all of the languages offered.</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>

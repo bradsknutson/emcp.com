@@ -11,8 +11,10 @@
 				</div>
                 <div class="header-hero-hover"></div>
                 <div class="tech-button-container">
+					<!--
                     <a class="technology-buttons ap-sample transition" href="<?php echo $server; ?>applied-learning/applied-science/anatomy-physiology/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','A&amp;P Sample');">Request a Sample</a>
 					&nbsp;&nbsp;
+					-->
 					<a class="technology-buttons ap-sample transition" href="https://store.emcp.com/applied-science/applied-anatomy-physiology-case-study-approach-second-edition-revised.html" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','A&amp;P Buy It Now');" style="margin-left:300px;">Buy it now!</a>
                 </div>       
 			</div>

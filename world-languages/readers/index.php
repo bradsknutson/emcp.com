@@ -30,7 +30,9 @@
                         <li>Songs</li>
                     </ul>            
                     
-                    <a class="technology-buttons wl-readers-buttons transition" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafa7e88f41d8cbd96a0269d731b013d8d034e9a8d6f0718f7" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','My Language Town Preorder Sample');">Sample</a>
+                    <!--
+					<a class="technology-buttons wl-readers-buttons transition" href="http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00eafa7e88f41d8cbd96a0269d731b013d8d034e9a8d6f0718f7" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','My Language Town Preorder Sample');">Sample</a>
+					-->
                     <a class="technology-buttons wl-readers-buttons transition" href="<?php echo $server; ?>mylanguagetown/" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','My Language Town Learn More');">Learn More</a>
                 </div>
                 <div class="clearfix"></div>
