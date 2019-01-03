@@ -488,8 +488,251 @@
 				</ul>
             </div>
         </div>
-	<!-- Correlations -->
+	<!-- Virginia Authors -->
 		<div class="white-slice paddingtop20 paddingbottom20" style="line-height:1.9;">
+            <div class="ninesixty">
+                <h4>Virginia Authors</h4>
+				<p>Mirrors &amp; Windows introduces your students to excerpts and selections from over 900 authors, and we are proud to feature those deeply rooted in the historic state of Virginia.</p>
+			</div>
+			<div class="clearfix"></div>
+			<div class="ninesixty">
+				<div style="width:480px;float:left;">
+					<ul>
+						<li><a class="showLink learn-more-link" href="#ashe" rel="modal:open" style="text-decoration:none;"><strong>Arthur Ashe</strong></a>
+							<div id="ashe" class="modal">
+								<img src="<?php echo $server; ?>lib/images/ashe.png" alt="Arthur Ashe" style="float:left !important;height:205px !important;width:180px !important;padding:10px 20px 10px 0;" />
+								Arthur Ashe was born in 1943 in Richmond, Virginia, and eventually became one of the top junior tennis players in the nation. 
+								After college, he won the U.S. Open, and in 1975 he won both the Wimbledon and World Championship Tennis men's singles titles. He died in 1993 of AIDS, 
+								contracted from a blood transfusion after open-heart surgery. Arthur Ashe Stadium was dedicated in Flushing Meadows, New York, in 1996, and in 2005, 
+								the U.S. Postal Service issued a stamp honoring Ashe.<br /><br >
+
+								EMC is proud to feature the work of Arthur Ashe within Mirrors &amp; Windows. Ashe's editorial article "A Black Athlete Looks at Education" and 
+								selections from his autobiography Off the Court are featured in Unit 3 of Mirrors & Windows Level 2/Grade 7.<br />
+								
+								<a href="https://drive.google.com/file/d/1Ekebp1abxUSa96fRFMrp664DG91cYobO/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#cather" rel="modal:open" style="text-decoration:none;"><strong>Willa Cather</strong></a>
+							<div id="cather" class="modal">
+								<img src="<?php echo $server; ?>lib/images/cather.png" alt="Willa Cather" style="float:left !important;height:224px !important;width:152px !important;padding:10px 20px 10px 0;" />
+								Willa Cather was born in 1873 in Virginia, but when she was ten, her family moved to frontier Nebraska to homestead a tract of land. 
+								The family borrowed money to send Cather to the University of Nebraska, where she wrote reviews of books, plays, and music for the Nebraska Journal. 
+								In 1906, she moved to New York City and joined McClure's magazine, first as a contributing editor and then as managing editor. Her first novel, 
+								Alexander's Bridge, was serialized in that publication in 1912. Over the next five years, she wrote two of her most famous novels, O Pioneers! 
+								(1913) and My Antonia (1918). She was awarded the Pulitzer Prize for her novel One of Ours in 1923 and the Howells Medal from the American 
+								Academy and Institute of Arts and Letters in 1930 for Death Comes for the Archbishop. Cather's work is known for its strong, unconventional female 
+								characters and its well-defined sense of time and place.<br /><br />
+
+								EMC is proud to feature the work of Willa Cather within Mirrors &amp; Windows. Cather's short story "A Wagner Matinee" is featured in Unit 5 of 
+								Mirrors &amp; Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/14ZLkDftB5osg3wBXTa_ay1HdRNB0-rHz/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#dillard" rel="modal:open" style="text-decoration:none;"><strong>Annie Dillard</strong></a>
+							<div id="dillard" class="modal">
+								<img src="<?php echo $server; ?>lib/images/dillard.png" alt="Annie Dillard" style="float:left !important;height:185px !important;width:191px !important;padding:10px 20px 10px 0;" />
+								Annie Dillard won the Pulitzer Prize for general nonfiction in 1974 for Pilgrim at Tinker Creek, a collection of essays in which Dillard writes a 
+								detailed account of the four seasons she spent living in the wilderness at Tinker Creek, located in the Blue Ridge Mountains near Roanoke, Virginia. 
+								Dillard has also published poetry, fiction, memoirs, and creative nonfiction. Dillard said of writing, "What impels the writer is a deep love for and respect 
+								for language, for literary forms, for books.... You don't do it from willpower; you do it from an abiding passion for the field."<br /><br />
+
+								EMC is proud to feature the work of Annie Dillard within Mirrors &amp; Windows. Dillard's essay "The Present" from Pilgrim at Tinker Creek is featured 
+								in Unit 2 of Mirrors & Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1jlttZmYeEy5EHMojre8kwhwjlmNPEd_H/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#dove" rel="modal:open" style="text-decoration:none;"><strong>Rita Dove</strong></a>
+							<div id="dove" class="modal">
+								<img src="<?php echo $server; ?>lib/images/dove.png" alt="Rita Dove" style="float:left !important;height:185px !important;width:191px !important;padding:10px 20px 10px 0;" />
+								Rita Dove was born in 1952 in Akron, Ohio, to parents who valued education and reading. After graduating from Miami University in Ohio, 
+								Dove won a Fulbright Scholarship to study in West Germany and later attended graduate school at the University of Iowa Writers' Workshop, where she 
+								earned a master's degree in 1977. Although Dove has written short stories, a novel, and a play, she is best known for her lyrical, free-verse poetry. 
+								Her poetry collections include "The Yellow House on the Corner" (1980), "Grace Notes" (1989), "Mother Love" (1995), and "On the Bus with Rosa Parks" 
+								(1999). In 1993, Dove became the first African American to be appointed Poet Laureate of the United States. Dove was named the 2004 Poet Laureate 
+								of Virginia and Chancellor of the Academy of American Poets in 2006. She has taught creative writing at the University of Virginia, in 
+								Charlottesville, for the past fourteen years.<br /><br />
+
+								EMC is proud to feature the work of Rita Dove within Mirrors &amp; Windows. Dove's lyric poem "Wingfoot Lake" is featured in Unit 9 of Mirrors &amp; 
+								Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/19yRt1WfUHaxr-k2ntmXSK3uTLd3fPJI6/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#giovanni" rel="modal:open" style="text-decoration:none;"><strong>Nikki Giovanni</strong></a>
+							<div id="giovanni" class="modal">
+								<img src="<?php echo $server; ?>lib/images/giovanni.png" alt="Nikki Giovanni" style="float:left !important;height:238px !important;width:208px !important;padding:10px 20px 10px 0;" />
+								Nikki Giovanni is widely known for both her poetry and commitment to activism in the 1960s and 1970s. She was born in Knoxville, 
+								Tennessee in 1943, and grew up near Cincinnati, Ohio. During the Civil Rights movement, Giovanni was a vocal advocate of Black Power, and she 
+								used her poetry to convey her opinions. Giovanni has received several honorary degrees from universities and prestigious awards from various 
+								institutions. Currently, Giovanni is a professor at Virginia Tech in Blacksburg, Virginia.<br /><br />
+
+								EMC is proud to feature the work of Nikki Giovanni within Mirrors &amp; Windows. Giovanni's lyric poems "“Legacies" and "Nikki-Rosa" 
+								are featured in Unit 5 and 6 of Mirrors &amp; Windows Level 3/Grade 8.<br />
+								
+								<a href="https://drive.google.com/file/d/1J8oIUGzIEnud4DTVDev42hG_pEiGFwp1/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#henry" rel="modal:open" style="text-decoration:none;"><strong>Patrick Henry</strong></a>
+							<div id="henry" class="modal">
+								<img src="<?php echo $server; ?>lib/images/henry.png" alt="Patrick Henry" style="float:left !important;height:163px !important;width:150px !important;padding:10px 20px 10px 0;" />
+								Patrick Henry was a distinguished political leader during the American Revolution. Born in Hanover Country, Virginia in 1736, Henry was educated at 
+								home by his father. As a young man, he failed as a storekeeper and farmer but eventually found success after training himself to practice 
+								law. Known for his courtroom eloquence and skill in composing an argument, Henry soon became a member of the Virginia legislature. In this role, 
+								he argued aggressively for American defiance of Great Britain. Notably, in 1765, he used his fiery oratory skills to persuade the Virginia House 
+								of Burgesses to pass resolutions against the Stamp Act. In the following decade, he continues to be a tireless and influential spokesperson for the 
+								independence movement.<br /><br />
+
+								EMC is proud to feature the work of Patrick Henry within Mirrors & Windows. Henry's Speech in the Virginia Convention is featured in Unit 1 of 
+								Mirrors &amp; Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1rcCZlwOqoNIkyQ0E2rc6AHAQ3IWSmKsC/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#jefferson" rel="modal:open" style="text-decoration:none;"><strong>Thomas Jefferson</strong></a>
+							<div id="jefferson" class="modal">
+								<img src="<?php echo $server; ?>lib/images/jefferson.png" alt="Thomas Jefferson" style="float:left !important;height:222px !important;width:166px !important;padding:10px 20px 10px 0;" />
+								Thomas Jefferson was born in 1743 into a wealthy land-owning family in Virginia. After attending the College of William and Mary, he practiced 
+								law and was elected to the Virginia House of burgesses. In 1775, he was sent as a delegate to the Second Continental Congress, where 
+								he drafted the Declaration of Independence with input from Benjamin Franklin, John Adams, and others. Jefferson then returned to the Virginia 
+								legislature, where he wrote a bill that established religious freedom. He was governor of the state from 1779 to 1781. In the 1780s, Jefferson's 
+								political career shifted to the national level. After serving as the first secretary of state founder President George Washington and as vice 
+								president under John Adams, Jefferson was elected the third president of the United States. During his time in office, Jefferson more than doubled 
+								the size of the country through acquisition of the Louisiana Purchase. After his presidency, Jefferson retired to Monticello, his plantation 
+								in Virginia. He died there on the Fourth of July, fifty years after signing the Declaration of Independence.<br /><br />
+
+								EMC is proud to feature the work of Thomas Jefferson within Mirrors & Windows. The Declaration of Independence is featured in Unit 1 of Mirrors 
+								&amp; Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1SOpORMJXqqs_2q6T59SvlPEbL-DL6WC4/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div style="width:480px;float:left;">
+					<ul>
+						<li><a class="showLink learn-more-link" href="#lee" rel="modal:open" style="text-decoration:none;"><strong>Robert E. Lee</strong></a>
+							<div id="lee" class="modal">
+								<img src="<?php echo $server; ?>lib/images/lee.png" alt="Robert E. Lee" style="float:left !important;height:200px !important;width:162px !important;padding:10px 20px 10px 0;" />
+								Robert E. Lee was a colonel in the United States Army when his home state, Virginia, seceded with other Southern states from the Union 
+								in April 1861. At that time, President Lincoln offered him command of the Union forces. Although Lee did not favor secession and had shown his 
+								disapproval of slavery by freeing his own slaves years earlier, he declined Lincoln's offer and joined the Confederate Army instead. As commander 
+								of the Army of Northern Virginia from 1862 to the end of the war, Lee made brilliant use of his limited manpower and supplies. Confederate forces 
+								defeated Union forces consistently in the major battles of the first years of the war. Nevertheless, Union forces were not seriously weakened by 
+								these losses, while Lee's forces dwindled. Named general-in-chief of all Confederate forces early in 1865, Lee realized that the South could not 
+								win the war. Within months, he surrendered, bringing the Civil War to a close. After the war, Lee became president of Washington College in 
+								Lexington, Virginia. He took a strong stand against the bitterness that continued to divide the nation, working peaceably to restore 
+								the South.<br /><br />
+
+								EMC is proud to feature the work of Robert E. Lee within Mirrors &amp; Windows. Lee's famous letter, "Farewell to His Army," is featured in Unit 3 of 
+								Mirrors &amp; Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1x3lmcbkYd1gsUAk4VObsB5j6jw5CnVWr/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#madgett" rel="modal:open" style="text-decoration:none;"><strong>Naomi Long Madgett</strong></a>
+							<div id="madgett" class="modal">
+								<img src="<?php echo $server; ?>lib/images/madgett.png" alt="Naomi Long Madgett" style="float:left !important;height:188px !important;width:154px !important;padding:10px 20px 10px 0;" />
+								Naomi Long Madgett was born in 1923 in Norfolk, Virginia, and spent her early years in New Jersey, where she was  the only girl in her 
+								neighborhood. She often expressed her loneliness by writing poetry, receiving encouragement from her parents but rejection at her integrated 
+								school. Madgett's family relocated to St. Louis in 1937, and there the young poet flourished in her all-black school, where students were taught 
+								to take pride in African-American achievements. Madgett published her first book of poetry, Songs to a Phantom Nightingale, days after graduating 
+								high school. Madgett served as an English professor at Eastern Michigan University from 1968 to 1984 and founded Lotus Press, a leading publisher 
+								of black literature, in 1972. Madgett has written nine poetry collections and earned numerous awards, including the American Book Award (1993) 
+								and an honorary Doctor of Fine Arts degree (1994). She was named Detroit's poet laureate in 2001.<br /><br />
+
+								EMC is proud to feature the work of Naomi Long Madgett within Mirrors &amp; Windows. Madgett's lyric poem "Midway" is featured in Unit 7 of Mirrors
+								&amp; Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1vYGswnY0byYXGXHpCfM_JD-zXyzhVL9Z/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#poe" rel="modal:open" style="text-decoration:none;"><strong>Edgar Allan Poe</strong></a>
+							<div id="poe" class="modal">
+								<img src="<?php echo $server; ?>lib/images/poe.png" alt="Edgar Allan Poe" style="float:left !important;height:221px !important;width:200px !important;padding:10px 20px 10px 0;" />
+								Although Edgar Allan Poe (1809 – 1849) led a short and troubled life, few writers have had such enduring popularity and influence. Considered 
+								the co-creator of the modern short story, Poe also invented detective fiction, wrote lyric poetry, and pioneered the psychological horror story. 
+								Orphaned at age two, Poe was raised by John Allan, a prosperous Virginia merchant, who gave him a classical education. In his twenties, Poe began 
+								to write poems and stories while working at various editorial jobs. Although briefly famous for his poem "The Raven," he spent most of his adult 
+								life in poverty. Even so, Poe was committed to writing. Among his best-known poems are "Annabel Lee" and "The Bells." Both embody Poe’s own definition 
+								of poetry as "the Rhythmical Creation of Beauty."<br /><br />
+
+								EMC is proud to feature the work of Edgar Allan Poe within Mirrors &amp; Windows. Poe’s narrative poem "Annabel Lee" is featured in Unit 6 of M&amp;W 
+								Level 2/Grade 7; his short story "The Tell-Tale Heart" is featured in Unit 2 of M&amp;W Level 3/Grade 8; his lyric poem "The Bells" and his short 
+								story "The Cask of Amontillado" are featured in Units 3 and 1 of M&amp;W Level 4/Grade 9; his short story "The Masque of the Red Death" is featured 
+								in Unit 1 of M&amp;W Level 5/Grade 10; and his poems "The Raven" and "Alone" along with his short story "The Fall of House Usher" are featured 
+								in Unit 2 of M&amp;W Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1YyJLpFFfjs0C-aM7x_hy1GYuAzajQ9DG/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#raleigh" rel="modal:open" style="text-decoration:none;"><strong>Sir Walter Raleigh</strong></a>
+							<div id="raleigh" class="modal">
+								<img src="<?php echo $server; ?>lib/images/raleigh.png" alt="Sir Walter Raleigh" style="float:left !important;height:191px !important;width:154px !important;padding:10px 20px 10px 0;" />
+								Sir Walter Raleigh (1552 – 1618) led a varied life as a soldier, explorer, courtier, philosopher, colonist, poet, student of science, and historian. 
+								His accomplishments included establishing the Roanoke colony in Virginia and importing the potato to Ireland. A favorite of Queen Elizabeth, 
+								Raleigh was known for his flamboyant dress, his enthusiasm for life, and his quick temper. He did not find favor with Elizabeth’s successor, King 
+								James I, who ultimately executed him for treason. In prison, Raleigh wrote his long but unfinished History of the World.<br /><br />
+
+								EMC is proud to feature the work of Sir Walter Raleigh within Mirrors &amp; Windows. Raleigh's lyric poem "The Nymph’s Reply to the Shepherd" is 
+								featured in Unit 3 of Mirrors & Windows Level 7/Grade 12.<br />
+								
+								<a href="https://drive.google.com/file/d/15lxQrwu0-srOSP9RRdScf-K10w28SZyG/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#rylant" rel="modal:open" style="text-decoration:none;"><strong>Cynthia Rylant</strong></a>
+							<div id="rylant" class="modal">
+								<img src="<?php echo $server; ?>lib/images/rylant.png" alt="Cynthia Rylant" style="float:left !important;height:216px !important;width:200px !important;padding:10px 20px 10px 0;" />
+								Cynthia Rylant was born in Hopewell, Virginia, in 1954. A few years after her birth, Rylant's family moved to a small town in the 
+								Appalachian Mountains. Due to her family's isolated and impoverished circumstances, she did not see a children's book until the age of twenty-three 
+								and was unaware that such books existed. Today, Rylant is widely known for her works aimed at young readers, including picture books and nonfiction. 
+								Rylant's 1992 novel Missing May won the Newbery Award.<br /><br />
+
+								EMC is proud to feature the work of Cynthia Rylant within Mirrors &amp; Windows. Rylant's short stories "Papa's Parrot" and "Checkouts" are featured 
+								in Unit 2 of M&amp;W Level 2/Grade 7 and Unit 1 of M&amp;W Level 3/Grade 8.<br />
+								
+								<a href="https://drive.google.com/file/d/18qFx3ZiCDe5ecaTtHgYjOgWhEH3gjU8s/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#smith" rel="modal:open" style="text-decoration:none;"><strong>John Smith</strong></a>
+							<div id="smith" class="modal">
+								<img src="<?php echo $server; ?>lib/images/smith.png" alt="John Smith" style="float:left !important;height:215px !important;width:172px !important;padding:10px 20px 10px 0;" />
+								John Smith was born in 1580 in Willoughby, England. In 1606, he joined a group of about one hundred people and set sail for the New World. 
+								There on the Chesapeake Bay, he helped to found Jamestown, the first permanent English colony in America. A year later, he was captured 
+								by Powhatan, chief of one of the area's native peoples. In later writings, he claimed to have been saved from execution by the chief's young daughter, 
+								known to history by her nickname, Pocahontas. Smith served as governor of the Jamestown Colony from 1608 to 1609 and then returned to 
+								England.<br /><br />
+
+								EMC is proud to feature the work of John Smith within Mirrors &amp; Windows. Selections from Smith's The General History of Virginia are featured 
+								in Unit 1 of Mirrors & Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1-ord8on8tOKFY57Hv9H-b0WjZuxdtW31/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+						<li><a class="showLink learn-more-link" href="#washington" rel="modal:open" style="text-decoration:none;"><strong>Booker T. Washington</strong></a>
+							<div id="washington" class="modal">
+								<img src="<?php echo $server; ?>lib/images/washington.png" alt="Booker T. Washington" style="float:left !important;height:183px !important;width:128px !important;padding:10px 20px 10px 0;" />
+								Booker T. Washington (1856–1915) was born to a mother who was a slave in Hale's Ford, Virginia. Like most slaves, Booker had only a 
+								first name; he adopted his stepfather's first name as his last name. While attending makeshift schools, Washington worked as a salt packer, 
+								coal miner, and houseboy. Filled with the desire to learn to read and write, he earned his way through Hampton Normal and Agricultural Institute 
+								in Virginia by working as a janitor. He graduated with honors and, in 1881, became the first principal of what is now Tuskegee Institute. He 
+								became a national figure as a result of a short address, Chapter 14 of Up from Slavery, at the Atlanta Exposition of 1895. Washington received 
+								an honorary degree from Harvard University, dined with President Theodore Roosevelt, and advised politicians and business leaders.<br /><br />
+								
+								EMC is proud to feature the work of Booker T. Washington within Mirrors &amp; Windows. Selections from Washington's autobiography Up From Slavery 
+								are featured in Unit 4 of Mirrors &amp; Windows Level 6/Grade 11.<br />
+								
+								<a href="https://drive.google.com/file/d/1DScwhd8-NxR4jbxrOb3O-HTlVK6zphhy/view?usp=sharing" target="_blank" class="showLink learn-more-link">View a sample selection here</a>.<br /><br />
+							</div>
+						</li>
+					</ul>
+				</div>
+            </div>
+			<div class="clearfix"></div>
+        </div>
+	<!-- Correlations -->
+		<div class="grey-slice paddingtop20 paddingbottom20" style="line-height:1.9;">
             <div class="ninesixty">
                 <h4>Virginia ELA Correlations 2018</h4>
 				<p>Mirrors &amp; Windows Correlations to the English Standards of Learning and Curriculum Framework</p>
@@ -533,6 +776,9 @@ $('.showLink').click(function() {
   }
 });
 </script>
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 <style>
 .hideme {
   display: none;  
