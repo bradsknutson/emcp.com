@@ -49,7 +49,7 @@
 		<div class="white-slice">
 			<div class="ninesixty slice-odd">
                 <div>
-                    <h1>Webinar #1 – <span class="italic">1 hour</span></h1>
+                    <h1>Webinar #1 – <span class="italic"><a href="http://emcp.webex.com/emcp/ldr.php?RCID=80ad15f50dc6e338c2246f9388e922af" target="_blank" style="font-size:36px !important;color:#C12026;">Click here</a> to watch the recording.</span></h1>
                     <p><strong>Presenter:</strong> Nathan Lutz, President of NNELL<br />
 						<strong>When:</strong> Tuesday, October 16th, 7-8 pm EST<br />
 						<strong>Topic:</strong> Strategies for Maintaining a 90%-Plus Target Language Classroom<br />
