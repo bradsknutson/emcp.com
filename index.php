@@ -76,7 +76,7 @@
 				<p style="font-size:28px;line-height:1.6;">
 					<a href="/language-arts/mirrors-windows/testimonials"><img src="/lib/images/home-video-screencap.jpg" alt="" border="0" style="float:left;margin-bottom:25px;padding-right:20px;" /></a>
 					<br />
-					Listen to what you your colleagues are saying about their Mirrors &amp; Windows experience and why they chose it for their ELA curriculum.
+					Listen to what your colleagues are saying about their Mirrors &amp; Windows experience and why they chose it for their ELA curriculum.
 				</p>
             </div>
 			<div class="clearfix"></div>
