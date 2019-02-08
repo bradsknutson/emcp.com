@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-html, body { 
+html, body {
 	font-family: "myriad-pro", sans-serif;
 	font-weight:300;
 	font-size:18px;
@@ -170,7 +170,7 @@ img {
   	color: #FFF;
 }
 .sf-menu ul {
-    top: 63px !important;   
+    top: 63px !important;
 }
 
 /* Add Footer dropdown menu to the 'About' link */
@@ -224,7 +224,7 @@ img {
 }
 
 .nf-menu ul {
-    bottom: -135px !important;   
+    bottom: -135px !important;
 }
 
 .header-top-dark .main-navigation {
@@ -272,15 +272,15 @@ img {
 }
 
 /* Page Content */
-#content{ 
-	
+#content{
+
 }
 h2, h3 {
 	color: #000;
 	font-weight: 300;
 }
 .main #topImg {
-    background: #393939 url('../images/passport-hero.png') no-repeat 50% 50%;   
+    background: #393939 url('../images/passport-hero.png') no-repeat 50% 50%;
 }
 #topImg h2 {
 	padding-top:30px;
@@ -589,7 +589,7 @@ h2, h3 {
 }
 .ell-right p {
 	margin: 3px 0px 0px;
-}	
+}
 .bold {
 	font-weight: 600;
 	color: #000;
@@ -971,7 +971,7 @@ p.chatbox-quote{
 
 }
 .lp-links {
-    background-color: #FFC103;  
+    background-color: #FFC103;
 }
 .link-blocks {
     float: left;
@@ -989,7 +989,7 @@ p.chatbox-quote{
 	transition: all 0.3s;
 }
 .link-blocks:hover {
-    background-color: #CC9A04;   
+    background-color: #CC9A04;
     color: #000;
 }
 .link-blocks img {
@@ -1092,7 +1092,7 @@ p.chatbox-quote{
 	background: url('../images/spanish_eBooks.jpg') no-repeat 50% 15%;
 }
 .qc-tech {
-    background: url('../images/qc-ebooks.jpg') no-repeat 50% 8%;   
+    background: url('../images/qc-ebooks.jpg') no-repeat 50% 8%;
 }
 .spanish-tech .ninesixty, .qc-tech .ninesixty {
 	padding: 500px 0px 30px !important;
@@ -1280,7 +1280,7 @@ p.home-mission {
 	font-size: 23px;
 	line-height: 2;
 	color: #000;
-	
+
 }
 .emc-al-cats .ninesixty {
 	margin-top: 10px;
@@ -1307,7 +1307,7 @@ p.home-mission {
     height: 300px;
 }
 .al-featured-product h3 {
-    margin: 0; 
+    margin: 0;
     font-size: 38px;
 }
 .al-featured-product p.no-top {
@@ -1319,19 +1319,19 @@ p.home-mission {
     text-decoration: none;
 }
 .world-languages-right.computer-apps {
-    background: #F9F8F6 url('../images/AL-01.png') no-repeat 50% 0%    
+    background: #F9F8F6 url('../images/AL-01.png') no-repeat 50% 0%
 }
 .world-languages-left.business-education {
-    background: #F1EEE9 url('../images/AL-02.png') no-repeat 50% 0%    
+    background: #F1EEE9 url('../images/AL-02.png') no-repeat 50% 0%
 }
 .world-languages-right.applied-science {
-    background: #F9F8F6 url('../images/AL-03.png') no-repeat 50% 0%    
+    background: #F9F8F6 url('../images/AL-03.png') no-repeat 50% 0%
 }
 .world-languages-left.social-studies {
-    background: #F1EEE9 url('../images/AL-04.png') no-repeat 50% 0%    
+    background: #F1EEE9 url('../images/AL-04.png') no-repeat 50% 0%
 }
 .world-languages-right.career-life-skills {
-    background: #F9F8F6 url('../images/AL-05.png') no-repeat 50% 0%    
+    background: #F9F8F6 url('../images/AL-05.png') no-repeat 50% 0%
 }
 
 /* -------- End Applied Learning Page -------------- */
@@ -1391,7 +1391,7 @@ p.home-mission {
 	height: 100%;
 	width: 100%;
 	top: 0;
-	left: 0;	
+	left: 0;
 }
 .catalog_block_overlay:hover {
 	background-color: rgba(0,0,0,0.5);
@@ -1445,7 +1445,7 @@ p.home-mission {
     border-bottom: 2px solid #000;
 }
 .csl-row-1 {
-    margin-top: 20px;   
+    margin-top: 20px;
 }
 
 /* -------- End Catalog 2015 Page -------------- */
@@ -1469,7 +1469,7 @@ p.home-mission {
     line-height: 1.4;
 }
 .fofih img {
-    margin: 20px 0px;   
+    margin: 20px 0px;
 }
 .passport-demo {
     z-index: 999;
@@ -1477,7 +1477,7 @@ p.home-mission {
     left: 38%;
 }
 .passport-landing .header-secondary-page {
-    height: 138px;   
+    height: 138px;
 }
 .passport-landing .left-block, .passport-landing .right-block {
     width: 50%;
@@ -1495,7 +1495,7 @@ p.home-mission {
     margin: 0;
 }
 .passport-third-section .right-block li, .passport-landing .fofih li {
-    margin-left: 20px;   
+    margin-left: 20px;
 }
 .passport-landing .fofih ul {
     padding: 0;
@@ -1509,10 +1509,10 @@ p.home-mission {
     float: left;
 }
 .icons-left {
-   width: 8%; 
+   width: 8%;
 }
 .icons-right {
-   width: 92%; 
+   width: 92%;
 }
 .icons-right p {
     margin: 0;
@@ -1523,10 +1523,10 @@ p.home-mission {
     line-height: 1.4;
 }
 .passport-landing .grey-slice h3 {
-       
+
 }
 .passport-landing .grey-slice .left-block {
-    padding-right: 40px;   
+    padding-right: 40px;
 }
 .passport-landing h3 {
     font-size: 32px !important;
@@ -1552,13 +1552,13 @@ p.home-mission {
     margin-bottom: -80px;
 }
 .conectate-iculture .vimeo-modals-container {
-    width: auto;   
+    width: auto;
 }
 .iculture-play-button .play-button {
-    top: 325px;   
+    top: 325px;
 }
 .dvd-play-button {
-    position: relative;   
+    position: relative;
     height: 100%;
     width: 100%;
 }
@@ -1596,7 +1596,7 @@ p.home-mission {
 	height: 498px;
 }
 .teb-tech {
-    background: url('../images/teb-ebooks.jpg') no-repeat 50% 8%;   
+    background: url('../images/teb-ebooks.jpg') no-repeat 50% 8%;
 }
 .teb-demo {
     z-index: 999;
@@ -1604,7 +1604,7 @@ p.home-mission {
     bottom: 75px;
 }
 .disclaimer {
-    font-size: 14px;   
+    font-size: 14px;
 }
 
 /* -------- End T'es Branche Page Styles -------------- */
@@ -1627,7 +1627,7 @@ p.home-mission {
 	height: 498px;
 }
 .da-tech {
-    background: url('../images/da-ebooks.jpg') no-repeat 50% 8%;   
+    background: url('../images/da-ebooks.jpg') no-repeat 50% 8%;
 }
 .technology-buttons.da-demo {
     z-index: 999;
@@ -1666,7 +1666,7 @@ p.home-mission {
 	background: url('../images/passport-chinese.jpg') no-repeat 50% 100%;
 }
 .zb-tech {
-    background: url('../images/zb-ebooks.jpg') no-repeat 50% 8%;   
+    background: url('../images/zb-ebooks.jpg') no-repeat 50% 8%;
 }
 .technology-buttons.zb-demo {
     left: 38%;
@@ -1699,11 +1699,11 @@ p.home-mission {
     line-height: 1.5;
 }
 .econ .entry-title h3 {
-    margin: 0;   
+    margin: 0;
     font-size: 26px;
 }
 .econ .entry-title h4 {
-    margin: 0;   
+    margin: 0;
     font-size: 22px;
     font-weight: 100;
 }
@@ -1720,10 +1720,10 @@ p.home-mission {
     margin-top: 40px;
 }
 .econ .left-block {
-    padding-right: 10px;   
+    padding-right: 10px;
 }
 .econ .right-block {
-    padding-left: 10px;   
+    padding-left: 10px;
 }
 .econ-features ul {
     padding: 0 0 0 20px;
@@ -1737,7 +1737,7 @@ p.home-mission {
     margin: 0;
 }
 .econ .conectate-left {
-    padding-right: 85px;   
+    padding-right: 85px;
 }
 .featured-flipgrid-left, .featured-flipgrid-right {
     float: left;
@@ -1761,7 +1761,7 @@ p.home-mission {
     line-height: 1.8;
 }
 .econ .technology-buttons {
-    left: 47%;   
+    left: 47%;
 }
 
 /* -------- End Economics Page Styles -------------- */
@@ -1782,11 +1782,11 @@ p.home-mission {
     line-height: 1.5;
 }
 .biotech .entry-title h3 {
-    margin: 0;   
+    margin: 0;
     font-size: 26px;
 }
 .biotech .entry-title h4 {
-    margin: 35px 0;   
+    margin: 35px 0;
     font-size: 22px;
     font-weight: 100;
     line-height: 1;
@@ -1804,10 +1804,10 @@ p.home-mission {
     margin-top: 40px;
 }
 .biotech .left-block {
-    padding-right: 10px;   
+    padding-right: 10px;
 }
 .biotech .right-block {
-    padding-left: 10px;   
+    padding-left: 10px;
 }
 .biotech-features .entry-title {
     margin-top: 25px;
@@ -1828,13 +1828,13 @@ p.home-mission {
     width: 630px;
 }
 .biotech .technology-buttons {
-    left: 47%;   
+    left: 47%;
 }
 .biotech .featured-flipgrid {
-    background-color: #D9D7D8;   
+    background-color: #D9D7D8;
 }
 .biotech-sample {
-    left: 0% !important;  
+    left: 0% !important;
 }
 
 /* -------- End Biotechnology Page Styles -------------- */
@@ -1850,7 +1850,7 @@ p.home-mission {
     height: 355px;
 }
 .featured-ela .ninehundred div {
-    width: 465px;   
+    width: 465px;
 }
 .featured-ela h2 {
     color: #FFF;
@@ -1864,7 +1864,7 @@ p.home-mission {
 .featured-ela .learn-more-link {
     color: #FFF;
     border-bottom: 1px solid #FFF;
-    margin-top: 15px; 
+    margin-top: 15px;
 }
 .ela-comp .left-block, .ela-comp .right-block {
     float: left;
@@ -1873,16 +1873,16 @@ p.home-mission {
     -webkit-box-sizing: border-box;
 }
 .ela-comp .left-block {
-    width: 45%; 
+    width: 45%;
 }
 .ela-comp .right-block {
     width: 55%;
 }
 .ela-comp .left-block img {
-    margin: 30px 0 0 110px; 
+    margin: 30px 0 0 110px;
 }
 .ela-comp h3 {
-    font-size: 36px;  
+    font-size: 36px;
     padding: 0;
     margin: 0;
 }
@@ -1927,13 +1927,13 @@ p.home-mission {
     width: 50%;
 }
 .mw .conectate-left {
-    padding-right: 10px;  
+    padding-right: 10px;
 }
 .mw .conectate-right {
-    padding-left: 10px; 
+    padding-left: 10px;
 }
 .mw .secondary-first ul {
-    padding: 0 0 0 20px;   
+    padding: 0 0 0 20px;
 }
 .mw .conectate-right img {
     display: block;
@@ -1944,13 +1944,13 @@ p.home-mission {
     margin-left: 10px;
 }
 .mw .redefining-bg {
-    background: url('../images/avenue-flipgrid-mw-bg.png') no-repeat 50% 100%;   
+    background: url('../images/avenue-flipgrid-mw-bg.png') no-repeat 50% 100%;
 }
 .mw .conectate-iculture-second h3 {
-    font-size: 24px;   
+    font-size: 24px;
 }
 .mw .conectate-iculture-second p {
-    line-height: 1.6;   
+    line-height: 1.6;
 }
 .mw-sample {
     bottom: 25px !important;
@@ -1966,10 +1966,10 @@ p.home-mission {
 /* -------- Start Technology Page Styles -------------- */
 
 .technology .header-secondary-page {
-    height: 138px;       
+    height: 138px;
 }
 .technology .world-languages-title h3 {
-    text-align: center;   
+    text-align: center;
 }
 .technology .world-languages-right {
     background-color: #E8E8E8;
@@ -1978,25 +1978,25 @@ p.home-mission {
     background-color: #FFF;
 }
 .technology .world-languages-right img, .technology .world-languages-left img {
-    margin-top: 60px;   
+    margin-top: 60px;
 }
 .technology .techlp-passport {
-    background: #E8E8E8 url('../images/slice-passport.png') no-repeat 50% 0%   
+    background: #E8E8E8 url('../images/slice-passport.png') no-repeat 50% 0%
 }
 .technology .techlp-bookshelf {
-    background: #FFF url('../images/slice-bookshelf.png') no-repeat 50% 0%   
+    background: #FFF url('../images/slice-bookshelf.png') no-repeat 50% 0%
 }
 .technology .techlp-iculture {
-    background: #FFF url('../images/slice-iculture.png') no-repeat 50% 0%   
+    background: #FFF url('../images/slice-iculture.png') no-repeat 50% 0%
 }
 .technology .techlp-flipgrid {
-    background: #E8E8E8 url('../images/slice-flipgrid.png') no-repeat 50% 0%   
+    background: #E8E8E8 url('../images/slice-flipgrid.png') no-repeat 50% 0%
 }
 .technology .techlp-avenue {
-    background: #FFF url('../images/slice-avenue.png') no-repeat 50% 0%   
+    background: #FFF url('../images/slice-avenue.png') no-repeat 50% 0%
 }
 .technology .techlp-elpac {
-    background: #E8E8E8 url('../images/slice-elpac.png') no-repeat 50% 0%   
+    background: #E8E8E8 url('../images/slice-elpac.png') no-repeat 50% 0%
 }
 
 
@@ -2004,7 +2004,7 @@ p.home-mission {
 
 /* -------- Start Bookshelf Page Styles -------------- */
 .bookshelf {
-    
+
 }
 .bookshelf-bg {
     height: 600px;
@@ -2018,7 +2018,7 @@ p.home-mission {
     width: 960px;
     height: 100%;
     margin: auto;
-    position: relative;   
+    position: relative;
 }
 .technology-buttons {
     position: absolute;
@@ -2054,11 +2054,11 @@ p.home-mission {
     bottom: 10px;
 }
 .bookshelf .secondary-first {
-    margin-top: 480px;   
+    margin-top: 480px;
     background: #FFF url('../images/multiplatform-ebooks.png') no-repeat 50% 50%
 }
 .bookshelf .secondary-first .ninesixty {
-    padding-top: 0px;   
+    padding-top: 0px;
 }
 .featured-left {
     width: 450px;
@@ -2079,17 +2079,17 @@ p.home-mission {
     padding-right: 40px;
 }
 .bookshelf .right-block ul {
-    margin-top: 66px;   
+    margin-top: 66px;
 }
 .bookshelf .left-block ul li, .bookshelf .right-block ul li {
-    line-height: 1.8;   
+    line-height: 1.8;
 }
 
 /* -------- End Bookshelf Page Styles -------------- */
 
 /* -------- Start ELPAC Page Styles -------------- */
 .elpac {
-    
+
 }
 .elpac-bg {
     height: 600px;
@@ -2103,14 +2103,14 @@ p.home-mission {
     background: #EF4b25;
 }
 .elpac-login {
-    left: 440px;  
+    left: 440px;
 }
 .elpac .secondary-first {
     margin-top: 480px;
     background: #FFF;
 }
 .elpac .secondary-first .ninesixty {
-    padding: 20px 0;   
+    padding: 20px 0;
 }
 .elpac .featured-left {
     width: 620px;
@@ -2137,7 +2137,7 @@ p.home-mission {
     font-weight: 400;
 }
 .elpac-button:hover {
-    background: #C43D1e; 
+    background: #C43D1e;
 }
 .eb1 { bottom: -160px; }
 .eb2 { bottom: -200px; }
@@ -2155,30 +2155,30 @@ p.home-mission {
     -webkit-box-sizing: border-box;
 }
 .elpac-third:nth-child(1) {
-    background: url('../images/elpac-flexible.png') no-repeat 5% 0%;   
+    background: url('../images/elpac-flexible.png') no-repeat 5% 0%;
 }
 .elpac-third:nth-child(2) {
-    background: url('../images/elpac-easy.png') no-repeat 5% 0%;   
+    background: url('../images/elpac-easy.png') no-repeat 5% 0%;
 }
 .elpac-third:nth-child(3) {
-    background: url('../images/elpac-reliable.png') no-repeat 5% 0%;   
+    background: url('../images/elpac-reliable.png') no-repeat 5% 0%;
 }
 .elpac .elpac-third ul {
-    padding-left: 20px;   
+    padding-left: 20px;
 }
 .elpac .elpac-third ul li {
     line-height: 1.4;
     padding: 5px 0;
 }
 .elpac .elpac-third p {
-    line-height: 1.6;   
+    line-height: 1.6;
 }
 
 /* -------- End ELPAC Page Styles -------------- */
 
 /* -------- Start i-Culture Page Styles -------------- */
 .iculture {
-    
+
 }
 .iculture-bg {
     height: 600px;
@@ -2192,7 +2192,7 @@ p.home-mission {
     left: 40%;
 }
 .iculture-login {
-    left: 60%;  
+    left: 60%;
 }
 .iculture-slices-img {
     position: absolute;
@@ -2245,9 +2245,9 @@ p.home-mission {
 }
 .iculture .slice-right {
     padding-left: 20px;
-}  
+}
 .iculture-slice-even img, .iculture-slice-odd img {
-    margin-top: 35px;   
+    margin-top: 35px;
 }
 .iculture .slice-left p, .iculture .slice-right p {
     line-height: 1.8;
@@ -2266,7 +2266,7 @@ p.home-mission {
 /* -------- World Language Landing Page Styles -------------- */
 
 .featured-spanish, .featured-german, .featured-french, .featured-chinese, .featured-italian {
-    box-sizing: border-box;  
+    box-sizing: border-box;
     height: 355px;
 }
 .featured-spanish {
@@ -2329,10 +2329,10 @@ p.home-mission {
 	background: url('../images/wl-readers-header.jpg') no-repeat 50% 100%;
 }
 .wl-readers .conectate-left {
-    padding-right: 80px;   
+    padding-right: 80px;
 }
-.wl-readers .conectate-right img { 
-    margin-top: 120px; 
+.wl-readers .conectate-right img {
+    margin-top: 120px;
 }
 .wl-readers-buttons {
     position: relative;
@@ -2612,7 +2612,7 @@ h3.adonde {
     z-index: 101;
 }
 #socialbar > a {
-    border: none;   
+    border: none;
 }
 #profilePhoto.social {
     border-radius: 5px;
@@ -2653,7 +2653,7 @@ h3.adonde {
     width: 482px;
 }
 #message {
-    cursor: pointer;   
+    cursor: pointer;
 }
 #message, #messageText, #profileName, #shareButton, #minimizeToggle {
     color: #222222!important;
@@ -2766,14 +2766,14 @@ h3.adonde {
     background: #000;
 }
 .ty-page {
-    margin-top: 200px;   
+    margin-top: 200px;
 }
 .ty-download {
     left: 50%;
     margin-left: -176px;
 }
 .secondary-first.ty-page {
-    background: #FFF;   
+    background: #FFF;
 }
 .thank-you-page h1 {
     position: absolute;
@@ -2786,13 +2786,13 @@ h3.adonde {
     font-weight: normal;
 }
 .secondary-first.ty-page p {
-    font-size: 18px;  
+    font-size: 18px;
 }
 .secondary-first.ty-page a {
     color: #BD0006;
     text-decoration: underline;
     font-weight: 600;
-    font-size: 18px;   
+    font-size: 18px;
 }
 
 /* -------- End Thank You Pages Styles ------------- */
@@ -2846,7 +2846,7 @@ h3.adonde {
   height: 100%;
 }
 .ereaders .secondary-first {
-    background: #FFF;   
+    background: #FFF;
 }
 .ereaders-larger {
     font-size: 45px !important;
@@ -2854,7 +2854,7 @@ h3.adonde {
     margin: 15px 0;
 }
 .ereaders-right-img {
-    float: right;   
+    float: right;
 }
 .ereaders-medium {
     font-size: 28px;
@@ -2867,16 +2867,16 @@ h3.adonde {
     line-height: 1;
 }
 .ereaders-smaller {
-    font-size: 20px;   
+    font-size: 20px;
 }
 .border-bottom-tr td {
-    border-bottom: 1px solid #000;   
+    border-bottom: 1px solid #000;
 }
 table .ereaders-smaller {
-    margin: 0;   
+    margin: 0;
 }
 .whitespace-top {
-    padding: 15px 0 0;   
+    padding: 15px 0 0;
 }
 
 /* -------- End eReaders Pages Styles ------------- */
@@ -2891,7 +2891,7 @@ table .ereaders-smaller {
     margin-top: 480px;
 }
 .white-slice, .grey-slice {
-    padding: 50px 0;   
+    padding: 50px 0;
 }
 .al-ca h1 {
     font-size: 36px;
@@ -2899,16 +2899,16 @@ table .ereaders-smaller {
     color: #000;
 }
 .al-ca p {
-    line-height: 2;   
+    line-height: 2;
 }
 .al-ca .left-slice, .al-ca .right-slice {
-    width: 50%;   
+    width: 50%;
 }
 .al-ca .left-slice {
     float: left;
 }
 .al-ca .right-slice {
-    float: right;   
+    float: right;
 }
 .al-ca .left-slice img {
     float: right;
@@ -2917,7 +2917,7 @@ table .ereaders-smaller {
 .al-ca .right-slice img {
     float: left;
     margin: 20px 0 20px 20px;
-    
+
 }
 
 /* -------- End Computer Applications Page Styles ------------- */
@@ -2938,7 +2938,7 @@ table .ereaders-smaller {
     height: 600px;
 }
 .al-as .grey-slice {
-    background-color: #D9D7D8 !important;   
+    background-color: #D9D7D8 !important;
 }
 
 /* -------- End Anatomy and Physiology Page Styles ------------- */
@@ -2964,13 +2964,13 @@ table .ereaders-smaller {
 /* -------- Start Mirrorsandwindows.com Page Styles ------------- */
 
 .mwdc-bg, .mwdc-bg #topImg {
-    height: 311px;   
+    height: 311px;
 }
 .mwdc-bg #topImg {
     background: #FFF url('../images/mwdc-header.jpg') no-repeat 50% 100%;
 }
 .mwdc-top-content {
-    margin-top: 191px;   
+    margin-top: 191px;
 }
 .mwdc-top-content p {
     width: 740px;
@@ -3009,7 +3009,7 @@ table .ereaders-smaller {
 }
 .mwdc-top-content .right-slice .bghover {
     background: transparent url('../images/mwdc-2-bg.png') no-repeat 50% 0%;
-    
+
 }
 .mwdc-top-content .left-slice .bghover, .mwdc-top-content .right-slice .bghover {
 	-moz-transition: all 0.3s;
@@ -3028,13 +3028,13 @@ table .ereaders-smaller {
 /* -------- Start MW California Page Styles ------------- */
 
 .mw-ca-bg, .mw-ca-bg #topImg {
-    height: 512px;   
+    height: 512px;
 }
 .mw-ca-bg #topImg {
     background: #FFF url('../images/mw-ca-bg.jpg') no-repeat 50% 100%;
 }
 .mw-ca-cta, .mw-ca-cta-2, .mw-ca-cta-3 {
-    bottom: -90px;   
+    bottom: -90px;
 }
 .movedown {
     margin: 75px auto 0px !important;
@@ -3084,7 +3084,7 @@ table .ereaders-smaller {
     float: left;
 }
 .mw-ca-bookshelf.center-img {
-    margin-bottom: 30px;   
+    margin-bottom: 30px;
 }
 
 /* -------- End MW California Page Styles ------------- */
@@ -3092,7 +3092,7 @@ table .ereaders-smaller {
 /* -------- Start MW California 2015 (www.emcp.com/mirrors-and-windows/ca/) Page Styles ------------- */
 
 .mw-cal-bg, .mw-cal-bg #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-cal-bg #topImg {
     background: #FFF url('../images/mw-cal-bg.jpg') no-repeat 50% 100%;
@@ -3104,7 +3104,7 @@ table .ereaders-smaller {
 /* -------- Start MW Oklahoma 2015 (www.emcp.com/mirrors-and-windows/ok/) Page Styles ------------- */
 
 .mw-ok-bg, .mw-ok-bg #topImg, .wl-ok-bg, .wl-ok-bg #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-ok-bg #topImg {
     background: #FFF url('../images/ela-ok-header.jpg') no-repeat 50% 100%;
@@ -3116,7 +3116,7 @@ table .ereaders-smaller {
 /* -------- Start MW Virginia 2015 (www.emcp.com/mirrors-and-windows/va/) Page Styles ------------- */
 
 .mw-va-bg, .mw-va-bg #topImg, .wl-va-bg, .wl-va-bg #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-va-bg #topImg {
     background: #FFF url('../images/va-header.jpg') no-repeat 50% 100%;
@@ -3137,7 +3137,7 @@ table .ereaders-smaller {
 /* -------- Start MW Idaho Page Styles ------------- */
 
 .mw-id-bg, .mw-id-bg #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-id-bg #topImg {
     background: #FFF url('../images/id-header.jpg') no-repeat 50% 100%;
@@ -3149,28 +3149,28 @@ table .ereaders-smaller {
 
 /* ----------- Mirrors and Windows CA Resource Page ----------------- */
 .mw-ca-bg-resources, .mw-ca-bg-resources #topImg {
-    height: 512px;   
+    height: 512px;
 }
 .mw-ca-bg-resources #topImg {
     background: #FFF url('../images/mw-cal-bg-resources.jpg') no-repeat 50% 100%;
 }
 /* ----------- Mirrors and Windows OK Resource Page ----------------- */
 .mw-ok-bg-resources, .mw-ok-bg-resources #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-ok-bg-resources #topImg {
     background: #FFF url('../images/ela-ok-resources.jpg') no-repeat 50% 100%;
 }
 /* ----------- Mirrors and Windows VA Resource Page ----------------- */
 .mw-va-bg-resources, .mw-va-bg-resources #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-va-bg-resources #topImg {
     background: #FFF url('../images/va-resources-header.jpg') no-repeat 50% 100%;
 }
 /* ----------- Mirrors and Windows ID Resource Page ----------------- */
 .mw-id-bg-resources, .mw-id-bg-resources #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-id-bg-resources #topImg {
     background: #FFF url('../images/id-header-resources.jpg') no-repeat 50% 100%;
@@ -3206,7 +3206,7 @@ table .ereaders-smaller {
     margin: 0;
     font-size: 36px;
     text-align: center;
-    color: #444444;    
+    color: #444444;
 }
 .texas-landing .top-slice {
     padding: 500px 0 20px;
@@ -3257,10 +3257,10 @@ table .ereaders-smaller {
 }
 .expandable-box-label {
     padding: 15px;
-    cursor: pointer;    
+    cursor: pointer;
 }
 .expandable-box-icon {
-    margin: 0 15px;    
+    margin: 0 15px;
 }
 .expandable-box-expanded .expandable-box-content {
     border-top: 10px solid #f7f6f6;
@@ -3310,13 +3310,13 @@ table .ereaders-smaller {
 /* -------- Start EMC Stores Page Styles ------------- */
 
 .emc-stores-bg, .emc-stores-bg #topImg {
-    height: 480px;   
+    height: 480px;
 }
 .emc-stores-bg #topImg {
     background: #FFF url('../images/emc-stores-header.png') no-repeat 50% 100%;
 }
 .emc-stores-top-content {
-    margin-top: 360px;   
+    margin-top: 360px;
 }
 .emc-stores-half {
     width: 50%;
@@ -3335,7 +3335,7 @@ table .ereaders-smaller {
     margin: 0 0 50px;
 }
 .emc-stores-top-content ul {
-    padding: 0 15px 0 19px;   
+    padding: 0 15px 0 19px;
 }
 
 /* -------- End EMC Stores Page Styles ------------- */
@@ -3344,13 +3344,13 @@ table .ereaders-smaller {
 /* -------- Start Symtalk Page Styles ------------- */
 
 .symtalk-bg, .symtalk-bg #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .symtalk-bg #topImg {
-    background: #FFF url('../images/symtalk-header.jpg') no-repeat 50% 100%;   
+    background: #FFF url('../images/symtalk-header.jpg') no-repeat 50% 100%;
 }
 .symtalk .secondary-first {
-    background-color: #FFF;   
+    background-color: #FFF;
 }
 .symtalk h1 {
     font-size: 35px;
@@ -3372,16 +3372,16 @@ table .ereaders-smaller {
     background-color: #f0f0f0;
 }
 .symtalk .secondary-next .ninesixty {
-    padding: 0;   
+    padding: 0;
 }
 /* New Symtalk Styles for V2 Brian */
 /* -------- Start Symtalk Page Styles ------------- */
 
 .symtalk-bg-new, .symtalk-bg-new #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .symtalk-bg-new #topImg {
-    background: #FFF url('../images/symtalk-header-new.jpg') no-repeat 50% 100%;   
+    background: #FFF url('../images/symtalk-header-new.jpg') no-repeat 50% 100%;
 }
 .symtalk-right-new img {
     display: block;
@@ -3401,7 +3401,7 @@ p.symtalk-vimeo {
 	text-align:center;
 }
 .symtalk-bg {
-	 background: #FFF url('../images/symtalk-bg.jpg') no-repeat 50% 100%;  
+	 background: #FFF url('../images/symtalk-bg.jpg') no-repeat 50% 100%;
 	 height: 195px;
 }
 .symtalk-1 {
@@ -3473,7 +3473,7 @@ p.symtalk-steps {
 	padding-top: 0px;
 }
 .ereaders .no-top {
-    padding-top: 0px !important;   
+    padding-top: 0px !important;
 }
 .white {
 	background: #FFF;
@@ -3519,13 +3519,13 @@ p.symtalk-steps {
 	transition: all 0.3s;
 }
 .margintop40 {
-    margin-top: 40px;   
+    margin-top: 40px;
 }
 .margintop80 {
-    margin-top: 80px;   
+    margin-top: 80px;
 }
 .marginbottom40 {
-    margin-bottom: 40px;   
+    margin-bottom: 40px;
 }
 .paddingtop0 {
     padding-top: 0px;
@@ -3540,25 +3540,25 @@ p.symtalk-steps {
     padding-bottom: 20px;
 }
 .paddingtop40 {
-    padding-top: 40px;   
+    padding-top: 40px;
 }
 .paddingtop40i {
     padding-top: 40px !important;
 }
 .paddingbottom40 {
-    padding-bottom: 40px;   
+    padding-bottom: 40px;
 }
 .paddingbottom80 {
-    padding-bottom: 80px;   
+    padding-bottom: 80px;
 }
 .left-block, .right-block {
-    float: left;   
+    float: left;
 }
 .grey-slice {
-    background: #E9E9E9;   
+    background: #E9E9E9;
 }
 .light-grey-slice {
-    background: #F0EFEB;   
+    background: #F0EFEB;
 }
 .dark-grey-slice {
     background: #575656;
@@ -3567,10 +3567,10 @@ p.symtalk-steps {
     font-size: 22px;
 }
 .p-smaller {
-    font-size: 16px;   
+    font-size: 16px;
 }
 .p-smallest {
-    font-size: 12px;   
+    font-size: 12px;
 }
 .no-top-padding {
 	padding-top: 10px;
@@ -3590,14 +3590,14 @@ p.symtalk-steps {
     line-height: 1.25 !important;
 }
 .lineheight1p75 {
-    line-height: 1.75   
+    line-height: 1.75
 }
 .h240 {
     font-size: 40px;
     margin: 0;
 }
 .textalignleft {
-    text-align: left !important;   
+    text-align: left !important;
 }
 .img-float-right {
     float: right;
@@ -3623,7 +3623,7 @@ p.symtalk-steps {
 /* -------- Start Media Queries ---------------- */
 @media screen and (min-width: 1201px) {
 	.catalog-container {
-        
+
 	}
 	.catalog-container-1 {
 		/* width: 75%; */
@@ -3663,7 +3663,7 @@ p.symtalk-steps {
 	.catalog_block_overlay_text {
 		font-size: 36px;
 		height: 50px;
-	}	
+	}
 	.cbic4 .catalog_block_overlay_text, .cbic6 .catalog_block_overlay_text {
 		font-size: 33px;
 	}
@@ -3720,7 +3720,7 @@ p.symtalk-steps {
     width: 275px;
 }
 .catalog-img img:hover {
-    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.8);   
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.8);
 }
 
 /* -------- End Career & Life Skills Page Styles ------------- */
@@ -3728,10 +3728,10 @@ p.symtalk-steps {
 /* -------- Start My Language Town Page Styles ------------- */
 
 .mlt-bg, .mlt-bg #topImg {
-    height: 484px;   
+    height: 484px;
 }
 .mlt-bg #topImg {
-    background: #FFF url('../images/mlt-header.jpg') no-repeat 50% 100%;   
+    background: #FFF url('../images/mlt-header.jpg') no-repeat 50% 100%;
 }
 .mlt-left, .mlt-right {
     float: left;
@@ -3765,18 +3765,18 @@ p.symtalk-steps {
 }
 /* New Verion of MLT page */
 .mlt-new-bg, .mlt-new-bg #topImg {
-    height: 600px;   
+    height: 600px;
 	margin-top:70px;
 }
 .mlt-new-bg #topImg {
-    background: #FFF url('../images/mlt-header-new.jpg') no-repeat 50% 100%;   
+    background: #FFF url('../images/mlt-header-new.jpg') no-repeat 50% 100%;
 }
 
 /* -------- End My Language Town Page Styles ------------- */
 
 /* -------- Start MSReview Page Styles ------------- */
 .msreview-landing {
-    
+
 }
 .msreview-landing-bg #topImg {
     background: #FFF url('../images/msreview-header.jpg') no-repeat 50% 100%;
@@ -3826,14 +3826,14 @@ p.symtalk-steps {
 /* -------- Start MW Nevada Page Styles ------------- */
 
 .mw-nv-bg, .mw-nv-bg #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-nv-bg #topImg {
     background: #FFF url('../images/nv-header.jpg') no-repeat 50% 100%;
 }
 /* ----------- Mirrors and Windows NV Resource Page ----------------- */
 .mw-nv-bg-resources, .mw-nv-bg-resources #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-nv-bg-resources #topImg {
     background: #FFF url('../images/nv-header-resources.jpg') no-repeat 50% 100%;
@@ -3878,14 +3878,14 @@ ul.sp-landing {
 /* -------- Start MW Georgia Page Styles ------------- */
 
 .mw-ga-bg, .mw-ga-bg #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-ga-bg #topImg {
     background: #FFF url('../images/ga-header.jpg') no-repeat 50% 100%;
 }
 /* ----------- Mirrors and Windows Georgia Resource Page ----------------- */
 .mw-ga-bg-resources, .mw-ga-bg-resources #topImg {
-    height: 600px;   
+    height: 600px;
 }
 .mw-ga-bg-resources #topImg {
     background: #FFF url('../images/ga-header-resources.jpg') no-repeat 50% 100%;
@@ -4013,7 +4013,7 @@ ul.sp-landing {
 }
 /* Connect landing page styles */
 .connect-bg, .connect-bg #topImg {
-    height: 1052px;   
+    height: 1052px;
 }
 .connect-bg #topImg {
     background: #FFF url('../images/connect-header.jpg') no-repeat 50% 100%;
@@ -4124,7 +4124,7 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 }
 /* MLT Landing Page Slider style overrides */
 .bx-wrapper .bx-prev {
-    left: -50px !important;	
+    left: -50px !important;
 }
 .bx-wrapper .bx-next {
     right: -50px !important;
@@ -4237,4 +4237,34 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 .modal {
 	max-width: 700px !important;
 	margin-top: 150px !important;
+}
+
+/* Homepage Banner */
+.homepage-banner {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  height: 35px;
+  display: block;
+  width: 100%;
+}
+
+
+.homepage-banner a {
+  color: #fff;
+	font-size: 18px;
+  text-decoration: underline;
+  font-weight: 100;
+}
+
+.homepage-banner a:hover, .homepage-banner a:focus, .homepage-banner a:active {
+  color: #35abe2;
+}
+
+.homepage-banner p {
+  margin: 6px auto;
+	font-size: 18px;
+  font-weight: 100;
+  display: inline-block;
+	width: 960px;
 }

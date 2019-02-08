@@ -1,4 +1,7 @@
 <?php include 'includes/header.php'; ?>
+<div class="homepage-banner">
+	<p>EMC School is now part of Carnegie Learning. <a href="#">Learn more.</a></p>
+</div>
 	<div id="container" class="main home home-new">
 		<div class="header-background-image">
 			<div id="topImg">
@@ -9,7 +12,7 @@
 				<div class="future-fluency">
 					<h2>Meet Passport<sup>&reg;</sup><br />
                         The future of fluency</h2>
-				</div>				
+				</div>
 			</div>
 		</div>
 		<div class="vimeo-modal"></div>
@@ -92,7 +95,7 @@
 				<p style="font-size:26px;line-height:1.2;">Signifies company's entry into K-5 and commitment to delivering print,
 					digital, and blended literacy learning solutions across the K-12 spectrum.
 				</p>
-                <p class="home-mission"><strong>St. Paul, MN, September 13, 2018</strong> – 
+                <p class="home-mission"><strong>St. Paul, MN, September 13, 2018</strong> –
 				Carnegie Learning's EMC School (EMC) division, a leading
 				provider of digital and blended literacy solutions, today announced its acquisition of Mondo
 				Publishing, a company celebrated for its K-5 literacy resources and professional learning services.
@@ -129,10 +132,10 @@
         <div class="about-emc">
             <div class="ninehundred">
                 <h2 class="home-mission-h2" style="text-align:center;">EMC School has acquired a cutting edge Computer Science Language Learning Solution—Zulama!</h2>
-                <p class="home-mission">Zulama uses engaging game design projects to teach students the same programming languages that 
-				professionals use in high-tech workplaces. The expertise of EMC School in building digital competency and communications skills, 
-				coupled with the curriculum Zulama developed with faculty from Carnegie Mellon University, has meshed to form a rigorous yet 
-				easy-to-use Computer Science and Game Design product line. Zulama modules, courses and certifications are available for sale 
+                <p class="home-mission">Zulama uses engaging game design projects to teach students the same programming languages that
+				professionals use in high-tech workplaces. The expertise of EMC School in building digital competency and communications skills,
+				coupled with the curriculum Zulama developed with faculty from Carnegie Mellon University, has meshed to form a rigorous yet
+				easy-to-use Computer Science and Game Design product line. Zulama modules, courses and certifications are available for sale
 				immediately as part of EMC's computer literacy product line, and ultimately available through EMC's immersive learning environment Passport&reg;.
 				</p>
 				<p>
@@ -147,7 +150,7 @@
                     <p class="emc-connect-content">Tips, resources, trends, and more!</p>
                 </div>
                 <div class="emc-connect-posts">
-            
+
                 </div>
             </div>
         </div>
