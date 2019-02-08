@@ -39,6 +39,7 @@
 						<li><a href="<?php echo $server; ?>world-languages/spanish/mimundo/index.php">Mi Mundo</a></li>
 						<li><a href="<?php echo $server; ?>world-languages/symtalk/">Symtalk</a></li>
 						<li><a href="<?php echo $server; ?>texas/">Texas Proclamation 2017</a></li>
+						<li><a href="<?php echo $server; ?>tn-wl/">Tennessee WL Adoption</a></li>
 					</ul>
 				</li>
 				<li<?php echo get_current('language-arts',$current); ?>><a href="<?php echo $server; ?>language-arts/">Language Arts</a>
@@ -49,6 +50,8 @@
 						<li><a href="<?php echo $server; ?>language-arts/access-editions/">Access Editions</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/write-in-readers/">Write-in Readers</a></li>
 						<li><a href="http://www.emctxela.com/" target="_blank">Texas ELA Proclamation 2019</a></li>
+						<li><a href="<?php echo $server; ?>ela-va/">Virginia ELA Adoption</a></li>
+						<li><a href="<?php echo $server; ?>ela-fl/">Florida ELA Adoption</a></li>
                     </ul>
                 </li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a>
