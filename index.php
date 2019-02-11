@@ -31,7 +31,7 @@
                     <a href="<?php echo $server; ?>applied-learning/" class="learn-more-link"><h3>Applied Learning</h3></a>
 				</div>
 				<div class="one-fifth third">
-                    <a href="<?php echo $server; ?>applied-learning/zulama" class="learn-more-link"><h3>Computer Literacy</h3></a>
+                    <a target="_blank" href="https://www.carnegielearning.com/products/software-platform/computer-science-learning-software/" class="learn-more-link"><h3>Computer Literacy</h3></a>
 				</div>
 				<div class="one-fifth last">
                     <a href="https://store.emcp.com" class="learn-more-link"><h3>Store</h3></a>
@@ -60,14 +60,17 @@
 					<li>Opportunities for differentiated and personalized instruction
 				</ul>
 				<p style="font-size:20px;line-height:1.3;">
-					<a class="mw-buttons" href="https://calendly.com/emcpassport/demo/01-07-2019" target="_blank" style="float:right;margin:30px 200px 0 0;">Register</a>
-					<strong>Schedule at a glance</strong><br />
+					<a class="mw-buttons" href="https://calendly.com/emcpassport/live-demonstration-of-passport-clone/02-05-2019" target="_blank" style="float:right;margin:30px 200px 0 0;">Register</a>
+					<strong>Schedule at a glance:</strong><br />
 
-					When: Monday, January 7th, 7:30 pm EST<br />
-					When: Tuesday, January 8th, 4:30 pm EST<br />
-					When: Tuesday, January 15th, 7:30 pm EST<br />
-					When: Wednesday, January 16th, 4:30 pm EST<br />
-					When: Wednesday, January 23rd, 7:30 pm EST
+                    When: Tuesday, February 5th, 4:00 pm CST<br />
+                    When: Thursday, February 7th, 7:00 pm CST<br />
+                    When: Tuesday, February 12th, 7:00 pm CST<br />
+                    When: Thursday, February 14th, 4:00 pm CST<br />
+                    When: Tuesday, February 19th, 4:00 pm CST<br />
+                    When: Thursday, February 21st, 7:00 pm CST<br />
+                    When: Tuesday, February 26th, 7:00 pm CST<br />
+                    When: Thursday, February 28th, 4:00 pm CST
 				</p>
             </div>
 			<div class="clearfix"></div>
@@ -139,7 +142,7 @@
 				immediately as part of EMC's computer literacy product line, and ultimately available through EMC's immersive learning environment Passport&reg;.
 				</p>
 				<p>
-				<a class="zulama-buttons da-demo transition" href="/applied-learning/zulama/" onclick="ga('send', 'event', 'Call To Action Button','click','Zulama');">Learn More</a>
+				<a class="zulama-buttons da-demo transition" target="_blank" href="https://www.carnegielearning.com/products/software-platform/computer-science-learning-software/" onclick="ga('send', 'event', 'Call To Action Button','click','Zulama');">Learn More</a>
 				</p>
             </div>
         </div>
