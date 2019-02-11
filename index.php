@@ -9,7 +9,7 @@
 				<div class="future-fluency">
 					<h2>Meet Passport<sup>&reg;</sup><br />
                         The future of fluency</h2>
-				</div>				
+				</div>
 			</div>
 		</div>
 		<div class="vimeo-modal"></div>
@@ -28,7 +28,7 @@
                     <a href="<?php echo $server; ?>applied-learning/" class="learn-more-link"><h3>Applied Learning</h3></a>
 				</div>
 				<div class="one-fifth third">
-                    <a href="<?php echo $server; ?>applied-learning/zulama" class="learn-more-link"><h3>Computer Literacy</h3></a>
+                    <a target="_blank" href="https://www.carnegielearning.com/products/software-platform/computer-science-learning-software/" class="learn-more-link"><h3>Computer Literacy</h3></a>
 				</div>
 				<div class="one-fifth last">
                     <a href="https://store.emcp.com" class="learn-more-link"><h3>Store</h3></a>
@@ -59,7 +59,7 @@
 				<p style="font-size:20px;line-height:1.3;">
 					<a class="mw-buttons" href="https://calendly.com/emcpassport/live-demonstration-of-passport-clone/02-05-2019" target="_blank" style="float:right;margin:30px 200px 0 0;">Register</a>
 					<strong>Schedule at a glance:</strong><br />
-                    
+
                     When: Tuesday, February 5th, 4:00 pm CST<br />
                     When: Thursday, February 7th, 7:00 pm CST<br />
                     When: Tuesday, February 12th, 7:00 pm CST<br />
@@ -95,7 +95,7 @@
 				<p style="font-size:26px;line-height:1.2;">Signifies company's entry into K-5 and commitment to delivering print,
 					digital, and blended literacy learning solutions across the K-12 spectrum.
 				</p>
-                <p class="home-mission"><strong>St. Paul, MN, September 13, 2018</strong> – 
+                <p class="home-mission"><strong>St. Paul, MN, September 13, 2018</strong> –
 				Carnegie Learning's EMC School (EMC) division, a leading
 				provider of digital and blended literacy solutions, today announced its acquisition of Mondo
 				Publishing, a company celebrated for its K-5 literacy resources and professional learning services.
@@ -132,14 +132,14 @@
         <div class="about-emc">
             <div class="ninehundred">
                 <h2 class="home-mission-h2" style="text-align:center;">EMC School has acquired a cutting edge Computer Science Language Learning Solution—Zulama!</h2>
-                <p class="home-mission">Zulama uses engaging game design projects to teach students the same programming languages that 
-				professionals use in high-tech workplaces. The expertise of EMC School in building digital competency and communications skills, 
-				coupled with the curriculum Zulama developed with faculty from Carnegie Mellon University, has meshed to form a rigorous yet 
-				easy-to-use Computer Science and Game Design product line. Zulama modules, courses and certifications are available for sale 
+                <p class="home-mission">Zulama uses engaging game design projects to teach students the same programming languages that
+				professionals use in high-tech workplaces. The expertise of EMC School in building digital competency and communications skills,
+				coupled with the curriculum Zulama developed with faculty from Carnegie Mellon University, has meshed to form a rigorous yet
+				easy-to-use Computer Science and Game Design product line. Zulama modules, courses and certifications are available for sale
 				immediately as part of EMC's computer literacy product line, and ultimately available through EMC's immersive learning environment Passport&reg;.
 				</p>
 				<p>
-				<a class="zulama-buttons da-demo transition" href="/applied-learning/zulama/" onclick="ga('send', 'event', 'Call To Action Button','click','Zulama');">Learn More</a>
+				<a class="zulama-buttons da-demo transition" target="_blank" href="https://www.carnegielearning.com/products/software-platform/computer-science-learning-software/" onclick="ga('send', 'event', 'Call To Action Button','click','Zulama');">Learn More</a>
 				</p>
             </div>
         </div>
@@ -150,7 +150,7 @@
                     <p class="emc-connect-content">Tips, resources, trends, and more!</p>
                 </div>
                 <div class="emc-connect-posts">
-            
+
                 </div>
             </div>
         </div>
