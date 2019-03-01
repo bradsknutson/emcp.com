@@ -364,4 +364,6 @@ RewriteRule ^icultureaccess$  http://pages.exacttarget.com/page.aspx?QS=38dfbe49
 
 RewriteRule ^txmwaccess$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab00ea34cacf9bd19fb8ed5575a58ac5a0602ea7b66050d655ff21  [R=301,L]
 
+RewriteRule ^mirrors-and-windows/$ https://www.emcp.com/language-arts/mirrors-windows/  [R=301,L]
+
 ErrorDocument 404 /error.php

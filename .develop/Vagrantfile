@@ -1,0 +1,145 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+require 'yaml'
+require 'json'
+
+# Read YAML file with box details
+servers = YAML.load_file('project.yml')
+
+# Required to shim opsworks deploy event
+#deploy = JSON.parse(IO.read('deploy.json'))
+
+# Local file to override chef attributes
+JSON_CONFIG = File.expand_path(File.join('~', 'chef-cookbooks.json'))
+if File.exists?(JSON_CONFIG) then
+  deploy = deploy.merge(JSON.parse(IO.read(JSON_CONFIG)))
+end
+
+# If we have a user configuration file load that to potentially override these constants
+USER_CONFIG = File.expand_path(File.join('~', '.cli-vagrant.rb'))
+if File.exists?(USER_CONFIG) then
+  eval(IO.read(USER_CONFIG), binding)
+end
+
+# Current user, used primarily by vagrant
+CURRENT_USER = Etc.getlogin unless defined? CURRENT_USER
+OUTBOUND_EMAIL = "#{CURRENT_USER}@carnegielearning.com" unless defined? OUTBOUND_EMAIL
+DOMAIN_NAME = 'cl.local' unless defined? DOMAIN_NAME
+
+# default VM options (used in config.vm.define constructor)
+opts = {
+    :primary => false,
+    :autostart => true
+}
+
+required_plugins = [
+    'vagrant-berkshelf'
+]
+
+suggested_plugins = [
+    'vagrant-hostmanager'
+]
+
+required_plugins.each do |plugin|
+    unless Vagrant.has_plugin?(plugin)
+      abort("Missing required plugin `#{plugin}'.\nInstall it with the following command:\nvagrant plugin install #{plugin}")
+    end
+end
+
+suggested_plugins.each do |plugin|
+    unless Vagrant.has_plugin?(plugin)
+      warn("Missing suggested plugin `#{plugin}'.\nInstall it with the following command:\nvagrant plugin install #{plugin}")
+    end
+end
+
+
+Vagrant.configure("2") do |config|
+
+    # This is a multi-machine environment
+    # Put the global settings at the top
+
+    config.ssh.forward_agent = true
+    config.ssh.shell = "bash"
+    config.ssh.insert_key = true
+    config.ssh.verify_host_key = false
+
+    config.berkshelf.enabled = true
+
+    if Vagrant.has_plugin?('vagrant-hostmanager')
+        config.hostmanager.enabled = true
+        config.hostmanager.manage_host = true
+        config.hostmanager.ignore_private_ip = false
+    end
+
+    servers.each do |details|
+        warn("Processing Vagrant box #{details['name']}")
+        opts[:primary] = servers[0]['name'] == details['name'] ? true : false
+        opts[:autostart] = details.has_key?('required') ? details['required'] : false
+        config.vm.define details['name'], opts do |mach|
+            mach.vm.box = details['box']
+            mach.vm.box_url = details['box']
+            mach.vm.hostname = "#{CURRENT_USER}-#{details['name']}"
+            mach.vm.network(:private_network, {:ip=>details['ip']}) if details.has_key?('ip')
+            if details['ports']
+                details['ports'].each do |guest,host|
+                    mach.vm.network(:forwarded_port, {:guest=>guest, :host=>host, :auto_correct => true})
+                end
+            end
+
+            if File.exists?(ENV['HOME']+'/.composer')
+                mach.vm.synced_folder ENV['HOME']+"/.composer", "/home/vagrant/.composer"
+            end
+
+            if details['projects']
+                details['projects'].each do |proj,path|
+                    if File.exists?(path)
+                        #warn("Mapping project directory #{path} for #{proj}")
+                        mach.vm.synced_folder path, "/srv/www/#{proj}/current",
+                            :nfs => true,
+                            :bsd__nfs_options => ['alldirs']
+                    else
+                        warn("No directory found at #{path} for #{proj}")
+                    end
+                end
+            end
+
+            if details['mappings']
+                details['mappings'].each do |vpath,lpath|
+                    if File.exists?(lpath)
+                        mach.vm.synced_folder lpath, vpath,
+                            :nfs => true,
+                            :bsd__nfs_options => ['alldirs']
+                    else
+                        warn("No directory found at #{lpath} for #{vpath}")
+                    end
+                end
+            end
+
+            mach.vm.provider :virtualbox do |vb|
+                vb.customize ['modifyvm', :id, '--memory', details['memory']]
+                vb.customize ['modifyvm', :id, '--cpus', details['cpus']]
+                vb.customize ["modifyvm", :id, "--nataliasmode1", "proxyonly"]
+                vb.customize ["modifyvm", :id, "--nataliasmode1", "sameports"]
+                vb.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
+                vb.customize ["modifyvm", :id, "--natdnsproxy1", "on"]
+                vb.customize ["guestproperty", "set", :id, "/VirtualBox/GuestAdd/VBoxService/--timesync-set-threshold", 10000]
+            end
+            if details['aliases'] && Vagrant.has_plugin?('vagrant-hostmanager')
+                mach.hostmanager.aliases = details['aliases']
+            end
+            mach.vm.provision :chef_solo do |chef|
+                chef.version = "12.18.31"
+                chef.environments_path = 'chef'
+                chef.environment = 'vagrant'
+                chef.roles_path = 'chef'
+                details['run_list'].each do |rl|
+                    chef.add_recipe rl
+                end if details['run_list']
+                details['role'].each do |rl|
+                    chef.add_role rl
+                end if details['role']
+            end
+        end
+    end
+end
