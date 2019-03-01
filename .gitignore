@@ -211,6 +211,9 @@ pip-log.txt
 #Translations
 *.mo
 
+# Vagrant
+.vagrant/
+
 #Mr Developer
 .mr.developer.cfg
 includes/server.php

@@ -62,7 +62,9 @@ Vagrant.configure("2") do |config|
     config.ssh.forward_agent = true
     config.ssh.shell = "bash"
     config.ssh.insert_key = true
-    config.ssh.verify_host_key = false
+    if Vagrant::VERSION >= '2.0.2'
+        config.ssh.verify_host_key = false
+    end
 
     config.berkshelf.enabled = true
 
