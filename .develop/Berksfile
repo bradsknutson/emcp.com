@@ -1,0 +1,9 @@
+# -*- mode: ruby -*-
+source 'https://supermarket.chef.io'
+
+def cli_cookbook(name, version = '= 0.9.0', options = {})
+  #cookbook name, version, { path: "~/code/cli-cookbooks/cookbooks/#{name}" }.merge(options)
+  cookbook name, version, { git: 'git@github.com:CarnegieLearningWeb/cli-cookbooks', branch: 'master', rel: "cookbooks/#{name}" }.merge(options)
+end
+
+cli_cookbook 'clw-apache2'

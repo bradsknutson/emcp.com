@@ -1,11 +1,12 @@
 <?php
 
-    if(empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == "off") {
-        $redirect = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-        header('HTTP/1.1 301 Moved Permanently');
-        header('Location: ' . $redirect);
-        exit();
-    }
+   # Handle this in the Apache configuration file instead
+   # if(empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == "off") {
+   #     $redirect = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+   #     header('HTTP/1.1 301 Moved Permanently');
+   #     header('Location: ' . $redirect);
+   #     exit();
+   # }
 
 	$current = basename(getcwd());
 
@@ -14,7 +15,7 @@
 			return ' class="current"';
 		}
 	}
-	
+
 	if( $current == 'spanish' || $current == 'french' || $current == 'german' || $current == 'chinese' || $current == 'italian' || $current == 'japanese' || $current == 'arabic') {
 		$currentwl =  $current;
 	} else {

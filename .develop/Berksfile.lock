@@ -1,0 +1,13 @@
+DEPENDENCIES
+  clw-apache2
+    git: git@github.com:CarnegieLearningWeb/cli-cookbooks
+    revision: 953d8ffd00b8564349f34db84b40bcd1f7bbf383
+    branch: master
+    rel: cookbooks/clw-apache2
+
+GRAPH
+  apache2 (5.0.1)
+  apt (6.1.4)
+  clw-apache2 (0.9.0)
+    apache2 (~> 5.0.1)
+    apt (~> 6.1.4)
