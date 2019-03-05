@@ -3,9 +3,5 @@
     "json_class":"Chef::Environment",
     "chef_type":"environment",
     "default_attributes": {
-        "apache": {
-            "user": "www-data",
-            "group": "www-data"
-        }
     }
 }
