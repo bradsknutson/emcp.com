@@ -1,13 +1,14 @@
 <?php
 
-   # Handle this in the Apache configuration file instead
-   # if(empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == "off") {
-   #     $redirect = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-   #     header('HTTP/1.1 301 Moved Permanently');
-   #     header('Location: ' . $redirect);
-   #     exit();
-   # }
-
+  # Don't fire if $local_env is not set in server.php
+	if (empty($local_env)) {
+    if(empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == "off") {
+        $redirect = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        header('HTTP/1.1 301 Moved Permanently');
+        header('Location: ' . $redirect);
+        exit();
+    }
+	}
 	$current = basename(getcwd());
 
 	function get_current( $nav, $current ) {
