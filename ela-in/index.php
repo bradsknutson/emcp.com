@@ -16,7 +16,7 @@
 			<div class="ninesixty" style="padding-bottom:10px;padding-top:15px !important;">
 				<div style="width:700px;margin:0 auto;">
 					<p style="text-align:center;">
-						<a class="mw-link" href="http://pages.exacttarget.com/elavasr1819/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');" style="">Sample</a>
+						<a class="mw-link" href="<?php echo $server; ?>catalog/in-request.php" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','MW Sample');" style="">Sample</a>
 						&nbsp;&nbsp;
 						<a class="mw-link" href="<?php echo $server; ?>language-arts/mirrors-windows/" onClick="ga('send', 'event', 'Call To Action Button','click','Passport  for ELA Program Overview');" style="">Passport for ELA + Program Overview</a>
 					</p>
