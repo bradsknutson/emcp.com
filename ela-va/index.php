@@ -711,6 +711,10 @@
 					<li><a href="https://drive.google.com/open?id=1ot-lKV3IuEkVXFBMFxz5tji4wb-EDG2c" target="_blank" class="showLink learn-more-link">Grade 9 Writing Correlations</a></li>
 					<li><a href="https://drive.google.com/open?id=1D03Tj5pZjzorVb-OvH1hBKa2dnkWLibR" target="_blank" class="showLink learn-more-link">Grade 10 Reading Correlations</a></li>
 					<li><a href="https://drive.google.com/open?id=1t6i6JQoi2YePYcHsLXuJ3IhehD7IDddD" target="_blank" class="showLink learn-more-link">Grade 10 Writing Correlations</a></li>
+					<li><a href="https://drive.google.com/file/d/1-rsc-4q4H-N91YBIVvRoLGO-ErxtiZWq/view?usp=sharing " target="_blank" class="showLink learn-more-link">Grade 11 Reading Correlations</a></li>
+					<li><a href="https://drive.google.com/file/d/1-nfSmuuW58HdXU0K4VqLhp6pHoPRDWhg/view?usp=sharing" target="_blank" class="showLink learn-more-link">Grade 11 Writing Correlations</a></li>
+					<li><a href="https://drive.google.com/file/d/1-mqTzUUzPvFM11vHbg2Bswpnc7u1gbal/view?usp=sharing" target="_blank" class="showLink learn-more-link">Grade 12 Reading Correlations</a></li>
+					<li><a href="https://drive.google.com/file/d/1-vj6IFN3zvdaqMIrFuU1Nlp20UnerOzh/view?usp=sharing" target="_blank" class="showLink learn-more-link">Grade 12 Writing Correlations</a></li>
 				</ul>
             </div>
         </div>
