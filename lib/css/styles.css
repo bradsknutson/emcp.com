@@ -4244,3 +4244,33 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 	max-width: 700px !important;
 	margin-top: 150px !important;
 }
+
+/* Homepage Banner */
+.homepage-banner {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  height: 35px;
+  display: block;
+  width: 100%;
+}
+
+
+.homepage-banner a {
+  color: #fff;
+	font-size: 18px;
+  text-decoration: underline;
+  font-weight: 100;
+}
+
+.homepage-banner a:hover, .homepage-banner a:focus, .homepage-banner a:active {
+  color: #35abe2;
+}
+
+.homepage-banner p {
+  margin: 6px auto;
+	font-size: 18px;
+  font-weight: 100;
+  display: inline-block;
+	width: 960px;
+}
