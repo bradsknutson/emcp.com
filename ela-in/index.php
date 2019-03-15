@@ -586,7 +586,7 @@ EMC is proud to feature the works of Amy Tan within Mirrors & Windows. Tan’s s
 		<div class="grey-slice paddingtop20 paddingbottom20" style="line-height:1.9;">
             <div class="ninesixty">
                 <h4>Indiana ELA Correlations 2019</h4>
-				<p>Mirrors & Windows Correlations to the gIndiana English Language Arts Standards</p>
+				<p>Mirrors & Windows Correlations to the Indiana English Language Arts Standards</p>
 				<ul>
 					<li><a href="https://drive.google.com/file/d/10Zd99yN1gagnjXDNae2PP_2IfFbI_fgQ/view?usp=sharing" target="_blank" class="showLink learn-more-link">Grade 6 Correlations</a></li>
 					<li><a href="https://drive.google.com/file/d/10b1K1-n-ZlAgebTaJ8w0ibE6q2hDtDso/view?usp=sharing" target="_blank" class="showLink learn-more-link">Grade 7 Correlations</a></li>
