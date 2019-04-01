@@ -38,13 +38,24 @@
 			</div>
 			<div class="ninesixty" style="padding-top:0px;">
 				<h4>The Mirrors &amp; Windows Advantage</h4>
-				<p><span class="italic">Mirrors &amp; Windows: Connecting with Literature</span> challenges students to reach their maximum potential while differentiating instruction for
-				individual learners. Using a gradual release approach to reading, students will develop close reading skills to achieve deep comprehension and
-				greater appreciation of the literary genres.
+				<p><span class="italic">Mirrors &amp; Windows: Connecting with Literature</span> program is uniquely designed to provide students with the context, skills, and understanding they’ll need to function in today’s interconnected world. Our comprehensive language arts program also features <strong>Indiana Academic Standards at point-of-use</strong> in the digital Annotated Teachers’ Edition to make it easy for teachers to access the standards for planning. Read more about the advantages of Mirrors & Windows below and discover what sets our program apart!
 				</p>
 
 				<ul>
-					<li><strong>EL Support</strong><br />
+					<li><strong>Widest Range of Texts</strong><br />
+					The <span class="italic">Mirrors &amp; Windows</span> program offers a balanced approach with multiple genres. Each thematic unit includes... <a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
+						<ul class="hideme">
+							<li>Texts from multiple genres, with opportunities to make comparisons within and across genres</li>
+							<li>A focus on how to read closely for each genre, supported by Close Reading videos</li>
+							<li>Balance of traditional, contemporary, classic and diverse selections:
+								<ul>
+									<li>Literature from a long list of award-winning classic and contemporary authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Ernest Hemingway, and Elizabeth Bishop.</li>
+									<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer, and Langston Hughes.</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><strong>Differentiation for All Learners</strong><br />
 						The <span class="italic">Mirrors &amp; Windows</span> program provides extensive EL support, including... <a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
 						<ul class="hideme">
 							<li>Vocabulary, spelling, grammar, and style language development workshops within each unit</li>
@@ -54,21 +65,6 @@
 							<li>Adjustable rate audio recordings of selections</li>
 							<li>Alternative assessment strategies for ELs and Developing Readers</li>
 							<li>Story Shares custom library with over 150 leveled texts</li>
-						</ul>
-					</li>
-					<li><strong>Balanced Approach</strong><br />
-					The <span class="italic">Mirrors &amp; Windows</span> program offers a balanced approach with multiple genres. Each thematic unit includes... <a class="showLink learn-more-link" style="text-decoration:none;">READ MORE</a>
-						<ul class="hideme">
-							<li>Texts from multiple genres, with opportunities to make comparisons within and across genres</li>
-							<li>A focus on how to read closely for each genre, supported by Close Reading videos</li>
-							<li>Balance of traditional, contemporary, classic and diverse selections:
-								<ul>
-									<li>Most comprehensive range and diversity of classic and contemporary literature and informational texts</li>
-									<li>100% of CCSS text types and range of texts within grade level text complexity levels</li>
-									<li>Literature from a long list of award-winning classic and contemporary authors such as Carl Sandburg, Robert Frost, Ray Bradbury, Ernest Hemingway, and Elizabeth Bishop.</li>
-									<li>Multicultural selections from authors such as Toni Cade Bambara, Sandra Cisneros, Arthur Ashe, Amy Tan, Judith Ortiz Cofer, and Langston Hughes.</li>
-								</ul>
-							</li>
 						</ul>
 					</li>
 					<li><strong>Gradual Release Model</strong><br />
