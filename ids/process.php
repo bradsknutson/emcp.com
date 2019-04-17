@@ -58,7 +58,7 @@ function register_lead ($firstName, $lastName, $email) {
       return $leads[0]['id'];
     }
   }
-  
+
   return null;
 }
 
@@ -76,23 +76,22 @@ function register_lead_to_bookshelf ($firstName, $lastName, $email, $campaignId)
   require '../includes/server.php';
 
   $client = new GuzzleClient();
-
-  $response = $client->post(
-    sprintf(
-      "%s%s",
-      "https://apps.emcp.com/api/bookshelf/",
-      urlencode(
-        sprintf(
-          "?fname=%s&lname=%s&email=%s&campaign_id=%s",
-          $firstName,
-          $lastName,
-          $email,
-          $campaignId
-        )
+  try{
+    $request = $client->get(
+  sprintf(
+    "%s%s",
+    "https://apps.emcp.com/api/bookshelf/",
+      sprintf(
+        "?fname=%s&lname=%s&email=%s&campaign_id=%s",
+        urlencode($firstName),
+        urlencode($lastName),
+        urlencode($email),
+        urlencode($campaignId)
       )
-    ),
-    []
-  );
+    )
+  )->send();}
+  catch(\Exception $e) {
 
+  }
   return true;
 }
