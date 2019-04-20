@@ -4274,3 +4274,64 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
   display: inline-block;
 	width: 960px;
 }
+
+/* IDS Form */
+
+.ids-sampler input,.ids-sampler select, .ids-sampler button {
+	margin: 5px 0px;
+}
+
+.ids-sampler select {
+	height: 2.25em;
+	border: 1px solid #ccc;
+	background-color: #fff;
+}
+
+.ids-sampler input {
+	color: #000;
+	padding: .5em .6em;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-shadow: inset 0 1px 3px #ddd;
+	border-radius: 4px;
+	vertical-align: middle;
+	box-sizing: border-box;
+}
+
+.ids-sampler button {
+	cursor: pointer;
+	padding: 7px;
+	background: #C12026;
+	border-radius: 7px;
+	font-weight: bold;
+	color: #fff !important;
+}
+
+.ids-sampler button:hover {
+	color: #ff0000 !important;
+	background: #fff;
+	text-decoration: none;
+}
+
+.ids-sampler input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: #000;
+	opacity: .6; /* Firefox */
+}
+
+.ids-sampler input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	color: #000;
+}
+
+.ids-sampler input::-ms-input-placeholder { /* Microsoft Edge */
+	color: #000;
+}
+
+.ids-title {
+	margin-left: 40px;
+}
+
+.ids-message {
+	margin-left: 40px;
+	color: green;
+	font-weight: 800;
+}

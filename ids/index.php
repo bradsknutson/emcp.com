@@ -39,11 +39,11 @@
    <?php include '../includes/nav.php'; ?>
  </div>
  <div class="ninesixty" style="margin:50px auto !important;">
-   <h2 style="text-align:center;">Register Sampler</h2>
+   <h2 class="ids-title">Register for Bookshelf</h2>
    <?php if ($campaignAssigned) { ?>
-     <span style="color:green;"><?php echo $email; ?> has been registered.</span>
+     <p class="ids-message"><?php echo $email; ?> has been registered.</p>
    <?php } ?>
-   <form method="post">
+   <form class="ids-sampler" method="post">
      <?php if (!empty($_POST["password"]) && hash('sha256', $_POST["password"]) === "d9d65bceea9ca4517790ebacbcd216ef509b7f31d483b7fcd8c3e59cddf408ff") { ?>
      <ul>
        <li style="list-style:none;"><input type="text" name="first_name" placeholder="First Name" required/></li>
@@ -66,12 +66,18 @@
        <li style="list-style:none;">
          <input type="hidden" name="marketo_campaign_id" value="7760" />
          <input type="hidden" name="password" value="<?php echo $_POST['password']; ?>" />
-         <button>Submit</button>
+         <button>Register Sampler</button>
        </li>
     </ul>
   <?php } else { ?>
-    <input type="password" name="password" placeholder="Password" />
-    <button>Submit</button>
+    <ul>
+      <li style="list-style:none;">
+        <input type="password" name="password" placeholder="Password" />
+      </li>
+      <li style="list-style:none;">
+        <button>Next</button>
+      </li>
+    </ul>
   <?php } ?>
    </form>
    <div class="clearfix"></div>
