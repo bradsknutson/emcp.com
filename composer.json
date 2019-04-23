@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dchesterton/marketo-rest-api": "^0.0.5"
+    }
+}

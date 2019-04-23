@@ -3,5 +3,16 @@
     "json_class":"Chef::Environment",
     "chef_type":"environment",
     "default_attributes": {
+        "clw-apache2": {
+          "php": {
+            "php_modules": [
+              "composer",
+              "php-mbstring",
+              "php-xml",
+              "php-zip",
+              "php-curl"
+            ]
+          }
+        }
     }
 }

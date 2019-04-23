@@ -1,7 +1,7 @@
 - name: 'emcp'
   required: true
   box: 'ubuntu/xenial64'
-  memory: 512
+  memory: 2048
   cpus: 1
   ip: '172.28.129.28'
   projects:
