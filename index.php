@@ -1,7 +1,7 @@
 <?php include 'includes/header.php'; ?>
-<div class="homepage-banner">
+<!--<div class="homepage-banner">
 	<p>EMC School is now part of Carnegie Learning. <a target="_blank" href="https://www.carnegielearning.com/our-company/">Learn more.</a></p>
-</div>
+</div>-->
 	<div id="container" class="main home home-new">
 		<div class="header-background-image">
 			<div id="topImg">
