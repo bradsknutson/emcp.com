@@ -366,6 +366,8 @@ RewriteRule ^txmwaccess$  http://pages.exacttarget.com/page.aspx?QS=38dfbe491fab
 
 RewriteRule ^mirrors-and-windows/$ https://www.emcp.com/language-arts/mirrors-windows/  [R=301,L]
 
+RewriteRule ^bettertable$  https://www.emcp.com/language-arts/mirrors-windows/  [R=301,L]
+
 RewriteRule ^vendor/.*$ /404/   [R=301,L]
 
 ErrorDocument 404 /error.php
