@@ -18,13 +18,13 @@
         <div class="white-slice">
 			<div class="ninesixty">
                 <div class="catalog-img-lang">
-                    <a href="https://drive.google.com/file/d/1srjOMidGo1Md_poAjCQaKh9HlMv-Zare/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/catalog-wl-2018-2019.png" alt="World Languages 2018-2019 Catalog" class="animated" />
+                    <a href="/lib/assets/WLCATSPR19.pdf" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/catalog-wl-2019.png" alt="World Languages 2018-2019 Catalog" class="animated" />
                     </a>
                 </div>
                 <div class="catalog-img-lang">
-                    <a href="https://drive.google.com/file/d/1-XxNj_HhQCUlM6twmgnnus07Rhw-1Fei/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/catalog-ela-2018-2019.png" alt="English Language Arts 2018-2019 Catalog" class="animated" />
+                    <a href="/lib/assets/ELACATSPR19.pdf" target="_blank">
+                        <img src="<?php echo $server; ?>lib/images/catalog-ela-2019.png" alt="English Language Arts 2018-2019 Catalog" class="animated" />
                     </a>
                 </div>
                 <div class="catalog-img-lang">
