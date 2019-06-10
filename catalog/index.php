@@ -9,7 +9,7 @@
 		<div class="white-slice light-grey-slice" style="margin-top:125px;">
 			<div class="ninesixty">
                 <div>
-					<p style="margin-top:0;">Thanks for your interest in EMC's 2018 catalogs. Scroll down to view, download or share our English Language Arts, Social Studies, World Languages, Applied Science and Applied Learning catalogs.</p>
+					<p style="margin-top:0;">Thanks for your interest in EMC's 2019 catalogs. Scroll down to view, download or share our English Language Arts and World Languages catalogs.</p>
 					<p>Questions? Please feel free to contact your <a href="https://store.emcp.com/about-emcp/local-account-manager-locator">Account Manager</a>.</p>
 				</div>
                 <div class="clearfix"></div>
