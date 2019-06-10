@@ -27,11 +27,6 @@
                         <img src="<?php echo $server; ?>lib/images/catalog-ela-2019.png" alt="English Language Arts 2018-2019 Catalog" class="animated" />
                     </a>
                 </div>
-                <div class="catalog-img-lang">
-                    <a href="https://drive.google.com/file/d/1opUYhm1TMzOPTS8VK8QW0DGmsxmVVByw/view?usp=sharing" target="_blank">
-                        <img src="<?php echo $server; ?>lib/images/catalog-cs-2018.png" alt="Computer Technology 2018 Catalog" class="animated" />
-                    </a>
-                </div>
                 <div class="clearfix"></div>
             </div>
         </div>
