@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$custom_title = 'Tennessee Resources | Proclamation 2018 | ';
 	include '../../includes/header.php';
 ?>
@@ -15,17 +15,17 @@
             <div class="ninesixty">
                 <p>
 					<a href="https://www.emcp.com/tn-wl/index.php" class="expandable-link">Overview</a> &nbsp; | &nbsp;
-					<a href="https://www.emcp.com/tn-wl/index.php#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; 
-					<a href="https://www.emcp.com/tn-wl/index.php##expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; 
-					<a href="https://www.emcp.com/tn-wl/index.php##expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; 
-					<a href="https://www.emcp.com/tn-wl/index.php##expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; 
+					<a href="https://www.emcp.com/tn-wl/index.php#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp;
+					<a href="https://www.emcp.com/tn-wl/index.php##expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp;
+					<a href="https://www.emcp.com/tn-wl/index.php##expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp;
+					<a href="https://www.emcp.com/tn-wl/index.php##expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp;
 					<a href="https://www.emcp.com/tn-wl/index.php##expandable-applications" class="expandable-link">Computer Applications</a>
 				</p>
-            </div>            
+            </div>
         </div>
 		<div class="white-slice paddingtop20 paddingbottom20">
             <div class="seveneighty">
-                <p>Hello Tennessee Teachers, Welcome to your 2018 Resources site. EMC offers Spanish, French, German, and Chinese Language Programs, all of which are available in our award winning digital platform Passport<sup>&reg;</sup>.  
+                <p>Hello Tennessee Teachers, Welcome to your 2018 Resources site. EMC offers Spanish, French, German, and Chinese Language Programs, all of which are available in our award winning digital platform Passport<sup>&reg;</sup>.
 				Feel free to look at our resources or go to our Tennessee Homepage for more information and to request more samples.
 				</p>
             </div>
@@ -47,11 +47,11 @@
                 <h3>Correlations</h3>
 				<h4>Spanish</h4>
                 <ul>
-					<li><a href="https://drive.google.com/file/d/1lrcnk84mtS9Ts5ETHI9Vo2KvohOHCxz4/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 1 Correlation</a></li>
+					<li><a href="https://drive.google.com/file/d/1VOhjNvb5BTWgtI32Ti1e_x9X6IZ0q3X2/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 1 Correlation</a></li>
 					<li><a href="https://drive.google.com/file/d/1SoY8kMhQo_TMAqXipbs4OE8DXlQl4mOK/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 1a Correlation</a></li>
 					<li><a href="https://drive.google.com/file/d/1GXMOet-iVndnF1s6trzTVptydh-O7bCN/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 1b Correlation</a></li>
-					<li><a href="https://drive.google.com/file/d/1p_asgv79BippyX2Z0zlW666RFk1nAwa_/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 2 Correlation</a></li>
-					<li><a href="https://drive.google.com/file/d/1Ho5grdyEVWhsvMD2s1vSlmGQrJIOqng4/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 3 Correlation</a></li>
+					<li><a href="https://drive.google.com/file/d/1VXHRcYzmt2f96Dg6YPZbFTo1nbLWiPOc/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 2 Correlation</a></li>
+					<li><a href="https://drive.google.com/file/d/1VlrcXV5NlNOWyGYW_B0x3Yu9O_07f9kf/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 3 Correlation</a></li>
 					<li><a href="https://drive.google.com/file/d/1YMBviS-vXpxzBP05Xr_mSL2jTJaeVBy6/view?usp=sharing" target="_blank" class="learn-more-link">Spanish Level 4 Correlation</a></li>
 				</ul>
 				<h4>French</h4>
@@ -60,7 +60,8 @@
 					<li><a href="https://drive.google.com/file/d/15wbP72Who3z9EVyqkQHMhOeYyyNWcGH0/view?usp=sharing" target="_blank" class="learn-more-link">French Level 1a Correlation</a></li>
 					<li><a href="https://drive.google.com/file/d/1jzEfkbd1Efa69ISQ93hGrV4xNjj7iR4s/view?usp=sharing" target="_blank" class="learn-more-link">French Level 1b Correlation</a></li>
 					<li><a href="https://drive.google.com/file/d/1wyJKezVrHkwL9BKObmOX1i1sNM0gG26q/view?usp=sharing" target="_blank" class="learn-more-link">French Level 2 Correlation</a></li>
-					<li><a href="https://drive.google.com/file/d/1mYEy7LdN-jn0PTSbrgqwK1RdrPFLle1I/view?usp=sharing" target="_blank" class="learn-more-link">French Level 3 Correlation</a></li>
+					<li><a href="https://drive.google.com/file/d/1VR6Nt1GK8bqiT70LVzg4B6R09zWAfLav/view?usp=sharing" target="_blank" class="learn-more-link">French Level 3 Correlation</a></li>
+					<li><a href="https://drive.google.com/file/d/1VaG2eVKvubnFIqRq0zSwklu0OU6hcu6J/view?usp=sharing" target="_blank" class="learn-more-link">French Level 4 Correlation</a></li>
 				</ul>
 				<h4>German</h4>
 				<ul>

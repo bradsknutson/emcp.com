@@ -1,5 +1,5 @@
 
-<?php 
+<?php
 	$custom_title = 'Tennessee | Proclamation 2018 | ';
 	include '../includes/header.php';
 ?>
@@ -17,14 +17,14 @@
 		<div class="white-slice top-slice textcenter">
             <div class="ninesixty">
                 <p>
-					<a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp; 
-					<a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp; 
-					<a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp; 
-					<a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp; 
-					<a href="#expandable-applications" class="expandable-link">Computer Applications</a> &nbsp; | &nbsp; 
+					<a href="#expandable-spanish" class="expandable-link">Spanish</a> &nbsp; | &nbsp;
+					<a href="#expandable-french" class="expandable-link">French</a> &nbsp; | &nbsp;
+					<a href="#expandable-german" class="expandable-link">German</a> &nbsp; | &nbsp;
+					<a href="#expandable-chinese" class="expandable-link">Chinese</a> &nbsp; | &nbsp;
+					<a href="#expandable-applications" class="expandable-link">Computer Applications</a> &nbsp; | &nbsp;
 					<a href="<?php echo $server; ?>tn-wl/resources/" class="bold">Resources</a>
 				</p>
-            </div>            
+            </div>
         </div>
 		<div class="grey-slice paddingtop20 paddingbottom20 textcenter">
             <div class="seveneighty">
@@ -55,10 +55,10 @@
                     </div>
                     <div class="expandable-box-content">
                         <div class="hidden-content">
-                            <h2>&iexcl;Qu&eacute; ch&eacute;vere! 4-level Spanish Program &copy;2016</h2>
+                            <h2>&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program</h2>
 
                             <img src="<?php echo $server; ?>lib/images/texas-spanish.png" alt="Que Chevere" class="img-float-right" />
-                            
+
                             <h3>Spanish language learning has never been more engaging!</h3>
 							<p><a href="https://vimeo.com/200376096" target="_blank" class="learn-more-link">Click here to see a unit tour</a></p>
                             <p>With EMC's new ground-breaking middle and high school program, students build Spanish language and cultural proficiency through authentic communication activities and engaging cultural interaction. &iexcl;Qu&eacute; ch&eacute;vere! takes Spanish teaching and learning to awesome new heights.</p>
@@ -126,9 +126,9 @@
 							<h2>Espa&ntilde;ol para hispanohablantes nativos</h2>
 
 							 <img src="<?php echo $server; ?>lib/images/texas-sns.png" alt="Exploring Spanish" class="img-float-right" />
-							
+
 							<p>This digital supplement is designed to address the needs of heritage and native speakers, as well as provide practice for the AP* Spanish Language and Culture Exam. With 42 levels in each of the two levels, this is a perfect companion piece to ¡Qu&eacute; ch&eacute;vere!</p>
-							
+
 							 <ul>
 								<li>Native speakers interact with material specifically designed for their level of language</li>
 								<li>Engaging topics appeal to middle and high school students</li>
@@ -139,7 +139,7 @@
 								<li>Digital delivery allows for immediate feedback on multiple choice activities</li>
 								<li>Two levels provide differentiated instruction</li>
 							</ul>
-							
+
 							<p>*AP is a trademark registered by the College Board, which was not involved in the production of, and does not endorse this product</p>
 						<!-- End SFNS -->
                         </div>
@@ -149,7 +149,7 @@
                     <div class="expandable-box-label">
                         <span class="expandable-box-icon">+</span>French
                     </div>
-                    <div class="expandable-box-content">                        
+                    <div class="expandable-box-content">
                         <div class="hidden-content">
                             <h2>T'es branch&eacute;? 3-Level French Program</h2>
                             <p><em>Make all kinds of new connections for your students</em></p>
@@ -175,7 +175,7 @@
 
                             <h3>Program Resources</h3>
                             <p>For Students</p>
-                            <ul>    
+                            <ul>
                                 <li>Textbook</li>
                                 <li>Workbook</li>
                                 <li>Textbook Audio MP3</li>
@@ -215,7 +215,7 @@
                     <div class="expandable-box-label">
                         <span class="expandable-box-icon">+</span>German
                     </div>
-                    <div class="expandable-box-content">                      
+                    <div class="expandable-box-content">
                         <div class="hidden-content">
                             <h2>Deutsch Aktuell Seventh Edition</h2>
                             <p>3-level German Program &copy;2017</p>
@@ -224,7 +224,7 @@
 
                             <p><em>Guten Tag!</em></p>
                             <p>Welcome to EMC's Deutsch Aktuell program, where students interact with German language and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.</p>
-                            
+
                             <h3>Key Features and Benefits</h3>
                             <ul>
                                 <li>Interactive, authentic content creates a real-life experience to enhance learning.</li>
@@ -252,7 +252,7 @@
                                 <li>How do people in other cultures balance work and leisure time? (Kapitel 9)</li>
                                 <li>What kind of learning experiences does travel make possible? (Kapitel 11)</li>
                             </ul>
-                            
+
                             <h3>Interpersonal, Presentational, and Interpretive Communication</h3>
                             <p>Interpersonal Speaking skills are developed in real-life communicative interactions with a partner or group. Interpersonal Writing may involve responding to an e-mail message or a message on social media. Presentational Speaking and Writing activities allow students to share their lives and opinions with classmates and other German-speaking communities online.</p>
 
@@ -306,7 +306,7 @@
                     <div class="expandable-box-label">
                         <span class="expandable-box-icon">+</span>Chinese
                     </div>
-                    <div class="expandable-box-content">                                          
+                    <div class="expandable-box-content">
                         <div class="hidden-content">
                             <h2>Zh&#275;n B&agrave;ng! Second Edition</h2>
                             <p>3-level Chinese Program &copy;2017</p>
@@ -330,7 +330,7 @@
 
                             <h3>Foundation</h3>
                             <p>The first level of the Zh&#275;n B&agrave;ng! textbook includes a six-lesson Foundation section. Each lesson includes: Geography/History, Pronunciation, Classroom Expressions, and Chinese Characters. The Foundation provides students with the building blocks for Chinese language and culture. Start the series with this section and hasten future Chinese language learning. Watch your students experience “Ah ha!” moments as they advance through the textbook units with knowledge gained in the Foundation</p>
-                            
+
                             <h3>Program Resources</h3>
                             <p>For Students</p>
                             <ul>
@@ -363,7 +363,7 @@
                     <div class="expandable-box-label">
                         <span class="expandable-box-icon">+</span>Computer Applications
                     </div>
-                    <div class="expandable-box-content">                                          
+                    <div class="expandable-box-content">
                         <div class="hidden-content">
                             <div style="float:left;width:225px;">
 								<img src="<?php echo $server; ?>lib/images/tn-marq-office.jpg" alt="Marquee" class="img-float-left" />
@@ -371,23 +371,23 @@
 							<div style="float:left;width:575px;">
 								<h2 style="margin-top:10px;">Marquee Series 2016</h2>
 								<p>
-								The Marquee Series provides a highly effective, visual approach to learning the essential skills in Word, Excel, Access, and PowerPoint. 
-								Its graduated instruction allows students to move from easy step-by-step learning to validating skills through realistic projects and 
-								facilitates self-paced, accelerated, and traditional learning. New! Students access data files and end-of-chapter exercises and assessments 
+								The Marquee Series provides a highly effective, visual approach to learning the essential skills in Word, Excel, Access, and PowerPoint.
+								Its graduated instruction allows students to move from easy step-by-step learning to validating skills through realistic projects and
+								facilitates self-paced, accelerated, and traditional learning. New! Students access data files and end-of-chapter exercises and assessments
 								through the eBook and SNAP.
 								</p>
 							</div>
 							<div style="clear:both;">&nbsp;</div>
-							
+
 							<div style="float:left;width:225px;">
 								<img src="<?php echo $server; ?>lib/images/tn-comp-concepts.jpg" alt="Computer Concepts" class="img-float-left" />
 							</div>
 							<div style="float:left;width:575px;">
 								<h2 style="margin-top:10px;">Seguin's COMPUTER Concepts &amp; Applications, Second Edition: with Microsoft&reg; Office 2016</h2>
 								<p>
-								COMPUTER Concepts, Second Edition is Paradigm's textbook for introduction to computers courses. With this text students will learn 
-								the computer skills they need to succeed in their academic and professional lives. The text provides comprehensive coverage of computer 
-								concepts&mdash;including hardware, software, the Internet, social media, security, and ethics. Challenging end-of-chapter exercises move 
+								COMPUTER Concepts, Second Edition is Paradigm's textbook for introduction to computers courses. With this text students will learn
+								the computer skills they need to succeed in their academic and professional lives. The text provides comprehensive coverage of computer
+								concepts&mdash;including hardware, software, the Internet, social media, security, and ethics. Challenging end-of-chapter exercises move
 								students from simple recall to advanced thinking and analysis of IT issues.
 								</p>
 								<p>
@@ -431,7 +431,7 @@
                 </div>
                 <div class="clearfix"></div>
             </div>
-        </div>  
+        </div>
         <div class="connect-slice">
             <div class="ninesixty">
                 <div class="emc-connect-logo emc-connect-content">
