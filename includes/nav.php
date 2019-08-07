@@ -69,7 +69,6 @@
 						<li><a href="<?php echo $server; ?>applied-learning/computer-applications/">Computer Applications</a></li>
 					</ul>
 				</li>
-				<li<?php echo get_current('store',$current); ?>><a href="https://store.emcp.com" title="Home">Store</a></li>
 
 			</ul><!-- end #sf -->
 

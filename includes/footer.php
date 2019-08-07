@@ -30,19 +30,18 @@
 			<div class="ninesixty">
 				<div class="footer-nav">
 					<ul id="nf" class="nf-menu">
-						<li><a href="https://store.emcp.com/about-emcp/news-and-events/">News</a></li>
+						<li><a target="_blank" href="https://connect.emcp.com/">News</a></li>
 						<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>about/">About</a>
 							<ul>
 								<li><a href="<?php echo $server; ?>contact/" class="footerlink">Contact</a></li>
-								<li><a href="https://store.emcp.com/about-emcp/career-opportunities" class="footerlink">Career Opportunities</a></li>
-								<li><a href="<?php echo $server; ?>catalog/" class="footerlink">Catalog</a></li>
+								<li><a target="_blank" href="https://www.carnegielearning.com/company/careers/ " class="footerlink">Career Opportunities</a></li>
 								<li><a href="<?php echo $server; ?>terms/privacy.php" class="footerlink">Privacy Policy</a></li>
 							</ul>
 						</li>
 						<!-- <li><a href="<?php echo $server; ?>contact/">Contact</a></li> -->
-						<li><a href="https://store.emcp.com/customer-service">Customer Service</a></li>
-						<li><a href="https://store.emcp.com/local-account-manager-locator/">Sales</a></li>
-						<li><a href="https://store.emcp.com/policies-and-order-information/" class="last">Terms and Conditions</a></li>
+						<li><a target="_blank" href="https://discover.carnegielearning.com/contact-EMC-support.html">Customer Service</a></li>
+						<li><a target="_blank" href="https://discover.carnegielearning.com/contact-EMC-sales.html">Sales</a></li>
+						<li><a href="<?php echo $server; ?>terms/terms.php" class="last">Terms and Conditions</a></li>
 					</ul>
 				</div>
 				<p>&copy; <?php echo date("Y"); ?> EMC School. All Rights Reserved.<br />
