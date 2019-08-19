@@ -39,7 +39,7 @@
 							</ul>
 						</li>
 						<!-- <li><a href="<?php echo $server; ?>contact/">Contact</a></li> -->
-						<li><a target="_blank" href="https://discover.carnegielearning.com/contact-EMC-support.html">Customer Service</a></li>
+						<li><a target="_blank" href="https://discover.carnegielearning.com/contact-EMC-support.html">Tech Support</a></li>
 						<li><a target="_blank" href="https://discover.carnegielearning.com/contact-EMC-sales.html">Sales</a></li>
 						<li><a href="<?php echo $server; ?>terms/terms.php" class="last">Terms and Conditions</a></li>
 					</ul>
@@ -57,7 +57,6 @@
 <script src="<?php echo $server; ?>lib/js/jquery.fitvids.min.js"></script>
 <script src="<?php echo $server; ?>lib/js/superfish.min.js"></script>
 <script src="<?php echo $server; ?>lib/js/jquery.clingify.min.js"></script>
-<script src="<?php echo $server; ?>lib/js/twitterfetcher.min.js"></script>
 <script src="<?php echo $server; ?>lib/js/selectnav.min.js"></script>
 <script src="<?php echo $server; ?>lib/js/jqueryDocReady.js"></script>
 <script src="<?php echo $server; ?>lib/js/retina.js" type="text/javascript"></script>
@@ -100,5 +99,43 @@ _etmc.push(["trackPageView"]);
 })();
 </script>
 
+
+
+<!-- Site Alert -->
+<?php
+	 $date_now = date("Y-m-d");
+	 // Set alert to Expire
+	if ($date_now < '2019-09-30') {
+?>
+
+
+<script src="<?php echo $server; ?>lib/js/jquery.cookie.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+      if ($.cookie('cli_alert_closed') != 'true') {
+          $( ".js-sticky-alert" ).slideToggle("fast");
+      }
+
+      $( ".js-close-alert" ).click(function() {
+          $( ".js-sticky-alert" ).hide();
+          $.cookie('cli_alert_closed', 'true', {path: '/'} );
+      });
+  });
+</script>
+
+<div class="sticky-alert js-sticky-alert">
+    <span class="title">Our Privacy Policy Has Been Updated</span><a class="close-alert js-close-alert"></a>
+    <span class="body-wrapper"><span class="body"><p>By using this website, you agree to our new <a href="/terms/privacy.php">Privacy Policy</a>.</p></span></span>
+</div>
+
+
+
 </body>
 </html>
+
+<?php
+	}
+?>
+
+<!-- End Site Alert -->

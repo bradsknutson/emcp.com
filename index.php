@@ -34,7 +34,7 @@
                     <a target="_blank" href="https://www.carnegielearning.com/products/software-platform/computer-science-learning-software/" class="learn-more-link"><h3>Computer Literacy</h3></a>
 				</div>
 				<div class="one-fifth last">
-                    <a href="https://store.emcp.com" class="learn-more-link"><h3>Store</h3></a>
+                    <a href="<?php echo $server; ?>catalog/request.php" class="learn-more-link"><h3>Get Samples</h3></a>
 				</div>
 				<div class="clearfix"></div>
 			</div>

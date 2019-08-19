@@ -4335,3 +4335,72 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 	color: green;
 	font-weight: 800;
 }
+
+/* Site Alert */
+
+.sticky-alert {
+	display: none;
+	z-index: 1000000;
+	background-color: #C12026;
+	color: #fff;
+	position: fixed;
+	bottom: 0;
+	padding: 0 .25em;
+	margin: 0;
+	width: 550px;
+	margin-left: 45px;
+}
+
+.sticky-alert .title {
+    display: inline-block;
+    width: 80%;
+    height: 30%;
+    padding-left: 1em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    font-weight: bold;
+}
+
+.sticky-alert .close-alert {
+    cursor: pointer;
+}
+
+.sticky-alert .close-alert:after {
+    content: "X";
+    display: inline-block;
+    font-size: inherit;
+		font-weight: bold;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    display: inline-block;
+    float: right;
+		margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    font-size: 1.25em;
+}
+
+.sticky-alert .body-wrapper {
+    display: block;
+    background-color: #fff;
+    width: 100%;
+    padding-bottom: 5%;
+    color: #000;
+}
+
+.sticky-alert .body-wrapper .body {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-top: .25em;
+    display: block;
+}
+
+.sticky-alert .body-wrapper .body p {
+    margin: 0 0 20px 0;
+}
+
+.sticky-alert .body-wrapper .body a {
+    color: #35abe2;
+		font-weight: bold;
+}
