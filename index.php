@@ -20,28 +20,14 @@
 			<?php include 'includes/nav.php'; ?>
 		</div>
 		<div class="home-first emc-cats">
-			<div class="ninesixty paddingtop40 paddingbottom40 cleafix">
-				<div class="one-fifth first">
-                    <a href="<?php echo $server; ?>world-languages/" class="learn-more-link"><h3>World Languages</h3></a>
-				</div>
-				<div class="one-fifth second">
-                    <a href="<?php echo $server; ?>language-arts/" class="learn-more-link"><h3>Language Arts</h3></a>
-				</div>
-				<div class="one-fifth third">
-                    <a href="<?php echo $server; ?>applied-learning/" class="learn-more-link"><h3>Applied Learning</h3></a>
-				</div>
-				<div class="one-fifth third">
-                    <a target="_blank" href="https://www.carnegielearning.com/products/software-platform/computer-science-learning-software/" class="learn-more-link"><h3>Computer Literacy</h3></a>
-				</div>
-				<div class="one-fifth last">
-                    <a href="<?php echo $server; ?>catalog/request.php" class="learn-more-link"><h3>Get Samples</h3></a>
-				</div>
+			<div class="cleafix">
+
 				<div class="clearfix"></div>
 			</div>
 		</div>
 	<!-- Testimonial Link -->
 		<div class="white-slice" style="padding:20px 0 0 !important;">
-            <div class="ninehundred" style="padding-top:10px !important;">
+            <div class="ninehundred" style="padding:30px 0 70px 0 !important;">
 				<p style="font-size:28px;line-height:1.6;">
 					<a href="/language-arts/mirrors-windows/testimonials"><img src="/lib/images/home-video-screencap.jpg" alt="" border="0" style="float:left;margin-bottom:25px;padding-right:20px;" /></a>
 					<br />

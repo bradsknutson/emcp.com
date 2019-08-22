@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$custom_title = 'Deutsch Aktuell | ';
 	include '../../../includes/header.php';
 ?>
@@ -33,7 +33,7 @@
 					<a class="technology-buttons da-demo transition" href="<?php echo $server; ?>world-languages/german/deutsch-aktuell/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','DA Sample');">Sample</a>
 					-->
 				</div>
-				<div class="header-hero-hover"></div>				
+				<div class="header-hero-hover"></div>
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
@@ -44,15 +44,14 @@
 			<div class="ninesixty">
 				<div class="conectate-left" style="width:550px !important;">
 					<p class="no-top">
-						Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language 
-						and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication, 
+						Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language
+						and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication,
 						cultural interactions and integrated technology.
 					</p>
 					<img src="<?php echo $server; ?>lib/images/da-cover_new.png" alt="Deutsch Aktuell German Program" /><br />
-					
+
                     <p>
 						<a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover Deutsch Aktuell in Passport</a><br />
-						<a class="learn-more-link smaller-link" href="buy/">Buy It Now!</a>
 					</p>
 				</div>
 				<div class="conectate-right" style="text-align:center;">
@@ -111,41 +110,39 @@
                                 <li><a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
                             </ul>
                         </div>
-                        <div class="clearfix"></div>    
+                        <div class="clearfix"></div>
 					</div>
 				</div>
 			</div>
-		</div>       
-        
-     
+		</div>
+
+
         <div class="ninesixty no-bottom no-top">
             <h2 style="margin:0;">Additional Resources</h2>
-        </div>   
+        </div>
 		<div class="ninehundred">
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/symtalk-german.jpg" alt="Symtalk" />
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?language=361&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-german.jpg" alt="Exploring German" />
 				<h3>Exploring German</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/exploring-german-3rd-edition.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
-        <?php include '../../../includes/wl-footer-links.php'; ?>  
+        <?php include '../../../includes/wl-footer-links.php'; ?>
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>
-                <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />            
+                <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />
             </div>
         </div>
-		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-120px;"></div>		
+		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-120px;"></div>
 		<div class="emc-languages">
 			<div class="ninehundred no-top">
 				<div class="emc-languages-learn">
@@ -163,13 +160,13 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-		</div>			
+		</div>
 		<div class="redefining">
 			<div class="ninehundred no-bottom">
 				<div class="aligncenter">
 					<h2>Redefining seamless learning through technology.</h2>
 				</div>
-				
+
 				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
 			</div>
 			<div class="redefining-bg">
@@ -186,18 +183,18 @@
 						</div>
 					</div>
 					<div class="flipgrid-play-button-hover-background"></div>
-				</div>            
+				</div>
             </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid">
 					<div class="one-half first">
 						<p><span class="bold">Avenue&trade;</span> is a simple, yet powerful e-assessment platform where your students build portfolios of their spoken performances. Educators can create custom tasks or build tasks based on EMC's rich, pre-loaded library of media.</p>
-						
+
 						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
 					</div>
 					<div class="one-half last">
 						<p><span class="bold">Flipgrid&trade;</span> is a video-based discussion environment where students respond to short, teacher-created questions. Flipgrid brings the back row to the front in your classroom.</p>
-						
+
 						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
 					</div>
 					<div class="clearfix"></div>
@@ -208,12 +205,12 @@
 			<div class="ninesixty onesix fonteighteen">
 				<h3 class="adonde">Multiplatform eBooks</h3>
 				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
-				
+
 				<p>Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad®. The best part is that you can have our multiplatform eBook for one low price!</p>
-                
+
                 <p><a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">Learn more about eBooks</a></p>
 			</div>
-		</div>                
+		</div>
 		<div class="conectate-iculture">
 			<div class="ninesixty">
 				<div class="conectate-iculture-first">
@@ -224,7 +221,7 @@
                             </div>
                         </div>
                         <div class="iculture-play-button-hover-background"></div>
-                    </div> 					
+                    </div>
                     <img src="<?php echo $server; ?>lib/images/iculture-laptop.png" alt="i-Culture" />
 				</div>
 				<div class="conectate-iculture-second">
@@ -247,31 +244,31 @@
                         </a>
 					</div>
 					<div class="dvd-play-button-hover-background"></div>
-				</div>                    
+				</div>
             </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid conectate">
 					<div class="one-half first">
 						<h3 class="conectate">DVD Program: <span class="italic">Treffpunkt Berlin</span></h3>
-						
+
 						<p>Filmed on location in Berlin with professional actors and actresses, <span class="italic">Treffpunkt Berlin</span> features a continuous, intriguing story line woven throughout the three-level video series. Your students will cling to the edge of their seats as each episode of this unique video series unfolds! Can love blossom at the hottest café in Berlin? Stay tuned…</p>
-                        
+
                         <h3 class="conectate">DVD Program: <span class="itelic">Freunde in Deutschland</span></h3>
-                        
+
                         <p>The series of ten episodes (Folgen) feature various locations within the capital city of Berlin with professional actors. In each five- to six-minute episode, students follow the everyday lives of four German teens.</p>
-                        
+
                         <a class="learn-more-link elm-video fancybox-media" href="http://vimeo.com/103283692">Watch an episode</a>
 					</div>
 					<div class="one-half last">
 						<h3 class="conectate">ELPAC</h3>
-						
+
 						<p>Use EMC Language Proficiency Assessments (ELPAC) to measure your students’ German language proficiency. Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery. Developed with input from language teachers and school administrators, ELPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
                         <a class="learn-more-link" href="<?php echo $server; ?>technology/elpac/">Learn more</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
-		</div>		
+		</div>
 
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
@@ -282,5 +279,5 @@
 	  active: false
     });
   });
-</script>	
+</script>
 <?php include '../../../includes/footer.php'; ?>

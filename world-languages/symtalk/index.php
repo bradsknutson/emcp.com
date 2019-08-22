@@ -1,4 +1,4 @@
- <?php 
+ <?php
 	$custom_title = 'Symtalk | ';
 	include '../../includes/header.php';
 ?>
@@ -37,16 +37,15 @@
 				</div>
 				<div class="symtalk-left">
 					<p class="no-top"><strong>What is Symtalk?</strong>
-					Symtalk is a visual language learning methodology that delivers astonishing results immediately! Symtalk uses a picture system, each picture represents a word 
-					in the target language. What makes Symtalk unique is that the pictures represent all parts of speech. Pictures are introduced and practiced in the context of 
+					Symtalk is a visual language learning methodology that delivers astonishing results immediately! Symtalk uses a picture system, each picture represents a word
+					in the target language. What makes Symtalk unique is that the pictures represent all parts of speech. Pictures are introduced and practiced in the context of
 					a complete sentence. Students will learn vocabulary and grammar in context and have fun interpreting the self-explanatory pictures.<br /><br />
-					
+
 					<!--
 					<a class="mw-buttons teb-demo transition" href="<?php echo $server; ?>world-languages/symtalk/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','Symtalk Sample');">Sample</a>
 					-->
-					<a class="mw-buttons teb-demo transition" href="https://store.emcp.com/world-languages.html?emc_product_series=579" target="_blank" onclick="ga('send', 'event', 'Call To Action Button','click','Symtalk Sample');">Buy Now</a>
-					
-					
+				
+
 					</p>
 				</div>
 				<div class="symtalk-right">
@@ -124,16 +123,16 @@
 						to interpret the meaning immediately while grammar is implicitly learned. The cards
 						are available in two formats, as a durable magnetic card or digital images to use on any
 						interactive whiteboard. <a href="http://resources.emcp.com/pdfs/symtalk/SampleSymbolCardLesson.pdf" target="_blank" class="symtalk-link"><strong>Download a symbol card sample lesson</strong></a>.</p>
-						
-						<p><strong>Student Workbooks</strong> (also available as eBook) reinforce vocabulary through writing and 
+
+						<p><strong>Student Workbooks</strong> (also available as eBook) reinforce vocabulary through writing and
 						paired communication activities. The vocabulary is recycled throughout the book and among levels,
 						resulting in mastery of the core vocabulary.<br />
 						<a href="http://resources.emcp.com/pdfs/symtalk/SymSPstudentedition2018.pdf" target="_blank" class="symtalk-link"><strong>Download a sample chapter</strong></a>.</p>
-						
-						<p><strong>Teacher's Edition Workbook</strong> (also available as eBook) includes the pages of the student 
-						workbooks with margin notes that include: teaching tips, additional activities, and suggested assessment. 
+
+						<p><strong>Teacher's Edition Workbook</strong> (also available as eBook) includes the pages of the student
+						workbooks with margin notes that include: teaching tips, additional activities, and suggested assessment.
 						<a href="http://resources.emcp.com/pdfs/symtalk/SymSPteachersedition2018.pdf" target="_blank" class="symtalk-link"><strong>Download a sample chapter</strong></a>.</p>
-						
+
 						<p><strong>Games</strong> foster communication proficiency and listening skills in a meaningful context.
 						Students communicate in pairs, small groups, or as a class, using the board games.</p>
 					</div>

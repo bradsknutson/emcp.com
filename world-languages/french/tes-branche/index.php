@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$custom_title = 'T\'es branch&eacute;? | ';
 	include '../../../includes/header.php';
 ?>
@@ -33,7 +33,7 @@
 				<div class="play-button">
 					<div class="icon-play"></div>
 				</div>
-				<div class="header-hero-hover"></div>                
+				<div class="header-hero-hover"></div>
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
@@ -46,17 +46,16 @@
 					<h2><strong>New</strong> <span class="italic">T'es branch&eacute;?</span> Second Editon &copy;2019</h2>
 				</div>
 				<div class="conectate-left margintop40" style="padding-right:50px !important; width:550px !important;">
-					<p class="no-top">EMC is proud to present <span class="italic">T'es branché?</span> Second Edition ©2019: The newest French program on the market. 
-					<span class="italic">T'es branché?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative 
-					practice. We bundle <span class="italic">T'es branché?</span> eBooks with i-Culture™, immersing students in French culture through authentic news articles, 
+					<p class="no-top">EMC is proud to present <span class="italic">T'es branché?</span> Second Edition ©2019: The newest French program on the market.
+					<span class="italic">T'es branché?</span> connects learners to French language and culture through a wide variety of activities, projects, and communicative
+					practice. We bundle <span class="italic">T'es branché?</span> eBooks with i-Culture™, immersing students in French culture through authentic news articles,
 					documentary-style videos, and songs.<br />
-					ACTFL-aligned, <span class="italic">T'es branché?</span> is the best choice for your French classroom–with the freshest 
+					ACTFL-aligned, <span class="italic">T'es branché?</span> is the best choice for your French classroom–with the freshest
 					digital resources, award-wining authors, and AP* preparation throughout all four levels.
 					</p>
 					<img src="<?php echo $server; ?>lib/images/teb-cover_new.png" alt="T'es branch&eacute;? French Program" />
 				<!--
                     <p><a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover T'es branch&eacute;? in Passport</a></p>
-                    <p><a class="learn-more-link smaller-link" href="https://store.emcp.com/world-languages.html?emc_product_series=580&language=362">Buy It Now!</a></p>
 				-->
 				</div>
 				<div class="conectate-right" style="text-align:center;">
@@ -76,7 +75,7 @@
 						<ul class="lineheight1p75">
                             <li>New design, new photos, new modern <strong>look</strong></li>
 							<li>Vocabulary: <strong>active vocabulary words</strong> highlighted in <strong>red</strong> or with blue labels for added clarity</li>
-							<li>Vocabulary and grammar activities: <strong>modes of communication</strong> added to all activities in the <span class="italic">Vocabulaire actif</span> and <span class="italic">Structure de la langue</span> sections to help students practice specific content within each mode of communication</li> 
+							<li>Vocabulary and grammar activities: <strong>modes of communication</strong> added to all activities in the <span class="italic">Vocabulaire actif</span> and <span class="italic">Structure de la langue</span> sections to help students practice specific content within each mode of communication</li>
 							<li>Updated <strong>culture</strong> and, when pertinent, vocabulary</li>
 							<li>Culture section (<span class="italic">Points de d&eacute;part</span>) now includes <strong>more scaffolding</strong> with added Products, Practices, Perspectives, or Comparisons in French starting in Unit 3 (Main culture paragraphs are in English until Unit 5, so this allows added exposure to the French language before Unit 6)</li>
 							<li><strong>Communication</strong>: We now have 3 communicative sections instead of 2 (<span class="italic">&Agrave; vous la parole/Stratégie communicative/Syst&egrave;me D</span>); modes of communication have been added in green font to help students develop proficiency in each mode</li>
@@ -93,7 +92,7 @@
 						<ul class="lineheight1p75">
 							<li>New cleaner design</li>
 							<li><strong>Scripts</strong> have been added in the ATE margins for audio recorded activities.</li>
-							<li>Alternative spellings of vocabulary words according to <strong><span class="italic">La nouvelle orthographe</span></strong> are provided in margins, as appropriate, for teachers who may want to implement those changes.</li> 
+							<li>Alternative spellings of vocabulary words according to <strong><span class="italic">La nouvelle orthographe</span></strong> are provided in margins, as appropriate, for teachers who may want to implement those changes.</li>
 							<li><strong>Added features:</strong><br />
 								- Added pedagogical information and suggestions in <span class="italic">Expansion</span> boxes: PQA (Personalized Questions and Answers), and <span class="italic">Question Circling</span><br />
 								- <span class="italic">French in the Workplace</span> (in the <span class="italic">Syst&egrave;me D</span> section) connects the learning of French to the business world. It makes French relevant to students for use in the real world and in their future.<br />
@@ -172,25 +171,23 @@
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?language=362&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-french.jpg" alt="Exploring French" />
 				<h3>Exploring French</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/exploring-french-third-edition-softcover-edition.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
-        <?php include '../../../includes/wl-footer-links.php'; ?>                
+        <?php include '../../../includes/wl-footer-links.php'; ?>
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>
-                <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />            
+                <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />
             </div>
         </div>
-		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-40px;"></div>		
+		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-40px;"></div>
 		<div class="emc-languages">
 			<div class="ninehundred no-top">
 				<div class="emc-languages-learn">
@@ -208,13 +205,13 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-		</div>			
+		</div>
 		<div class="redefining">
 			<div class="ninehundred no-bottom">
 				<div class="aligncenter">
 					<h2>Redefining seamless learning through technology.</h2>
 				</div>
-				
+
 				<p>Through our partnership with the University of Minnesota's Institute for Design Innovation (IDI), we are now offering award-winning, research-based learning platforms that enhance your face-to-face, blended, or online classroom.</p>
 			</div>
 			<div class="redefining-bg">
@@ -231,18 +228,18 @@
 						</div>
 					</div>
 					<div class="flipgrid-play-button-hover-background"></div>
-				</div>            
+				</div>
             </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid">
 					<div class="one-half first">
 						<p><span class="bold">Avenue&trade;</span> is a simple, yet powerful e-assessment platform where your students build portfolios of their spoken performances. Educators can create custom tasks or build tasks based on EMC's rich, pre-loaded library of media.</p>
-						
+
 						<a href="<?php echo $server; ?>technology/avenue/" target="_blank" class="learn-more-link">Learn more about Avenue</a>
 					</div>
 					<div class="one-half last">
 						<p><span class="bold">Flipgrid&trade;</span> is a video-based discussion environment where students respond to short, teacher-created questions. Flipgrid brings the back row to the front in your classroom.</p>
-						
+
 						<a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid</a>
 					</div>
 					<div class="clearfix"></div>
@@ -253,12 +250,12 @@
 			<div class="ninesixty onesix fonteighteen">
 				<h3 class="adonde">Multiplatform eBooks</h3>
 				<p>Our eBooks connect students with the language in and out of the classroom. With a touch of the finger, students access every page as well as all of the audio (vocabulary presentations, dialogues and activities). Students also have all of the video resources at their fingertips, both dialogue and continuous storyline videos.</p>
-				
+
 				<p>Our eBooks are available for delivery on all laptops, desktops, and mobile devices including the iPad®. The best part is that you can have our multiplatform eBook for one low price!</p>
-                
+
                 <p><a href="http://emc.bookshelf.emcp.com" target="_blank" class="learn-more-link">Learn more about eBooks</a></p>
 			</div>
-		</div>                
+		</div>
 		<div class="conectate-iculture">
 			<div class="ninesixty">
 				<div class="conectate-iculture-first">
@@ -269,7 +266,7 @@
                             </div>
                         </div>
                         <div class="iculture-play-button-hover-background"></div>
-                    </div> 					
+                    </div>
                     <img src="<?php echo $server; ?>lib/images/iculture-laptop.png" alt="i-Culture" />
 				</div>
 				<div class="conectate-iculture-second">
@@ -292,26 +289,26 @@
                         </a>
 					</div>
 					<div class="dvd-play-button-hover-background"></div>
-				</div>                    
+				</div>
             </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid conectate">
 					<div class="one-half first">
 						<h3 class="conectate">DVD Program: <span class="italic">Rendez-vous &agrave; Nice!</span></h3>
-						
+
 						<p>Filmed on location in Nice and starring professional actors, <span class="italic">Rendez-vous &agrave; Nice!</span> is a continuous storyline drama for <span class="italic">T'es branch&eacute;?</span> Levels 1 and 2. Each DVD is closely coordinated with the vocabulary, functions, structures, and culture of each unit of the textbook. Students see and hear storylines about French teens related to themes in the textbook. The DVD manual contains transcripts of the DVD units, as well as a variety of innovative pre-viewing, during viewing, and post-viewing activities. The level 3 DVD offers a glimpse of the teen actors' real lives.</p>
 					</div>
 					<div class="one-half last">
 						<h3 class="conectate">ELPAC</h3>
-						
+
 						<p>Use EMC Language Proficiency Assessments (ELPAC) to measure your students’ French language proficiency. Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery. Developed with input from language teachers and school administrators, ELPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
-                        
+
                         <a class="learn-more-link" href="<?php echo $server; ?>technology/elpac/">Learn more</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
-		</div>		
+		</div>
 
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>

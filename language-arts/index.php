@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$custom_title = 'English Language Arts | ';
 	include '../includes/header.php';
 ?>
@@ -26,16 +26,16 @@
 				<div class="clearfix"></div>
 				<div class="onesix" style="float:left;width:510px;">
 					Every language arts publisher can say they have great literature, but only EMC School has Passport<sup>&reg;</sup>.<br />
-					Built from the ground up, EMC School has uniquely designed Passport<sup>&reg;</sup> for your language arts classroom. It's built to be 
-					intuitive and extremely user-friendly while the social media look and feel instantly clicks with students. Easy-to-use, 
-					Passport<sup>&reg;</sup> helps students focus more on the content while the discussion tools engage and help them to dive deeper into 
+					Built from the ground up, EMC School has uniquely designed Passport<sup>&reg;</sup> for your language arts classroom. It's built to be
+					intuitive and extremely user-friendly while the social media look and feel instantly clicks with students. Easy-to-use,
+					Passport<sup>&reg;</sup> helps students focus more on the content while the discussion tools engage and help them to dive deeper into
 					the curriculum and connect with fellow classmates.<br /><br />
 					<a class="learn-more-link" href="<?php echo $server; ?>language-arts/programs/">See All ELA Products</a>
 				</div>
 				<div style="float:left;padding-left:20px;width:370px;">
 					<img src="<?php echo $server; ?>lib/images/passport-logo-250.png" alt="Passport" style="float:right;padding-right:50px;" /><br />
 					<img src="<?php echo $server; ?>lib/images/ela-hero-350.png" alt="Early Language Arts" style="float:right;" />
-					
+
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -44,12 +44,12 @@
 			<div class="ninehundred onesix">
 				<div>
 					<h2>Mirrors and Windows</h2>
-					<p style="padding-right:40px;">EMC School is proud to present its exciting literature and language arts program, <span class="italic">Mirrors &amp; Windows</span>. 
+					<p style="padding-right:40px;">EMC School is proud to present its exciting literature and language arts program, <span class="italic">Mirrors &amp; Windows</span>.
 					This seven-level program is built on a collection of rich, diverse, and timeless writings by renowned, award-winning authors.</p>
 
-					<p style="padding-right:40px;"><span class="italic">Mirrors &amp; Windows</span> challenges students to reach their maximum potential while differentiating instruction for 
-					individual learners. Using a gradual release approach to reading, students will achieve a deep comprehension of the material and a greater appreciation 
-					of the literary genres. They will learn to recognize and make connections between the selections, the world, and themselves. Along the way, 
+					<p style="padding-right:40px;"><span class="italic">Mirrors &amp; Windows</span> challenges students to reach their maximum potential while differentiating instruction for
+					individual learners. Using a gradual release approach to reading, students will achieve a deep comprehension of the material and a greater appreciation
+					of the literary genres. They will learn to recognize and make connections between the selections, the world, and themselves. Along the way,
 					they will discover a love of literature that will grow throughout their lives. Truly, literature will turn mirrors into windows for your students.
 					</p>
 					<a class="learn-more-link smaller-link" href="<?php echo $server; ?>mw">Learn more</a>
@@ -64,7 +64,6 @@
                 <div class="right-block">
                     <h3>Expository Composition</h3>
                     <p>EMC’s Expository Composition: Discovering Your Voice includes a complete chapter devoted to online writing, with descriptions and student and professional writing models of digital writing types such as blogs, micro-blogs, social networks, texting, e-mail, and e-mags. The new Expository Composition Internet Resource Center provides additional support materials and links to the interactive Discovering Your Voice online companion with additional writing models, journal topics, writing activities and tips, videos, and community forums.</p>
-                    <a class="learn-more-link smaller-link" href="https://store.emcp.com/expository-composition-discovering-your-voice-revised-edition.html">Buy It Now!</a>
 
                 </div>
                 <div class="clearfix"></div>
@@ -80,7 +79,6 @@
                     <li>Close reading support ensures understanding and enjoyment.</li>
                     <li>Thought-provoking questions and activities invite students to connect their lives to those of the characters.</li>
                 </ul>
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/english-language-arts.html?emc_product_series=395">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/ela-reader.jpg" alt="Write-In Readers" />
@@ -92,11 +90,10 @@
                     <li>Embedded reading strategies! Explicit instruction on how to apply a specific reading strategy to each stage of the reading process.</li>
                     <li>Multiple close reading strategies to compound success! Students learn eight reading strategies and how to combine and apply them to any reading task for greater understanding of the text.</li>
                     <li>Standardized test practice! Students learn how to demonstrate essential reading skills and gain confidence in testing situations.</li>
-                    <li>Vocabulary builders! Student vocabulary is increased through Word Workshops and strategy instruction in deciphering difficult words.</li>                
+                    <li>Vocabulary builders! Student vocabulary is increased through Word Workshops and strategy instruction in deciphering difficult words.</li>
                 </ul>
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/english-language-arts/the-emc-write-in-reader.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
-		
-<?php include '../includes/footer.php'; ?>		
+
+<?php include '../includes/footer.php'; ?>

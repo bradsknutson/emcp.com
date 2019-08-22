@@ -45,7 +45,7 @@
 					</ul>
 				</div>
 				<p>&copy; <?php echo date("Y"); ?> EMC School. All Rights Reserved.<br />
-				EMC School, 875 Montreal Way, St. Paul, MN 55102 &bull; 800-328-1452 &bull; Fax: 800-328-4564</p>
+				EMC School, 875 Montreal Way, St. Paul, MN 55102 &bull; 888-851-7094 &bull; <a href="mailto:info@carnegielearning.com">info@carnegielearning.com</a></p>
 			</div>
 		</div>
 	</div>
