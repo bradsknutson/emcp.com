@@ -44,12 +44,7 @@
 					<ul>
 						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/">Mirrors & Windows</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/passport/">Passport</a></li>
-						<li><a href="<?php echo $server; ?>language-arts/expository-composition/">Expository Composition</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/access-editions/">Access Editions</a></li>
-						<li><a href="<?php echo $server; ?>language-arts/write-in-readers/">Write-in Readers</a></li>
-						<li><a href="http://www.emctxela.com/" target="_blank">Texas ELA Proclamation 2019</a></li>
-						<li><a href="<?php echo $server; ?>ela-va/">Virginia ELA Adoption</a></li>
-						<li><a href="<?php echo $server; ?>ela-fl/">Florida ELA Adoption</a></li>
                     </ul>
                 </li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a>

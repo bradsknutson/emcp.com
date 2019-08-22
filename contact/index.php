@@ -22,14 +22,11 @@
 			<div class="ninehundred">
 				<p><span class="bold">EMC School</span> 875 Montreal Way, St. Paul, MN 55102</p>
 				<div>
-					<div class="map-icons-float">
-						<p><a href="mailto:educate@emcp.com">educate@emcp.com</a></p>
+					<div class="map-icons-float" style="float: none !important;">
+						<p><a href="mailto:info@carnegielearning.com">info@carnegielearning.com</a></p>
 					</div>
-					<div class="map-icons-float">
-						<p>800-328-1452</p>
-					</div>
-					<div class="map-icons-float">
-						<p>800-328-4564</p>
+					<div class="map-icons-float" style="float: none !important;">
+						<p>888-851-7094</p>
 					</div>
 				</div>
 				<div class="clearfix"></div>
