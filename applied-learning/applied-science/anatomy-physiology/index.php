@@ -1,11 +1,11 @@
- <?php 
+ <?php
 	$custom_title = 'Anatomy &amp; Physiology | ';
 	include '../../../includes/header.php';
 ?>
 	<div id="container" class="ap-hero">
 		<div class="vimeo-modal"></div>
 		<div class="header-background-image ap-hero-bg">
-			<div id="topImg"> 
+			<div id="topImg">
 				<div class="play-button">
 					<div class="icon-play"></div>
 				</div>
@@ -15,7 +15,6 @@
                     <a class="technology-buttons ap-sample transition" href="<?php echo $server; ?>applied-learning/applied-science/anatomy-physiology/sample/" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','A&amp;P Sample');">Request a Sample</a>
 					&nbsp;&nbsp;
 					-->
-					<a class="technology-buttons ap-sample transition" href="https://store.emcp.com/applied-science/applied-anatomy-physiology-case-study-approach-second-edition-revised.html" target="_blank" onClick="ga('send', 'event', 'Call To Action Button','click','A&amp;P Buy It Now');" style="margin-left:300px;">Buy it now!</a>
                 </div>       
 			</div>
 		</div>
@@ -28,16 +27,16 @@
                     <div class="entry-title">
                         <h4 class="margintop0">Applied Anatomy &amp; Physiology, 2nd Edition Revised, A Case Study Approach</h4>
                     </div>
-                    <p class="no-top">Applied Anatomy &amp; Physiology, 2nd Edition Revised, A Case Study Approach is a fresh approach to teaching 
-					the fundamental principles and the practical application of functions, systems, and structures of the human body. The second 
-					edition of Applied Anatomy &amp; Physiology has been revised to address current educational standards and now includes an online 
+                    <p class="no-top">Applied Anatomy &amp; Physiology, 2nd Edition Revised, A Case Study Approach is a fresh approach to teaching
+					the fundamental principles and the practical application of functions, systems, and structures of the human body. The second
+					edition of Applied Anatomy &amp; Physiology has been revised to address current educational standards and now includes an online
 					interactive tool and an improved <em>Workbook and Laboratory Manual</em>.</p>
-					
-					<p>A.D.A.M. Interactive Anatomy dramatically enhances the study of human anatomy, physiology and related topics. Incredibly 
-					detailed graphics, precision accuracy, and advanced functionality makes A.D.A.M. Interactive Anatomy the perfect resource for EMC's 
+
+					<p>A.D.A.M. Interactive Anatomy dramatically enhances the study of human anatomy, physiology and related topics. Incredibly
+					detailed graphics, precision accuracy, and advanced functionality makes A.D.A.M. Interactive Anatomy the perfect resource for EMC's
 					Applied Anatomy &amp; Physiology: A Case Study Approach, Second Edition!
 					</p>
-					
+
 					<p class="no-top">
 						<ul>
 							<li>NEW! Online interactive media from A.D.A.M. Interactive available for additional study and exploration.</li>
@@ -64,7 +63,7 @@
                     <p><a href="<?php echo $server; ?>technology/flipgrid/" target="_blank" class="learn-more-link">Learn more about Flipgrid!</a></p>
                 </div>
                 <div class="featured-flipgrid-left">
- 					<img src="<?php echo $server; ?>lib/images/featured-flipgrid.png" class="margintop15" alt="Flipgrid" />               
+ 					<img src="<?php echo $server; ?>lib/images/featured-flipgrid.png" class="margintop15" alt="Flipgrid" />
                 </div>
                 <div class="clearfix"></div>
             </div>

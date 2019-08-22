@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$custom_title = '&iexcl;Qu&eacute; ch&eacute;vere! | ';
 	include '../../../includes/header.php';
 ?>
@@ -33,7 +33,7 @@
                     <a class="technology-buttons qc-sample transition" href="<?php echo $server; ?>world-languages/spanish/quechevere/sample/" onClick="ga('send', 'event', 'Call To Action Button','click','QC Sample');" target="_blank">Sample</a>
 					-->
 				</div>
-				<div class="header-hero-hover"></div>                
+				<div class="header-hero-hover"></div>
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
@@ -44,14 +44,13 @@
 			<div class="ninesixty">
 				<div class="conectate-left" style="width:550px !important;">
                     <p class="no-top">
-						<span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom. 
-						Watch your students connect to the Spanish-speaking world, rapidly develop language proficiency as well as cultural understanding. With our cutting-edge digital 
+						<span class="bold">Welcome to <span class="italic">&iexcl;Qu&eacute; ch&eacute;vere!</span></span>, a 5-level Spanish program for the 21st century classroom.
+						Watch your students connect to the Spanish-speaking world, rapidly develop language proficiency as well as cultural understanding. With our cutting-edge digital
 						resources, such as video-based tools, authentic cultural videos, eBooks your students will discover the Spanish language in a whole new way.
 					</p>
 					<img src="<?php echo $server; ?>lib/images/qc-hero-new.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /><br /><br />
                     <a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover &iexcl;Qu&eacute; ch&eacute;vere! in Passport</a><br />
 					<a class="learn-more-link smaller-link" href="https://vimeo.com/200376096" target="_blank">Click here to see a unit tour</a><br />
-					<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/?q=%C2%A1Qu%C3%A9+ch%C3%A9vere!">Buy It Now!</a><br /><br />
 				</div>
 				<div class="conectate-right" style="text-align:center;">
 					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/qc-passport-desktop-new.jpg" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /></a><br />
@@ -60,7 +59,7 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-        
+
         <div class="redefining no-bottom">
             <div class="ninesixty paddingbottom40" style="margin-top:15px;">
 				<div id="accordion">
@@ -159,13 +158,13 @@
 				</div>
 			</div>
 		</div>
-		<!-- END ACCORDION -->   
+		<!-- END ACCORDION -->
 
 
 		<div class="ninesixty no-bottom no-top">
             <h2 style="margin:0;">Additional Resources</h2>
         </div>
-		
+
 		<div class="ninehundred">
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/mi-mundo-cover.jpg" alt="Mi Mundo Classroom" />
@@ -177,10 +176,9 @@
 				<img src="<?php echo $server; ?>lib/images/texas-sns-covers.jpg" alt="Spanish for Native Speakers" />
 				<h3 style="line-height:90% !important;margin:-15px 0 0 !important;">Espa&ntilde;ol para<br />hispanohablantes nativos</h3>
 				<p>Spanish for Native Speakers</p>
-				<p>Espa&ntilde;ol para hispanohablantes nativos is a digital supplement designed to address the needs of heritage and native speakers, 
-				as well as provide practice for the AP* Spanish Language and Culture Exam. With 42 levels in each of the two levels, this is a perfect 
+				<p>Espa&ntilde;ol para hispanohablantes nativos is a digital supplement designed to address the needs of heritage and native speakers,
+				as well as provide practice for the AP* Spanish Language and Culture Exam. With 42 levels in each of the two levels, this is a perfect
 				companion piece to ¡Qu&eacute; ch&eacute;vere!<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/world-languages/espanol-para-hispanohablantes-nativos.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/heritage">Learn More</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -190,14 +188,12 @@
 				<h3>Symtalk</h3>
 				<p>Middle and Elementary School</p>
 				<p>Symtalk is a simple, but effective approach to learning language that delivers astonishing results immediately. You will see your students speak in full sentences on the first day! With the Symtalk method, students learn how to substitute words for self-explanatory symbols. Soon they are speaking in longer and more complex sentences.<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/catalogsearch/result/index/?language=357&q=symtalk">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/exploring-spanish.jpg" alt="Exploring Spanish" />
 				<h3>Exploring Spanish</h3>
 				<p>Middle School</p>
 				<p>Exploring is an exciting way to introduce students to language and culture through 20 thematic units. Each theme generates enthusiasm for language learning through a friendly visual approach of language, art, food, music, geography, and literature. The program includes an array of print and online resources to engage and motivate students' language learning.<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/world-languages/exploring-spanish-third-edition-revised.html">Buy It Now!</a> &nbsp; <a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/exploringspanish">Learn More</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -207,27 +203,25 @@
 				<h3>&iexcl;Vale!</h3>
 				<p>Elementary School</p>
 				<p>&iexcl;Vale! is best suited for grade levels 3-5. This series introduces real world situations through music to create a lively and entertaining approach to learning Spanish. The ¡Vale! series is a combination of the Multiple Intelligences Theory and the Total Physical Response Methodology.<br />
-				<a class="learn-more-link smaller-link" href="<?php echo $server; ?>world-languages/spanish/vale/buy/">Buy It Now!</a></p>
 			</div>
 			<div class="sub-featured onesix black">
 				<img src="<?php echo $server; ?>lib/images/confidently.jpg" alt="Speaking Spanish Confidently!" />
 				<h3>Speaking Spanish Confidently!</h3>
 				<p>High School</p>
 				<p><span class="italic">Speaking Spanish Confidently</span> teaches 20 of the most common and difficult Spanish grammar structures. At the core of this method are symbol cards, which are self-explanatory images that represent words for all parts of speech. The symbol cards facilitate the visualization of grammar structures for students to easily identify syntax. Get your students speaking confidently today!<br />
-				<a class="learn-more-link smaller-link" href="https://store.emcp.com/speaking-spanish-confidently.html">Buy It Now!</a></p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
         <?php include '../../../includes/wl-footer-links.php'; ?>
-        
-        
+
+
         <div class="qc-passport-pre">
             <div class="ninesixty marginbottom40">
                 <h2>Available on&nbsp;</h2>
-                <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />            
+                <img src="<?php echo $server; ?>lib/images/passport-logo-400.png" alt="Passport" />
             </div>
         </div>
-		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-40px;"></div>		
+		<div class="emc-technology-bg passport-tech-bg" style="margin-top:-40px;"></div>
 		<div class="emc-languages">
 			<div class="ninehundred no-top">
 				<div class="emc-languages-learn">
@@ -245,7 +239,7 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-		</div>			                
+		</div>
 		<div class="conectate-iculture">
 			<div class="ninesixty">
 				<div class="conectate-iculture-first">
@@ -256,14 +250,13 @@
                             </div>
                         </div>
                         <div class="iculture-play-button-hover-background"></div>
-                    </div> 					
+                    </div>
                     <img src="<?php echo $server; ?>lib/images/iculture-laptop.png" alt="i-Culture" />
 				</div>
 				<div class="conectate-iculture-second">
                     <h3 class="conectate">i-Culture</h3>
 					<p class="no-top">Watch authentic culture come alive for your students as they immerse themselves in engaging and varied media: videos, news articles, and songs. i-Passport, i-Videos, and i-Songs bring cultural experiences into the classroom and into your students'  lives.</p>
 
-					<p class="no-bottom"><a href="https://store.emcp.com/i-culture" class="learn-more-link">Learn more about i-Culture</a></p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -279,13 +272,13 @@
                         </a>
 					</div>
 					<div class="dvd-play-button-hover-background"></div>
-				</div>                    
+				</div>
             </div>
 			<div class="ninesixty">
 				<div class="avenue-flipgrid conectate">
 					<div class="one-half first">
 						<h3 class="conectate">DVD Program: <span class="italic">El cuarto misterioso</span></h3>
-						
+
 						<p>&bull; What treasures does the secret room contain?<br />
 						&bull; What secret is don Pedro hiding?<br />
 						&bull; Will Jos&eacute; and Conchita ever express their mutual love?<br />
@@ -293,13 +286,13 @@
 					</div>
 					<div class="one-half last">
 						<h3 class="conectate">ELPAC</h3>
-						
+
 						<p>Use EMC Language Proficiency Assessments by CARLA* (ELPAC) (performance-based, standardized assessments) to measure your students’ Spanish, French, or German language proficiency. Choose from multi-level online assessments in Reading, Listening, Writing, and Speaking that can be administered individually or as a battery. Developed with input from language teachers and school administrators, ELPAC assessments meet the highest standards for reliability while offering flexibility and ease in delivery.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
-		</div>		
+		</div>
 
 
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
