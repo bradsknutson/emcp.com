@@ -45,7 +45,6 @@
 						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/">Mirrors & Windows</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/mirrors-windows/passport/">Passport</a></li>
 						<li><a href="<?php echo $server; ?>language-arts/access-editions/">Access Editions</a></li>
-						<li><a href="https://www.emcp.com/irc/">Internet Resource Center</a></li>
                     </ul>
                 </li>
 				<li<?php echo get_current('applied-learning',$current); ?>><a href="<?php echo $server; ?>applied-learning/">Applied Learning</a>

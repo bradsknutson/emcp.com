@@ -30,6 +30,7 @@
 			<div class="ninesixty">
 				<div class="footer-nav">
 					<ul id="nf" class="nf-menu">
+						<li><a target="_blank" href="https://www.emcp.com/irc/">Internet Resource Center</a></li>
 						<li><a target="_blank" href="https://connect.emcp.com/">News</a></li>
 						<li<?php echo get_current('about',$current); ?>><a href="<?php echo $server; ?>about/">About</a>
 							<ul>
