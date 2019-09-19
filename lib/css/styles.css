@@ -8,6 +8,15 @@ html, body {
 	margin: 0;
 	padding: 0;
 }
+
+.h3 {
+	color: #000;
+  font-weight: 300;
+}
+
+.large {
+	font-size: 44px;
+}
 a:link {
 	color: #585858;
 	font-size:16px;
@@ -33,6 +42,11 @@ img {
     -webkit-box-sizing: border-box;
 }
 
+.divide30 {
+	width: 100%;
+	height: 30px;
+}
+
 /*----------------------------------------------*/
 /*	4 - Header
 /*----------------------------------------------*/
@@ -44,6 +58,10 @@ img {
 	position: absolute;
 	background-size: cover !important;
 	-webkit-background-size: cover !important;
+}
+
+.homepage-header-image {
+		margin: 92px auto 0 auto;
 }
 
 .header-top {
@@ -61,6 +79,23 @@ img {
 	transition: all .7s;
 	height: 85px;
 	padding: 23px 0px;
+}
+
+.home .header-top {
+	background-color: rgba(28, 24, 23, 1);
+	height: 92px;
+  padding: 23px 0px;
+}
+
+.home .header-top-dark {
+	background-color: rgba(28, 24, 23, 1);
+}
+
+.header-top-overlay {
+	background-color: rgba(28, 24, 23, .875);
+	height: 92px;
+	padding: 23px 0px;
+
 }
 
 .header-top-dark {
@@ -94,6 +129,10 @@ img {
     height: 150%;
     z-index: 2;
 }
+
+.banner-video-center {
+	text-align: center;
+}
 .header-hero-dim {
 	background: rgba(0,0,0,0.4);
 }
@@ -107,14 +146,14 @@ img {
 	padding: 0;
 }
 .header-background-image {
-    height: 600px;
+    height: 571px;
 }
 .header-secondary-page {
 	height: 120px;
 }
 #topImg{
 	width: 100%;
-	height:772px;
+	height:600px;
 	text-align:center;
 	margin: auto;
 	background: #fff;
@@ -281,11 +320,14 @@ h2, h3 {
 	font-weight: 300;
 }
 .main #topImg {
-    background: #393939 url('../images/passport-hero.png') no-repeat 50% 50%;
+		background: url('../images/homepage-bg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
 }
 #topImg h2 {
-	padding-top:30px;
-	font-size: 40px;
+	font-size: 50px;
 }
 /* Countdown styles */
 #digits {
@@ -341,8 +383,9 @@ h2, h3 {
     border-left: 30px solid rgba(0,0,0,0.8);
 }
 .future-fluency {
-	padding-top: 540px;
 	color: #FFF;
+	position: relative;
+	top: 230px;
 }
 .future-fluency h2 {
 	color: #FFF;
@@ -417,7 +460,7 @@ h2, h3 {
 	margin-bottom: 30px;
 }
 .home-first {
-	padding-top: 652px;
+	padding-top: 571px;
 }
 .ninehundred {
 	width: 900px;
@@ -668,6 +711,15 @@ h2, h3 {
 	width: 960px;
 	margin: auto;
 }
+
+
+.col-6 {
+	float: left;
+  width: 50%;
+  position: relative;
+}
+
+
 .one-half {
 	float: left;
 	text-align: justify;
@@ -1025,7 +1077,7 @@ p.chatbox-quote{
 	padding-right: 110px;
 }
 .conectate-iculture {
-	background-color: #F0EFEB;
+	background-color: #FFF;
 	padding: 30px 0px;
 }
 .conectate-iculture .ninesixty {
@@ -1104,7 +1156,7 @@ p.chatbox-quote{
 	margin: 0px !important;
 }
 .passport-tech-bg {
-	background: url('../images/passport-spanish.png') no-repeat 50% 100%;
+	background: url('../images/passport-2019.png') no-repeat 50% 100%;
 }
 .redefining-bg.spanishtech {
 	background: url('../images/lt_transparent.png') no-repeat 50% 100%;
@@ -1468,6 +1520,11 @@ p.home-mission {
 .fofih img {
     margin: 20px 0px;
 }
+
+img.max-width {
+	max-width: 100%;
+	margin: 0;
+}
 .passport-demo {
     z-index: 999;
     bottom: -40px !important;
@@ -1529,6 +1586,73 @@ p.home-mission {
     font-size: 32px !important;
 }
 
+.icon-list {
+	margin-left: -40px;
+	list-style:none;
+}
+
+.icon-list li {
+	background-size: 25px 25px;
+	background-position-y: 3px;
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+
+.icon-list li:nth-child(1) {
+  background-image: url('../images/passport-icons/discover.png');
+}
+.icon-list li:nth-child(2) {
+  background-image: url('../images/passport-icons/expand.png');
+}
+.icon-list li:nth-child(3) {
+  background-image: url('../images/passport-icons/create.png');
+}
+.icon-list li:nth-child(4) {
+  background-image: url('../images/passport-icons/explore.png');
+}
+.icon-list li:nth-child(5) {
+  background-image: url('../images/passport-icons/share.png');
+}
+.icon-list li:nth-child(6) {
+  background-image: url('../images/passport-icons/perform.png');
+}
+.icon-list li:nth-child(7) {
+  background-image: url('../images/passport-icons/feedbackIcon.png');
+}
+.icon-list li:nth-child(8) {
+  background-image: url('../images/passport-icons/journal.png');
+}
+.icon-list li:nth-child(9) {
+  background-image: url('../images/passport-icons/lesson.png');
+}
+.icon-list li:nth-child(10) {
+  background-image: url('../images/passport-icons/messageIcon.png');
+}
+.icon-list li:nth-child(11) {
+  background-image: url('../images/passport-icons/resourceActivity.png');
+}
+.icon-list li:nth-child(12) {
+  background-image: url('../images/passport-icons/ancillaryLink.png');
+}
+.icon-list li:nth-child(13) {
+  background-image: url('../images/passport-icons/assignmentIcon.png');
+}
+
+.med-list li {
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.med-text {
+	font-size: 20px;
+}
+
+.banner-padding {
+	padding: 60px 0px
+}
 
 /* -------- End Passport -------------- */
 
@@ -1575,7 +1699,7 @@ p.home-mission {
 
 
 .teb-bg, .teb-bg #topImg{
-	height: 600px;
+	height: 571px;
 	background-color: #FFF;
 }
 .teb-bg #topImg{
@@ -2375,7 +2499,8 @@ p.home-mission {
 	padding-top: 40px;
 }
 .footer-nav {
-	background: url('../images/emc-logo-bottom.png') no-repeat;
+	background: url('../images/emc-logo-bottom.svg') no-repeat;
+	background-size: 140px;
 	text-align: right;
 	font-style: 600;
 	height: 80px;
@@ -2452,11 +2577,11 @@ p.home-mission {
 	line-height: 2.85;
 }
 .stay-connected {
-	background-color: #D9D7D8;
+	background-color: #E9E9E9;
 }
 .stay-connected .ninesixty {
 	text-align: center;
-	padding: 20px 0px;
+	padding: 60px 0px;
 }
 #emailInput {
 	width: 350px;
@@ -4272,6 +4397,36 @@ a.connect-link, a.connect-link a:hover, a.connect-link a:visited {
 	width: 960px;
 }
 
+a.homepage-button {
+	padding: 10px 20px;
+  color: #fff;
+  background: #c02026;
+  box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.2);
+  text-decoration: none;
+  font-size: 20px ;
+}
+
+a.homepage-button:hover {
+  background-color: #d9d9d9;
+  color: #c02026;
+  -moz-transition: all 0.15s;
+  -o-transition: all 0.15s;
+  -webkit-transition: all 0.15s;
+  transition: all 0.15s;
+}
+
+a.hover-white:hover {
+  background-color: #fff;
+  color: #c02026;
+  -moz-transition: all 0.15s;
+  -o-transition: all 0.15s;
+  -webkit-transition: all 0.15s;
+  transition: all 0.15s;
+}
+
+.margin-m {
+	margin-right: 50px;
+}
 /* IDS Form */
 
 .ids-sampler input,.ids-sampler select, .ids-sampler button {

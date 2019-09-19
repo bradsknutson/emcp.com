@@ -2,7 +2,7 @@
     // $server is defined in server.php
     // $currentwl is defined in functions.php
 ?>
-        <div class="lp-links">
+        <div class="lp-links banner-padding black">
             <div class="ninesixty">
                 <?php
 
