@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$custom_title = 'Italian Language Programs | ';
 	include '../../includes/header.php';
 ?>
@@ -34,7 +34,7 @@
 					-->
 					<a class="technology-buttons qc-sample transition" href="https://drive.google.com/file/d/0B2BRD_gaMsOKYnJYX1dEWUZubHc/view?usp=sharing" onClick="ga('send', 'event', 'Call To Action Button','click','Sample Chapter');" target="_blank" style="margin-left:100px !important;">Preview a Sample Chapter</a>
 				</div>
-				<div class="header-hero-hover"></div>                
+				<div class="header-hero-hover"></div>
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
@@ -44,7 +44,7 @@
 		<div class="secondary-first">
 			<div class="ninesixty">
 				<div class="italian-left">
-                    <p class="no-top"><span class="bold">Welcome to <span class="italic">Amici d'Italia</span></span>, a 3-level Italian program for the 21st century classroom! Watch your students discover the Italian Language in a whole new way. Available in fall 2017.</p>
+                    <p class="no-top"><span class="bold">Welcome to <span class="italic">Amici d'Italia</span></span>, a 3-level Italian program for the 21st century classroom! Watch your students discover the Italian Language in a whole new way.</p>
 				</div>
 				<div class="italian-right">
 					<img src="<?php echo $server; ?>lib/images/italian-hero.png" alt="Italian Program" />
@@ -52,7 +52,7 @@
 				<div class="clearfix"></div>
 			</div>
 		</div>
-        
+
         <div class="redefining no-bottom">
             <div class="ninesixty paddingbottom40" style="margin-top:15px;">
 				<div id="accordion">
@@ -88,7 +88,7 @@
                                 <li>Textbook Activities Answer Key</li>
 								<li>Workbook Answer Key and listening activities transcript</li>
 								<li>Entrance Test</li>
-								<li>Unit Assessments provided in two versions</li> 
+								<li>Unit Assessments provided in two versions</li>
 								<li>Units Skill Tests with audio files for listening comprehension</li>
 								<li>Cumulative Linguistic Competence Tests</li>
 								<li>Remedial Unit Assessments</li>
@@ -101,14 +101,14 @@
 				</div>
 			</div>
 		</div>
-		<!-- END ACCORDION -->   
+		<!-- END ACCORDION -->
 
 
 		<div class="ninesixty no-bottom no-top">
             <h2 style="margin:0 0 25px 0;text-align:center;font-weight:bold;">Related Italian Resources</h2>
         </div>
-		
-		<?php include '../../includes/wl-footer-links.php'; ?> 
+
+		<?php include '../../includes/wl-footer-links.php'; ?>
 	</div>
 
 

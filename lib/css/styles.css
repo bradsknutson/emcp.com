@@ -30,7 +30,7 @@ a:hover {
 	text-decoration: underline;
 	color: #585858;
 }
-a:active {
+a:active {f
 	text-decoration: none;
 	color: #585858;
 }
@@ -259,10 +259,25 @@ img {
 	padding-right: 0px;
 }
 .footer-navigation li.current > a {
-	border-bottom: 2px solid;
+		border-bottom: 2px solid;
   	color: #FFF;
 }
 
+.stay-connected .footer-header {
+		width: 350px;
+		height: 50px;
+		background: transparent;
+		border: 0;
+		outline: none;
+		font-size: 38px;
+		text-align: center;
+		color: #C10005;
+		border-bottom: 2px solid #C10005;
+		margin: 0 auto;
+		font-weight: 400;
+		display: block;
+		margin-bottom: 20px;
+}
 .nf-menu ul {
     bottom: -135px !important;
 }

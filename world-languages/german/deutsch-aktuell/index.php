@@ -44,9 +44,7 @@
 			<div class="ninesixty">
 				<div class="conectate-left" style="width:550px !important;">
 					<p class="no-top">
-						Meet <span class="bold"><span class="italic">Deutsch Aktuell</span></span>, a program where students interact with German language
-						and culture through engaging activities, and group or class projects. Students advance their language skills through real-life communication,
-						cultural interactions and integrated technology.
+						Meet <span class="italic">Deutsch Aktuell</span>, a program where students interact with German language and culture through engaging activities and group or class projects. Students advance their language skills through real-life communication, cultural interactions and integrated technology.
 					</p>
 					<img src="<?php echo $server; ?>lib/images/da-cover_new.png" alt="Deutsch Aktuell German Program" /><br />
 

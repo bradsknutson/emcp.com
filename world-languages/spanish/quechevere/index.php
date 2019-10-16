@@ -37,108 +37,107 @@
 			</div>
 			<div class="colorBar" style="background:#c10006; height:10px; width:100%; margin-top:-37px; position:relative; top:35px;"></div>
 		</div>
-		<div class="header-top header-top-overlay">
+		<div class="header-top">
 			<?php include '../../../includes/nav.php'; ?>
 		</div>
 		<div class="secondary-first banner-padding">
 			<div class="ninesixty">
-				<div class="conectate-left" style="width:550px !important;">
+				<div class="col-6">
                     <p class="no-top">
 
 						<span class="bold">Welcome to <span class="italic">¡Qué chévere!</span></span>, a 4-level Spanish program for the 21st century classroom. Watch your students connect to the Spanish-speaking world, and rapidly develop language proficiency as well as cultural understanding. Our cutting-edge digital resources allow students to immerse themselves into both the Spanish language and cultures in a whole new, personal way.
 
 
 					</p>
-					<img src="<?php echo $server; ?>lib/images/qc-hero-2019.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /><br /><br />
-                    <a class="learn-more-link smaller-link" href="<?php echo $server; ?>technology/passport/">Discover &iexcl;Qu&eacute; ch&eacute;vere! in Passport</a><br />
-					<a class="learn-more-link smaller-link" href="https://vimeo.com/200376096" target="_blank">Click here to see a unit tour</a><br />
 				</div>
-				<div class="conectate-right" style="text-align:center;">
-					<a href="<?php echo $server; ?>technology/passport/"><img src="<?php echo $server; ?>lib/images/passport-desktop-2019.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" /></a><br />
-					<a href="<?php echo $server; ?>technology/passport/"><strong>Learn more about Passport</strong></a>
+				<div class="col-6">
+					<img src="<?php echo $server; ?>lib/images/qc-hero-2019.png" alt="&iexcl;Qu&eacute; ch&eacute;vere! Spanish Program" />
 				</div>
 				<div class="clearfix"></div>
 			</div>
 		</div>
 
-		<div class="banner-padding grey-slice">
-		  <div class="ninesixty paddingbottom40" style="margin-top:15px;">
-		    <div>
-		      <!-- 2 -->
-		      <h3 class="red"><strong>Key Features</strong></h3>
-		      <div>
-		        <ul class="lineheight1p75">
-		          <li>Visually appealing vocabulary presentations</li>
-		          <li>Current culture readings of high interest to students</li>
-		          <li>Dialogues recorded by native speakers</li>
-		          <li>Scaffolded and authentic readings</li>
-		          <li>End of lesson review activities</li>
-		          <li>End of unit cumulative projects</li>
-		          <li>Opportunities for differentiated instruction</li>
-		          <li>Integration into the <a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup> learning environment</li>
-		          <li>Abundant activities that focus on Interpretive, Interpersonal, and Presentational Communication skills</li>
-		          <li>New insight into target cultures through their Products, Perspectives, and Practices</li>
-		          <li>An essential question in every unit to drive cultural investigations and help students develop Intercultural Communicative Competence</li>
-		          <li>Scaffolded readings of high interest to students with native speaker audio</li>
-		          <li>Opportunities for differentiated instruction and project-based learning</li>
-		          <li>Integration into Passport®, our innovative digital learning environment that engages and immerses students in Spanish language and cultures</li>
-		        </ul>
-		        <p class="bold">Español avanzado Features:</p>
-		        <ul class="lineheight1p75">
-		          <li>AP* themes and practice integrated into each unit</li>
-		          <li>Abundant communication activities that align to the AP<sup>*</sup> exam</li>
-		          <li>Grammar reviewed using an inductive approach</li>
-		        </ul>
-		        <span class="disclaimer">*AP is a registered trademark of the College Board.</span>
-		      </div>
-		    </div>
+		<div class="accordions">
+		  <div class="ninesixty paddingbottom40">
+				<div id="accordion" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
+			<!-- 1 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="1" role="tab" id="ui-id-1" aria-controls="div1" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Key Features</strong></h3>
+					<div id="div1" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true">
+						<h3><strong>Key Features</strong></h3>
+						<div>
+							<ul class="lineheight1p75">
+								<li>Visually appealing vocabulary presentations</li>
+								<li>Current culture readings of high interest to students</li>
+								<li>Dialogues recorded by native speakers</li>
+								<li>Scaffolded and authentic readings</li>
+								<li>End of lesson review activities</li>
+								<li>End of unit cumulative projects</li>
+								<li>Opportunities for differentiated instruction</li>
+								<li>Integration into the <a href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup> learning environment</li>
+								<li>Abundant activities that focus on Interpretive, Interpersonal, and Presentational Communication skills</li>
+								<li>New insight into target cultures through their Products, Perspectives, and Practices</li>
+								<li>An essential question in every unit to drive cultural investigations and help students develop Intercultural Communicative Competence</li>
+								<li>Scaffolded readings of high interest to students with native speaker audio</li>
+								<li>Opportunities for differentiated instruction and project-based learning</li>
+								<li>Integration into Passport®, our innovative digital learning environment that engages and immerses students in Spanish language and cultures</li>
+							</ul>
+							<p class="bold">Español avanzado Features:</p>
+							<ul class="lineheight1p75">
+								<li>AP* themes and practice integrated into each unit</li>
+								<li>Abundant communication activities that align to the AP<sup>*</sup> exam</li>
+								<li>Grammar reviewed using an inductive approach</li>
+							</ul>
+							<span class="disclaimer">*AP is a registered trademark of the College Board.</span>
+						</div>
+					</div>
+			<!-- 2 -->
+					<h3 class="showSingle ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" target="2" role="tab" id="ui-id-2" aria-controls="div2" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><strong>Components</strong></h3>
+					<div id="div2" class="targetDiv ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none; height: 550px;" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true">
+						<div class="one-half first textalignleft">
+							<p class="bold">For students:</p>
+							<ul class="lineheight1p75">
+								<li>Textbook</li>
+								<li>Workbook</li>
+								<li>Grammar and Vocabulary</li>
+								<li>Listening Activities</li>
+								<li>Video Activities</li>
+								<li>Middle School Bridge</li>
+								<li>Juegos</li>
+								<li>Online Pre-tests</li>
+								<li>eVisuals</li>
+								<li>Flash Cards</li>
+								<li><a style="font-size: 18px;" href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+							</ul>
+						</div>
+						<div class="one-half last textalignleft">
+							<p class="bold">For teachers:</p>
+							<ul class="lineheight1p75">
+								<li>Annotated Teacher’s Edition</li>
+								<li>Workbook Teacher’s Edition</li>
+								<li>Grammar and Vocabulary Teacher's Edition</li>
+								<li>Listening Activities Teacher's Edition</li></li>
+								<li>Video Program Teacher's Edition</li>
+								<li>Communicative Activities</li>
+								<li>TPR Storytelling</li>
+								<li>Middle School Activities with Answer Key</li>
+								<li>Middle School Bridge with Answer Key</li>
+								<li>Quizzes with Answer Key</li>
+								<li>Tests with Answer Key</li>
+								<li>ExamView<sup>&reg;</sup></li>
+								<li>Portfolio Assessment</li>
+								<li>Materiales para hispanohablantes nativos</li>
+								<li>Lesson Plans</li>
+								<li>eVisuals</li>
+								<li><a style="font-size: 18px;" href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
+							</ul>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+
+
 		  </div>
-		</div>
-		<div class="banner-padding">
-		  <div class="ninesixty paddingbottom40" style="margin-top:15px;">
-		    <h3><strong>Components</strong></h3>
-		    <div>
-		      <div class="one-half first textalignleft">
-		        <p class="bold">For students:</p>
-		        <ul class="lineheight1p75">
-		          <li>Textbook</li>
-		          <li>Workbook</li>
-		          <li>Grammar and Vocabulary</li>
-		          <li>Listening Activities</li>
-		          <li>Video Activities</li>
-		          <li>Middle School Bridge</li>
-		          <li>Juegos</li>
-		          <li>Online Pre-tests</li>
-		          <li>eVisuals</li>
-		          <li>Flash Cards</li>
-		          <li><a style="font-size: 18px;" href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
-		        </ul>
-		      </div>
-		      <div class="one-half last textalignleft">
-		        <p class="bold">For teachers:</p>
-		        <ul class="lineheight1p75">
-		          <li>Annotated Teacher’s Edition</li>
-		          <li>Workbook Teacher’s Edition</li>
-		          <li>Grammar and Vocabulary Teacher's Edition</li>
-		          <li>Listening Activities Teacher's Edition</li></li>
-		          <li>Video Program Teacher's Edition</li>
-		          <li>Communicative Activities</li>
-		          <li>TPR Storytelling</li>
-		          <li>Middle School Activities with Answer Key</li>
-		          <li>Middle School Bridge with Answer Key</li>
-		          <li>Quizzes with Answer Key</li>
-		          <li>Tests with Answer Key</li>
-		          <li>ExamView<sup>&reg;</sup></li>
-		          <li>Portfolio Assessment</li>
-		          <li>Materiales para hispanohablantes nativos</li>
-		          <li>Lesson Plans</li>
-		          <li>eVisuals</li>
-		          <li><a style="font-size: 18px;" href="<?php echo $server; ?>technology/passport/">Passport</a><sup>&reg;</sup></li>
-		        </ul>
-		      </div>
-		      <div class="clearfix"></div>
-		    </div>
-		  </div>
+			<div class="divide30"></div>
+			<div class="divide30"></div>
 		</div>
 
 		<!-- END ACCORDION -->

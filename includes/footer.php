@@ -1,15 +1,8 @@
 		<div class="stay-connected">
 			<div class="ninesixty">
 				<div class="signupForm">
-					<form name="emailSignup" onSubmit="return ValidateForm();" method="POST" id="newsletterSignUp">
-						  <div id="formContent">
-                            <input type="text" name="test" id="test" class="testInput" placeholder="Leave Empty" />
-                            <input type="text" id="emailInput" name="email" class="textInput" placeholder="Stay connected" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Stay connected'" />
-                            <button type="submit" id="signUp" name="signUp" class="button" style="display:none">Sign Up</button>
-						  </div>
-					</form>
+					<p class="footer-header">Stay Connected</p>
 				</div>
-				<p>Type your email above and hit 'Enter' to stay connected with EMC news, events, and updates.</p>
                 <div class="social-icons-footer">
                     <a href="https://www.facebook.com/EMCPublishing" target="_blank">
                             <img src="<?php echo $server; ?>lib/images/social-facebook.png" alt="Facebook" />
