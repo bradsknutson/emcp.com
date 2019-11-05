@@ -1,5 +1,11 @@
 <?php
 
+	//Redirect emcp.com to emcschool.com
+	$path = $_SERVER['REQUEST_URI'];
+
+	header("Location: https://www.emcschool.com$path");
+	die();
+
   # Don't fire if $local_env is not set in server.php
 	if (empty($local_env)) {
     if(empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == "off") {
